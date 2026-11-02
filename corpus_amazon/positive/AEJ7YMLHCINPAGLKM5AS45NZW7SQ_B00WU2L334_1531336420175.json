@@ -1,0 +1,61 @@
+{
+  "id": "AEJ7YMLHCINPAGLKM5AS45NZW7SQ_B00WU2L334_1531336420175",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Very accurate!",
+  "asin": "B00WU2L334",
+  "parent_asin": "B00WU2L334",
+  "user_id": "AEJ7YMLHCINPAGLKM5AS45NZW7SQ",
+  "timestamp": 1531336420175,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Weighmax Dream Series Digital Pocket Scale, 100 by 0.01 g, Rasta",
+    "average_rating": 4.4,
+    "rating_number": 53,
+    "features": [
+      "Weighmax 2015 Newest Dream Color Series Digital Pocket scale in Rasta Coating Finish with Clear cover",
+      "Weigh up to 100 grams in 0.01 gram increments",
+      "Weighing modes: g, oz, ozt, ct",
+      "Easy to read, back-lit LCD display; Clear cover can work as a weighing tray",
+      "Powered by 2 AAA batteries, a set of which comes included"
+    ],
+    "description": [
+      "Weighmax Newest 2015 Newest Dream Color Series Digital Pocket scale is finally lunched. This gorgeous scale is finished with Unique Rasta coating. It is sleek and portable, weighing from 0.01g to 100g. The scale comes with a clear cover which can be used as a weighing tray. Scale comes with 2 AAA batteries. It is ready to use right out of box.."
+    ],
+    "price": 17.18,
+    "store": "Weighmax",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Measuring Tools & Scales",
+      "Scales",
+      "Digital Scales"
+    ],
+    "details": {
+      "Product Dimensions": "5 x 3 x 0.9 inches",
+      "Item Weight": "4.8 ounces",
+      "Manufacturer": "Weighmax",
+      "Country of Origin": "China",
+      "Item model number": "RA100",
+      "Batteries": "2 AAA batteries required. (included)",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 487428,
+        "Digital Kitchen Scales": 1422
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 17, 2015",
+      "Brand": "Weighmax",
+      "Color": "Rasta",
+      "Form Factor": "Mini",
+      "Material": "Plastic",
+      "Readout Accuracy": "0.01 Grams"
+    },
+    "parent_asin": "B00WU2L334",
+    "bought_together": null
+  }
+}

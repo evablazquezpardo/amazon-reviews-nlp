@@ -1,0 +1,43 @@
+{
+  "id": "AGD25H7BIT2JUXSIOPYCYB23J3ZQ_B0767CL8G1_1526061335573",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "It's ok",
+  "text": "It's ok. My 5 y.o. seems confused by design and it's very scratchy.",
+  "asin": "B0767CL8G1",
+  "parent_asin": "B0767CL8G1",
+  "user_id": "AGD25H7BIT2JUXSIOPYCYB23J3ZQ",
+  "timestamp": 1526061335573,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Baby",
+    "title": "ILSELL Handcrafted Mermaid Tail Blanket, Crochet Knitting Little Sofa Blanket Kids Soft Rug Sleeping Bag (Kids, Pale Pink)",
+    "average_rating": 3.7,
+    "rating_number": 7,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "SuccessfulHome",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Kids' Bedding",
+      "Blankets & Throws"
+    ],
+    "details": {
+      "Brand": "SuccessfulHome",
+      "Style": "Modern",
+      "Age Range (Description)": "Kid",
+      "Pattern": "Solid",
+      "Product Care Instructions": "Machine Wash",
+      "Item Weight": "1.01 pounds",
+      "Product Dimensions": "3.94 x 1.97 x 1.97 inches",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B0767CL8G1",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "AEMJ2EG5ODOCYUTI54NBXZHDJGSQ_B078NGN69D_1545307179220",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Too small",
+  "text": "Too small. These are guest towels and should be larger and more luxurious and thick",
+  "asin": "B078NGN69D",
+  "parent_asin": "B078NGN69D",
+  "user_id": "AEMJ2EG5ODOCYUTI54NBXZHDJGSQ",
+  "timestamp": 1545307179220,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "HomeLabels Premium Cotton Salon Towels - Gym Spa Towel Hand Towel - (12-Pack, White) - 16x26 inches - Ringspun Cotton, Maximum Softness and Absorbency, Easy Care",
+    "average_rating": 4.1,
+    "rating_number": 46,
+    "features": [
+      "Ringspun Cotton,cotton"
+    ],
+    "description": [],
+    "price": null,
+    "store": "WESTPOINT HOME",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Hand Towels"
+    ],
+    "details": {
+      "Brand": "WestPoint Home",
+      "Towel form type": "Hand Towel",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Product Dimensions": "26\"L x 16\"W",
+      "Number of Items": "12",
+      "Pattern": "Solid",
+      "Theme": "No Theme",
+      "Product Care Instructions": "Machine Wash",
+      "Shape": "Rectangular",
+      "Unit Count": "1.00 Count",
+      "Fabric Type": "Ringspun Cotton,cotton",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "2.94 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "12",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B078NGN69D",
+    "bought_together": null
+  }
+}

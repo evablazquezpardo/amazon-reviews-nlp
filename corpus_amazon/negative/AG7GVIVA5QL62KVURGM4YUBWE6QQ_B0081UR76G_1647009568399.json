@@ -1,0 +1,53 @@
+{
+  "id": "AG7GVIVA5QL62KVURGM4YUBWE6QQ_B0081UR76G_1647009568399",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Junk, worked for 4 years then app stopped",
+  "text": "Junk, worked for 4 years then app stopped. Worked for 4 years and then app screwed up and if you reload the app you can't get back in.  Everyone is having the same problem.",
+  "asin": "B0081UR76G",
+  "parent_asin": "B0081UR76G",
+  "user_id": "AG7GVIVA5QL62KVURGM4YUBWE6QQ",
+  "timestamp": 1647009568399,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "La Crosse Alerts Mobile 926-25101-GP Wireless Monitor System Set with Dry Probe",
+    "average_rating": 3.8,
+    "rating_number": 1340,
+    "features": [
+      "Remotely monitors sensors 24/7 using a APP. Perfect for...Backyard temperature and humidity; Plants, gardens and greenhouses; Refrigerators, freezers; Food storage; Sensitive electronics; Outdoor pets and livestock; and so much more",
+      "Temperature and humidity measures: (1) Ambient air temperature; (2) Ambient humidity; (3) Probe temperature, Temperature range: -40°F to 140°F",
+      "Includes: sensor, internet gateway with LAN cable & AC adapter, DRY probe",
+      "Requires 2 AAA Alkaline batteries (not included)",
+      "Text and E-mail Alerts first 3 months FREE; 1 year subscription available after for $11.88 yearly ($0.99 per month), kindly refer the user manual given below for troubleshooting steps."
+    ],
+    "description": [
+      "For proper set up follow the below steps 1. Connect gateway to router. 2. Insert power cord into outlet and into the gateway. 3. Wait for 4 red blinks 4. Optional: Insert Probe into sensor. 5. Insert 2 AAA batteries into sensor. (Dated 2025 or newer) Observe correct polarity. 6. Download La Crosse Alerts Mobile App."
+    ],
+    "price": null,
+    "store": "La Crosse Technology",
+    "categories": [
+      "Home & Kitchen",
+      "La Crosse Technology",
+      "Sensors"
+    ],
+    "details": {
+      "Product Dimensions": "8.75 x 1.82 x 9.75 inches",
+      "Item Weight": "7.1 ounces",
+      "Manufacturer": "La Crosse Technology",
+      "Item model number": "926-25101-GP",
+      "Best Sellers Rank": {
+        "Patio, Lawn & Garden": 257738,
+        "Outdoor Décor": 68282
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Warranty Description": "1 year limited manufacturer (parts/labor) warranty.",
+      "Batteries required": "No",
+      "Included Components": "Wireless temperature and humidity sensor (5.23 H x 0.76 W x 1.44 D inches) with a 6ft detachable dry probe (measuring ambient air temperature, humidity) . Also included Internet Gateway (4.75 H x 1.50 W x 1 D inches) with LAN cable and AC adapter."
+    },
+    "parent_asin": "B0081UR76G",
+    "bought_together": null
+  }
+}

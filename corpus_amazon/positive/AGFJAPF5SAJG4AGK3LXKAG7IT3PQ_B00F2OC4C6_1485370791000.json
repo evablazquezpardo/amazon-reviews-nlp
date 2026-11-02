@@ -1,0 +1,60 @@
+{
+  "id": "AGFJAPF5SAJG4AGK3LXKAG7IT3PQ_B00F2OC4C6_1485370791000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Recipient liked.",
+  "text": "Recipient liked.. Bought as a gift.  Recipient liked.",
+  "asin": "B00F2OC4C6",
+  "parent_asin": "B00F2OC4C6",
+  "user_id": "AGFJAPF5SAJG4AGK3LXKAG7IT3PQ",
+  "timestamp": 1485370791000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "1 X Mason's Jars Box Salt and Pepper Caddy with Wood Handle",
+    "average_rating": 4.6,
+    "rating_number": 470,
+    "features": [
+      "Charming metal Mason jar salt and pepper shaker caddy.",
+      "Glass salt and pepper shakers with the classic Mason jar logo printed on both sides.",
+      "A wooden handle adds a rustic touch.",
+      "Rustic finish on caddy to go with any decor.",
+      "Makes a great gift!"
+    ],
+    "description": [
+      "This charming Mason jar caddy measures 4 inches wide, 2 inches deep and 5 inches high. This metal caddy holds one salt and pepper shaker set with the classic Mason jar logo printed on the front. A wooden handle adds a rustic touch. Salt and pepper shakers are included."
+    ],
+    "price": 23.52,
+    "store": "Colonial Tin Works",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Salt & Pepper",
+      "Salt & Pepper Shaker Sets"
+    ],
+    "details": {
+      "Material": "Recylced Tin and Glass",
+      "Color": "Gray Tin Box, Light Green Jars",
+      "Brand": "Colonial Tin Works",
+      "Number of Pieces": "2",
+      "Shape": "Round",
+      "Closure Material": "metal",
+      "Product Dimensions": "2\"L x 4\"W x 5.5\"H",
+      "Item Weight": "10.2 ounces",
+      "Department": "Salt & Pepper Sets",
+      "Manufacturer": "Colonial Tin Works",
+      "Item model number": "860386T",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 293223,
+        "Salt & Pepper Shaker Sets": 919
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 28, 2013"
+    },
+    "parent_asin": "B00F2OC4C6",
+    "bought_together": null
+  }
+}

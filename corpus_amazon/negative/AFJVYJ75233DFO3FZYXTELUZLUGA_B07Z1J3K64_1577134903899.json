@@ -1,0 +1,39 @@
+{
+  "id": "AFJVYJ75233DFO3FZYXTELUZLUGA_B07Z1J3K64_1577134903899",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Orange",
+  "text": "Orange. This is not red! It is bright orange!",
+  "asin": "B07Z1J3K64",
+  "parent_asin": "B07Z1J3K64",
+  "user_id": "AFJVYJ75233DFO3FZYXTELUZLUGA",
+  "timestamp": 1577134903899,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "HANGOOD Alphabet Letter F Decorative Throw Pillow Covers 18x18 Buffalo Check Plaid Red and Black Cotton Linen Cushion Cover 45cm x 45cm F",
+    "average_rating": 3.0,
+    "rating_number": 2,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Hangood",
+    "categories": [],
+    "details": {
+      "Pattern": "Plaid",
+      "Brand": "Hangood",
+      "Shape": "Square",
+      "Product Care Instructions": "Hand Wash",
+      "Occasion": "Home",
+      "Closure Type": "Zipper",
+      "Recommended Uses For Product": "Home",
+      "Package Dimensions": "8.6 x 6.1 x 0.9 inches",
+      "Item Weight": "3.98 ounces",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07Z1J3K64",
+    "bought_together": null
+  }
+}

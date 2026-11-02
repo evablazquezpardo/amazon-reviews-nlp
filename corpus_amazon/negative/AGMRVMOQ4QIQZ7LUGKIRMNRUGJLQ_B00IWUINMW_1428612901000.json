@@ -1,0 +1,49 @@
+{
+  "id": "AGMRVMOQ4QIQZ7LUGKIRMNRUGJLQ_B00IWUINMW_1428612901000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Not the best quality.",
+  "asin": "B00IWUINMW",
+  "parent_asin": "B00IWUINMW",
+  "user_id": "AGMRVMOQ4QIQZ7LUGKIRMNRUGJLQ",
+  "timestamp": 1428612901000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Home Couture Italian 3PC Twin Sheet Set, Striped SAGE",
+    "average_rating": 3.6,
+    "rating_number": 142,
+    "features": [
+      "Brushed Microfiber Linen machine washable",
+      "TWIN sheet set includes flat sheet, fitted sheet, and standard pillowcase",
+      "66\" X 96\" inch flat sheet, 39\" X 75\" inch fitted sheet, 20\" X 30\" inch pillowcase",
+      "Lustrous, Long Lasting understated sheen in sateen weave; both simple and fashionable",
+      "12\" inch Deep Pockets"
+    ],
+    "description": [
+      "Enjoy a cool and comfortable night's sleep with exceptionally thin breathable sheets that have a silky soft feel and a lustrous finish. These sheets provide a lasting vibrancy of color no matter how often they are washed and will stay soft and wrinkle free for years to come. The sheets have deep pockets that will fit any Mattress."
+    ],
+    "price": null,
+    "store": "Home Couture",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Package Dimensions": "12.1 x 9.9 x 2.4 inches",
+      "Item Weight": "1.85 pounds",
+      "Manufacturer": "Home Couture",
+      "Care instructions": "Machine Wash",
+      "Number of pieces": "3",
+      "Batteries required": "No",
+      "Included Components": "Pillowcase, Flat Sheet, Fitted She"
+    },
+    "parent_asin": "B00IWUINMW",
+    "bought_together": null
+  }
+}

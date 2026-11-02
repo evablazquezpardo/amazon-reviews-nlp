@@ -1,0 +1,68 @@
+{
+  "id": "AEDABW523L477TTQRZCUUH5WYEXQ_B013399S9I_1546281555288",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Doesn’t heat much at all",
+  "text": "Doesn’t heat much at all. I have it on high and barely feel any heat coming out of it",
+  "asin": "B013399S9I",
+  "parent_asin": "B013399S9I",
+  "user_id": "AEDABW523L477TTQRZCUUH5WYEXQ",
+  "timestamp": 1546281555288,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sunbeam Throw Blanket | Fleece, 3 Heat Settings, Assorted - THF8QA-R001-31A00",
+    "average_rating": 4.4,
+    "rating_number": 2651,
+    "features": [
+      "Fleece",
+      "Imported",
+      "Heated throw blanket made with ultra-soft fleece for exceptional warmth and comfort",
+      "ThermoFine technology delivers consistent, evenly distributed heat",
+      "Controller with 3 settings allows you to adjust heat level easily",
+      "3-hour auto-off provides peace of mind",
+      "Machine-washable and dryer-safe"
+    ],
+    "description": [
+      "Get warm and comfortable with the Sunbeam Fleece Heated Throw Blanket. Made with soft, cozy fleece, this electric blanket features an easy-to-use controller and three heat settings. ThermoFine technology ensures consistent heat distribution, while an auto-shutoff feature turns off the blanket after three hours."
+    ],
+    "price": null,
+    "store": "Sunbeam",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Throws"
+    ],
+    "details": {
+      "Material": "Polyester",
+      "Color": "Assorted",
+      "Brand": "Sunbeam",
+      "Style": "Fleece",
+      "Blanket Form": "Throw Blanket",
+      "Age Range (Description)": "Adult",
+      "Product Dimensions": "12\"L x 9\"W",
+      "Theme": "Plain",
+      "Seasons": "Winter",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "Throw",
+      "Fabric Type": "Fleece",
+      "Number of Items": "1",
+      "Item Weight": "2.7 pounds",
+      "Manufacturer": "Sunbeam",
+      "Item model number": "THF8QA-R001-31A00",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 843855,
+        "Bed Throws": 6391
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B013399S9I",
+    "bought_together": null
+  }
+}

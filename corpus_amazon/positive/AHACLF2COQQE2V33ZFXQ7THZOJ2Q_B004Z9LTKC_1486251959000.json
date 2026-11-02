@@ -1,0 +1,56 @@
+{
+  "id": "AHACLF2COQQE2V33ZFXQ7THZOJ2Q_B004Z9LTKC_1486251959000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Nice colors and fit perfectly.",
+  "asin": "B004Z9LTKC",
+  "parent_asin": "B004Z9LTKC",
+  "user_id": "AHACLF2COQQE2V33ZFXQ7THZOJ2Q",
+  "timestamp": 1486251959000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Apache Mills Cushion Comfort Gourmet Fruit Kitchen Mat, 20-Inch by 42-Inch",
+    "average_rating": 4.0,
+    "rating_number": 353,
+    "features": [
+      "Kitchen comfort anti-fatigue mat, made in the U.S.A.",
+      "Comfortable foam construction",
+      "Stain-resistant surface repels spills",
+      "Full color surface print",
+      "Ideal for kitchen sink, stove area or anywhere you need comfort"
+    ],
+    "description": [
+      "Beautiful comfort mats relieve strain on your feet and legs while working in the kitchen. Cushion Comfort mat is the original stain-resistant kitchen mat. It has great value and is made in the USA."
+    ],
+    "price": null,
+    "store": "Apache Mills",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Kitchen Accessories",
+      "Comfort Mats"
+    ],
+    "details": {
+      "Color": "Multi Color",
+      "Material": "Vinyl",
+      "Brand": "Apache Mills",
+      "Special Feature": "Stain Resistant",
+      "Shape": "Rectangular",
+      "Product Care Instructions": "Hand Wash Only",
+      "Item Dimensions LxWxH": "20 x 42 x 4.7 inches",
+      "Product Dimensions": "20 x 42 x 4.7 inches",
+      "Item Weight": "2.4 pounds",
+      "Department": "Mounts",
+      "Manufacturer": "Apache Mills",
+      "Item model number": "60-122-0354-20x42",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B004Z9LTKC",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AGU3DPKNTSMZP4QVNBGMZNQSVKFQ_B00568MC9I_1529948313132",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. They glasses were broken when I received them.",
+  "asin": "B00568MC9I",
+  "parent_asin": "B00568MC9I",
+  "user_id": "AGU3DPKNTSMZP4QVNBGMZNQSVKFQ",
+  "timestamp": 1529948313132,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Plastic Margarita Glasses - 4 count",
+    "average_rating": 1.5,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+      "Add a touch of class to any affair with these plastic Margarita glasses. Avoid the crashing sounds of breaking glass and the mess that comes with broken shards while maintaining a look of elegance. This package contains 4 two piece large Margarita party glasses. Impress your guests with these exquisite, disposable, plastic Margarita glasses and become the talk of the town!"
+    ],
+    "price": null,
+    "store": "Party Couture",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cocktail Drinkware",
+      "Margarita Glasses"
+    ],
+    "details": {
+      "Item Weight": "3.2 ounces",
+      "Manufacturer": "Exquisite",
+      "Date First Available": "June 16, 2011",
+      "Brand": "Party Couture",
+      "Color": "Clear",
+      "Material Plastic": "",
+      "": "Item Weight 0.2 Pounds"
+    },
+    "parent_asin": "B00568MC9I",
+    "bought_together": null
+  }
+}

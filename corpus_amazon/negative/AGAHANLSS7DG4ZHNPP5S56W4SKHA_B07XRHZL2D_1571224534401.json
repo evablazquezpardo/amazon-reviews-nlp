@@ -1,0 +1,41 @@
+{
+  "id": "AGAHANLSS7DG4ZHNPP5S56W4SKHA_B07XRHZL2D_1571224534401",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Don’t Bother",
+  "text": "Don’t Bother. Delivered bent and folded.  Very thin and small with tiny sticks.",
+  "asin": "B07XRHZL2D",
+  "parent_asin": "B07XRHZL2D",
+  "user_id": "AGAHANLSS7DG4ZHNPP5S56W4SKHA",
+  "timestamp": 1571224534401,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Funny Halloween Photo Booth Props Kit-Happy Halloween Party Photo for Halloween Party Decoration (34 Count)",
+    "average_rating": 3.4,
+    "rating_number": 5,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "LSKOO",
+    "categories": [
+      "Home & Kitchen",
+      "Event & Party Supplies",
+      "Photobooth Props"
+    ],
+    "details": {
+      "Package Dimensions": "8.7 x 8.31 x 0.79 inches",
+      "Item Weight": "7 ounces",
+      "Date First Available": "September 17, 2019",
+      "Occasion": "Halloween",
+      "Theme": "Halloween",
+      "Brand": "LSKOO",
+      "Pattern": "Letter Printed",
+      "Number of Pieces": "34"
+    },
+    "parent_asin": "B07XRHZL2D",
+    "bought_together": null
+  }
+}

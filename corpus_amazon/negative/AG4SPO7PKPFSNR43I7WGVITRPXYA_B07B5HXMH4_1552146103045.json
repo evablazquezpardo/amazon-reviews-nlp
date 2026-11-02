@@ -1,0 +1,55 @@
+{
+  "id": "AG4SPO7PKPFSNR43I7WGVITRPXYA_B07B5HXMH4_1552146103045",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Small, not user friendly",
+  "text": "Small, not user friendly. Product very small. Not user friendly.",
+  "asin": "B07B5HXMH4",
+  "parent_asin": "B07B5HXMH4",
+  "user_id": "AG4SPO7PKPFSNR43I7WGVITRPXYA",
+  "timestamp": 1552146103045,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BOSKA Holland 358210 Bosky Mini And Plane, Beech Wood Handle, Geneva Collection Cheese Slicer, Average, Steel",
+    "average_rating": 3.6,
+    "rating_number": 17,
+    "features": [
+      "Ideal gift: small, light, and stylish design",
+      "Superior taste: slicing aerates the cheese, making the flavor more intense",
+      "European design: authentic beech wood handle & stainless Steel blade",
+      "10 year Guarantee: high quality materials and expert manufacturing mean that bosky can offer you the best possible products",
+      "Trusted since 1896: bosky Holland has built up their cheese wares expertise over a long and rich history that started in the cheese heart of the Netherlands"
+    ],
+    "description": [
+      "About Bosky Holland Cheese wares: We love cheese! Since 1896, here at Bosky, it’s been our mission to spread the love of cheese to everyone everywhere. Our innovative family-owned company started as a blacksmith making tools for the cheese farmers in Holland, and now we are the world’s only specialist in Cheese wares: cheese tools and accessories. In short: we sell everything you need to enjoy cheese except the cheese itself!"
+    ],
+    "price": null,
+    "store": "BOSKA",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cheese Tools",
+      "Cheese Slicers"
+    ],
+    "details": {
+      "Brand": "BOSKA",
+      "Color": "Steel",
+      "Handle Material": "Beech,Stainless Steel,Steel,Wood,Wood Handle",
+      "Blade Edge": "Plain",
+      "Blade Color": "Silver",
+      "Number of Pieces": "1",
+      "Item Length": "5.71 inches",
+      "Product Dimensions": "5.71 x 2.17 x 0.39 inches",
+      "Item Weight": "0.81 ounces",
+      "Manufacturer": "Boska",
+      "Item model number": "358210",
+      "Date First Available": "October 2, 2018"
+    },
+    "parent_asin": "B07B5HXMH4",
+    "bought_together": null
+  }
+}

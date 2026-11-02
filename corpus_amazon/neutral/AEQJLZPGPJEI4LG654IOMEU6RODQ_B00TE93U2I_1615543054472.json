@@ -1,0 +1,49 @@
+{
+  "id": "AEQJLZPGPJEI4LG654IOMEU6RODQ_B00TE93U2I_1615543054472",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "This is Scented. Not in a good way",
+  "text": "This is Scented. Not in a good way. These are scented. There are ones that have no fragrance. The scent on these is unpleasant.",
+  "asin": "B00TE93U2I",
+  "parent_asin": "B00TE93U2I",
+  "user_id": "AEQJLZPGPJEI4LG654IOMEU6RODQ",
+  "timestamp": 1615543054472,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "All Beauty",
+    "title": "Comfort Bath Cleansing Washcloths, 8 Pack of 8 Washcloths",
+    "average_rating": 4.8,
+    "rating_number": 1757,
+    "features": [
+      "Manufacturer: Sage Products",
+      "8 Pack of 8 Wipes"
+    ],
+    "description": [
+      "Comfort Bath Cleansing Washcloths"
+    ],
+    "price": 32.0,
+    "store": "Sage",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Washcloths"
+    ],
+    "details": {
+      "Color": "White",
+      "Brand": "Sage",
+      "Towel form type": "Washcloth",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cloth",
+      "Is Discontinued By Manufacturer": "No",
+      "Package Dimensions": "16.06 x 11.85 x 4.96 inches; 3.09 Pounds",
+      "Item model number": "14790",
+      "UPC": "760488353325",
+      "Manufacturer": "Sage Products"
+    },
+    "parent_asin": "B00TE93U2I",
+    "bought_together": null
+  }
+}

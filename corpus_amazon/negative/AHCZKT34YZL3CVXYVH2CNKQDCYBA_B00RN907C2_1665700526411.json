@@ -1,0 +1,57 @@
+{
+  "id": "AHCZKT34YZL3CVXYVH2CNKQDCYBA_B00RN907C2_1665700526411",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "The package was completely smashed",
+  "text": "The package was completely smashed. I didn’t use it, I returned it.",
+  "asin": "B00RN907C2",
+  "parent_asin": "B00RN907C2",
+  "user_id": "AHCZKT34YZL3CVXYVH2CNKQDCYBA",
+  "timestamp": 1665700526411,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "LiveFresh Fine Mesh Strainer Set - Rust Proof Stainless Steel with Non Slip Handles - Fine Mesh Sieve Set of 3",
+    "average_rating": 4.7,
+    "rating_number": 6166,
+    "features": [
+      "The Perfect Size For Any Straining Task – Be more efficient in the kitchen and always have the perfect size strainer when you need it! Get all 3 of our premium strainers (7-5/8 inch, 5 1/2 inch and 3 inch) for a bargain price and be ready for any task at-hand.",
+      "Never Struggle With Slippery Handles Again! –Our state-of-the-art heat-resistant rubberized grips provide a good grip when wet, are easy to hold for arthritic hands, and provide protection your hands when the handles get hot.",
+      "Crafted For Dependable Quality – Tired of flimsy strainers that don’t last? The unparalleled workmanship in our top quality sifters ensures a lifetime of reliable use. We are so confident that you will love our product that we back it up with a 100% lifetime manufacturer’s warranty.",
+      "Spend Less Time Cleaning - Cleaning cheap discount strainers can be so frustrating, as food often gets trapped between the mesh and the rim. Our professional grade strainers have exclusive sealed steel rims that prevent food from getting trapped and saves time cleaning, giving you more time with your family. 100% dishwasher safe.",
+      "No More Wasted Quinoa – Fed up losing grains in the sink when washing quinoa and rice? Never waste another grain with our innovative fine wire mesh that easily strains the smallest ingredients with no waste."
+    ],
+    "description": [],
+    "price": 17.97,
+    "store": "LiveFresh",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Colanders & Food Strainers",
+      "Food Strainers"
+    ],
+    "details": {
+      "Material": "Stainless Steel",
+      "Color": "Stainless Steel",
+      "Brand": "LiveFresh",
+      "Style": "Fine",
+      "Product Dimensions": "15\"L x 8\"W x 8\"H",
+      "Item Weight": "12 ounces",
+      "Is Dishwasher Safe": "Yes",
+      "Manufacturer": "LiveFresh",
+      "Country of Origin": "USA",
+      "Item model number": "LF20153MS",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 14934,
+        "Food Strainers": 97
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 8, 2014"
+    },
+    "parent_asin": "B00RN907C2",
+    "bought_together": null
+  }
+}

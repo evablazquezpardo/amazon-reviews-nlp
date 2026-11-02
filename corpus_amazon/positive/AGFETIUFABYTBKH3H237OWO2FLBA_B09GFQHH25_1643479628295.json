@@ -1,0 +1,47 @@
+{
+  "id": "AGFETIUFABYTBKH3H237OWO2FLBA_B09GFQHH25_1643479628295",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Good",
+  "text": "Good. It's does work",
+  "asin": "B09GFQHH25",
+  "parent_asin": "B09GFQHH25",
+  "user_id": "AGFETIUFABYTBKH3H237OWO2FLBA",
+  "timestamp": 1643479628295,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Portable Air Conditioner Back strecher",
+    "average_rating": 3.9,
+    "rating_number": 14,
+    "features": [],
+    "description": [
+      "Back Stretcher"
+    ],
+    "price": null,
+    "store": "ERHIVORA",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Conditioners",
+      "Portable"
+    ],
+    "details": {
+      "Brand": "ERHIVORA",
+      "Capacity": "300 Milliliters",
+      "Special Feature": "Portable",
+      "Voltage": "5 Volts",
+      "Power Source": "Corded Electric",
+      "Control Method": "Remote",
+      "Controller Type": "Remote Control",
+      "Installation Type": "Window",
+      "Package Dimensions": "15.35 x 10.35 x 2.05 inches; 1.48 Pounds",
+      "Date First Available": "October 26, 2021",
+      "Manufacturer": "ERHIVORA"
+    },
+    "parent_asin": "B09GFQHH25",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AHGAOIZVODNHYMNCBV4DECZH42UQ_B09F8HMNPH_1495610385000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "aWeSoMe",
+  "text": "aWeSoMe. Love this  just what i was looking for",
+  "asin": "B0036OQWT0",
+  "parent_asin": "B09F8HMNPH",
+  "user_id": "AHGAOIZVODNHYMNCBV4DECZH42UQ",
+  "timestamp": 1495610385000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Copco Non-Skid 2 Tier Turntable, 12 inch, Coral",
+    "average_rating": 4.6,
+    "rating_number": 21521,
+    "features": [
+      "Organize everything-perfect for organizing your kitchen, your refrigerator, your craft or hobby room or even your bathroom cabinets",
+      "Never worry about your items falling off; the non-skid surface on the turntables is molded into the platforms for durability and is easy to clean",
+      "Constructed of durable plastic",
+      "Measures 12. 34x12. 34x12. 45 inches",
+      "Wipe clean with a damp cloth when needed"
+    ],
+    "description": [
+      "The Copco turntable is great for countertops, under the sink, laundry rooms, pantries, garages and more! This handy non-slip turntable keeps everything you need within easy reach. Never worry about your items falling off; the non-skid surface on turntables is molded into the platforms for durability-easy to clean. Constructed of durable plastic. Measures 12. 2x12. 2x2 inches. Wipe clean with a damp cloth when needed."
+    ],
+    "price": null,
+    "store": "Copco",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Cabinet & Drawer Organization",
+      "Lazy Susans"
+    ],
+    "details": {
+      "Product Dimensions": "2.35 x 12.34 x 12.45 inches",
+      "Item Weight": "2.07 pounds",
+      "Manufacturer": "Lifetime Brands Inc.",
+      "Item model number": "5254331",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 5033,
+        "Lazy Susans": 28
+      },
+      "Date First Available": "May 30, 2019",
+      "Brand": "Copco",
+      "Material": "Plastic",
+      "Color": "Coral",
+      "Item Dimensions LxWxH": "2.35 x 12.34 x 12.45 inches"
+    },
+    "parent_asin": "B09F8HMNPH",
+    "bought_together": null
+  }
+}

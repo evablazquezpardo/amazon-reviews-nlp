@@ -1,0 +1,57 @@
+{
+  "id": "AFIM5RAUX2YR3UFV6LBGEXGGDXTA_B07P14K8HT_1549723263411",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Just what I needed",
+  "text": "Just what I needed. Nice set. Not super heavy, but gets the job done.",
+  "asin": "B01M2Y40RR",
+  "parent_asin": "B07P14K8HT",
+  "user_id": "AFIM5RAUX2YR3UFV6LBGEXGGDXTA",
+  "timestamp": 1549723263411,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Set of 4 Grapefruit Spoons and 1 Grapefruit Knife, Stainless Steel, Serrated Edges (Silver-5pcs)",
+    "average_rating": 4.6,
+    "rating_number": 2667,
+    "features": [
+      "Grapefruit Serrated 4 Scoops and Knife Set.",
+      "The serrated edge of the spoon makes it easy to separate the peels",
+      "Easily accommodates right- and left-handed users.",
+      "Stainless steel thick spoon.",
+      "Serrated grapefruit knife with wooden handle."
+    ],
+    "description": [
+      "Set of 4 grapefruit spoons 6.1\" long and an 8.27\" long grapefruit knife. The serrations on the sides make it a handy tool for preparing grapefruit. The jagged edge on the grapefruit spoon easily cuts through the citrus membrane, allowing you to easily remove all the fruit. Made of high quality stainless steel."
+    ],
+    "price": 11.69,
+    "store": "SEULEME",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Fruit & Vegetable Tools",
+      "Grapefruit Utensils",
+      "Grapefruit Knives"
+    ],
+    "details": {
+      "Blade Material": "Stainless Steel",
+      "Brand": "SEULEME",
+      "Color": "Silver-5pcs",
+      "Blade Edge": "Serrated",
+      "Blade Color": "Silver",
+      "Number of Pieces": "5",
+      "Item Length": "8.27 Inches",
+      "Item Weight": "5.3 ounces",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 218715,
+        "Grapefruit Knives": 33
+      },
+      "Date First Available": "April 12, 2022"
+    },
+    "parent_asin": "B07P14K8HT",
+    "bought_together": null
+  }
+}

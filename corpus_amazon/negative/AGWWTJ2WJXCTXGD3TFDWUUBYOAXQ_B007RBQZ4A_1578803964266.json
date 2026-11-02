@@ -1,0 +1,53 @@
+{
+  "id": "AGWWTJ2WJXCTXGD3TFDWUUBYOAXQ_B007RBQZ4A_1578803964266",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Too many  peaces.",
+  "text": "Too many  peaces.. More of a jig saw puzzle.",
+  "asin": "B007RBQZ4A",
+  "parent_asin": "B007RBQZ4A",
+  "user_id": "AGWWTJ2WJXCTXGD3TFDWUUBYOAXQ",
+  "timestamp": 1578803964266,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mill Stream Fork 10 Piece Set",
+    "average_rating": 4.2,
+    "rating_number": 211,
+    "features": [],
+    "description": [],
+    "price": 24.99,
+    "store": "Lemax",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Forks",
+      "Specialty Forks"
+    ],
+    "details": {
+      "Material": "Resin",
+      "Color": "Multicolor",
+      "Brand": "Lemax",
+      "Item Dimensions LxWxH": "11.42 x 7.48 x 3.94 inches",
+      "Number of Pieces": "10",
+      "Is Dishwasher Safe": "Yes",
+      "Item Display Dimensions": "11.42 x 3.94 inches",
+      "Product Dimensions": "11.42 x 7.48 x 3.94 inches",
+      "Item Weight": "14.4 ounces",
+      "Manufacturer": "Lemax",
+      "Item model number": "13367",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 259643,
+        "Specialty Forks": 47
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B007RBQZ4A",
+    "bought_together": null
+  }
+}

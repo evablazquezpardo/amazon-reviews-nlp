@@ -1,0 +1,48 @@
+{
+  "id": "AF7STGSJYCAHOQAKN3JTC3JC3Y5A_B07CGGC4XP_1604510015348",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Good Product",
+  "text": "Good Product. Great quality",
+  "asin": "B07CGGC4XP",
+  "parent_asin": "B07CGGC4XP",
+  "user_id": "AF7STGSJYCAHOQAKN3JTC3JC3Y5A",
+  "timestamp": 1604510015348,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Newhomestyle Throw Pillow Cover French Script Decorative Pillow Case Paris Home Decor Square Cushion Pillowcase 20x20 inches",
+    "average_rating": 4.4,
+    "rating_number": 16,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Newhomestyle",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Decorative Pillows, Inserts & Covers",
+      "Throw Pillow Covers"
+    ],
+    "details": {
+      "Pattern": "Print",
+      "Product Dimensions": "20\"L x 20\"W",
+      "Style": "French",
+      "Brand": "Newhomestyle",
+      "Shape": "Square",
+      "Number of Items": "1",
+      "Special Feature": "Pill Resistant",
+      "Number of Pieces": "1",
+      "Room Type": "Office, Study Room, Living Room 😊",
+      "Product Care Instructions": "Machine Wash",
+      "Occasion": "Sleeping,Home Decor",
+      "Closure Type": "Zipper",
+      "Recommended Uses For Product": "Home",
+      "Item Weight": "4.2 ounces"
+    },
+    "parent_asin": "B07CGGC4XP",
+    "bought_together": null
+  }
+}

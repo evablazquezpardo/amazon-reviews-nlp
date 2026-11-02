@@ -1,0 +1,58 @@
+{
+  "id": "AEJLPXMTQKUP42G6F3I3VF3IBQDQ_B0838X4P86_1650658912695",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Don’t bother",
+  "text": "Don’t bother. Falls apart when you try to wash it",
+  "asin": "B01G7LD33G",
+  "parent_asin": "B0838X4P86",
+  "user_id": "AEJLPXMTQKUP42G6F3I3VF3IBQDQ",
+  "timestamp": 1650658912695,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "TashiBox [8 oz-50 Sets Plastic food storage containers with lids airtight, BPA Free, Microwave/Dishwasher/Freezer Safe",
+    "average_rating": 4.6,
+    "rating_number": 3326,
+    "features": [
+      "❤【8 oz, 50 Sets】Plastic containers for food storage with airtight lids which is perfect for food storage. These kitchen containers will NEVER leak, crack or warp.",
+      "❤【100% BPA Free】Deli containers with lids are made from BPA-free, eco-friendly polypropylene plastic. No Toxins. Deli container can be used with confidence.",
+      "❤【Heated & Frozen】TashiBox quart containers are safe for the microwave and freezer. Great as travel containers, lunch containers, soup containers, to-go containers and food storage containers.",
+      "❤【Reusable Containers】Deli cups are safe for dishwasher. Since freezer containers for soup are washable, many customers use them for making homemade slime!",
+      "❤【Stackable Storage】Unique design and perfect restaurant containers to be stackable and easy to store when not in use. Save more space."
+    ],
+    "description": [],
+    "price": 17.99,
+    "store": "TashiBox",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "14.5\"L x 10.8\"W x 4.9\"H",
+      "Item Weight": "2.29 pounds",
+      "Manufacturer": "ASF Tashi LLC",
+      "Item model number": "TB-SC-8-50-VC",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 1917,
+        "Food Container Sets": 124
+      },
+      "Date First Available": "March 9, 2020",
+      "Capacity": "8 Ounces",
+      "Volume": "8 Fluid Ounces",
+      "Units": "3.0 Count",
+      "Number of Sets": "1",
+      "Brand": "TashiBox",
+      "Color": "Clear",
+      "Material": "Plastic"
+    },
+    "parent_asin": "B0838X4P86",
+    "bought_together": null
+  }
+}

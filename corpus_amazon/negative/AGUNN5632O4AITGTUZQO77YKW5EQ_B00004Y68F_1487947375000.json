@@ -1,0 +1,63 @@
+{
+  "id": "AGUNN5632O4AITGTUZQO77YKW5EQ_B00004Y68F_1487947375000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. too small",
+  "asin": "B00004Y68F",
+  "parent_asin": "B00004Y68F",
+  "user_id": "AGUNN5632O4AITGTUZQO77YKW5EQ",
+  "timestamp": 1487947375000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Wilton Gold Foil Bon Bon Baking Cups, Pack of 75",
+    "average_rating": 4.4,
+    "rating_number": 458,
+    "features": [
+      "75 foil cups for baking cupcakes and molding candies",
+      "Use also to hold nuts and other party treats",
+      "Cups have grease-resistant liners",
+      "Gold foil sets elegant party tone",
+      "1-1/4 inches in diameter,-3/4 inch high"
+    ],
+    "description": [
+      "Product description",
+      "WILTON-Decorating Gel.Make your cake decorations more dynamic! Squeeze on sparkling color effects with our ready-to-use gel. Great for dots; messages; water effects and fondant accents.Try it on cookies; cupcakes; ice cream and more!Resealable 3-1/2oz tubes.Certified Kosher.Available in a variety of colors: each sold separately.Made in USA.",
+      "Amazon.com",
+      "Gold foil creates an elegant impression at Christmas time or anytime, so these mini-cups--1-1/4 inches in diameter, 3/4 of an inch high--are ideal for baking party cupcakes, for molding candies, and for serving nuts and other treats. There are 75 cups in the package, and they have grease-resistant liners, so their outsides remain bright.",
+      "--Fred Brack"
+    ],
+    "price": 2.5,
+    "store": "Wilton",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking Tools & Accessories",
+      "Baking Cups"
+    ],
+    "details": {
+      "Color": "Gold",
+      "Brand": "Wilton",
+      "Material": "Paper",
+      "Item Dimensions LxWxH": "4.5 x 3.8 x 1.3 inches",
+      "Occasion": "Party",
+      "Shape": "Round",
+      "Product Dimensions": "4.5 x 3.8 x 1.3 inches",
+      "Item Weight": "0.8 ounces",
+      "Manufacturer": "Wilton",
+      "Item model number": "415-306",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 306969,
+        "Baking Cups": 1240
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 9, 2003"
+    },
+    "parent_asin": "B00004Y68F",
+    "bought_together": null
+  }
+}

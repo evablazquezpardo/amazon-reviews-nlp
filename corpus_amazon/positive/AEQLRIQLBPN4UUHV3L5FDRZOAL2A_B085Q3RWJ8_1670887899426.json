@@ -1,0 +1,58 @@
+{
+  "id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A_B085Q3RWJ8_1670887899426",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love it.",
+  "text": "Love it.. the wood is very nice and the box is perfect.",
+  "asin": "B00HEGDID4",
+  "parent_asin": "B085Q3RWJ8",
+  "user_id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A",
+  "timestamp": 1670887899426,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Totally Bamboo Salt Cellar Bamboo Storage Box with Magnetic Swivel Lid, 6 Ounce Capacity, \"Salt\" Engraved on Lid",
+    "average_rating": 4.8,
+    "rating_number": 11306,
+    "features": [
+      "BEAUTIFUL AND FUNCTIONAL: Keep table salt, gourmet salts, herbs or seasonings close at hand in this bamboo salt box with \"Salt\" beautifully engraved on the lid",
+      "SMART DESIGN: Lid shuts firmly closed with a magnetic lock; swivels open easily with just one hand for adding spices in a pinch while cooking",
+      "LASER-ENGRAVED ARTWORK: There's no doubt about what's in this box with \"Salt\" permanently laser etched in the lid",
+      "SPECIALTY SALT STORAGE: This beautifully crafted salt box is the perfect place to store your favorite gourmet and specialty salts",
+      "EASY CARE: Simply hand wash or wipe with a damp cloth; do not soak in water or wash in the dishwasher"
+    ],
+    "description": [],
+    "price": 12.99,
+    "store": "Totally Bamboo",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Seasoning & Spice Tools",
+      "Spice Cellars"
+    ],
+    "details": {
+      "Product Dimensions": "3.5 x 2.8 x 3.5 inches",
+      "Item Weight": "4.8 ounces",
+      "Manufacturer": "Totally Bamboo",
+      "Item model number": "20-2188",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 5170,
+        "Spice Cellars": 3
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 4, 2013",
+      "Capacity": "6 Ounces",
+      "Volume": "6 Fluid Ounces",
+      "Units": "1.0 Count",
+      "Number of Sets": "1",
+      "Brand": "Totally Bamboo",
+      "Color": "Bamboo",
+      "Material": "Bamboo"
+    },
+    "parent_asin": "B085Q3RWJ8",
+    "bought_together": null
+  }
+}

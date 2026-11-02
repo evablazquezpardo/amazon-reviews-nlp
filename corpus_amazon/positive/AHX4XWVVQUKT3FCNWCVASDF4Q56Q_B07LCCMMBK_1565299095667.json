@@ -1,0 +1,44 @@
+{
+  "id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q_B07LCCMMBK_1565299095667",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Awesomeness",
+  "text": "Awesomeness. Love this blanket!",
+  "asin": "B07LCCMMBK",
+  "parent_asin": "B07LCCMMBK",
+  "user_id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q",
+  "timestamp": 1565299095667,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Monte and Jardin King Jacquard Velvet Blanket Grey",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Thesis",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Bed Blankets"
+    ],
+    "details": {
+      "Color": "Grey",
+      "Brand": "Honbeanify",
+      "Style": "Modern",
+      "Age Range (Description)": "Baby",
+      "Pattern": "Solid",
+      "Size": "King",
+      "Package Dimensions": "16.69 x 12.83 x 9.21 inches",
+      "Item Weight": "5.22 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 14, 2018"
+    },
+    "parent_asin": "B07LCCMMBK",
+    "bought_together": null
+  }
+}

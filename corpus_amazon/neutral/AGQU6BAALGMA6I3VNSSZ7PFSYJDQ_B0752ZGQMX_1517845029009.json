@@ -1,0 +1,50 @@
+{
+  "id": "AGQU6BAALGMA6I3VNSSZ7PFSYJDQ_B0752ZGQMX_1517845029009",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. HUGH",
+  "asin": "B0752ZGQMX",
+  "parent_asin": "B0752ZGQMX",
+  "user_id": "AGQU6BAALGMA6I3VNSSZ7PFSYJDQ",
+  "timestamp": 1517845029009,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rolling Christmas Tree Storage Bag - Fits Up To 9 ft. Tall Artificial Disassembled Trees, Durable Handles & Wheels for Easy Carrying and Transport - Tear Proof 600D Oxford Duffle Bag - 5 Year Warranty",
+    "average_rating": 4.1,
+    "rating_number": 159,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "ZOBER",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Holiday Décor Storage",
+      "Tree Storage"
+    ],
+    "details": {
+      "Brand": "ZOBER",
+      "Material": "oxford",
+      "Color": "Red",
+      "Special Feature": "Durable",
+      "Shape": "Rectangular",
+      "Number of Items": "1",
+      "Number of Sets": "1",
+      "Package Dimensions": "24.5 x 20.75 x 3.25 inches",
+      "Item Weight": "8.38 pounds",
+      "Item model number": "ZCD-106-rd",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1980378,
+        "Christmas Tree Storage": 430
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B0752ZGQMX",
+    "bought_together": null
+  }
+}

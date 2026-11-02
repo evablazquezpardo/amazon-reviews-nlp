@@ -1,0 +1,51 @@
+{
+  "id": "AHGAOIZVODNHYMNCBV4DECZH42UQ_B000FAJGU0_1530674590439",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "disappointed",
+  "text": "disappointed. returned  i dont trust it not to burn",
+  "asin": "B000FAJGU0",
+  "parent_asin": "B000FAJGU0",
+  "user_id": "AHGAOIZVODNHYMNCBV4DECZH42UQ",
+  "timestamp": 1530674590439,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Arts, Crafts & Sewing",
+    "title": "Allary Blue-Iron Pad Silicone, 14.6x33.020000000000003x0.63 cm, Multicolour",
+    "average_rating": 3.9,
+    "rating_number": 6,
+    "features": [
+      "Suitable for arts and crafts projects",
+      "Acid and toxic free",
+      "Designed for easy usage"
+    ],
+    "description": [
+      "Product Description",
+      "Allary-Silicone Iron Rest Pad. Designed to hold irons but ideal for glue guns curling irons and more. This package contains one 10- 1/2x5-3/4 inch iron rest pad.",
+      "Set Contains:",
+      "1 x Blue-Iron Pad Silicone"
+    ],
+    "price": null,
+    "store": "Allary",
+    "categories": [
+      "Home & Kitchen",
+      "Irons & Steamers",
+      "Ironing Board Covers"
+    ],
+    "details": {
+      "Product Dimensions": "5.75 x 13 x 0.25 inches",
+      "Item model number": "502906",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 4618393,
+        "Ironing Board Covers": 740
+      },
+      "Item Weight": "2.82 ounces",
+      "Manufacturer": "Allary",
+      "Date First Available": "April 21, 2004"
+    },
+    "parent_asin": "B000FAJGU0",
+    "bought_together": null
+  }
+}

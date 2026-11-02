@@ -1,0 +1,60 @@
+{
+  "id": "AFA26DYXVLJYTYZ3KET77GE27N2A_B07CBBVTNN_1562371744760",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "I love this soapholder",
+  "text": "I love this soapholder. Very good, it is not too special but it is what I needed since it's anti-slip and I am clumsy sometimes also easy to clean.",
+  "asin": "B073Q5HG91",
+  "parent_asin": "B07CBBVTNN",
+  "user_id": "AFA26DYXVLJYTYZ3KET77GE27N2A",
+  "timestamp": 1562371744760,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Stainless Steel Toothbrush Holder - White",
+    "average_rating": 4.4,
+    "rating_number": 3239,
+    "features": [
+      "Toothbrush holder with 3 openings for keeping up to 3 toothbrushes stored securely upright",
+      "Made of durable stainless steel with a matte-white plastic top; simple modern style",
+      "Smooth contours and a wide flat base for stability; cleans easily with warm soapy water",
+      "Part of the Amazon Basics bathroom accessory collection (each piece sold separately)",
+      "Measures 3-1/2 inches in diameter by 5 inches tall; backed by an Amazon Basics one-year limited warranty"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Stainless Steel Toothbrush Holder - White",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": null,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Holders & Dispensers",
+      "Toothbrush Holders"
+    ],
+    "details": {
+      "Color": "White",
+      "Brand": "Amazon Basics",
+      "Mounting Type": "Freestanding",
+      "Product Dimensions": "3.5\"L x 3.5\"W",
+      "Special Feature": "Durable",
+      "Number of Pieces": "1",
+      "Item Weight": "5.4 ounces",
+      "Manufacturer": "Amazon Basics",
+      "Item model number": "023821-660-A60",
+      "Best Sellers Rank": {
+        "Our Brands": 10389,
+        "Toothbrush Holders": 836
+      },
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07CBBVTNN",
+    "bought_together": null
+  }
+}

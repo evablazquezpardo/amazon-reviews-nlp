@@ -1,0 +1,50 @@
+{
+  "id": "AEF73L7G43IKVL33U4FCOPM7D6VQ_B003QMLVK2_1419280377000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. exactly as described..thanks!",
+  "asin": "B003QMLVK2",
+  "parent_asin": "B003QMLVK2",
+  "user_id": "AEF73L7G43IKVL33U4FCOPM7D6VQ",
+  "timestamp": 1419280377000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Excellante Ham Holder, Chrome Plated, 8-1/2 by 7-1/4 by 6-Inch",
+    "average_rating": 3.9,
+    "rating_number": 65,
+    "features": [
+      "Plated with chrome for silvery color and durability",
+      "Chrome ham holder is ideal for any restaurant, buffet, catering, parties, or other event where carved meats, especially ham, are served",
+      "Easy to wash with mild detergent and damp cloth.",
+      "Sturdy rack will grip a ham of any size nicely, while roasting or while being sliced",
+      "Great way to hold a ham in place while also saving space"
+    ],
+    "description": [
+      "Excellante ham holder - chrome plated 8-1/2 x 7-1/4 by 6-inch . This is a chrome plated wire ham holder. The chrome plated wire ham holder is essential for any venue that serves carved meats. This holds a large ham perfectly within its wire frame ready to be cut and served"
+    ],
+    "price": 28.49,
+    "store": "Excellant",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets"
+    ],
+    "details": {
+      "Product Dimensions": "8.5 x 7.25 x 6 inches",
+      "Item Weight": "5.6 ounces",
+      "Manufacturer": "Excellant",
+      "Item model number": "CRHH876",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2180797,
+        "Kitchen Utensils & Gadgets": 179332
+      },
+      "Warranty Description": "N."
+    },
+    "parent_asin": "B003QMLVK2",
+    "bought_together": null
+  }
+}

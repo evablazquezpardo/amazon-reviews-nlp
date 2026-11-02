@@ -1,0 +1,41 @@
+{
+  "id": "AGCKG6NRPRS7NMJBKJWZ2VHWAXIA_B07WQB1Z56_1599701472847",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Doesn’t stand well but works",
+  "text": "Doesn’t stand well but works. Didn’t stand as well as I had hoped but held up so far",
+  "asin": "B07WQB1Z56",
+  "parent_asin": "B07WQB1Z56",
+  "user_id": "AGCKG6NRPRS7NMJBKJWZ2VHWAXIA",
+  "timestamp": 1599701472847,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Riboli 100L Laundry Backpack Hamper Basket Extra Large Dirty Bag Collapsible Heavy Duty for Camp College 16\"×32\" Black",
+    "average_rating": 4.5,
+    "rating_number": 178,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "RIBOLI",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "16\"L x 16\"W x 32\"H",
+      "Item Weight": "1.25 pounds",
+      "Item model number": "CA19LB001-Black",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Brand": "RIBOLI",
+      "Style": "Modern",
+      "Special Feature": "Portable, Foldable, Handle",
+      "Number of Pieces": "1",
+      "Number of Compartments": "1",
+      "Mounting Type": "Floor Mount",
+      "Capacity": "100 Liters"
+    },
+    "parent_asin": "B07WQB1Z56",
+    "bought_together": null
+  }
+}

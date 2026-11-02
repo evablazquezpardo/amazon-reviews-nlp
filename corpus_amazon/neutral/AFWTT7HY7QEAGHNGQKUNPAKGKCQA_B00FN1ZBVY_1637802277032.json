@@ -1,0 +1,50 @@
+{
+  "id": "AFWTT7HY7QEAGHNGQKUNPAKGKCQA_B00FN1ZBVY_1637802277032",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Tasty Treats",
+  "text": "Tasty Treats. These cupcakes are very cute but much smaller than my expectations",
+  "asin": "B00FN1ZBVY",
+  "parent_asin": "B00FN1ZBVY",
+  "user_id": "AFWTT7HY7QEAGHNGQKUNPAKGKCQA",
+  "timestamp": 1637802277032,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kurt Adler 2\" Cupcake Ornament Set of 6",
+    "average_rating": 4.3,
+    "rating_number": 1199,
+    "features": [],
+    "description": [
+      "Add some sweetness to any holiday decor or Christmas tree with these cupcake ornaments by Kurt Adler. Each ornament features a miniature cupcake design. This set of six ornaments includes two silver cupcakes, a purple cupcake, a blue cupcake and a gold cupcake. A delicious addition to any Christmas tree or theme party decor."
+    ],
+    "price": 12.45,
+    "store": "Kurt Adler",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Hanging Ornaments"
+    ],
+    "details": {
+      "Product Dimensions": "9.5 x 2 x 1.5 inches",
+      "Item Weight": "0.32 ounces",
+      "Manufacturer": "Kurt Adler",
+      "Item model number": "PartialUpdate",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 377871,
+        "Decorative Hanging Ornaments": 1076
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 4, 2013",
+      "Occasion": "Christmas",
+      "Brand": "Kurt Adler",
+      "Item Dimensions LxWxH": "9.5 x 2 x 1.5 inches",
+      "Unit Count": "6 Count"
+    },
+    "parent_asin": "B00FN1ZBVY",
+    "bought_together": null
+  }
+}

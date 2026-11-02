@@ -1,0 +1,71 @@
+{
+  "id": "AFEJKJ56OD6H2XH55DGHJI2526MA_B074N33L6R_1651102192310",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Shoe rack",
+  "text": "Shoe rack. Not white, more of a greenish gray, wanted white, wrong description.",
+  "asin": "B072283FXN",
+  "parent_asin": "B074N33L6R",
+  "user_id": "AFEJKJ56OD6H2XH55DGHJI2526MA",
+  "timestamp": 1651102192310,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics 20 Large Pocket Over-the-Door Hanging Shoe Organizer, Grayish Tan",
+    "average_rating": 4.7,
+    "rating_number": 15006,
+    "features": [
+      "Store 10 pairs of larger shoes or 20 pairs of sandals without taking up valuable floor space",
+      "Mesh fabric pockets allows your shoes to breathe",
+      "Pockets are 10\" tall x 4.5\" wide, total dimensions are 64.3\" tall x 20\" wide",
+      "Includes 3 metal hooks for use over residential doors",
+      "No assembly required"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics 20-Pocket Over-the-Door Hanging Large-Size Shoe Organizer",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 9.61,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Shoe Organizers",
+      "Over the Door Shoe Organizers"
+    ],
+    "details": {
+      "Specific Uses For Product": "Shoes",
+      "Material": "Mesh, Metal",
+      "Special Feature": "Portable",
+      "Color": "Grayish Tan",
+      "Brand": "Amazon Basics",
+      "Finish Type": "Mesh",
+      "Mounting Type": "Door Mount",
+      "Product Dimensions": "3\"D x 20\"W x 64.3\"H",
+      "Item Weight": "9.8 Ounces",
+      "Number of Compartments": "20",
+      "Unit Count": "1.0 Count",
+      "Package Type": "Standard Packaging",
+      "Number of Items": "1",
+      "Manufacturer": "Amazon Basics",
+      "Country of Origin": "China",
+      "Item model number": "AQ-NON007",
+      "Best Sellers Rank": {
+        "Our Brands": 733,
+        "Over the Door Shoe Organizers": 7
+      },
+      "Finish types": "Mesh",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Included Components": "hook",
+      "Import": "Imported"
+    },
+    "parent_asin": "B074N33L6R",
+    "bought_together": null
+  }
+}

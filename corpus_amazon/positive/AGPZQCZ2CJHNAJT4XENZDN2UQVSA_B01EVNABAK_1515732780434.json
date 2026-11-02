@@ -1,0 +1,45 @@
+{
+  "id": "AGPZQCZ2CJHNAJT4XENZDN2UQVSA_B01EVNABAK_1515732780434",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Try it, really!",
+  "text": "Try it, really!. Juicy, moist turkey with very little work. Love it",
+  "asin": "B01EVNABAK",
+  "parent_asin": "B01EVNABAK",
+  "user_id": "AGPZQCZ2CJHNAJT4XENZDN2UQVSA",
+  "timestamp": 1515732780434,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Oster 24-Pound Stainless Steel Turkey Roaster Oven with Highdome Lid and 18-Quart Capacity (Stainless Steel)",
+    "average_rating": 4.1,
+    "rating_number": 29,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Ovens & Toasters",
+      "Rotisseries & Roasters"
+    ],
+    "details": {
+      "Package Dimensions": "24.1 x 18.2 x 9 inches",
+      "Item Weight": "16.66 pounds",
+      "Item model number": "CKSTRS18-SHD-SHP",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 27, 2016",
+      "Capacity": "18 Quarts",
+      "Material": "Stainless Steel",
+      "Control Type": "Knob",
+      "Included Components": "Roasting Pan",
+      "Finish Type": "Stainless Steel"
+    },
+    "parent_asin": "B01EVNABAK",
+    "bought_together": null
+  }
+}

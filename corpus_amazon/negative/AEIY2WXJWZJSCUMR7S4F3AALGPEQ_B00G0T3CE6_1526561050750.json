@@ -1,0 +1,61 @@
+{
+  "id": "AEIY2WXJWZJSCUMR7S4F3AALGPEQ_B00G0T3CE6_1526561050750",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Junk",
+  "asin": "B00G0T3CE6",
+  "parent_asin": "B00G0T3CE6",
+  "user_id": "AEIY2WXJWZJSCUMR7S4F3AALGPEQ",
+  "timestamp": 1526561050750,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lodge SCRBRSH Scrub Brush, 10-Inch",
+    "average_rating": 4.5,
+    "rating_number": 9287,
+    "features": [
+      "One Lodge Care Scrub Brush, 10 Inch",
+      "Rubber wood handle with a natural lacquer finish",
+      "Plastic head with stiff nylon bristles preserve your cookware's finish",
+      "Sturdy, ergonomic design"
+    ],
+    "description": [
+      "Our new and improved Lodge Scrub Brush makes short work of cleaning your cast iron or enamel cookware. Features a rubber wood handle with a natural lacquer finish and an ergonomic design for greater comfort. The dense bristles effortlessly clean seasoned cast iron without harming the seasoning. Includes one Lodge Scrub Brush and one plastic bristle protector."
+    ],
+    "price": 8.29,
+    "store": "Lodge",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Fruit & Vegetable Tools",
+      "Cleaning Brushes"
+    ],
+    "details": {
+      "Brand": "Lodge",
+      "Color": "Off-white",
+      "Handle Material": "Wood Handle,Plastic,Rubber,Iron",
+      "Product Dimensions": "3.3\"L x 2.3\"W x 10.1\"H",
+      "Material": "Wood",
+      "Included Components": "Scrub brush",
+      "Number of Items": "1",
+      "Item Weight": "0.01 ounces",
+      "Manufacturer": "Lodge",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More",
+      "Country of Origin": "China",
+      "Item model number": "Lodge",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 5502,
+        "Fruit & Vegetable Cleaning Brushes": 43
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 7, 2013"
+    },
+    "parent_asin": "B00G0T3CE6",
+    "bought_together": null
+  }
+}

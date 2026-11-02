@@ -1,0 +1,63 @@
+{
+  "id": "AGPIIOYE34ASDSZSDQZQ7Z7GNESA_B07TS8SDFR_1659965325939",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not as described",
+  "text": "Not as described. Sorry not a glowing review. It's mediocre at best.",
+  "asin": "B000E5WAUO",
+  "parent_asin": "B07TS8SDFR",
+  "user_id": "AGPIIOYE34ASDSZSDQZQ7Z7GNESA",
+  "timestamp": 1659965325939,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Vornado 630 Mid-Size Whole Room Air Circulator Fan & CR1-0073-06 530 Small Whole Room Air Circulator Fan, Black",
+    "average_rating": 4.7,
+    "rating_number": 8551,
+    "features": [
+      "Vornado's signature Vortex Technology provides complete circulation of all the air throughout a room;PowerCord Plug Type: 2-Pin Polarized. The low speed noise level is 43 dB",
+      "Superior performance through deep-pitched blades that move air up to 70 feet",
+      "Multi-directional airflow and whisper-quiet operation. High Speed dB : 52. Watts : 51",
+      "3 speed settings and removable grill for easy cleaning;Control Style :Mechanical Switch",
+      "Vornado's signature Vortex Technology provides complete circulation of all the air throughout a room",
+      "Superior performance through deep-pitched blades that move air up to 65 feet",
+      "More powerful than an 18-inch commercial fan. Low Speed CFM : 152. Low Speed RPM : 1150",
+      "3 speed settings with adjustable tilt head for multi-directional airflow"
+    ],
+    "description": [
+      "Vornado 630 Mid-Size Whole Room Air Circulator Fan630B Features: -Innovative engineering focuses air into a tight beam. -Moves air up to 65 feet. -2 Speed control with exclusive Vortex action. -Circulates all air in the a room. Product Type: -Table. Style: -Contemporary. Adjustable Fans: -Yes. Finish: -Black. Recommended Use: -Home. Generic Specifications: -1.1 amps. -62 watts. Dimensions: Overall Height - Top to Bottom: -13.6 Inches. Overall Width - Side to Side: -12 Inches. Overall Depth - Front to Back: -8.25 Inches. Overall Product Weight: -6.61 Pounds.Vornado CR1-0073-06 530 Small Whole Room Air Circulator Fan, BlackThe 530 Vornado air circulator uses signature Vortex Action to move air up to 65 feet, providing whole room air circulation. More powerful than an 18\"\" commercial fan! Its compact size makes it ideal for use in an office, dorm room, or cubical. Available with a 3-speed control. Evens room temperature, eliminating hot and cold spots."
+    ],
+    "price": 119.48,
+    "store": "Vornado",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Household Fans",
+      "Table Fans"
+    ],
+    "details": {
+      "Brand": "Vornado",
+      "Color": "Black",
+      "Electric fan design": "Table Fan",
+      "Power Source": "Corded Electric",
+      "Style": "Air Circulator Fan + Black Air Circulator Fan",
+      "Room Type": "Office",
+      "Special Feature": "Adjustable Tilt",
+      "Recommended Uses For Product": "Air Circulation",
+      "Controller Type": "Button Control",
+      "Number of Speeds": "2",
+      "Wattage": "62 watts",
+      "Item Weight": "6.61 pounds",
+      "Control Method": "App",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1630,
+        "Indoor Space Heaters": 1,
+        "Table Fans": 8
+      }
+    },
+    "parent_asin": "B07TS8SDFR",
+    "bought_together": null
+  }
+}

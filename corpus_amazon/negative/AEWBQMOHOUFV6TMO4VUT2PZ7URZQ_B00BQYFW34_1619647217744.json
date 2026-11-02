@@ -1,0 +1,46 @@
+{
+  "id": "AEWBQMOHOUFV6TMO4VUT2PZ7URZQ_B00BQYFW34_1619647217744",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "None bloomed",
+  "text": "None bloomed. None bloomed",
+  "asin": "B00BQYFW34",
+  "parent_asin": "B00BQYFW34",
+  "user_id": "AEWBQMOHOUFV6TMO4VUT2PZ7URZQ",
+  "timestamp": 1619647217744,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mixed Parrot Tulips - 10 bulbs",
+    "average_rating": 3.2,
+    "rating_number": 87,
+    "features": [
+      "10 Parrot Tulip Bulbs in Mixed Colors",
+      "BEAUTIFUL & EXOTIC LOOKING FLOWERS!",
+      "They make OUTSTANDING cut flowers!",
+      "Hardy in zones 3-7; Warmer zones will need to chill the bulbs before planting.",
+      "Bulb size: 10/12cm (flower bulbs are measured by their circumference)"
+    ],
+    "description": [
+      "Specially selected tulips for their unique beauty and characteristics. Parrot tulips with their exotic shape, color and design, are the largest and most spectacular of all tulips. They resemble their namesake, colorful tropical birds. Frilled, ruffled and flared petals are splashed and striped with brilliant color combinations that are unlike those of any other tulip. They make gorgeous cut flowers."
+    ],
+    "price": 18.99,
+    "store": null,
+    "categories": [],
+    "details": {
+      "Plant or Animal Product Type": "Tulip",
+      "Item Weight": "10 Ounces",
+      "Sunlight Exposure": "Full Sun",
+      "USDA Hardiness Zone": "3",
+      "Soil Type": "Sandy Soil",
+      "Moisture Needs": "Moderate Watering",
+      "Number of Pieces": "10",
+      "Product Dimensions": "4 x 4 x 4 inches",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B00BQYFW34",
+    "bought_together": null
+  }
+}

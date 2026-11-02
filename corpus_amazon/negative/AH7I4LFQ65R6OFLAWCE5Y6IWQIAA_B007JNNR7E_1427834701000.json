@@ -1,0 +1,62 @@
+{
+  "id": "AH7I4LFQ65R6OFLAWCE5Y6IWQIAA_B007JNNR7E_1427834701000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Didn't last long",
+  "text": "Didn't last long. While it worked, it made good coffee.  Stopped working after 3 months.  Not getting power. Changed outlets but no joy.",
+  "asin": "B007JNNR7E",
+  "parent_asin": "B007JNNR7E",
+  "user_id": "AH7I4LFQ65R6OFLAWCE5Y6IWQIAA",
+  "timestamp": 1427834701000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mr. Coffee 11 12 Cup Programmable Coffee Maker, 1, Red",
+    "average_rating": 3.5,
+    "rating_number": 101,
+    "features": [
+      "Showering technology evenly saturates grounds, extracting the fullest flavor",
+      "Water filtration helps remove up to 97% of chlorine for better tasting coffee",
+      "Delay Brew timer lets you brew ahead of time, so you can wake up to fresh-brewed coffee",
+      "Freshness Timer keeps track of coffee freshness from the time it's brewed",
+      "Brew Strength Selector dials in a stronger flavor if you want a bolder taste"
+    ],
+    "description": [
+      "Enhance your coffee brewing experience with Mr. Coffee's Performance Brew 12-Cup Programmable Coffee Maker. It features plenty of convenient options, like Delay Brew for coffee when you want it, a Brew Strength Selector to dial in the perfect taste, and Grab-A-Cup Auto Pause to steal a sip before the brewing cycle is complete. This model's showering technology evenly saturates your grounds, extracting the fullest flavor possible. Speaking of flavor, you can be assured of a better, fresher cup thanks to the Performance Brew's water filtration system—it removes chlorine and impurities to give you the taste you expect, every time. When it comes time to fill your mug, the drip-free, no-mess carafe pours without wasting a drop."
+    ],
+    "price": null,
+    "store": "Mr. Coffee",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Coffee Machines"
+    ],
+    "details": {
+      "Brand": "Mr. Coffee",
+      "Capacity": "12 Cubic Feet",
+      "Color": "Red",
+      "Special Feature": "Programmable",
+      "Material": "Plastic",
+      "Filter Type": "Reusable",
+      "Item Weight": "7.45 pounds",
+      "Included Components": "No",
+      "Operation Mode": "Fully Automatic",
+      "Wattage": "900 watts",
+      "Model Name": "11",
+      "Number of Items": "1",
+      "Human Interface Input": "Dial",
+      "Package Type": "Standard Packaging",
+      "Product Dimensions": "13.6 x 8.75 x 15.4 inches",
+      "Manufacturer": "Mr. Coffee",
+      "Item model number": "BVMC-VMX36",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 1, 2012"
+    },
+    "parent_asin": "B007JNNR7E",
+    "bought_together": null
+  }
+}

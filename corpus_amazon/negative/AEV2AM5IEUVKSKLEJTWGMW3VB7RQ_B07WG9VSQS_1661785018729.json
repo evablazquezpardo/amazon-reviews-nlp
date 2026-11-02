@@ -1,0 +1,64 @@
+{
+  "id": "AEV2AM5IEUVKSKLEJTWGMW3VB7RQ_B07WG9VSQS_1661785018729",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Rather cheap",
+  "text": "Rather cheap. Fabric was thin and cheap",
+  "asin": "B09BG5Z1QG",
+  "parent_asin": "B07WG9VSQS",
+  "user_id": "AEV2AM5IEUVKSKLEJTWGMW3VB7RQ",
+  "timestamp": 1661785018729,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "AOACreations Microfiber Furry Bath Rug, Bathroom Mat, Thick Soft Plush Luxury, High Pile, Absorbent (Extra Long Runner 50 x 150 cm, Beige)",
+    "average_rating": 4.0,
+    "rating_number": 116,
+    "features": [
+      "INCLUDES: 1 Extra Long Runner 50 x 150 cm (approx. 20\" x 59\")",
+      "MICROFIBER: Microfiber furry rugs are soft, plush, comforting and luxurious. Thick furry 1\" high pile rugs keep feet warm and cozy.",
+      "WATER ABSORBENT: Microfiber absorbs water and dries quickly",
+      "NON-SLIP: Rubber (TPR) backing increases skid resistance.",
+      "MACHINE WASHABLE: Machine wash separately with cold water. Do not bleach. Air or hang dry."
+    ],
+    "description": [],
+    "price": 34.95,
+    "store": "AOACreations",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bath Rugs"
+    ],
+    "details": {
+      "Brand": "AOACreations",
+      "Size": "Extra Long Runner 50 x 150 cm",
+      "Material": "Microfiber",
+      "Weave Type": "Machine Made",
+      "Pile Height": "High Pile",
+      "Construction Type": "Machine Made",
+      "Back Material Type": "Rubber",
+      "Color": "Beige",
+      "Theme": "Runner",
+      "Is Stain Resistant": "No",
+      "Product Care Instructions": "Machine Wash",
+      "Pattern": "Solid",
+      "Shape": "Rectangular",
+      "Special Feature": "Absorbent, Non Slip, Washable",
+      "Room Type": "Bathroom",
+      "Product Dimensions": "59\"L x 20\"W",
+      "Rug Form Type": "Runner",
+      "Style": "Furry rug",
+      "Item Weight": "2.86 pounds",
+      "Manufacturer": "TLP",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 797278,
+        "Bath Rugs": 2363
+      },
+      "Date First Available": "August 12, 2019"
+    },
+    "parent_asin": "B07WG9VSQS",
+    "bought_together": null
+  }
+}

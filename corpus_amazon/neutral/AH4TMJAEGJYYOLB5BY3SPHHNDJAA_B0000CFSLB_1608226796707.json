@@ -1,0 +1,53 @@
+{
+  "id": "AH4TMJAEGJYYOLB5BY3SPHHNDJAA_B0000CFSLB_1608226796707",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not as deep as I expected.",
+  "text": "Not as deep as I expected.. Why can't someone make one of these 2 or 3\" deep?",
+  "asin": "B0000CFSLB",
+  "parent_asin": "B0000CFSLB",
+  "user_id": "AH4TMJAEGJYYOLB5BY3SPHHNDJAA",
+  "timestamp": 1608226796707,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bia Cordon Bleu White Oval Porcelain Au Gratin Bowl, 8 oz, White",
+    "average_rating": 4.5,
+    "rating_number": 37,
+    "features": [
+      "The wide, shallow design exposes the maximum surface area of the dish to the heat source",
+      "Resists chipping, cracking and staining",
+      "Microwave, oven and dishwasher safe",
+      "Porcelain color",
+      "White color"
+    ],
+    "description": [
+      "B.I.A. Cordon Bleu is a leading manufacturer of porcelain and stoneware serving accessories, bakeware and dinnerware. With classic and contemporary shapes, as well as unique glazes, hand-painted patterns and designs, B.I.A. Cordon Bleu continues the tradition of providing timeless, quality merchandise at affordable prices."
+    ],
+    "price": 18.08,
+    "store": "BIA Cordon Bleu",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Au Gratin Pans"
+    ],
+    "details": {
+      "Product Dimensions": "10 x 5.5 x 2 inches",
+      "Item Weight": "10.8 ounces",
+      "Manufacturer": "Bia Cordon Bleu",
+      "Item model number": "900049",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 135605,
+        "Au Gratin Pans": 11,
+        "Bakeware": 14340
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 5, 2003"
+    },
+    "parent_asin": "B0000CFSLB",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "AGL3ZIRVGBCALLXKL3KH33D47Y5Q_B07JX15W4S_1613610984516",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Junk",
+  "text": "Junk. Junk, do not buy. Way too thin.",
+  "asin": "B000SBPYEI",
+  "parent_asin": "B07JX15W4S",
+  "user_id": "AGL3ZIRVGBCALLXKL3KH33D47Y5Q",
+  "timestamp": 1613610984516,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "American Metalcraft 18716 Pizza Screen, 15.95\" Length, 16.05\" Width, Silver",
+    "average_rating": 4.4,
+    "rating_number": 2045,
+    "features": [
+      "Package Dimension : 0.762 centimeters L x 39.878 centimeters W x 46.482 centimeters H",
+      "Made of Aluminum",
+      "Hand-wash Only",
+      "Country of Origin: INDIA"
+    ],
+    "description": [
+      "American metalcraft specializes in creative pizza supplies and other food service products for your restaurant. The products are most attractive and durable around."
+    ],
+    "price": 15.07,
+    "store": "American METALCRAFT, Inc.",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Pizza Pans & Stones"
+    ],
+    "details": {
+      "Material": "Aluminum",
+      "Brand": "American METALCRAFT, Inc.",
+      "Color": "Silver",
+      "Shape": "Round",
+      "Special Feature": "Oven Safe",
+      "Product Dimensions": "16 x 16 x 0.1 inches; 4.56 Ounces",
+      "Item model number": "18716",
+      "Date First Available": "September 18, 2004",
+      "Manufacturer": "AMERICAN METALCRAFT, INC."
+    },
+    "parent_asin": "B07JX15W4S",
+    "bought_together": null
+  }
+}

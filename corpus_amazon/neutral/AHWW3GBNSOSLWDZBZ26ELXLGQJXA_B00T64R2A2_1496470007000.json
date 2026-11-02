@@ -1,0 +1,44 @@
+{
+  "id": "AHWW3GBNSOSLWDZBZ26ELXLGQJXA_B00T64R2A2_1496470007000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. These are very inexpensive, and the price reflects the quality.",
+  "asin": "B00T64R2A2",
+  "parent_asin": "B00T64R2A2",
+  "user_id": "AHWW3GBNSOSLWDZBZ26ELXLGQJXA",
+  "timestamp": 1496470007000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BQLZR Bed Sheet Grip White Adjustable Straps Fasteners Suspenders for Home Hotel Bed Pack of 16",
+    "average_rating": 3.3,
+    "rating_number": 151,
+    "features": [],
+    "description": [],
+    "price": 7.85,
+    "store": "BQLZR",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets"
+    ],
+    "details": {
+      "Package Dimensions": "10 x 5.3 x 1.9 inches",
+      "Item Weight": "3.06 ounces",
+      "Country of Origin": "China",
+      "Item model number": "N11449",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2831202,
+        "Kitchen Utensils & Gadgets": 227139
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00T64R2A2",
+    "bought_together": null
+  }
+}

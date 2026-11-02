@@ -1,0 +1,65 @@
+{
+  "id": "AEEPQNBGOQFIIR36NAUCIFL5F3MQ_B00PKH1NTA_1652390520598",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Gift",
+  "text": "Gift. She loved them",
+  "asin": "B00PKH1NTA",
+  "parent_asin": "B00PKH1NTA",
+  "user_id": "AEEPQNBGOQFIIR36NAUCIFL5F3MQ",
+  "timestamp": 1652390520598,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cozy Fleece Microplush Sheet Set, Cal King, Wheat",
+    "average_rating": 3.8,
+    "rating_number": 23,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Fitted sheets stretch up to 16 inches",
+      "Sets include one flat, one fitted sheet and two pillowcases (Twins have one pillowcase)",
+      "Pillowcases are Made of the same microplush material",
+      "All of our Premium Quality fleece products are very easy to maintain with standard machine washing and drying",
+      "They are so soft, warm and comfortable"
+    ],
+    "description": [
+      "Microplush sheets are soft and comfortable. Its high Tech properties are lightweight yet incredibly warm. Fits pocket depth 16 inch deep. Pillowcases are made of the same microplush material. Set includes: one fitted sheet set, one flat sheet and two pillowcases. Machine wash and dry."
+    ],
+    "price": null,
+    "store": "Cozy Fleece",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Size": "California King",
+      "Material": "Fleece",
+      "Color": "Wheat",
+      "Pattern": "Solid",
+      "Brand": "Cozy Fleece",
+      "Number of Pieces": "3",
+      "Special Feature": "Lightweight",
+      "Included Components": "2 pillowcases, 1 flat sheet, 1 fitted sheet",
+      "Closure Type": "Zipper",
+      "Product Care Instructions": "Machine Wash",
+      "Seasons": "All",
+      "Item Dimensions LxWxH": "84 x 72 x 0.1 inches",
+      "Item Weight": "9 pounds",
+      "Unit Count": "1.0 Count",
+      "Product Dimensions": "84 x 72 x 0.1 inches",
+      "Manufacturer": "Cozy Fleece LLC",
+      "Item model number": "Wheat CKGSS",
+      "Fabric Type": "100% Polyester",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B00PKH1NTA",
+    "bought_together": null
+  }
+}

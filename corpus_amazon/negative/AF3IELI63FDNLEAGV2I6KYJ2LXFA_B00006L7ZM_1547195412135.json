@@ -1,0 +1,48 @@
+{
+  "id": "AF3IELI63FDNLEAGV2I6KYJ2LXFA_B00006L7ZM_1547195412135",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Looks good but performs poorly.",
+  "text": "Looks good but performs poorly.. Very awkward to pour from, heavy and off balance, drippy too.",
+  "asin": "B00006L7ZM",
+  "parent_asin": "B00006L7ZM",
+  "user_id": "AF3IELI63FDNLEAGV2I6KYJ2LXFA",
+  "timestamp": 1547195412135,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Copco Fusion 2-Quart Polished Stainless Steel Teakettle",
+    "average_rating": 3.2,
+    "rating_number": 62,
+    "features": [
+      "Polished stainless on the top and porcelain enamel on steel on the bottom",
+      "Whistle built into lid, eliminating the need to remove the whistle to pour",
+      "Die cast handle is not only stylish but has a comfortable grip",
+      "Color: Stainless steel with pewter enamel finish",
+      "Capacity: 2 quart"
+    ],
+    "description": [
+      "Copco Fusion polished stainless teakettle. 2 qt capacity. From classic to contemporary styles, Copco has the broadest assortment of teakettles in the market. To maintain this position, we strive for continued innovation in design, function and quality, making Copco kettles the premier choice for your assortment."
+    ],
+    "price": null,
+    "store": "Wilton",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Tea Kettles"
+    ],
+    "details": {
+      "Product Dimensions": "16.75 x 10 x 9 inches",
+      "Item Weight": "2.7 pounds",
+      "Manufacturer": "Wilton",
+      "Item model number": "2502-8307",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 19, 2004"
+    },
+    "parent_asin": "B00006L7ZM",
+    "bought_together": null
+  }
+}

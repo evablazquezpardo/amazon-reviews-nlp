@@ -1,0 +1,63 @@
+{
+  "id": "AG3HCHPHBOB4UWLVUGNEV7XQXHHA_B000AX5SJK_1450923257000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Good product!",
+  "asin": "B000AX5SJK",
+  "parent_asin": "B000AX5SJK",
+  "user_id": "AG3HCHPHBOB4UWLVUGNEV7XQXHHA",
+  "timestamp": 1450923257000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Warp Brothers, White 12x25' WHT Shelf Liner",
+    "average_rating": 4.5,
+    "rating_number": 245,
+    "features": [
+      "Package Dimensions: 30.734 H x 9.906 L x 10.414 W (centimeters)",
+      "Adds extra shine to your product",
+      "Package Weight: 1.066 kilograms",
+      "Country of Origin : United States"
+    ],
+    "description": [
+      "Warp Brothers 12x25' WHT Shelf Liner, White"
+    ],
+    "price": 20.04,
+    "store": "Warp's",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Cabinet & Drawer Organization",
+      "Shelf Liners"
+    ],
+    "details": {
+      "Brand": "Warp's",
+      "Color": "White",
+      "Material": "Plastic",
+      "Product Dimensions": "300\"L x 144\"W",
+      "Recommended Uses For Product": "Shelf",
+      "Pattern": "Solid",
+      "Number of Items": "1",
+      "Number of Pieces": "1",
+      "Is Stain Resistant": "No",
+      "Item Weight": "2.2 pounds",
+      "Manufacturer": "WARP BROTHERS",
+      "Item model number": "PM125-W",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 277354,
+        "Shelf Liners": 976
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Included Components": "shelf-liners"
+    },
+    "parent_asin": "B000AX5SJK",
+    "bought_together": null
+  }
+}

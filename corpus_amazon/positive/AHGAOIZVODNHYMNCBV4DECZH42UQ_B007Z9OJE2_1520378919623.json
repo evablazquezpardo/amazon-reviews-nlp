@@ -1,0 +1,44 @@
+{
+  "id": "AHGAOIZVODNHYMNCBV4DECZH42UQ_B007Z9OJE2_1520378919623",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "perfect",
+  "text": "perfect. perfect for my needs",
+  "asin": "B007Z9OJE2",
+  "parent_asin": "B007Z9OJE2",
+  "user_id": "AHGAOIZVODNHYMNCBV4DECZH42UQ",
+  "timestamp": 1520378919623,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Slim Plastic Storage Trays Baskets in White- Set of 3",
+    "average_rating": 4.4,
+    "rating_number": 217,
+    "features": [
+      "Useful in many places around the home, such as kitchen, home office or garage.",
+      "Great organizer for small tools in the work shop.",
+      "Excellent for hobby and Crafts parts storage.",
+      "Each plastic tray measures approximately 10\" long by 3\" wide by 2 1/2\" deep.",
+      "Model railroaders can use these to protect valuable HO or S scale train cars while stored away in a drawer."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Mainstay",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization"
+    ],
+    "details": {
+      "Material": "Plastic",
+      "Color": "White",
+      "Brand": "Mainstay",
+      "Style": "Modern",
+      "Room Type": "Kitchen"
+    },
+    "parent_asin": "B007Z9OJE2",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "AFUSWNVA72MMWHGYWJ652SYX2JJQ_B0845QFDWF_1526062558117",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Flawed, Very Inaccurate",
+  "text": "Flawed, Very Inaccurate. First off my bed. I have a 12.5&#34; queen memory foam mattress on an adjustable platform. I also have a portable bed rail on the bed due to disability. I have the sensor placed just below the rail right about where it is supposed to be under your chest and above the hinged area of the platform.<br />Initial setup was fairly straightforward. After collecting several days worth of data I decided to delete them just because I was trying out features. Somehow deleting all sleep data caused the app to malfunction and close the moment it was started. I had to delete the app, reinstall and reregister everything. That took a few tries. Several days later the cable was accidentally unplugged from the adapter. I went through the setup procedure, nothing, several times. I read the help file and found out how to do a factory reset. I had to perform this seven times before the app would connect to the sensor again. I used the device for another week and suddenly it stopped collecting sleep data. For four days it sat under my mattress doing nothing. I tried contacting support and have not received a reply yet. An earlier question was answered fairly quick but I had to provide the serial number (adding a full day to the exchange) to get a simple data meaning question answered. On the fifth day the unit once again began sending data to the app. Is it defective? Perhaps. I'm unsure. But that leads me to my deepest concern. . .<br />I don't trust the veracity of the data collected. It's supposed to be able to tell how long it takes you to fall asleep, when you're lightly or deeply asleep or in REM sleep as well as tracking when you snore, your pulse rate high, low and average through the night and how long it takes you to get up when you awake. I was impressed with all these bar graphs and data until I started looking closely. Every night I go to bed early due to pain and will spend up to a few hours reading or watching video on my tablet. when the bar graph said I was lightly asleep, I wasn't. When it said I was deeply asleep, I wasn't. I have no idea how, without seeing my eye movement, it can know I'm in REM sleep. I think one time it said I took a while to get to sleep but most nights while I lay there reading it was logging it as some form of sleep and my falling asleep taking only a few minutes. I know I snore, my scouts once dragged me out of the tent because I was so loud, so I guess the snoring detector is accurate. It  can also, some times, tell if you've taken a nap during the day and add that to the day's data though it appears there needs to be a susstantial time between getting up and going back for a nap otherwise the time gap gets logged as simply a really long interuption in your night's sleep. I tend to spend quite some time in bed on bad days and that seems to seriously confuse the device and app.<br />It's a slick idea, nothing to wear, nothing to start or stop manually. Just stuff it under your mattress as directed and hey presto, sleep data. Too bad it's dreadfully inaccurate has connection issues and stops and starts recording data for no good reason. It would be great if it were even 80% accurate but I know for a fact it's no where near.",
+  "asin": "B078Z1B34S",
+  "parent_asin": "B0845QFDWF",
+  "user_id": "AFUSWNVA72MMWHGYWJ652SYX2JJQ",
+  "timestamp": 1526062558117,
+  "helpful_vote": 7,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Withings Sleep - Sleep Tracking Pad Under The Mattress With Sleep Cycle Analysis",
+    "average_rating": 4.2,
+    "rating_number": 2014,
+    "features": [
+      "ADVANCED SLEEP TRACKING - Sleep cycles, Sleep Score & snore detection",
+      "TRACK BREATHING DISTURBANCES - See sleep pattern interruptions which can impair the restorativeness of sleep",
+      "SLEEP-LAB INSIGHTS - Developed with sleep physicians and clinically validated",
+      "SLEEP HEART RATE - Track your heart rate continuously all night long",
+      "NOTHING TO WEAR - Easy one-time setup under the mattress, compatible with most mattresses",
+      "WAKE TO IMMEDIATE IN-APP RESULTS - Wake to all data in the free Health Mate app via Wi-Fi",
+      "SHAREABLE SLEEP DIARY - Make a medically-informed decision on your sleep by sharing an automatically-generated sleep diary with your doctor.",
+      "HOME AUTOMATION - Withings Sleep can act as a switch to control lights, the thermostat, and more",
+      "“ALEXA, ASK WITHINGS” - Your voice can help you manage your sleep with an Alexa Skill that works with Health Mate"
+    ],
+    "description": [],
+    "price": 129.95,
+    "store": "Withings",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Bedroom Furniture",
+      "Mattresses & Box Springs",
+      "Mattresses"
+    ],
+    "details": {
+      "Brand": "Withings",
+      "Material": "Premium fabric",
+      "Color": "Grey",
+      "Compatible Devices": "Smartphones",
+      "Screen Size": "0.96 Inches",
+      "Item Dimensions LxWxH": "24.4 x 7.4 x 0.19 inches",
+      "Item Weight": "0.6 Pounds",
+      "Sensor Type": "Wearable",
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "24.4 x 7.4 x 0.19 inches; 9.6 Ounces",
+      "Item model number": "WSM02-All-US",
+      "Date First Available": "February 23, 2018",
+      "Manufacturer": "Withings Inc",
+      "Country of Origin": "China"
+    },
+    "parent_asin": "B0845QFDWF",
+    "bought_together": null
+  }
+}

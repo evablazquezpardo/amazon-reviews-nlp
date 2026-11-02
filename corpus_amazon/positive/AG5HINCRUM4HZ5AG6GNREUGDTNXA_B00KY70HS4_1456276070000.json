@@ -1,0 +1,76 @@
+{
+  "id": "AG5HINCRUM4HZ5AG6GNREUGDTNXA_B00KY70HS4_1456276070000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Really dope. Just needs hooks.",
+  "asin": "B00KY70HS4",
+  "parent_asin": "B00KY70HS4",
+  "user_id": "AG5HINCRUM4HZ5AG6GNREUGDTNXA",
+  "timestamp": 1456276070000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Carnation Home Fashions \"The Scream Fabric Shower Curtain",
+    "average_rating": 4.4,
+    "rating_number": 33,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Unique styling",
+      "100% Polyester",
+      "Machine Wash",
+      "Size: 70\"x72\"",
+      "Machine Washable"
+    ],
+    "description": [
+      "Edvard Munch's \"The Scream\" 100% Polyester Fabric Shower Curtain is water repellent and comes complete with rust proof metal grommets. Part of our \"Museum Collection\", this timeless master piece will be sure to add style and panache to any homes decor!"
+    ],
+    "price": 12.99,
+    "store": "Carnation Home Fashions",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Shower Curtains, Hooks & Liners",
+      "Shower Curtains"
+    ],
+    "details": {
+      "Brand": "Carnation Home Fashions",
+      "Color": "Multicolored",
+      "Material": "Polyester",
+      "Product Dimensions": "72\"L x 70\"W",
+      "Opacity": "Blackout",
+      "Special Feature": "Water Repellent, Washable",
+      "Room Type": "Bathroom",
+      "Pattern": "print",
+      "Theme": "Art",
+      "Top Style": "Grommet",
+      "Size": "72.00\" x 70.00\"",
+      "Included Components": "Shower Curtain",
+      "Age Range (Description)": "Adult",
+      "Item Weight": "1 pounds",
+      "Number of Items": "1",
+      "Product Care Instructions": "Machine Wash",
+      "Lining Description": "Polyester",
+      "Package Weight": "1.05 Pounds",
+      "Manufacturer": "Carnation Home Fashions",
+      "Item model number": "FSC13-SM",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1589185,
+        "Shower Curtains": 2555
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "100% Polyester",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Warranty Description": "N/a.",
+      "Batteries required": "Yes",
+      "Import": "Imported"
+    },
+    "parent_asin": "B00KY70HS4",
+    "bought_together": null
+  }
+}

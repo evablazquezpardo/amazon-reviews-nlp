@@ -1,0 +1,48 @@
+{
+  "id": "AGWWCNPY2MAHGYVRDPMOM2WIOD5Q_B01L0O0OZU_1597640041246",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Poor Customer Service",
+  "text": "Poor Customer Service. Very salty, does not taste like butter, remains powdery. No instructions on how to use<br />No response from Hoosier Farms when I wrote asking for instructions.  When I contacted Amazon I was told to contact Hoosier, even though I purchased through Amazon Prime.",
+  "asin": "B01L0O0OZU",
+  "parent_asin": "B01L0O0OZU",
+  "user_id": "AGWWCNPY2MAHGYVRDPMOM2WIOD5Q",
+  "timestamp": 1597640041246,
+  "helpful_vote": 6,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Grocery",
+    "title": "Real Butter Powder by Hoosier Hill Farm, 2LB (Pack of 1)",
+    "average_rating": 4.7,
+    "rating_number": 1483,
+    "features": [
+      "Delicious butter powder made with real sweet cream butter",
+      "Makes a great addition to soups, sauces, and mixes",
+      "Hoosier Hill Farm Real Butter Powder is the ingredient of choice for cooks searching to improve performance without compromising quality or product integrity",
+      "Use Butter Powder in place of churned butter in any recipe",
+      "To reconstitute, mix 1 part butter powder with 1 part water",
+      "Store in a cool, dry place. We do not recommend refrigeration or freezing of the powder.",
+      "Product of the USA",
+      "Allergens: Contains milk. Packaged in a facility that processes dairy, soy, peanuts, and wheat products."
+    ],
+    "description": [],
+    "price": 22.99,
+    "store": "Hoosier Hill Farm",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Conditioner Parts & Accessories",
+      "Motors"
+    ],
+    "details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "4.5 x 4.25 x 7.25 inches; 1.17 Pounds",
+      "Manufacturer": "Hoosier Hill Farm",
+      "Country of Origin": "USA"
+    },
+    "parent_asin": "B01L0O0OZU",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "AFPBVAEV3FCQOHKJJGAKQLZLTCZQ_B001AT5CF8_1639588387108",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Just as described",
+  "text": "Just as described. Love the weight of it.  Cleaning & maintenance instructions included",
+  "asin": "B001AT5CF8",
+  "parent_asin": "B001AT5CF8",
+  "user_id": "AFPBVAEV3FCQOHKJJGAKQLZLTCZQ",
+  "timestamp": 1639588387108,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Old Mountain 10129 Pre-Seasoned 2-Quart Cast Iron Tea Kettle",
+    "average_rating": 3.9,
+    "rating_number": 149,
+    "features": [
+      "Pre Seasoned and Ready to Use",
+      "2 Quart capacity",
+      "Spiral bail handle",
+      "Old Mountain logo embossed on lid",
+      "Extra heavy design"
+    ],
+    "description": [
+      "This Old Mountain cast iron tea kettle is pre seasoned and ready to use. The attached spiral bail handle allows for ease of handling. This tea kettle has 2 quart capacity and the attractive Old Mountain logo embossed on the lid adds style and extra value."
+    ],
+    "price": 50.44,
+    "store": "Old Mountain",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Teapots & Coffee Servers",
+      "Teapots"
+    ],
+    "details": {
+      "Product Dimensions": "9.25 x 7.5 x 5.5 inches",
+      "Item Weight": "9.53 pounds",
+      "Manufacturer": "Old Mountain",
+      "Item model number": "10129",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 329968,
+        "Teapots": 1044
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 1, 2008"
+    },
+    "parent_asin": "B001AT5CF8",
+    "bought_together": null
+  }
+}

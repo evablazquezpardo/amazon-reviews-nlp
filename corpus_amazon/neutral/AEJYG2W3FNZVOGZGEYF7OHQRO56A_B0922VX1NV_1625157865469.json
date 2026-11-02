@@ -1,0 +1,36 @@
+{
+  "id": "AEJYG2W3FNZVOGZGEYF7OHQRO56A_B0922VX1NV_1625157865469",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "it’s ok.",
+  "text": "it’s ok.. it works but not all the time.",
+  "asin": "B0922VX1NV",
+  "parent_asin": "B0922VX1NV",
+  "user_id": "AEJYG2W3FNZVOGZGEYF7OHQRO56A",
+  "timestamp": 1625157865469,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Vacuum Sealer Machine, STYFSCP Automatic Food Saver Vacuum Sealer Machine With Air Sealing System, Dry & Moist Modes, Led Indicator Light, Food Vacuum Sealer for Food Preservation with 15 Pack Vacuum Sealer Bags",
+    "average_rating": 4.0,
+    "rating_number": 903,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "STYFSCP",
+    "categories": [],
+    "details": {
+      "Package Dimensions": "15.27 x 4.02 x 2.72 inches",
+      "Item Weight": "2.46 pounds",
+      "Date First Available": "April 12, 2021",
+      "Brand": "STYFSCP",
+      "Material": "engineered abs",
+      "Operation Mode": "Automatic",
+      "Wattage": "110 watts"
+    },
+    "parent_asin": "B0922VX1NV",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "AELIV6UHVC6Z6VA4MIZ464WUHDPA_B009OMD746_1504292442535",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Handy...",
+  "text": "Handy.... Very handy, love it.",
+  "asin": "B009OMD746",
+  "parent_asin": "B009OMD746",
+  "user_id": "AELIV6UHVC6Z6VA4MIZ464WUHDPA",
+  "timestamp": 1504292442535,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Park Designs Heartfelt Hand Towel",
+    "average_rating": 4.1,
+    "rating_number": 50,
+    "features": [
+      "Cotton"
+    ],
+    "description": [],
+    "price": 7.62,
+    "store": "Park Designs",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Hand Towels"
+    ],
+    "details": {
+      "Color": "Tan, Sage Green",
+      "Brand": "Park Designs",
+      "Towel form type": "Hand Towel",
+      "Age Range (Description)": "All Ages",
+      "Number of Items": "1",
+      "Pattern": "Plaid",
+      "Theme": "Floral",
+      "Care instructions": "Machine Wash",
+      "Unit Count": "1.0 Count",
+      "Fabric Type": "Cotton",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "3.2 ounces",
+      "Package Dimensions": "10 x 6.5 x 0.5 inches",
+      "Item model number": "COMINHKR038625",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B009OMD746",
+    "bought_together": null
+  }
+}

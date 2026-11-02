@@ -1,0 +1,45 @@
+{
+  "id": "AH3OG6QD6EDJGZRVCFKV4B66VWNQ_B000H7C20M_1249952667000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Electric Tea Pot",
+  "text": "Electric Tea Pot. I love it, I love tea and every cup comes out perfect. I can also use loose tea, which makes a better cup of tea. Wonderful Product",
+  "asin": "B000H7C20M",
+  "parent_asin": "B000H7C20M",
+  "user_id": "AH3OG6QD6EDJGZRVCFKV4B66VWNQ",
+  "timestamp": 1249952667000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sunbeam HTM5B Tea Drop Hot Tea Maker",
+    "average_rating": 4.2,
+    "rating_number": 16,
+    "features": [],
+    "description": [
+      "Tea Drop Hot Tea Maker"
+    ],
+    "price": 108.18,
+    "store": "Sunbeam",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Kettles & Tea Machines"
+    ],
+    "details": {
+      "Product Dimensions": "11.7 x 8.2 x 11.9 inches",
+      "Item Weight": "3.95 pounds",
+      "Manufacturer": "Sunbeam",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 4414511,
+        "Kettles & Tea Machines": 2548
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 22, 2006"
+    },
+    "parent_asin": "B000H7C20M",
+    "bought_together": null
+  }
+}

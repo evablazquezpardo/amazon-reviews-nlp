@@ -1,0 +1,44 @@
+{
+  "id": "AGRX7GW6TWOWCKZRLXDQCCE7KA7Q_B006ZZCB60_1411147509000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Keep looking for better quality.",
+  "text": "Keep looking for better quality.. These chair pads are very thin compared to others and they make me itch. They look nice but also look cheap when you get close to them.",
+  "asin": "B006ZZCB60",
+  "parent_asin": "B006ZZCB60",
+  "user_id": "AGRX7GW6TWOWCKZRLXDQCCE7KA7Q",
+  "timestamp": 1411147509000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Farmhouse Jute Chair Pad 15\"",
+    "average_rating": 4.4,
+    "rating_number": 140,
+    "features": [
+      "Jute",
+      "Constructed of braided jute.",
+      "Dimensions 15\" round.",
+      "Please spot clean only."
+    ],
+    "description": [],
+    "price": 15.95,
+    "store": "Victorian Heart",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Chair Pads"
+    ],
+    "details": {
+      "Fill Material": "Jute",
+      "Color": "Natural",
+      "Size": "1 Count (Pack of 1)",
+      "Brand": "Victorian Heart",
+      "Shape": "Round"
+    },
+    "parent_asin": "B006ZZCB60",
+    "bought_together": null
+  }
+}

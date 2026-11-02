@@ -1,0 +1,49 @@
+{
+  "id": "AF2W62PTHUUYMC6CEEIDU6EVNNWQ_B08BG8VLBW_1546629037108",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "junk",
+  "text": "junk. Too think",
+  "asin": "B00AESC8VW",
+  "parent_asin": "B08BG8VLBW",
+  "user_id": "AF2W62PTHUUYMC6CEEIDU6EVNNWQ",
+  "timestamp": 1546629037108,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Carbon Filter 38002, Activated Carbon Pre-Filter 16\"x48\" Trim to Cut Sheets, 2 Pack",
+    "average_rating": 4.2,
+    "rating_number": 69,
+    "features": [
+      "IMPROVE THE AIR QUALITY IN YOUR HOME: Tired of feeling stuffy all the time? Breathe fresh air at home with this carbon filter sheet that helps remove pet dander, smoke, pollen, dust, and other irritants from the air.",
+      "HELPS CONTROL ODORS IN HOME: The activated carbon filter creates a healthier home environment and crisp air that everyone will enjoy.",
+      "UNIVERSAL FIT: The large 15-3/4\" x 48x sheet can be cut to fit the size you need and fit most Honeywell models, including series 10000, 11000, 12000, 13000, 14000, 15000, 17000, 18000, 40000, 50000, and 60000.",
+      "VERSATILE USE: The large activated charcoal filter can be used in air purifiers and humidifiers or as vent filters and appliance filters. The replacement carbon pre-filter should be switched out every 3 months.",
+      "BASED IN THE USA: Our activated carbon pre-filter is made from the finest quality materials and we are based in the USA for customer support."
+    ],
+    "description": [],
+    "price": 17.99,
+    "store": "CFS COMPLETE FILTRATION SERVICES EST.2006",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Purifier Parts & Accessories"
+    ],
+    "details": {
+      "Package Dimensions": "14.65 x 10.94 x 2.91 inches",
+      "Item Weight": "11.3 ounces",
+      "Manufacturer": "CFS COMPLETE FILTRATION SERVICES EST.2006",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 128592,
+        "Home Air Purifier Parts & Accessories": 931
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 9, 2016"
+    },
+    "parent_asin": "B08BG8VLBW",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B07XZK2JB2_1671818310763",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Great Product",
+  "text": "Great Product. Nice product for organizing and holds alot.",
+  "asin": "B078J5X5W8",
+  "parent_asin": "B07XZK2JB2",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1671818310763,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ZOBER Hanging Purse Organizer for Closet Clear Handbag Organizer for Purses, Handbags, Towels Etc. 8 Easy Access Clear Vinyl Pockets with 360 Degree Swivel Hook, Java, 48” L x 13.8” W",
+    "average_rating": 4.6,
+    "rating_number": 8606,
+    "features": [
+      "Hanging handbag closet organizer with 8 pockets and swivel hook saves closet shelf space, while neatly storing purses, handbags, diaper bags, small blankets, sheets, towels, hand towels, and other linens.",
+      "8 generously sized slots—4 in the front and 4 in the back of the purse organizer storage system—allows for plenty of handbag storage and purse organization in homes, dorms, and anywhere there’s hooks or rods. They are also an ideal solution for neat bath towel storage.",
+      "Closet handbag organizer purse holder features clear plastic slots that allow for easy identification of contents. Reinforced contrasting trim adds durability.",
+      "360-degree-swivel stainless-steel hook on the handbag towel organizer can hang on a standard closet rod and allow for easy access to each side.",
+      "Hanging Handbag Holder Dimensions: 48” L x 13.8” W; Pocket Slot Dimensions: 11 ¼ “ L x 10” W x 9” Depth."
+    ],
+    "description": [],
+    "price": 12.31,
+    "store": "ZOBER",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Mounted Closet Systems"
+    ],
+    "details": {
+      "Material": "Vinyl, Stainless Steel, Plastic",
+      "Mounting Type": "hanging",
+      "Room Type": "Closet",
+      "Shelf Type": "Plastic",
+      "Number of Shelves": "8",
+      "Special Feature": "Durable",
+      "Shape": "Rectangular",
+      "Age Range (Description)": "Adult",
+      "Brand": "ZOBER",
+      "Size": "48 L x 12 W",
+      "Assembly Required": "No",
+      "Manufacturer": "ZOBER",
+      "Furniture Finish": "Stainless Steel",
+      "Part Number": "ECJ-9345903290532LNRP",
+      "Item Weight": "10.4 ounces",
+      "Package Dimensions": "14.3 x 7.4 x 1.8 inches",
+      "Country of Origin": "China",
+      "Color": "Java",
+      "Special Features": "Durable",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 44101,
+        "Closet Mounted Storage & Organization Systems": 116
+      },
+      "Date First Available": "September 17, 2019"
+    },
+    "parent_asin": "B07XZK2JB2",
+    "bought_together": null
+  }
+}

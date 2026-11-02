@@ -1,0 +1,50 @@
+{
+  "id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ_B07DRQXHLZ_1605028815487",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "So cute!",
+  "text": "So cute!. It makes me smile every time I see it, and we need all the smiles we can get these days!",
+  "asin": "B07DRQXHLZ",
+  "parent_asin": "B07DRQXHLZ",
+  "user_id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ",
+  "timestamp": 1605028815487,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Why yes, I'm a bit stressed. Why do you ask?",
+    "average_rating": 4.7,
+    "rating_number": 13,
+    "features": [],
+    "description": [
+      "2\"x3\" magnet"
+    ],
+    "price": 8.99,
+    "store": "Ephemera, Inc",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Kitchen Accessories",
+      "Refrigerator Magnets"
+    ],
+    "details": {
+      "Package Dimensions": "3.62 x 2.13 x 0.67 inches",
+      "Item Weight": "0.95 ounces",
+      "Department": "unisex-adult",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 428006,
+        "Refrigerator Magnets": 11194
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 15, 2018",
+      "Size": "One Size",
+      "Color": "Multi Color",
+      "Material": "Magnet",
+      "Brand": "Ephemera, Inc"
+    },
+    "parent_asin": "B07DRQXHLZ",
+    "bought_together": null
+  }
+}

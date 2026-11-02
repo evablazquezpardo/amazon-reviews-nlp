@@ -1,0 +1,70 @@
+{
+  "id": "AGZ2VJFQR4MIQTB2WWNN3XQTSG6A_B01FPXO78M_1501671253728",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "JUNK",
+  "text": "JUNK. Piece of junk",
+  "asin": "B01FPXO78M",
+  "parent_asin": "B01FPXO78M",
+  "user_id": "AGZ2VJFQR4MIQTB2WWNN3XQTSG6A",
+  "timestamp": 1501671253728,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Homelegance Nightstand, Black",
+    "average_rating": 3.8,
+    "rating_number": 2,
+    "features": [
+      "Order Include : Night Stand",
+      "Plywood and manmade wood frame",
+      "2 ball bearing gliding drawers with butt joint construction",
+      "Silver bar-pull hardwares",
+      "Product Dimension : 21 x 16 x 22. 25H"
+    ],
+    "description": [
+      "The contemporary design of the Lorenzi Collection is enhanced by the addition of the durable black vinyl covering that encases each piece in the collection. Painted gray hardware provides a distinct contrast to the finish of cover. Scaled for urban living, this collection will provide a unique and stylish addition to your master, youth, and guest bedrooms."
+    ],
+    "price": 122.08,
+    "store": "Homelegance",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Bedroom Furniture",
+      "Nightstands"
+    ],
+    "details": {
+      "Product Dimensions": "16\"D x 21.3\"W x 22\"H",
+      "Color": "Black",
+      "Brand": "Homelegance",
+      "Table design": "Nightstand",
+      "Special Feature": "Storage",
+      "Style": "Contemporary",
+      "Room Type": "Bedroom",
+      "Finish Type": "Painted",
+      "Base Type": "Legs",
+      "Unit Count": "1.0 Count",
+      "Model Name": "HO-2220-4",
+      "Number of Drawers": "2",
+      "Item Weight": "22 pounds",
+      "Included Components": "NightStand",
+      "Furniture Finish": "Black",
+      "Item model number": "HO-2220-4",
+      "Assembled Height": "22 inches",
+      "Assembled Width": "16 inches",
+      "Assembled Length": "21.3 inches",
+      "Weight": "37.4 Pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 5568463,
+        "Nightstands": 5925
+      },
+      "Date First Available": "May 15, 2016",
+      "Shape Rectangular": "",
+      "": "Assembly Required Yes",
+      "Frame Material Plastic": ""
+    },
+    "parent_asin": "B01FPXO78M",
+    "bought_together": null
+  }
+}

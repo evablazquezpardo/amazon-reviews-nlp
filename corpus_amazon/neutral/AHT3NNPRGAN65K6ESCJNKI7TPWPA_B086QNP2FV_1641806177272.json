@@ -1,0 +1,58 @@
+{
+  "id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA_B086QNP2FV_1641806177272",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Cool buy",
+  "text": "Cool buy. Kept the kids entertained but chocolate was bad so we inpervised",
+  "asin": "B086QNP2FV",
+  "parent_asin": "B086QNP2FV",
+  "user_id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA",
+  "timestamp": 1641806177272,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Toys & Games",
+    "title": "Chocolate Pen Real Cooking and 4 Bars of Candy Chocolate, Kids Crafting Baking Kits, Draw in Chocolate and DIY Your Own Baking Creations!",
+    "average_rating": 3.9,
+    "rating_number": 4530,
+    "features": [
+      "Draw in chocolate and DIY your own baking creations with the newly updated Chocolate Pen!",
+      "New kid-friendly design features a pen that automatically loads chocolate and a melting tray that keeps colors melted and ready to go.",
+      "Kid chefs can draw their own shapes or create colorful treats with 40 mold designs, including bonus molds inspired by Blume Dolls.",
+      "Candy creations harden in minutes.",
+      "Comes with an equivalent of 4 ½ bars of chocolate produced in the USA!.4 tasty colors to choose from..Recommended for ages 6 and older."
+    ],
+    "description": [
+      "Create in delicious style with the better-than-ever Chocolate Pen! New kid-friendly design automatically loads the pen with chocolate. At the touch of a button you can write words, draw one-of-a-kind designs, or use the 40 molds to make rainbows, hearts and other fun shapes, including bonus molds inspired by Blume Dolls. Kid chefs will love adding their chocolatey touches to fruit, cookies, cupcakes, or anything else their sweet tooth desires! Your DIY creations will magically harden in minutes and make a perfect gift for friends and family to enjoy. Craft kit includes 1 Chocolate Pen, Drawing Tip, 4 Tasty Colors, Stirring Stick, 40 Mold Designs, and Instructions."
+    ],
+    "price": 19.99,
+    "store": "Real Cooking",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Candy Making Supplies",
+      "Chocolate Molds"
+    ],
+    "details": {
+      "Product Dimensions": "2.65 x 12 x 12 inches",
+      "Item Weight": "1.87 pounds",
+      "Country of Origin": "China",
+      "Item model number": "Chocolate Pen",
+      "Manufacturer recommended age": "6 - 12 years",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 39463,
+        "Chocolate Molds": 118
+      },
+      "Release date": "July 20, 2020",
+      "Manufacturer": "Skyrocket Toys",
+      "Flavor": "Chocolate",
+      "Brand": "Chocolate Pen",
+      "Item Form": "Bar",
+      "Number of Pieces": "50"
+    },
+    "parent_asin": "B086QNP2FV",
+    "bought_together": null
+  }
+}

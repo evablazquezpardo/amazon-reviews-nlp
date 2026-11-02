@@ -1,0 +1,56 @@
+{
+  "id": "AGDXZ37QJDZX4PWN7S5G7HGMIRTQ_B08WTQMKRL_1619097394467",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Some screws were missing",
+  "text": "Some screws were missing. Some screws weren't with it.",
+  "asin": "B08WVBPRRB",
+  "parent_asin": "B08WTQMKRL",
+  "user_id": "AGDXZ37QJDZX4PWN7S5G7HGMIRTQ",
+  "timestamp": 1619097394467,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kings Brand Furniture – Darien 3 Step Wood Step Stool for Adults or Kids, Dog Stairs, Black",
+    "average_rating": 4.1,
+    "rating_number": 148,
+    "features": [
+      "Kings Brand Furniture – Darien 3 Step Wood Step Stool for Adults or Kids, Dog Stairs, Black",
+      "Even if you're all done growing, you can give yourself an extra few inches with high step stool.",
+      "Crafted from manufactured wood, this piece features three steps to help you hop onto a high bed or reach upper corners of a kitchen cabinet.",
+      "While its understated design and neutral finish allow it to blend in with an existing arrangement.",
+      "Dimensions: 16\"W x 19\"D x 14\"H. Finish: Black. Materials: Wood."
+    ],
+    "description": [],
+    "price": 65.99,
+    "store": "Kings Brand Furniture",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Kids' Furniture",
+      "Step Stools"
+    ],
+    "details": {
+      "Product Dimensions": "19\"D x 16\"W x 14\"H",
+      "Brand": "Kings Brand Furniture",
+      "Material": "Wood",
+      "Color": "Black",
+      "Room Type": "Kitchen",
+      "Maximum Height": "14 Inches",
+      "Style": "Modern",
+      "Assembly Required": "Yes",
+      "Item Weight": "14.52 pounds",
+      "Manufacturer": "Kings Brand Furniture",
+      "Country of Origin": "China",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 581816,
+        "Kids' Step Stools": 349
+      },
+      "Date First Available": "February 17, 2021"
+    },
+    "parent_asin": "B08WTQMKRL",
+    "bought_together": null
+  }
+}

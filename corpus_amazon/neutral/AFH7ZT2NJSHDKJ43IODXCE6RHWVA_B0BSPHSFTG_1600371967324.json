@@ -1,0 +1,50 @@
+{
+  "id": "AFH7ZT2NJSHDKJ43IODXCE6RHWVA_B0BSPHSFTG_1600371967324",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not our favorite",
+  "text": "Not our favorite. We prefer a cake brownie and even though following the cake type recipe it came out too soft.  Our favorite was Double Chocolate brownies but we've been unable to find any. Hope they are not discontinued. We have one more box of these to try so I'll tweek it to try and make it more palatable.",
+  "asin": "B00G7U5KZC",
+  "parent_asin": "B0BSPHSFTG",
+  "user_id": "AFH7ZT2NJSHDKJ43IODXCE6RHWVA",
+  "timestamp": 1600371967324,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Grocery",
+    "title": "Duncan Hines Chocolate Lovers Brownie 2-Pack: Dark Chocolate Fudge & Milk Chocolate (18.2 oz x 2)",
+    "average_rating": 4.6,
+    "rating_number": 727,
+    "features": [
+      "Duncan Hines Dark Chocolate Fudge Brownie Mix - 2 boxes",
+      "Family Style Brownie Mix",
+      "13\"x9\""
+    ],
+    "description": [
+      "Duncan Hines Dark Chocolate Fudge Brownie Mix - 2 boxes"
+    ],
+    "price": 9.93,
+    "store": "Duncan Hines",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Conditioner Parts & Accessories",
+      "Motors"
+    ],
+    "details": {
+      "Brand": "Duncan Hines",
+      "Flavor": "Dark-Chocolate",
+      "Number of Items": "2",
+      "Unit Count": "39.6 Ounce",
+      "Item Weight": "2.35 Ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "7 x 3 x 5 inches; 2.35 Ounces",
+      "UPC": "672975629588",
+      "Manufacturer": "Conagra"
+    },
+    "parent_asin": "B0BSPHSFTG",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B00KN7ZYFQ_1510864559275",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Four Stars",
+  "text": "Four Stars. Very nice hand towel.",
+  "asin": "B00KN7ZYFQ",
+  "parent_asin": "B00KN7ZYFQ",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1510864559275,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Avanti Paw Prints Fingertip Towel, Copper",
+    "average_rating": 4.1,
+    "rating_number": 4,
+    "features": [
+      "100% Cotton",
+      "Made in US",
+      "The towels are 100% cotton",
+      "Fashionable decorative towel",
+      "Top quality"
+    ],
+    "description": [
+      "Avanti Linens is the world's largest decorative bath towel and bath accessories manufacturers! All of there products are the best design and quality offered in the market."
+    ],
+    "price": null,
+    "store": "Avanti Linens",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Fingertip Towels"
+    ],
+    "details": {
+      "Color": "Copper",
+      "Brand": "Avanti Linens",
+      "Towel form type": "Fingertip Towel",
+      "Material": "Cotton",
+      "Size": "Fingertip",
+      "Unit Count": "1 Count",
+      "Fabric Type": "100% Cotton",
+      "Package Type": "Standard Packaging",
+      "Product Dimensions": "11 x 18 x 0.25 inches",
+      "Item Weight": "0.353 ounces",
+      "Manufacturer": "Avanti Linens",
+      "Item model number": "19514COP",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Import": "Made in US"
+    },
+    "parent_asin": "B00KN7ZYFQ",
+    "bought_together": null
+  }
+}

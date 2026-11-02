@@ -1,0 +1,59 @@
+{
+  "id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q_B00474QGYE_1424196377000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "great tables",
+  "text": "great tables. Beautiful and sturdy!!!",
+  "asin": "B00474QGYE",
+  "parent_asin": "B00474QGYE",
+  "user_id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q",
+  "timestamp": 1424196377000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Crown Mark Ferrara Chair Side Table",
+    "average_rating": 4.1,
+    "rating_number": 120,
+    "features": [
+      "Transitional style",
+      "24 by 12 by 24-Inch high",
+      "Easy assembly",
+      "Espresso finish"
+    ],
+    "description": [
+      "The Ferrara chair side table is an easy fit for any spot in the home. A faux marble top adds to the design. A shelf at the base offers additional storage. Espresso finish."
+    ],
+    "price": null,
+    "store": "Crown Mark",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "End Tables"
+    ],
+    "details": {
+      "Product Dimensions": "24\"D x 24\"W x 12\"H",
+      "Brand": "Crown Mark",
+      "Special Feature": "Storage",
+      "Style": "Traditional",
+      "Base Type": "Leg",
+      "Assembly Required": "Yes",
+      "Furniture Finish": "Espresso Finish",
+      "Item Weight": "19.41 pounds",
+      "Item model number": "7221",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembled Height": "24 inches",
+      "Assembled Width": "12 inches",
+      "Assembled Length": "24 inches",
+      "Weight": "20.2 Pounds",
+      "Date First Available": "December 13, 2010",
+      "Shape Rectangular": "",
+      "": "Top Material Type Faux Marble"
+    },
+    "parent_asin": "B00474QGYE",
+    "bought_together": null
+  }
+}

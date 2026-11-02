@@ -1,0 +1,43 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B08HPNYQ6G_1620825204681",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Awesome Pillow Covers, great price",
+  "text": "Awesome Pillow Covers, great price. These are beautiful!",
+  "asin": "B08HPNYQ6G",
+  "parent_asin": "B08HPNYQ6G",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1620825204681,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "MIULEE Throw Pillow Covers with Pom-poms, Corduroy Square Solid Cushion Cases Soft Decorative Pillowcases for Spring Couch Sofa Bedroom, 18x18 inch Blue",
+    "average_rating": 4.5,
+    "rating_number": 23,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "MIULEE",
+    "categories": [],
+    "details": {
+      "Pattern": "Striped",
+      "Product Dimensions": "18\"L x 18\"W",
+      "Brand": "MIULEE",
+      "Shape": "Square",
+      "Number of Items": "1",
+      "Special Feature": "Fade Resistant",
+      "Number of Pieces": "2",
+      "Room Type": "Bedroom",
+      "Product Care Instructions": "Hand Wash Only",
+      "Occasion": "Party,Picnic,Home Decor",
+      "Closure Type": "Zipper",
+      "Recommended Uses For Product": "Home",
+      "Item Weight": "1.05 pounds",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B08HPNYQ6G",
+    "bought_together": null
+  }
+}

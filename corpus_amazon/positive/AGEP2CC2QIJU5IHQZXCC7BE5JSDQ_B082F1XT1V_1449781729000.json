@@ -1,0 +1,62 @@
+{
+  "id": "AGEP2CC2QIJU5IHQZXCC7BE5JSDQ_B082F1XT1V_1449781729000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. nice and worth the price.",
+  "asin": "B0062XAPEU",
+  "parent_asin": "B082F1XT1V",
+  "user_id": "AGEP2CC2QIJU5IHQZXCC7BE5JSDQ",
+  "timestamp": 1449781729000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mikasa Bravo Stainless Steel Large Salad Serving Fork",
+    "average_rating": 4.7,
+    "rating_number": 171,
+    "features": [
+      "This classic design adds elegance to any table setting.",
+      "Crafted from top quality, premium stainless steel for durability and rust resistance.",
+      "Perfect for formal entertaining, as well as everyday use.",
+      "With a gently ridged edge for added definition and style, these serving pieces will be a wonderful addition to any table.",
+      "This flatware is dishwasher safe, and never needs polishing."
+    ],
+    "description": [
+      "A simple teardrop shape and shiny finish make the bravo serving pieces a reliable crowd pleaser. This classic design adds elegance to any table setting. Crafted from top quality, premium stainless steel for durability and rust resistance. Perfect for formal entertaining, as well as everyday use. With a gently ridged edge for added definition and style, these serving pieces will be a wonderful addition to any table. This flatware is dishwasher safe, and never needs polishing."
+    ],
+    "price": null,
+    "store": "Mikasa",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Bar & Wine Tools",
+      "Ice Buckets & Tongs",
+      "Ice Buckets"
+    ],
+    "details": {
+      "Material": "Stainless Steel",
+      "Color": "Silver",
+      "Brand": "Mikasa",
+      "Item Dimensions LxWxH": "4.84 x 2.17 x 13.98 inches",
+      "Handle Material": "Stainless Steel",
+      "Number of Pieces": "1",
+      "Finish Type": "Polished",
+      "Is Dishwasher Safe": "Yes",
+      "Product Dimensions": "4.84 x 2.17 x 13.98 inches",
+      "Item Weight": "1.75 pounds",
+      "Manufacturer": "Lifetime Brands",
+      "Item model number": "5080627",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 303304,
+        "Ice Buckets": 743
+      },
+      "Is Discontinued By Manufacturer": "Yes",
+      "Date First Available": "November 1, 2011"
+    },
+    "parent_asin": "B082F1XT1V",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AHQKDADRWYPGGJFCUD3WI4ANDQXQ_B00NAXT2GW_1453777673000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. cheep junk",
+  "asin": "B00NAXT2GW",
+  "parent_asin": "B00NAXT2GW",
+  "user_id": "AHQKDADRWYPGGJFCUD3WI4ANDQXQ",
+  "timestamp": 1453777673000,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Monarch Specialties Marble-Look Top Sofa Console Table, Black/Grey",
+    "average_rating": 3.2,
+    "rating_number": 14,
+    "features": [
+      "Materials: MDF, Melamine, Marble Paper, Particle Board",
+      "Modern black/grey marble-look top and sleek black tapered legs",
+      "The open bottom shelf can be used for added storage or to show case decorative pieces",
+      "Assembly required",
+      "Dimensions: 44 Inch length x 18 Inch width x 29 Inch height"
+    ],
+    "description": [
+      "With a modern black/grey marble-look top and sleek black tapered legs, this console sofa table appeals to any living space. The open bottom shelf can be used for added storage or to show case decorative pieces. Perfect for the living room, the entry way or anywhere in your home to display your favorites accents in style."
+    ],
+    "price": null,
+    "store": "Monarch Specialties",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "Sofa & Console Tables"
+    ],
+    "details": {
+      "Product Dimensions": "18\"D x 44\"W x 29\"H",
+      "Color": "Black",
+      "Brand": "Monarch Specialties",
+      "Table design": "Console Table",
+      "Special Feature": "Storage",
+      "Style": "Contemporary",
+      "Room Type": "Living Room",
+      "Finish Type": "black",
+      "Base Type": "Legs",
+      "Pattern": "Marble",
+      "Model Name": "Monarch Specialties",
+      "Item Weight": "36 pounds",
+      "Furniture Finish": "Black",
+      "Item model number": "I 3131",
+      "Is Discontinued By Manufacturer": "No",
+      "Weight": "36 Pounds",
+      "Date First Available": "August 22, 2014",
+      "Shape Rectangular": "",
+      "": "Assembly Required Yes",
+      "Frame Material Engineered Wood": ""
+    },
+    "parent_asin": "B00NAXT2GW",
+    "bought_together": null
+  }
+}

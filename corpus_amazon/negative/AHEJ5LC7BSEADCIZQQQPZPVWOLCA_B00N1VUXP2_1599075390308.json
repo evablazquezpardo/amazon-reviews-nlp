@@ -1,0 +1,59 @@
+{
+  "id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA_B00N1VUXP2_1599075390308",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not everything you buy is easy to put together",
+  "text": "Not everything you buy is easy to put together. It did not work for me so I gave it to someone else who would use it<br />Would not buy it again",
+  "asin": "B00H7P1GPO",
+  "parent_asin": "B00N1VUXP2",
+  "user_id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA",
+  "timestamp": 1599075390308,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Foldable Laundry Rack for Air Drying Clothing - 41.8\" x 29.5\" x 14.5\", Chrome",
+    "average_rating": 4.7,
+    "rating_number": 55876,
+    "features": [
+      "Clothes drying rack for energy savings and gentle drying so your clothes last longer",
+      "Made of durable yet lightweight steel that is easy to move from room to room; supports up to 32 pounds",
+      "Accordion design folds flat for compact storage",
+      "Chrome surface protects against rust and mildew",
+      "Measures approximately 14.5 x 29.5 x 41.75 inches (LxWxH)",
+      "For indoor use only"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Foldable Laundry Rack for Air Drying Clothing - 41.8 x 29.5 x 14.5, Chrome",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 33.99,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Drying Racks"
+    ],
+    "details": {
+      "Product Dimensions": "29.5 x 14.5 x 41.8 inches",
+      "Item Weight": "3.9 pounds",
+      "Manufacturer": "Amazon Basics",
+      "Country of Origin": "China",
+      "Item model number": "SL-DRYM-005",
+      "Best Sellers Rank": {
+        "Our Brands": 181,
+        "Clothes Drying Racks": 1
+      },
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B00N1VUXP2",
+    "bought_together": null
+  }
+}

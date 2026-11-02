@@ -1,0 +1,44 @@
+{
+  "id": "AECABX3OO3GK7FCPZLFM3LT2E6UA_B07TVGZY45_1619636347691",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Good",
+  "text": "Good. Work great- lots of different sizes to choose from",
+  "asin": "B07TVGZY45",
+  "parent_asin": "B07TVGZY45",
+  "user_id": "AECABX3OO3GK7FCPZLFM3LT2E6UA",
+  "timestamp": 1619636347691,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Yagote Silicone Lids Covers, 5 Packs Heat Resistant Microwave Food Cover for Bowls, Cups, Pots, Pans, Safe for Stove Top, Oven, Fridge and Freezer, Fit Various Sizes",
+    "average_rating": 4.5,
+    "rating_number": 181,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Yagote",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Lids"
+    ],
+    "details": {
+      "Material": "Silicone",
+      "Brand": "Yagote",
+      "Style": "Microwave,Jar,Cup,Cups,Pans,Can",
+      "Shape": "Round",
+      "Number of Pieces": "5",
+      "Is Dishwasher Safe": "Yes",
+      "Is Microwaveable": "Yes",
+      "Package Dimensions": "12.2 x 11.6 x 0.6 inches",
+      "Item Weight": "1.2 pounds",
+      "Date First Available": "August 29, 2019"
+    },
+    "parent_asin": "B07TVGZY45",
+    "bought_together": null
+  }
+}

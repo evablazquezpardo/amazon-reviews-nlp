@@ -1,0 +1,64 @@
+{
+  "id": "AF34HQQ3RZOFQDNN6TBKW523Z33A_B017Y7T6U6_1613092900879",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Wrong size",
+  "text": "Wrong size. Wrong size.",
+  "asin": "B017Y7T6U6",
+  "parent_asin": "B017Y7T6U6",
+  "user_id": "AF34HQQ3RZOFQDNN6TBKW523Z33A",
+  "timestamp": 1613092900879,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "Milwaukee Genuine OEM 49-90-1950 3” Replacement Dry Filters for M12 Compact Vacuum (2 Pack)",
+    "average_rating": 4.8,
+    "rating_number": 403,
+    "features": [
+      "COMPATIBLE MODEL: Milwaukee 0850-20 M12 Compact Vacuum",
+      "EASY INSTALLATION: The side tabs latch on easily to the connectors of the compatible vacuum, making larger cleaning jobs a breeze",
+      "DRY REFUSE: This filter is ideal for small particles like sawdust, drywall dust, dirt, and other workshop, garage, and basement debris",
+      "TWIN PACK: There are two filters included in this kit, for double the cleaning power",
+      "CLEANING: You can make these filters last longer by going through them with an air compressor or nylon brush"
+    ],
+    "description": [
+      "If you want to keep your workshop, basement, or garage clear of debris, you need a quality vacuum. If you’re working with a Milwaukee vacuum, you’re going to want Milwaukee filters to optimize your cleaning experience. Working with the M12 series of vacuums, you should use the 49-90-1950 filter. This two pack of OEM filters is what you need to replace your old one. Like the original filter, you’ve got an easy to install filter that uses tabs to lock into place. Once you’ve sucked up the dirt and dust from your workplace, you can either replace it with the second filter in the pack, or clean it out with a brush or air compressor. You may be able to extend its lifetime, preventing you from having to go out and buy a new one as frequently. Whether you’re cleaning your home or business, you can’t go wrong with Milwaukee."
+    ],
+    "price": null,
+    "store": "Milwaukee",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Filters",
+      "Upright Filters"
+    ],
+    "details": {
+      "Manufacturer": "Builders World Wholesale Distribution",
+      "Part Number": "49-90-1950",
+      "Item Weight": "4 ounces",
+      "Product Dimensions": "2.34\"L x 1.99\"W x 2.48\"H",
+      "Item model number": "49-90-1950",
+      "Is Discontinued By Manufacturer": "No",
+      "Material": "Nylon",
+      "Item Package Quantity": "1",
+      "Number Of Pieces": "2",
+      "Measurement System": "Metric",
+      "Included Components": "Vacuum and Dust Collector Filters",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 569670,
+        "Replacement Upright Vacuum Filters": 1742
+      },
+      "Date First Available": "November 13, 2015",
+      "Brand": "Milwaukee",
+      "Compatible Devices": "Milwaukee 0850-20 M12 Compact Vacuum",
+      "Reusability": "Reusable"
+    },
+    "parent_asin": "B017Y7T6U6",
+    "bought_together": null
+  }
+}

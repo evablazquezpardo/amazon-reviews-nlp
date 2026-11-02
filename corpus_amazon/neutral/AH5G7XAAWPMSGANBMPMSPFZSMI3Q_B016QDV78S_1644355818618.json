@@ -1,0 +1,56 @@
+{
+  "id": "AH5G7XAAWPMSGANBMPMSPFZSMI3Q_B016QDV78S_1644355818618",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Scoop",
+  "text": "Scoop. Scoop, there it is. Scoop, there it is. Scoop, there it is. Scoop.",
+  "asin": "B016QDV78S",
+  "parent_asin": "B016QDV78S",
+  "user_id": "AH5G7XAAWPMSGANBMPMSPFZSMI3Q",
+  "timestamp": 1644355818618,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OXO Good Grips Cookie Scoop, Medium",
+    "average_rating": 4.5,
+    "rating_number": 361,
+    "features": [
+      "Medium Scoop holds 1 1/2 Tbsp and yields a 2 3/4\" diameter cookie",
+      "Wiper cleanly ejects even sticky dough",
+      "Creates uniform cookies",
+      "Soft, comfortable spring-loaded handle",
+      "Size 40 portioner"
+    ],
+    "description": [
+      "Yields perfectly shaped, 2 ¾\"-diameter cookies. This size 40 portioner is designed for easy scooping and consistent shaping. The soft grip absorbs pressure while you squeeze to smoothly release your cookie dough. Dishwasher safe. Also try our Small and Large Cookie Scoops."
+    ],
+    "price": null,
+    "store": "OXO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Specialty Tools & Gadgets",
+      "Ice Cream Scoops"
+    ],
+    "details": {
+      "Product Dimensions": "0.9 x 2.6 x 8.2 inches",
+      "Item Weight": "0.29 Pounds",
+      "Manufacturer": "OXO",
+      "Item model number": "1189660",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 274149,
+        "Ice Cream Scoops": 730
+      },
+      "Date First Available": "October 5, 2015",
+      "Color": "Stainless Steel",
+      "Material": "Stainless Steel",
+      "Brand": "OXO",
+      "Item Dimensions LxWxH": "0.9 x 2.6 x 8.2 inches"
+    },
+    "parent_asin": "B016QDV78S",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "AHXSNO2ZJ7ZOTJ3Q4BVOEBT7P6FQ_B00023C6K2_1601649868173",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Good",
+  "text": "Good. Good scissors",
+  "asin": "B00023C6K2",
+  "parent_asin": "B00023C6K2",
+  "user_id": "AHXSNO2ZJ7ZOTJ3Q4BVOEBT7P6FQ",
+  "timestamp": 1601649868173,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "HENCKELS Kitchen Shears, Multi-Purpose, Dishwasher Safe, Heavy Duty, Stainless Steel, Made in Japan",
+    "average_rating": 4.8,
+    "rating_number": 3199,
+    "features": [
+      "QUALITY MANUFACTURING: High quality corrosion resistant stainless steel",
+      "MULTI-PURPOSE: Suitable for most kitchen cutting tasks, can be used as a nutcracker or open screw caps with ease",
+      "CUT WITH EASE: Micro serrated blade for slip proof cutting",
+      "DISHWASHER SAFE: Hand washing recommended",
+      "No stain steel blades",
+      "Serrated metal handle insert opens bottle caps/cracks nuts",
+      "Suitable for most kitchen cutting tasks",
+      "Dishwasher safe (not recommended by J.A. Henckels International)",
+      "Made in Japan"
+    ],
+    "description": [
+      "J.A. Henckels International Paring Knives are perfectly designed for smaller kitchen tasks such as peeling or coring vegetables and fruits. 3-pc set includes: 3.5-inch paring knife, 3-inch vegetable knife and a 2-inch peeling knife. Dishwasher safe."
+    ],
+    "price": null,
+    "store": "HENCKELS",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Shears"
+    ],
+    "details": {
+      "Color": "Blue",
+      "Material": "Stainless Steel",
+      "Brand": "HENCKELS",
+      "Blade Material": "Stainless Steel",
+      "Style": "Bottle Opener",
+      "Item Weight": "4 ounces",
+      "Blade Length": "8 Inches",
+      "Blade Edge": "Serrated",
+      "Finish Type": "Brushed",
+      "Handle Material": "Metal,Stainless Steel",
+      "Hand Orientation": "Ambidextrous",
+      "Product Dimensions": "10.25\"L x 3.75\"W",
+      "Manufacturer": "Zwilling J.A. Henckels Cutlery",
+      "Item model number": "41365-001",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 32320,
+        "Kitchen Shears": 88,
+        "Kitchen Knives & Accessories": 686
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 2, 2004",
+      "Item Dimensions LxWxH": "10.25 x 3.75 x 2.75 inches"
+    },
+    "parent_asin": "B00023C6K2",
+    "bought_together": null
+  }
+}

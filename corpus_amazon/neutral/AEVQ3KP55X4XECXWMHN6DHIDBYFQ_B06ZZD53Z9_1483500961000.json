@@ -1,0 +1,54 @@
+{
+  "id": "AEVQ3KP55X4XECXWMHN6DHIDBYFQ_B06ZZD53Z9_1483500961000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not worth the money",
+  "text": "Not worth the money. The wood is flimsy and barley holds 6 bottles of wine without the rack wobbling",
+  "asin": "B01AMNX7CW",
+  "parent_asin": "B06ZZD53Z9",
+  "user_id": "AEVQ3KP55X4XECXWMHN6DHIDBYFQ",
+  "timestamp": 1483500961000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bamboo Wine Rack - Holds 12",
+    "average_rating": 4.2,
+    "rating_number": 727,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Sorbus",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Wine Racks & Cabinets",
+      "Freestanding Wine Racks & Cabinets"
+    ],
+    "details": {
+      "Brand": "Sorbus",
+      "Color": "Black",
+      "Material": "Wood",
+      "Mounting Type": "Tabletop",
+      "Style": "Classic",
+      "Bottle Count": "12",
+      "Assembly Required": "No",
+      "Item Depth": "12 inches",
+      "Product Dimensions": "12 x 16.5 x 6 inches",
+      "Item Weight": "2.1 pounds",
+      "Manufacturer": "Sorbus inc.",
+      "Item model number": "WN-WOOD12",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 302740,
+        "Freestanding Wine Racks & Cabinets": 539
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 14, 2016"
+    },
+    "parent_asin": "B06ZZD53Z9",
+    "bought_together": null
+  }
+}

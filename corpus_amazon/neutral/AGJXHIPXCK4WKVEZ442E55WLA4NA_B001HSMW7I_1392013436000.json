@@ -1,0 +1,58 @@
+{
+  "id": "AGJXHIPXCK4WKVEZ442E55WLA4NA_B001HSMW7I_1392013436000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Came to me defective",
+  "text": "Came to me defective. i can't really write a review as it would not turn on. I really wanted it to work, it would have been perfect. Alas, it was not to be.",
+  "asin": "B001HSMW7I",
+  "parent_asin": "B001HSMW7I",
+  "user_id": "AGJXHIPXCK4WKVEZ442E55WLA4NA",
+  "timestamp": 1392013436000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Black & Decker Spacemaker Coffee Grinder & Chopper",
+    "average_rating": 4.1,
+    "rating_number": 116,
+    "features": [
+      "Mountable under the cabinet",
+      "Grind Selection button: Coarse, Medium or Fine Number of Cups Selection button: 4, 8 or 12 cups",
+      "Removable Containers; transparent plastic w/metal bottom grinder container and transparent plastic chopper container w/rubberized lid.",
+      "Pulse button for chopper function",
+      "Cord Management feature allows you to neatly store power cord in back of the unit while plugged in"
+    ],
+    "description": [
+      "The latest addition to the Spacemaker line. The new Spacemaker coffee grinder is the perfect complement to any coffee maker. Designed to last and perform, this coffee grinder frees up additional counter space in your kitchen."
+    ],
+    "price": null,
+    "store": "BLACK+DECKER",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Grinders",
+      "Electric Burr Grinders"
+    ],
+    "details": {
+      "Color": "Black",
+      "Brand": "BLACK+DECKER",
+      "Material": "Plastic",
+      "Item Weight": "3.55 Pounds",
+      "Item Dimensions LxWxH": "8.07 x 5.51 x 9.65 inches",
+      "Recommended Uses For Product": "Kitchen",
+      "Product Dimensions": "8.07 x 5.51 x 9.65 inches",
+      "Manufacturer": "Black & Decker",
+      "Item model number": "CG700",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2990900,
+        "Burr Coffee Grinders": 363
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 19, 2005"
+    },
+    "parent_asin": "B001HSMW7I",
+    "bought_together": null
+  }
+}

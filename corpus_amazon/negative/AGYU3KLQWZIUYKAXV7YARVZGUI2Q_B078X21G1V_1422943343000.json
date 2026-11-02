@@ -1,0 +1,65 @@
+{
+  "id": "AGYU3KLQWZIUYKAXV7YARVZGUI2Q_B078X21G1V_1422943343000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Cheap looking plastic candles.",
+  "asin": "B004SEYPHS",
+  "parent_asin": "B078X21G1V",
+  "user_id": "AGYU3KLQWZIUYKAXV7YARVZGUI2Q",
+  "timestamp": 1422943343000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Darice 6204-12 2-Piece Battery Operated LED Taper Candle, 11-Inch, Ivory",
+    "average_rating": 3.6,
+    "rating_number": 193,
+    "features": [
+      "11 inch in length",
+      "2 Candles included",
+      "400 Hours of life on the batteries"
+    ],
+    "description": [
+      "Darice's LED Taper Candle has silicone style bulbs and will add a beautiful touch to your decor. These candle sticks are battery operated."
+    ],
+    "price": 9.99,
+    "store": "Darice",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Candles & Holders",
+      "Candles",
+      "Taper Candles"
+    ],
+    "details": {
+      "Style": "Without Timer",
+      "Brand": "Darice",
+      "Color": "Ivory",
+      "Light Source Type": "LED",
+      "Material": "Silicone",
+      "Room Type": "Bedroom",
+      "Shade Material": "Silicone",
+      "Power Source": "Battery Powered",
+      "Switch Type": "Touch",
+      "Included Components": "Battery",
+      "Product Dimensions": "14 x 3.25 x 0.75 inches",
+      "Item Weight": "3.84 ounces",
+      "Department": "82676854668",
+      "Manufacturer": "Darice",
+      "Item model number": "6204-12",
+      "Batteries": "3 AAA batteries required.",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2056278,
+        "Taper Candles": 1261
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "6",
+      "Batteries required": "Yes"
+    },
+    "parent_asin": "B078X21G1V",
+    "bought_together": null
+  }
+}

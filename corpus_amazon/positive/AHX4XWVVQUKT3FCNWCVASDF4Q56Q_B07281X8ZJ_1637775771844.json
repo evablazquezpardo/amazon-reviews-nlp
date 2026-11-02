@@ -1,0 +1,68 @@
+{
+  "id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q_B07281X8ZJ_1637775771844",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Very happy",
+  "text": "Very happy. Excellent and happy with our purchase! Thank you for selling top quality!",
+  "asin": "B07281X8ZJ",
+  "parent_asin": "B07281X8ZJ",
+  "user_id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q",
+  "timestamp": 1637775771844,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Appliances",
+    "title": "FRIGIDAIRE FFMV1645TS 30\" Over the Range Microwave with 1.6 cu. ft. in Stainless Steel",
+    "average_rating": 4.4,
+    "rating_number": 834,
+    "features": [
+      "Over the range",
+      "1000 watts/ 10 Power levels",
+      "2 speed ventilation/ 220 cfm/ cooktop LED lighting",
+      "Dimensions (WHD): 29-7/8 x 16-13/32 x 15-1/4\""
+    ],
+    "description": [
+      "Over the range 1000 watts/ 10 Power levels 2 Speed ventilation/ 220 cfm/ cooktop LED lighting Dimensions (WHD): 29-7/8 x 16-13/32 x 15-1/4\"."
+    ],
+    "price": null,
+    "store": "FRIGIDAIRE",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Microwave Ovens",
+      "Over-the-Range Microwave Ovens"
+    ],
+    "details": {
+      "Brand Name": "Frigidaire",
+      "Model Info": "FFMV1645TS",
+      "Item Weight": "52.6 Pounds",
+      "Product Dimensions": "17\"D x 30\"W x 16\"H",
+      "Item model number": "FFMV1645TS",
+      "Is Discontinued By Manufacturer": "No",
+      "Energy Use": "1000 Watts",
+      "Capacity": "1.6 Cubic Feet",
+      "Installation Type": "Over-the-Range",
+      "Part Number": "FFMV1645TS",
+      "Special Features": "Turntable",
+      "Color": "Stainless Steel",
+      "Wattage": "1000 watts",
+      "Material Type": "Metal",
+      "Included Components": "FFMV1645TS Microwave",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 205482,
+        "Over-the-Range Microwave Ovens": 49
+      },
+      "Date First Available": "July 8, 2017",
+      "Brand": "Frigidaire",
+      "Special Feature": "Turntable",
+      "Material": "Metal",
+      "Controller Type": "Touch"
+    },
+    "parent_asin": "B07281X8ZJ",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "AHQDAU75P56OAA2H2MRWMPKBW6ZA_B0133OJC9E_1483641820000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Cute Christmas hand towel with French knot accents.",
+  "asin": "B0133OJC9E",
+  "parent_asin": "B0133OJC9E",
+  "user_id": "AHQDAU75P56OAA2H2MRWMPKBW6ZA",
+  "timestamp": 1483641820000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Santa French Knot Towel",
+    "average_rating": 3.0,
+    "rating_number": 2,
+    "features": [
+      "Linen"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Mud Pie",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Dish Cloths & Dish Towels"
+    ],
+    "details": {
+      "Package Dimensions": "10.2 x 6.6 x 0.2 inches",
+      "Item Weight": "3.99 ounces",
+      "Item model number": "4404173S",
+      "Fabric Type": "Linen",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B0133OJC9E",
+    "bought_together": null
+  }
+}

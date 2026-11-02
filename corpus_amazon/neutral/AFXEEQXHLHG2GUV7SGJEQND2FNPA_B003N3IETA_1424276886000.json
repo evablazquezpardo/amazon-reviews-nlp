@@ -1,0 +1,64 @@
+{
+  "id": "AFXEEQXHLHG2GUV7SGJEQND2FNPA_B003N3IETA_1424276886000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "it does not have a lot of space inside of ...",
+  "text": "it does not have a lot of space inside of .... it does not have a lot of space inside of it for the cereal. its difficult to clean. its difficult to carry",
+  "asin": "B003N3IETA",
+  "parent_asin": "B003N3IETA",
+  "user_id": "AFXEEQXHLHG2GUV7SGJEQND2FNPA",
+  "timestamp": 1424276886000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cool Gear DLX Cereal to Go, EZ Freeze",
+    "average_rating": 4.0,
+    "rating_number": 387,
+    "features": [
+      "Made from BPA-free material",
+      "Gel walled milk container",
+      "Pour top lid",
+      "Deep 3-1/4-cup bowl",
+      "Spoon included"
+    ],
+    "description": [
+      "Portable cereal container for the \"on-the-go\" consumer- great for cereal and milk."
+    ],
+    "price": 12.99,
+    "store": "COOL GEAR",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Dinnerware",
+      "Bowls",
+      "Cereal Bowls"
+    ],
+    "details": {
+      "Material": "Plastic",
+      "Brand": "COOL GEAR",
+      "Color": "Blue/White",
+      "Closure Type": "Twist Lug, Flip Top",
+      "Pattern": "solid",
+      "Product Dimensions": "5.25\"W x 4.75\"H",
+      "Package Type": "Standard Packaging",
+      "Is Dishwasher Safe": "Yes",
+      "Unit Count": "1.0 Count",
+      "Number of Items": "1",
+      "Item Weight": "0.01 ounces",
+      "Manufacturer": "Cool Gear",
+      "Item model number": "826",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 304784,
+        "Cereal Bowls": 298
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 25, 2010"
+    },
+    "parent_asin": "B003N3IETA",
+    "bought_together": null
+  }
+}

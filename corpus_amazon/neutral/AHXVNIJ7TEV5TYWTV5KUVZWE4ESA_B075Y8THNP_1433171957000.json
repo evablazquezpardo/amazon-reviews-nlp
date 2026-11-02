@@ -1,0 +1,62 @@
+{
+  "id": "AHXVNIJ7TEV5TYWTV5KUVZWE4ESA_B075Y8THNP_1433171957000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok not great",
+  "text": "Ok not great. Its pretty but didnt last at all. Had to replace in less than 90 days",
+  "asin": "B000A3J4JA",
+  "parent_asin": "B075Y8THNP",
+  "user_id": "AHXVNIJ7TEV5TYWTV5KUVZWE4ESA",
+  "timestamp": 1433171957000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Chef’sChoice Electric Kettle (Discontinued by Manufacturer)",
+    "average_rating": 3.2,
+    "rating_number": 107,
+    "features": [
+      "Large capacity 1.7L kettle has a concealed heating element so there's no water build up of mineral deposits.",
+      "Cordless kettle has 1500 watts of power which boils water faster than a stove or microwave.",
+      "Automatic shut off; boil dry safe shut-off protection.",
+      "Convenient water level gauge, push button lid opening and illuminated on/ off switch.",
+      "High quality brushed stainless steel and cool touch bottom."
+    ],
+    "description": [
+      "Boil 1.75-quart water for tea, coffee, hot chocolate or instant soup. Exterior water gauge for easy measuring. 1500 watt heating element beneath the stainless floor of the unit. Cordless design allows the kettle to be lifted from its base for convenient filling and serving. Features an automatic shut-off, double boil-dry safety shut-off and lid-lock."
+    ],
+    "price": null,
+    "store": "Chef’sChoice",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Kettles & Tea Machines",
+      "Electric Kettles"
+    ],
+    "details": {
+      "Brand": "Chef’sChoice",
+      "Color": "Silver",
+      "Package Information": "Kettle",
+      "Finish Type": "Brushed Stainless Steel,Stainless",
+      "Product Care Instructions": "Wipe clean, Hand wash",
+      "Country/Region of Origin": "China",
+      "Item Weight": "4 pounds",
+      "Product Dimensions": "9.62 x 8.12 x 8.62 inches",
+      "Department": "Cookware",
+      "Manufacturer": "The Legacy Companies USA",
+      "Item model number": "6770004",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 3803569,
+        "Electric Kettles": 2136
+      },
+      "Date First Available": "May 5, 2003",
+      "Capacity 1.7 Liters": "",
+      "": "Wattage 1500 watts",
+      "Voltage 230 Volts": ""
+    },
+    "parent_asin": "B075Y8THNP",
+    "bought_together": null
+  }
+}

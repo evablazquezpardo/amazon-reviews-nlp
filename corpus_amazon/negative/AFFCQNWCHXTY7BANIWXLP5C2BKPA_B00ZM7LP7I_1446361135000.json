@@ -1,0 +1,40 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B00ZM7LP7I_1446361135000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "She has weird taste.",
+  "text": "She has weird taste.. Thin issues and creepy weird taste. And Stewart is really into Halloween in Oct.",
+  "asin": "B00ZM7LP7I",
+  "parent_asin": "B00ZM7LP7I",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1446361135000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Martha Stewart Living Magazine (1 Year / 10 Issues Print Subscription)",
+    "average_rating": 3.0,
+    "rating_number": 2,
+    "features": [
+      "Buy with confidence! Fast, efficient and friendly customer service with GlossyReads.",
+      "First issue will arrive in 8-12 weeks (magazine subscription industry standard)",
+      "1 Year Subscription / 10 issues. Subscriptions available only in USA",
+      "Shipped directly from publisher",
+      "No auto renewal!"
+    ],
+    "description": [
+      "Martha Stewart Living is for discerning, quality-conscious readers. It celebrates the simple things people do in their everyday lives: gardening, entertaining, renovating, cooking, collecting and creating. We encourage our readers to dream, then show them how to realize their dreams."
+    ],
+    "price": null,
+    "store": "Martha Stewart Living",
+    "categories": [
+      "Home & Kitchen",
+      "Wall Art",
+      "Posters & Prints"
+    ],
+    "details": {},
+    "parent_asin": "B00ZM7LP7I",
+    "bought_together": null
+  }
+}

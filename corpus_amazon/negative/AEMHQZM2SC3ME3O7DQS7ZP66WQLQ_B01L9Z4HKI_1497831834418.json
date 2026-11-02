@@ -1,0 +1,39 @@
+{
+  "id": "AEMHQZM2SC3ME3O7DQS7ZP66WQLQ_B01L9Z4HKI_1497831834418",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. NOt worth the price.",
+  "asin": "B01L9Z4HKI",
+  "parent_asin": "B01L9Z4HKI",
+  "user_id": "AEMHQZM2SC3ME3O7DQS7ZP66WQLQ",
+  "timestamp": 1497831834418,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "2nd Gen Circular Rolling Knife Multi-Purpose Cutting Tool - Unique Ergonomic Design- FAST & EASY for cutting Meat, Salad, Pizza & Vegetables Protect your wrist with this Rolling Knife (Single)",
+    "average_rating": 3.6,
+    "rating_number": 85,
+    "features": [
+      "Steel Circular Knife Blade 2nd Generation Multi-Functional Knife Stainless Steel Kitchen Circular Blade Pizza Slicer with Ergonomic Handle 2nd Pizza Slicer Steel Multi-Functional Knife Stainless Steel Kitchen Circular Blade with Ergonomic Handle"
+    ],
+    "description": [
+      "Steel Circular Knife Blade 2nd Generation Multi-Functional Knife Stainless Steel Kitchen Circular Blade Pizza Slicer with Ergonomic Handle 2nd Pizza Slicer Steel Multi-Functional Knife Stainless Steel Kitchen Circular Blade with Ergonomic Handle"
+    ],
+    "price": null,
+    "store": null,
+    "categories": [],
+    "details": {
+      "Package Dimensions": "6.6 x 6.4 x 1.3 inches",
+      "Item Weight": "0.56 Pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 30, 2016",
+      "Blade Material": "Stainless Steel",
+      "Blade Edge": "Plain"
+    },
+    "parent_asin": "B01L9Z4HKI",
+    "bought_together": null
+  }
+}

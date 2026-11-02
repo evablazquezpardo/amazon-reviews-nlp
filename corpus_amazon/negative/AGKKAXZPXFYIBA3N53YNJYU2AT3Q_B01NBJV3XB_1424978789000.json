@@ -1,0 +1,62 @@
+{
+  "id": "AGKKAXZPXFYIBA3N53YNJYU2AT3Q_B01NBJV3XB_1424978789000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "piece of junk!",
+  "text": "piece of junk!. Worked great for 2 months and then started to leak!  Ruined my table and new flooring!",
+  "asin": "B003H4QJBK",
+  "parent_asin": "B01NBJV3XB",
+  "user_id": "AGKKAXZPXFYIBA3N53YNJYU2AT3Q",
+  "timestamp": 1424978789000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Optimus U-32000 2.5 Gallon Warm Mist Humidifier with Wicking Vapor System,White",
+    "average_rating": 3.3,
+    "rating_number": 107,
+    "features": [
+      "1.5 gallon tank capacity",
+      "Operates up to 15 hours on high",
+      "Automatic shut off when tank is empty",
+      "Extremely quiet operation no bubbling or gurgling sounds",
+      "Variable humidistat and re-fill indicator light"
+    ],
+    "description": [
+      "The U-32000 from Optimus is a 2.5 gallon warm mist humidifier with wicking vapor system. Features include extremely quiet operation, no bubbling or gurgling sounds, low maintenance, no need to clean the heating element, two power settings of high and low, variable humidistat and re-fill indicator light, automatic shutoff when tank is empty, PTC ceramic heating element and absorption sleeve, 1.5 gallon tank capacity, 500 square foot coverage, 15 hours run time on high, patented warm wicking vapor system, 120V, 60Hz, 380W."
+    ],
+    "price": 68.99,
+    "store": "Optimus",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Humidifiers"
+    ],
+    "details": {
+      "Brand": "Optimus",
+      "Special Feature": "Quiet, Humidistat",
+      "Color": "White",
+      "Item Weight": "2 Pounds",
+      "Room Type": "Living Room, Bedroom",
+      "Voltage": "120 Volts",
+      "Wattage": "380 watts",
+      "Control Method": "Touch",
+      "Product Dimensions": "10.8 x 13.3 x 13.1 inches",
+      "Department": "Electronics",
+      "Manufacturer": "Optimus",
+      "Item model number": "U-32000",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2086282,
+        "Humidifiers": 2281
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 1, 2010",
+      "Capacity 5.7 Liters": "",
+      "": "Power Source Corded Electric",
+      "Material Humidifier": ""
+    },
+    "parent_asin": "B01NBJV3XB",
+    "bought_together": null
+  }
+}

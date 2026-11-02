@@ -1,0 +1,56 @@
+{
+  "id": "AF2FPW2AJZGXQGM6KQDTHTOL7E5Q_B006H31VT8_1630616573075",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Very sturdy",
+  "text": "Very sturdy. Had this for a couple of months and it is very sturdy so far",
+  "asin": "B006H31VT8",
+  "parent_asin": "B006H31VT8",
+  "user_id": "AF2FPW2AJZGXQGM6KQDTHTOL7E5Q",
+  "timestamp": 1630616573075,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Home Basics Clothes Dryer, 3-Tier [Misc.]",
+    "average_rating": 4.3,
+    "rating_number": 210,
+    "features": [
+      "Clothes drying rack provides space for clothes to dry after washing",
+      "Sturdy metal construction",
+      "24-Inch by 20-inch by 59-Inch; adjustable height"
+    ],
+    "description": [],
+    "price": 24.63,
+    "store": "Home Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Drying Racks"
+    ],
+    "details": {
+      "Product Dimensions": "20\"D x 24\"W x 59\"H",
+      "Item Weight": "5.19 pounds",
+      "Manufacturer": "HDS Trading Corp",
+      "Country of Origin": "China",
+      "Item model number": "CD10346",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 120289,
+        "Clothes Drying Racks": 134
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Material": "Steel",
+      "Brand": "Home Basics",
+      "Recommended Uses For Product": "Storage",
+      "Mounting Type": "Floor Mount",
+      "Special Feature": "Adjustable,Resistant,Sturdy"
+    },
+    "parent_asin": "B006H31VT8",
+    "bought_together": null
+  }
+}

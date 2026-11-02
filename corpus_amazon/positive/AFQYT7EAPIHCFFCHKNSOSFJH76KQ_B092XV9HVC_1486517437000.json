@@ -1,0 +1,69 @@
+{
+  "id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ_B092XV9HVC_1486517437000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Good product",
+  "text": "Good product. Does what it needs to do...",
+  "asin": "B017L0I58A",
+  "parent_asin": "B092XV9HVC",
+  "user_id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ",
+  "timestamp": 1486517437000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mybecca 4 Pack Premium Hypoallergenic Stuffer Pillow Insert Sham Square Form Polyester, Standard/White 18\" x 18\"",
+    "average_rating": 4.4,
+    "rating_number": 2879,
+    "features": [
+      "Best for 17 x 17; 16 x 16 and 15x15 pillow cover",
+      "Down-like comfort - Odorless - Washable",
+      "Resilient / Refluffable",
+      "For use in indoor or outdoor shams and decorative pillow covers",
+      "Cover NOT included"
+    ],
+    "description": [],
+    "price": 26.99,
+    "store": "Mybecca",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Decorative Pillows, Inserts & Covers",
+      "Pillow Inserts"
+    ],
+    "details": {
+      "Fill Material": "Polyester",
+      "Pillow Type": "Throw Pillow",
+      "Color": "White",
+      "Size": "4 Count (Pack of 1)",
+      "Brand": "Mybecca",
+      "Shape": "Square",
+      "Special Feature": "Hypoallergenic",
+      "Cover Material": "Polyester",
+      "Pattern": "Solid",
+      "Number of Items": "4",
+      "Product Dimensions": "18\"L x 18\"W",
+      "Product Care Instructions": "Machine Wash",
+      "Style": "18 x 18-Inch",
+      "Item Firmness Description": "Plush",
+      "Item Weight": "2.9 pounds",
+      "Model Name": "B017L0I58A",
+      "Material Feature": "Washable",
+      "Unit Count": "4.0 Count",
+      "Fabric Type": "100% Polyester",
+      "Item Thickness": "4 Inches",
+      "Department": "Womens",
+      "Manufacturer": "Mybecca",
+      "Item model number": "MB-4x1818",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 493756,
+        "Throw Pillow Inserts": 302
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 26, 2014"
+    },
+    "parent_asin": "B092XV9HVC",
+    "bought_together": null
+  }
+}

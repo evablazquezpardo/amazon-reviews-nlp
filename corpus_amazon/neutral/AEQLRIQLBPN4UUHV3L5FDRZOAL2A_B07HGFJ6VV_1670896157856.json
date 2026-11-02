@@ -1,0 +1,50 @@
+{
+  "id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A_B07HGFJ6VV_1670896157856",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Bottom broke off",
+  "text": "Bottom broke off. great idea but does not last,long.  the,bottom part,breaks off.",
+  "asin": "B07HGFJ6VV",
+  "parent_asin": "B07HGFJ6VV",
+  "user_id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A",
+  "timestamp": 1670896157856,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Vitamix Blade Scraper Accessory, 1 Count (Pack of 1), Grey,Nylon",
+    "average_rating": 4.6,
+    "rating_number": 5257,
+    "features": [
+      "The Under Blade Scraper allows you to get the most out of every recipe by reaching hard to access points in your container, like under the blade. Designed for use with all Vitamin containers.",
+      "Material Type: Nylon",
+      "The length of the package is 14.75 inches",
+      "The width of the package is 10.75 inches"
+    ],
+    "description": [
+      "The blade scraper allows you to get the most out of every recipe by reaching hard to access points in your container, like under the blade. Designed for use with all Vitamix containers."
+    ],
+    "price": 14.99,
+    "store": "Vitamix",
+    "categories": [],
+    "details": {
+      "Material": "Nylon",
+      "Color": "Gray",
+      "Brand": "Vitamix",
+      "Size": "1 Count (Pack of 1)",
+      "Item Weight": "0.96 ounces",
+      "Number of Pieces": "1",
+      "Is Dishwasher Safe": "No",
+      "Product Dimensions": "14\"L x 0.75\"W",
+      "Manufacturer": "Vitamix",
+      "Country of Origin": "China",
+      "Item model number": "Under Blade Scraper",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 18, 2018",
+      "Item Dimensions LxWxH": "14 x 0.75 x 0.75 inches"
+    },
+    "parent_asin": "B07HGFJ6VV",
+    "bought_together": null
+  }
+}

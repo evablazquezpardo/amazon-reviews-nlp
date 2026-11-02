@@ -1,0 +1,58 @@
+{
+  "id": "AFJHM4DEMY7IU6ZCUBCETLREE43Q_B01MTB411I_1604502201021",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "A Quality Product",
+  "text": "A Quality Product. Several color choices for different seasons of the year.  Works very well and looks great.",
+  "asin": "B01MA24JCY",
+  "parent_asin": "B01MTB411I",
+  "user_id": "AFJHM4DEMY7IU6ZCUBCETLREE43Q",
+  "timestamp": 1604502201021,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "\"Peugeot Tahiti DUO Summer Salt and Pepper Mill Set 15cm - 6\"\". 2 Shades of Blue\" (2/33279)",
+    "average_rating": 4.0,
+    "rating_number": 451,
+    "features": [
+      "Made in France. Made of PEFC certified beech wood. Set includes: a 6-inch pepper Mill and salt Mill",
+      "Pepper Mill has a 2 stage grinding mechanism made of case-hardened steel specially treated to keep the teeth razor sharp and protect from corrosion",
+      "Salt mechanism is made of corrosion resistant stainless steel. Two ribbed plates work to fracture and crush coarse Dry Sea salt to a consistent size",
+      "Classic grind adjustment on both Mills: turn the top knob tighter (clockwise) for finer grinds; looser (counter-clockwise) for coarser grind"
+    ],
+    "description": [
+      "Peugeot Tahiti DUO Summer Salt and Pepper Mill Set 15cm - 6\". 2 Shades of Blue"
+    ],
+    "price": null,
+    "store": "Peugeot",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Salt & Pepper",
+      "Salt & Pepper Mill Sets"
+    ],
+    "details": {
+      "Material": "Beech Wood",
+      "Color": "Granny Apple & Straw Yellow",
+      "Item Dimensions LxWxH": "2.04 x 2.04 x 6.1 inches",
+      "Brand": "Peugeot",
+      "Item Weight": "0.91 Pounds",
+      "Operation Mode": "Manual",
+      "Is Dishwasher Safe": "No",
+      "Product Dimensions": "2.04 x 2.04 x 6.1 inches",
+      "Manufacturer": "Peugeot",
+      "Item model number": "2/33279",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 254103,
+        "Salt & Pepper Mill Sets": 654
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "November 21, 2016"
+    },
+    "parent_asin": "B01MTB411I",
+    "bought_together": null
+  }
+}

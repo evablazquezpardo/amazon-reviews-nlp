@@ -1,0 +1,64 @@
+{
+  "id": "AHENSGR43GHPRMP7GXP6Y3LR5R5A_B0BSP393B1_1518911675885",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Description is accurate",
+  "text": "Description is accurate. Love it. It is exactly as described. Keeps perfect time",
+  "asin": "B00J4EP2IS",
+  "parent_asin": "B0BSP393B1",
+  "user_id": "AHENSGR43GHPRMP7GXP6Y3LR5R5A",
+  "timestamp": 1518911675885,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "The Big Clock Store Gray Clocks | Ultra Quiet Quartz Mechanism | Hand Made in USA Beautiful Crisp Lasting Color | Comes in 8 Sizes (15-Inch, 1. Harbor Gray)",
+    "average_rating": 4.6,
+    "rating_number": 179,
+    "features": [
+      "SILENT QUARTZ MECHANISMS: Clocks are very quiet. No annoying ticking!! The mechanisms are recessed into the wood of the clock which allow the clocks to sit flush to the wall.",
+      "LIFETIME WARRANTY: Mechanism replacement (not the entire clock) for as long as you own it.* AA battery (not included).",
+      "HAND MADE in Arizona, USA: Beautifully PRINTED face on one solid piece of ½” MDF wood with edges. The face is NOT a sticker. (Mechanisms made in China)",
+      "OPEN FACED, NO GLASS, NO GLARE: Available in various sizes (10, 12, 15, 18, 24, 30, 36, 48, 60 inches).",
+      "BRIGHT CRISP COLORS: Long lasting, high detail print."
+    ],
+    "description": [],
+    "price": 79.95,
+    "store": "The Big Clock",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Clocks",
+      "Wall Clocks"
+    ],
+    "details": {
+      "Brand": "The Big Clock Store",
+      "Color": "1. Harbor Gray",
+      "Display Type": "Analog",
+      "Style": "Modern",
+      "Special Feature": "Silent Clock",
+      "Product Dimensions": "15\"W x 15\"H",
+      "Power Source": "Battery Powered",
+      "Age Range (Description)": "Adult",
+      "Room Type": "Home Office",
+      "Shape": "Round",
+      "Indoor/Outdoor Usage": "Indoor",
+      "Frame Material": "Engineered Wood",
+      "Are Batteries Included": "No",
+      "Mounting Type": "Wall Mount",
+      "Alarm Clock": "No",
+      "Watch Movement": "Quartz",
+      "Operation Mode": "Hand",
+      "Manufacturer": "The Big Clock Store",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 347762,
+        "Wall Clocks": 853
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 30, 2017"
+    },
+    "parent_asin": "B0BSP393B1",
+    "bought_together": null
+  }
+}

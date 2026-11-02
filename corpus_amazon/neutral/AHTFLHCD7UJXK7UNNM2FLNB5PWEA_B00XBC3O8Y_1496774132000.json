@@ -1,0 +1,55 @@
+{
+  "id": "AHTFLHCD7UJXK7UNNM2FLNB5PWEA_B00XBC3O8Y_1496774132000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. great for the value",
+  "asin": "B00XBC3O8Y",
+  "parent_asin": "B00XBC3O8Y",
+  "user_id": "AHTFLHCD7UJXK7UNNM2FLNB5PWEA",
+  "timestamp": 1496774132000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics 6-Piece Bakeware Set",
+    "average_rating": 4.4,
+    "rating_number": 1417,
+    "features": [
+      "6-piece bakeware set includes (2) 9-inch round cake pans, 10x13-inch cake pan, 4.5x8-inch medium loaf pan, 10x14-inch muffin pan (12-cups), and a 10x14.5-inch cookie sheet",
+      "Made of heavy-weight carbon steel",
+      "Nonstick coating for easy cleaning and effortless food release",
+      "Oven-safe to 500 degrees Fahrenheit",
+      "Dishwasher-safe for easy cleanup"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics 6-Piece Bakeware Set",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": null,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Bakeware Sets"
+    ],
+    "details": {
+      "Product Dimensions": "14.76 x 10.83 x 5.3 inches",
+      "Item Weight": "3.56 pounds",
+      "Manufacturer": "Amazon Basics",
+      "Item model number": "BK-D5045C",
+      "Date First Available": "October 15, 2015",
+      "Material": "Carbon Steel",
+      "Brand": "Amazon Basics",
+      "Color": "Carbon Steel",
+      "Is Dishwasher Safe": "Yes",
+      "Product Care Instructions": "Oven Safe, Dishwasher Safe Jars"
+    },
+    "parent_asin": "B00XBC3O8Y",
+    "bought_together": null
+  }
+}

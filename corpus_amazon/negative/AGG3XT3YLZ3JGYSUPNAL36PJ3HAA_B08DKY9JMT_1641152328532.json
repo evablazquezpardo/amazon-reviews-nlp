@@ -1,0 +1,60 @@
+{
+  "id": "AGG3XT3YLZ3JGYSUPNAL36PJ3HAA_B08DKY9JMT_1641152328532",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not happy!!!!",
+  "text": "Not happy!!!!. Sent it back, not happy with it.",
+  "asin": "B08DKY9JMT",
+  "parent_asin": "B08DKY9JMT",
+  "user_id": "AGG3XT3YLZ3JGYSUPNAL36PJ3HAA",
+  "timestamp": 1641152328532,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Barton 22-Quart Pressure Canner Pressure Cooker Built-in Pressure Gauge with Rack Induction Compatible, Aluminum Polished 22 QT",
+    "average_rating": 4.4,
+    "rating_number": 683,
+    "features": [
+      "Easy, confident home pressure canning vegetables, meats, poultry, and seafood. Doubles as a boiling water canner for fruits, jams, jellies, pickles, and salsa",
+      "Deluxe pressure dial gauge registers precise processing pressures, which is especially important in high altitude areas. Pressure release 13 PSI (+/- 5%)",
+      "In addition a spring safety device prevents the pressurization of the cooker before being securely closed, and a sure-locking lid system prevents opening the lid when the cooker is pressurized",
+      "Heavy gauge, rustproof polished aluminum, 22 quart Pressure Canner and pressure cooker offers time and cost savings with a deluxe pressure gauge dial for easy pressure monitoring; Racks are included to maximize canning space and to prevent food from sticking to bottom.",
+      "Suitable for use on gas stove, electric stove, induction cooker and ceramics furnace"
+    ],
+    "description": [],
+    "price": 98.95,
+    "store": "XtremepowerUS",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Pots & Pans",
+      "Pressure Cookers"
+    ],
+    "details": {
+      "Brand": "XtremepowerUS",
+      "Capacity": "22 Quarts",
+      "Material": "Polished Aluminum",
+      "Closure Type": "Outer Lid, Inner Lid",
+      "Color": "Polished Aluminum",
+      "Finish Type": "Polished Aluminum",
+      "Product Dimensions": "14\"D x 19\"W x 14.25\"H",
+      "Item Weight": "10.5 Pounds",
+      "Control Method": "Touch",
+      "Controller Type": "Hand Control",
+      "Operation Mode": "Manual",
+      "Is Dishwasher Safe": "Yes",
+      "Manufacturer": "Barton",
+      "Item model number": "99903",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 35057,
+        "Pressure Cookers": 28
+      },
+      "Date First Available": "January 2, 2020"
+    },
+    "parent_asin": "B08DKY9JMT",
+    "bought_together": null
+  }
+}

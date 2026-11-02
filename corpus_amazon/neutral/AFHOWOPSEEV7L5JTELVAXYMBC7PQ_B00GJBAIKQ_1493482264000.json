@@ -1,0 +1,59 @@
+{
+  "id": "AFHOWOPSEEV7L5JTELVAXYMBC7PQ_B00GJBAIKQ_1493482264000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. wish it were a little larger.",
+  "asin": "B00GJBAIKQ",
+  "parent_asin": "B00GJBAIKQ",
+  "user_id": "AFHOWOPSEEV7L5JTELVAXYMBC7PQ",
+  "timestamp": 1493482264000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "NutriBullet Insulated Travel Bag, 12.7 x 9 x 1.6 inches, Grey",
+    "average_rating": 4.5,
+    "rating_number": 124,
+    "features": [
+      "Made by nutribullet®",
+      "Compatible with the NutriBullet 600.",
+      "Specifically designed to protect and organize your NutriBullet system",
+      "Extra storage room for the food you want to blend",
+      "Heavy-duty, stain-resistant Travel bag"
+    ],
+    "description": [
+      "Travel without your NutriBullet? Never. This heavy-duty, stain-resistant travel bag lets you transport your NutriBullet in style and comfort, wherever the road takes you."
+    ],
+    "price": null,
+    "store": "NutriBullet",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Space Saver Bags"
+    ],
+    "details": {
+      "Product Dimensions": "12.7 x 9 x 1.6 inches",
+      "Item Weight": "1.5 Pounds",
+      "Manufacturer": "NutriBullet",
+      "Item model number": "NBR-2200",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2191027,
+        "Space Saver Bags": 1422
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "November 8, 2013",
+      "Brand": "NutriBullet",
+      "Material": "Polyester",
+      "Color": "Gray",
+      "Shape": "Rectangular",
+      "Number of Items": "1",
+      "Size": "12.7 x 9 x 1.6 inches",
+      "Number of Sets": "1"
+    },
+    "parent_asin": "B00GJBAIKQ",
+    "bought_together": null
+  }
+}

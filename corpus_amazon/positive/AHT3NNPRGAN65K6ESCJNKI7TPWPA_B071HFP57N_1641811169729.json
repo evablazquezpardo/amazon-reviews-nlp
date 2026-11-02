@@ -1,0 +1,44 @@
+{
+  "id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA_B071HFP57N_1641811169729",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great product",
+  "text": "Great product. Love the safty features it allows my kids to be more independent with less stress",
+  "asin": "B071HFP57N",
+  "parent_asin": "B071HFP57N",
+  "user_id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA",
+  "timestamp": 1641811169729,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BEAUTURAL 1800-Watt Steam Iron with Digital LCD Screen, Double-Layer and Ceramic Coated Soleplate, 3-Way Auto-Off, 9 Preset Temperature and Steam Settings for Variable Fabric Gray",
+    "average_rating": 4.5,
+    "rating_number": 16164,
+    "features": [
+      "9 Preset Modes: Features a clear-view LCD screen, Stop with the guesswork and don’t burn your clothes; Select your fabric type and always iron with the right heat; Ideal temps for nylon, silk, wool, cotton, jeans, linen and more",
+      "Double Ceramic Soleplate: Harder than stainless steel, super scratch resistant, and more durable and easier to clean; Protect your delicate clothes with a unique double-layer design that ensures even heating of the entire soleplate",
+      "Be Safer with Auto Shutoff: We all get distracted at some point, so don’t put those around you at risk; Motion sensors automatically shut off the iron to avoid danger when it sits motionless for too long; Shuts off after 30 seconds when laying flat and 8 minutes when vertical",
+      "All Pre-Tested and Fully Featured: Every Iron is tested by our QA team before leaving the factory so you’re assured quality right out of the box",
+      "Fully Featured: Packs a huge list of features including an LCD screen, fabric presets, water spray and steam bursts, and 1800 watts of pure power so no fabric in your home is too tough to iron"
+    ],
+    "description": [],
+    "price": 39.97,
+    "store": "BEAUTURAL",
+    "categories": [
+      "Home & Kitchen",
+      "Irons & Steamers",
+      "Irons"
+    ],
+    "details": {
+      "Brand": "BEAUTURAL",
+      "Special Feature": "Self-Cleaning, Corded, Non-Stick, Auto Shut Off",
+      "Color": "Gray",
+      "Wattage": "1800 watts",
+      "Item Dimensions LxWxH": "11.3 x 4.88 x 5.75 inches"
+    },
+    "parent_asin": "B071HFP57N",
+    "bought_together": null
+  }
+}

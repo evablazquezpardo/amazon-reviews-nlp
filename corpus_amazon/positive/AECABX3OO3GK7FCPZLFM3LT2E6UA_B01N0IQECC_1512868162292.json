@@ -1,0 +1,49 @@
+{
+  "id": "AECABX3OO3GK7FCPZLFM3LT2E6UA_B01N0IQECC_1512868162292",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. It's a Christmas present but I'm sure they will love it",
+  "asin": "B01N0IQECC",
+  "parent_asin": "B01N0IQECC",
+  "user_id": "AECABX3OO3GK7FCPZLFM3LT2E6UA",
+  "timestamp": 1512868162292,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Square Pan Sets FBA_ Non-Stick Copper Titanium, 1",
+    "average_rating": 4.6,
+    "rating_number": 1076,
+    "features": [
+      "Non-Stick coating Copper infused with ceramic and titanium",
+      "Cook without butter and oil",
+      "Induction bottom, tempered glass lid and stainless steel handle",
+      "Dishwasher safe",
+      "100% safe: PFOA, PTFE and PFOS free"
+    ],
+    "description": [
+      "Non-Stick Copper Titianium Chef 5 Piece 9.5 Square Pan Set. Non-Stick Copper Titanium Chef 5 Piece 9.5\" Square Pan Set"
+    ],
+    "price": 79.99,
+    "store": "Square Pan Sets",
+    "categories": [],
+    "details": {
+      "Material": "Copper",
+      "Finish Type": "Non-Stick",
+      "Brand": "Square Pan Sets",
+      "Color": "Copper",
+      "Capacity": "4.5 Liters",
+      "Item Weight": "12 Ounces",
+      "Coating Description": "Ceramic",
+      "Product Dimensions": "1 x 1 x 1 inches",
+      "Manufacturer": "Square Pan Sets",
+      "Item model number": "2597",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "November 24, 2016"
+    },
+    "parent_asin": "B01N0IQECC",
+    "bought_together": null
+  }
+}

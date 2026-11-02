@@ -1,0 +1,44 @@
+{
+  "id": "AFKNVFEXRGUGJAGMENCOWLVDYVCQ_B0045O9PMQ_1429218716000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Exciting Eggs!",
+  "text": "Exciting Eggs!. Gave them as gifts.  People I gave them to were very pleased.",
+  "asin": "B0045O9PMQ",
+  "parent_asin": "B0045O9PMQ",
+  "user_id": "AFKNVFEXRGUGJAGMENCOWLVDYVCQ",
+  "timestamp": 1429218716000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Set of 5 Wooden Ukrainian Pysanky Easter Eggs",
+    "average_rating": 3.8,
+    "rating_number": 20,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "BestPysanky",
+    "categories": [
+      "Home & Kitchen",
+      "Wall Art",
+      "Posters & Prints"
+    ],
+    "details": {
+      "Orientation": "Landscape",
+      "Shape": "Rectangular",
+      "Theme": "Easter",
+      "Material": "Wood",
+      "Brand": "BestPysanky",
+      "Frame Material": "Wood",
+      "Item Weight": "4.8 ounces",
+      "Package Dimensions": "6.2 x 5 x 1.6 inches",
+      "Item model number": "5WoodenEggsAssortment",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 2, 2010"
+    },
+    "parent_asin": "B0045O9PMQ",
+    "bought_together": null
+  }
+}

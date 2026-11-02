@@ -1,0 +1,45 @@
+{
+  "id": "AGMDLK6RM7S3KMSZSCSTRIXXRTJQ_B00JEQ9XTK_1529711633464",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "dull",
+  "text": "dull. It had dull blades and didn't grind ice.",
+  "asin": "B00JEQ9XTK",
+  "parent_asin": "B00JEQ9XTK",
+  "user_id": "AGMDLK6RM7S3KMSZSCSTRIXXRTJQ",
+  "timestamp": 1529711633464,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Snoopy Sno Cone Maker",
+    "average_rating": 4.0,
+    "rating_number": 155,
+    "features": [
+      "Brand New in box. The product ships with all relevant accessories"
+    ],
+    "description": [
+      "Help your kids make a cool treat with the Snoopy Sno Cone Maker. Use a hand crank to shave ice and scoop it into cups with the shovel. A padded clamp provides extra stability for this snow cone maker. Makes a perfect collectible gift for Peanuts fans young and old. For ages 4 and up."
+    ],
+    "price": 39.99,
+    "store": "Snoopy",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining"
+    ],
+    "details": {
+      "Product Dimensions": "11.5 x 11.5 x 3.5 inches",
+      "Item Weight": "1.25 pounds",
+      "Manufacturer": "Snoopy",
+      "Item model number": "COMINHKR088077",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1380293
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "November 15, 2012"
+    },
+    "parent_asin": "B00JEQ9XTK",
+    "bought_together": null
+  }
+}

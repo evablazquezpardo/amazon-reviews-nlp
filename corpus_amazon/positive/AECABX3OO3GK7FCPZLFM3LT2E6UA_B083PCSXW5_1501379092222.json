@@ -1,0 +1,34 @@
+{
+  "id": "AECABX3OO3GK7FCPZLFM3LT2E6UA_B083PCSXW5_1501379092222",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Awesome",
+  "asin": "B01BMHQI3W",
+  "parent_asin": "B083PCSXW5",
+  "user_id": "AECABX3OO3GK7FCPZLFM3LT2E6UA",
+  "timestamp": 1501379092222,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Jaccard 201506 Heavy Duty Aluminum Grill & Oven Bag, Large, Aluminum Foil Bag, Grill Bag, Cooking Bag",
+    "average_rating": 4.4,
+    "rating_number": 125,
+    "features": [
+      "Aluminum Foil Bag: The single bag in the world with a self-venting window Constructed of FDA approved food grade polyester film",
+      "Cooking Bag: The foil bag maintains seal at low temperatures, and vents excess steam during cooking.",
+      "Easy to Use: Peel away the window and serve directly from the foil bag. The aluminum foil bag is ideal for single dish or complete meals.",
+      "Use for Storage: Foods can be prepared in advance, stored in the grill bag, placed in the fridge, cooler, or freezer and cooked only when you are ready to eat.",
+      "Anti-Leaking Seal Technology: The foil grilling bag features anti-leaking seal technology which enhances the strength of seams and prevents leaks. The bag can be placed directing on the grilling surface; window side up."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Jaccard",
+    "categories": [],
+    "details": {},
+    "parent_asin": "B083PCSXW5",
+    "bought_together": null
+  }
+}

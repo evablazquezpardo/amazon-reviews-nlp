@@ -1,0 +1,44 @@
+{
+  "id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA_B013TD5E3C_1658418659805",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Arrived wrinkled - hard paper",
+  "text": "Arrived wrinkled - hard paper. Not what I expected - it's wrinkled paper runners",
+  "asin": "B013TE8B5O",
+  "parent_asin": "B013TD5E3C",
+  "user_id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA",
+  "timestamp": 1658418659805,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "International Flags Printed Table Runner (Pack of 6)",
+    "average_rating": 3.4,
+    "rating_number": 7,
+    "features": [
+      "As shown."
+    ],
+    "description": [
+      "international flags printed table runner. 11\" x 6' printed table runner. sold individually. great for ollympic celebrations, parties or events.. As shown. Pack of 6."
+    ],
+    "price": 29.96,
+    "store": "Beistle",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Table Runners"
+    ],
+    "details": {
+      "Brand": "Beistle",
+      "Pattern": "Flag",
+      "Style": "Modern",
+      "Product Dimensions": "72\"L x 11\"W",
+      "Date First Available": "August 12, 2015",
+      "Manufacturer": "Beistle"
+    },
+    "parent_asin": "B013TD5E3C",
+    "bought_together": null
+  }
+}

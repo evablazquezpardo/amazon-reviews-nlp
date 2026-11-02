@@ -1,0 +1,46 @@
+{
+  "id": "AFAD6IGTLID7GW3T6WVNVBGUNQVA_B0798SV5KP_1530689308478",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok",
+  "text": "Ok. Ok  .appears to be paper design glued to fake wood . Kind of disappointed.",
+  "asin": "B0798SV5KP",
+  "parent_asin": "B0798SV5KP",
+  "user_id": "AFAD6IGTLID7GW3T6WVNVBGUNQVA",
+  "timestamp": 1530689308478,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "MRC Wood Products General Store Rustic Wooden Plank Sign 5x10",
+    "average_rating": 3.7,
+    "rating_number": 18,
+    "features": [
+      "This sign measures 5\"x 10\" and is 1/4\" thick",
+      "Made from MDF wood",
+      "Comes with jute string attached for hanging",
+      "The design is permanently printed on the wood and will not chip, peel, or fade",
+      "Handmade in our family owned business in Indiana"
+    ],
+    "description": [],
+    "price": 12.99,
+    "store": "MRC Wood Products",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Decorative Accessories",
+      "Decorative Signs & Plaques"
+    ],
+    "details": {
+      "Color": "Gray",
+      "Brand": "MRC Wood Products",
+      "Material": "Wood",
+      "Theme": "Words & Quotes",
+      "Mounting Type": "Wall Mount"
+    },
+    "parent_asin": "B0798SV5KP",
+    "bought_together": null
+  }
+}

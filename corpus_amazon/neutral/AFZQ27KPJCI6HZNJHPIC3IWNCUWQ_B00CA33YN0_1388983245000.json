@@ -1,0 +1,39 @@
+{
+  "id": "AFZQ27KPJCI6HZNJHPIC3IWNCUWQ_B00CA33YN0_1388983245000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Feels pretty cheap",
+  "text": "Feels pretty cheap. Hard to get it to sit flat, but the concept is good. I wish I'd gotten the namebrand one instead.",
+  "asin": "B00CA33YN0",
+  "parent_asin": "B00CA33YN0",
+  "user_id": "AFZQ27KPJCI6HZNJHPIC3IWNCUWQ",
+  "timestamp": 1388983245000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Chop & Rinse Chopping Cutting Board with Integrated Colander (Orange)",
+    "average_rating": 4.0,
+    "rating_number": 5,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cutting Boards",
+      "Cutting Boards"
+    ],
+    "details": {
+      "Package Dimensions": "16.8 x 10.5 x 0.5 inches",
+      "Item Weight": "6.4 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 9, 2013"
+    },
+    "parent_asin": "B00CA33YN0",
+    "bought_together": null
+  }
+}

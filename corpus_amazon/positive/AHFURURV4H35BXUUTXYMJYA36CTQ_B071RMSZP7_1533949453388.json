@@ -1,0 +1,50 @@
+{
+  "id": "AHFURURV4H35BXUUTXYMJYA36CTQ_B071RMSZP7_1533949453388",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Son love it so much.",
+  "asin": "B071RMSZP7",
+  "parent_asin": "B071RMSZP7",
+  "user_id": "AHFURURV4H35BXUUTXYMJYA36CTQ",
+  "timestamp": 1533949453388,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Best Choice Products Modern Adjustable Drafting Table w/Drawers, Glass Top, and Removable Side Trays - Silver",
+    "average_rating": 4.2,
+    "rating_number": 45,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Best Choice Products",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Home Office Furniture",
+      "Drafting Tables"
+    ],
+    "details": {
+      "Brand": "Best Choice Products",
+      "Shape": "Rectangular",
+      "Desk design": "Drafting Table",
+      "Product Dimensions": "40.75\"D x 23.6\"W x 31.25\"H",
+      "Color": "Silver",
+      "Style": "Modern",
+      "Base Material": "Alloy Steel",
+      "Top Material Type": "Glass",
+      "Special Feature": "Adjustable",
+      "Number of Drawers": "3",
+      "Mounting Type": "Wall Mount, found in image",
+      "Age Range (Description)": "Adult",
+      "Item Weight": "46.3 pounds",
+      "Assembly Required": "Yes",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 4, 2017"
+    },
+    "parent_asin": "B071RMSZP7",
+    "bought_together": null
+  }
+}

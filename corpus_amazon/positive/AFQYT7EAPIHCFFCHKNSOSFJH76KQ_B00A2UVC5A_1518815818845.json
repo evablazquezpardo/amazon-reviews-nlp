@@ -1,0 +1,47 @@
+{
+  "id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ_B00A2UVC5A_1518815818845",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Good to have!",
+  "text": "Good to have!. Haven't used it yet, but it looks like it will do the job!",
+  "asin": "B00A2UVC5A",
+  "parent_asin": "B00A2UVC5A",
+  "user_id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ",
+  "timestamp": 1518815818845,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Taper Candle Sharpener - Make All Candles Fit Into Your Candlestick Holders - Perfect for Centerpices, Holiday Decor, and Gifts",
+    "average_rating": 3.8,
+    "rating_number": 47,
+    "features": [],
+    "description": [
+      "Great solution for a stubborn taper candles that won't fit into your candlestick holders Shave off ends to fit in candlestick without ruining the candle Works like a pencil sharpener narrowing the candle base for a better fit Perfect for all holidays to make sure your candles are ready for decorations - also great for housewarming, gifts, stocking stuffers, etc. Made of durable acrylic material - 2\" high"
+    ],
+    "price": null,
+    "store": "tag",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Candles & Holders",
+      "Candleholders",
+      "Candlestick Holders"
+    ],
+    "details": {
+      "Material": "Acrylic",
+      "Brand": "tag",
+      "Number of Pieces": "1",
+      "Theme": "Holidays",
+      "Item Diameter": "2 Inches",
+      "Mounting Type": "Tabletop",
+      "Item Weight": "0.352 ounces",
+      "Manufacturer": "TAG Limited",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00A2UVC5A",
+    "bought_together": null
+  }
+}

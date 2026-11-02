@@ -1,0 +1,63 @@
+{
+  "id": "AGYPYW5HLUUJ5VMZIVIAIZYYDEIQ_B010RLCCL6_1642818465030",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Good basic unit",
+  "text": "Good basic unit. This is a good very basic unit, not terrible quality  but not stellar either. Average piece that fills a need..",
+  "asin": "B010RLCCL6",
+  "parent_asin": "B010RLCCL6",
+  "user_id": "AGYPYW5HLUUJ5VMZIVIAIZYYDEIQ",
+  "timestamp": 1642818465030,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Coffee Pod Storage Drawer for K-Cup Pods, 36 Pod Capacity, Black",
+    "average_rating": 4.7,
+    "rating_number": 21689,
+    "features": [
+      "Coffee-pack drawer holds up to 36 K-Cups",
+      "3 easy-open drawers for conveniently organizing, loading, and removing K-Cups",
+      "Durable design that supports the weight of a coffee machine to prevent bending",
+      "Soft, anti-slip pad on bottom protects tabletop surfaces",
+      "Mirror-finish drawer handle for a sleek and modern style",
+      "Dimensions: 13.5 x 12.9 x 2.5 inches (LxWxH)"
+    ],
+    "description": [
+      "Product Description",
+      "An Amazon Brand.",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 15.87,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Coffee Pod Holders",
+      "Pod Drawers"
+    ],
+    "details": {
+      "Product Dimensions": "13.5 x 12.85 x 2.52 inches",
+      "Item Weight": "2.3 Pounds",
+      "Manufacturer": "Amazon Basics",
+      "Country of Origin": "China",
+      "Item model number": "DHCD001",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 793,
+        "Coffee Pod Drawers": 2
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 26, 2015",
+      "Color": "Black",
+      "Item Dimensions LxWxH": "13.5 x 12.85 x 2.52 inches",
+      "Brand": "Amazon Basics",
+      "Unit Count": "1.0 Count"
+    },
+    "parent_asin": "B010RLCCL6",
+    "bought_together": null
+  }
+}

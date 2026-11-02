@@ -1,0 +1,48 @@
+{
+  "id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q_B07LFPLLSK_1571093806310",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Would buy again",
+  "text": "Would buy again. Soft and wash well.",
+  "asin": "B07LFPLLSK",
+  "parent_asin": "B07LFPLLSK",
+  "user_id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q",
+  "timestamp": 1571093806310,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Qute Home 8-Pieces Towel Set White; 2 Bath Towels, 2 Hand Towels and 4 Washcloths | Spa & Hotel Towels Quick Dry White 100% Turkish Cotton Towel Sets for Bathroom, Shower Towel - (Towels Set of 8)",
+    "average_rating": 4.5,
+    "rating_number": 2,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Qute Home",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Towel Sets"
+    ],
+    "details": {
+      "Color": "White",
+      "Brand": "Qute Home",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Number of Items": "8",
+      "Special Feature": "Non-Toxic",
+      "Theme": "No Theme",
+      "Product Care Instructions": "Machine Wash",
+      "Unit Count": "1 Count",
+      "Fabric Type": "Turkish Cotton",
+      "Product Dimensions": "52 x 27 x 0.1 inches",
+      "Item Weight": "2.93 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 7, 2019"
+    },
+    "parent_asin": "B07LFPLLSK",
+    "bought_together": null
+  }
+}

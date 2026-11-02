@@ -1,0 +1,60 @@
+{
+  "id": "AFKVXKP2OJATKYZULVYCR4LNFFAQ_B07T9NCYC9_1489898348000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Way too thin.",
+  "asin": "B01MRLBIWI",
+  "parent_asin": "B07T9NCYC9",
+  "user_id": "AFKVXKP2OJATKYZULVYCR4LNFFAQ",
+  "timestamp": 1489898348000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Clara Clark Supreme 1800 Collection Wirnkle Free Hypoallgenic Single Flat Sheet - Queen Size, Chocolatd Brown",
+    "average_rating": 4.3,
+    "rating_number": 14,
+    "features": [
+      "Queen size single flat sheet 102\"x90\" (259x228cm)",
+      "Brushed microfiber - with cool lustrous feel and a very soft silky touch",
+      "Easy care -wrinkle-free, fade-resistant, machine wash in cold and tumble dry on low",
+      "Matches to Clara Clark bedding sets",
+      "Clara Clark a well known brand of high quality products"
+    ],
+    "description": [
+      "Clara Clark Supreme 1800 Collection Wirnkle Free Hypoallgenic Single Flat Sheet - Queen Size, Chocolatd Brown"
+    ],
+    "price": null,
+    "store": "Clara Clark",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Flat Sheets"
+    ],
+    "details": {
+      "Size": "Queen",
+      "Material": "Microfiber",
+      "Color": "Chocolate Brown",
+      "Pattern": "Solid",
+      "Thread Count": "1800",
+      "Brand": "Clara Clark",
+      "Product Dimensions": "102\"L x 90\"W",
+      "Product Care Instructions": "Machine Wash",
+      "Item Weight": "1.45 pounds",
+      "Manufacturer": "Sanders Collection",
+      "Item model number": "VEND-US-CC-18flat-Q-Cht",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1251455,
+        "Flat Bed Sheets": 269,
+        "Bedspreads, Coverlets & Sets": 510,
+        "Sheet & Pillowcase Sets": 3480
+      },
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B07T9NCYC9",
+    "bought_together": null
+  }
+}

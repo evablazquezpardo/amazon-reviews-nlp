@@ -1,0 +1,50 @@
+{
+  "id": "AGSV4K43Q6TIIHGN6BB2Q5A2I5PA_B001KW0BG0_1432437915000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Price is nice, but product is fair.",
+  "text": "Price is nice, but product is fair.. I received this heavy item very quickly, but it was not a joy to assemble and it was missing small parts (cams) to put it together. I had some from another project, but the item should not be missing anything. Expect this to be something that eventually will fall apart is my guess. For the price, it will due for now.",
+  "asin": "B001KW0BG0",
+  "parent_asin": "B001KW0BG0",
+  "user_id": "AGSV4K43Q6TIIHGN6BB2Q5A2I5PA",
+  "timestamp": 1432437915000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Black Tall Locking Media Storage Cabinet",
+    "average_rating": 3.5,
+    "rating_number": 55,
+    "features": [
+      "Adjustable shelves",
+      "Constructed from high quality laminated composite woods",
+      "Assembly Required",
+      "Dimensions: 24\"W x 46.75\"H x 14.5\"D"
+    ],
+    "description": [
+      "Keep your growing collection safe from prying eyes and sticky fingers with the Tall Locking Media Storage Cabinet. Fully adjustable shelves can be set to any position to accommodate your collection, and horizontal storage of media enables easy sorting, filing and re-filing of your collection as it grows. Off-set hinge points allow 180° movement for better display and access to door storage. Includes antique brass finished handles (Oak), or contemporary brushed nickel handles (Black)."
+    ],
+    "price": null,
+    "store": "Prepac",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "TV & Media Furniture",
+      "Media Storage"
+    ],
+    "details": {
+      "Product Dimensions": "14.5 x 24 x 46.75 inches",
+      "Item model number": "BVS-0205",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembled Height": "46.75 inches",
+      "Assembled Width": "14.5 inches",
+      "Assembled Length": "24 inches",
+      "Weight": "80 Pounds",
+      "Date First Available": "October 2, 2001"
+    },
+    "parent_asin": "B001KW0BG0",
+    "bought_together": null
+  }
+}

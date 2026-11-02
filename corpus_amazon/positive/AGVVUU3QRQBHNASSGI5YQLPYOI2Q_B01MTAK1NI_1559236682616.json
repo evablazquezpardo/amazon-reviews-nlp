@@ -1,0 +1,60 @@
+{
+  "id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q_B01MTAK1NI_1559236682616",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Nice size",
+  "text": "Nice size. Works well for storage needs",
+  "asin": "B01MTAK1NI",
+  "parent_asin": "B01MTAK1NI",
+  "user_id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q",
+  "timestamp": 1559236682616,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sterilite 14998004 106 Quart White/Clear Plastic Storage Box With Blue Aquarium Latches4",
+    "average_rating": 4.4,
+    "rating_number": 207,
+    "features": [],
+    "description": [
+      "Whether you need to pack away camping gear, blankets, or other bulky items, keep your home neat and organized with the help of these Sterilite 1499 106-Quart Clear Latching Stacking Storage Boxes. This container can be opened with one hand - the second latch acts as a handy hinge. The clear base is great for quickly viewing contents and the recessed lid makes it great for stacking. With a 106-quart capacity, this box solves all kinds of storage dilemmas. Clear some clutter from your life and tuck away your belongings in these Sterilite 1499 106-Quart Clear Latching Stacking Storage Boxes today."
+    ],
+    "price": null,
+    "store": "Sterilite",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Brand": "Sterilite",
+      "Color": "Blue,White",
+      "Material": "Plastic",
+      "Product Dimensions": "33.5\"L x 18.25\"W x 13\"H",
+      "Capacity": "100.31 Liters",
+      "Closure Type": "Latch",
+      "Item Weight": "0.01 ounces",
+      "Opening Mechanism": "Latch",
+      "Shape": "Rectangular",
+      "Pattern": "Solid",
+      "Number of Items": "1",
+      "Unit Count": "4.0 Count",
+      "Item Package Quantity": "4",
+      "Manufacturer": "STERILITE CORPORATION",
+      "Item model number": "14998004",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 222730,
+        "Food Container Sets": 5568
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B01MTAK1NI",
+    "bought_together": null
+  }
+}

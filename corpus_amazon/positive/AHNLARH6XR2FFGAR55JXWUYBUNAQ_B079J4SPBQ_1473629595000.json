@@ -1,0 +1,60 @@
+{
+  "id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ_B079J4SPBQ_1473629595000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. What a great Bean Pot!",
+  "asin": "B0026FDD10",
+  "parent_asin": "B079J4SPBQ",
+  "user_id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ",
+  "timestamp": 1473629595000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "R&M International Traditional Style Ceramic 15-Ounce French Onion Soup Crocks, Set of 2",
+    "average_rating": 4.6,
+    "rating_number": 1912,
+    "features": [
+      "Set of 2 traditional style 15-ounce ceramic onion soup crocks with lids",
+      "High fired natural ceramic with a lead-free and cadmium-free glaze",
+      "Built in handles for safe and easy handling",
+      "Oven, microwave, and dishwasher-safe"
+    ],
+    "description": [
+      "These Traditional Onion Soup Crocks from R&M International are exceptionally functional, and offer a great presentation for your soup. They both come with a lid and built-in handles for safe and easy handling, and you can even them in the oven or microwave. These crocks are also dishwasher-safe for easy cleanup. R&M International is a worldwide supplier of high quality cookie cutters, numerous kitchen gadgets, and affordable cooking and baking products. Since 1993, we have shared recipes, tips, and other resources to help people make long-lasting memories in the kitchen. More Than Baking...Memory Making."
+    ],
+    "price": 21.73,
+    "store": "R&M International",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Dinnerware",
+      "Bowls",
+      "Soup Bowls"
+    ],
+    "details": {
+      "Material": "Ceramic",
+      "Finish Type": "Polished",
+      "Brand": "R&M International",
+      "Color": "Brown",
+      "Capacity": "30 Fluid Ounces",
+      "Product Dimensions": "6.75\"D x 7.5\"W x 5\"H",
+      "Item Weight": "2.72 Pounds",
+      "Coating Description": "Ceramic",
+      "Manufacturer": "R & M Industries",
+      "Item model number": "7630",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 89146,
+        "Soup Bowls": 184
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 15, 2009"
+    },
+    "parent_asin": "B079J4SPBQ",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "AG2NOIYXWRLBHPHJBL2S4D7T5VIA_B08WZW738L_1568759582428",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Had to have one sooner",
+  "text": "Had to have one sooner. Sent this back",
+  "asin": "B07GB5SVLV",
+  "parent_asin": "B08WZW738L",
+  "user_id": "AG2NOIYXWRLBHPHJBL2S4D7T5VIA",
+  "timestamp": 1568759582428,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "FORCHEER Black Waterproof Mattress Protector Twin Calking Mattress Cover Fitted Sheet Bed with Elastic Band(Twin,Black)",
+    "average_rating": 4.4,
+    "rating_number": 737,
+    "features": [
+      "TPU Material:100% waterproof polyester will bring you softness,durability,breathability.It's helpful for those who have pets,kids,or inconvenience.",
+      "Various Colors:Every classic solid color will always match your decoration ,give your room a new look.",
+      "Comfy & Quiet:Waterproof mattress protector made of premium fabric which softer and more comfortable than general fabric.It naturally absorbs liquid while allowing gas to pass through,keeping a quiet and dry environment.",
+      "Fitted Dimension:Elegant tailoring and deep pockets,360°Elastic band design.Twin:39\"x75\"+14\"/Full:54\"x75\"+14\"/Queen:60\"x80\"+18\"/King:78\"x80\"+18\".",
+      "Easy Care & Wash:Machine wash and dry at low temperatures. (Cold machine wash and tumble dry low supportable)"
+    ],
+    "description": [],
+    "price": 18.99,
+    "store": "FORCHEER",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Mattress Protectors & Encasements",
+      "Mattress Protectors"
+    ],
+    "details": {
+      "Brand": "FORCHEER",
+      "Color": "#2black",
+      "Size": "Twin",
+      "Fabric Type": "Polyester",
+      "Special Feature": "Pocket, Water Proof",
+      "Closure Type": "Pull On",
+      "Product Care Instructions": "Machine Wash",
+      "Water Resistance Level": "Waterproof",
+      "Material": "Polyester, Polyester Blend",
+      "Product Dimensions": "13.78 x 11.81 x 1.97 inches",
+      "Item Weight": "1.05 pounds",
+      "Manufacturer": "FORCHEER",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 144603,
+        "Mattress Protectors": 260
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 9, 2018"
+    },
+    "parent_asin": "B08WZW738L",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ_B0039PNT10_1310660809000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "This is great!",
+  "text": "This is great!. This is a very attractive and useful paper towel holder.  I really like how it keeps the roll from unraveling when I only want one towel.  The size is great also, because it fits the large rolls of paper towels from Costco.  I'm trying to think who I can give one to as a gift some time.",
+  "asin": "B0039PNT10",
+  "parent_asin": "B0039PNT10",
+  "user_id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ",
+  "timestamp": 1310660809000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kamenstein Bamboo Perfect Tear Paper Towel Holder",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Patented Perfect Tear technology ensures absolutely no unraveling from the roll",
+      "Simple one-hand operation; just pull and tear with perfect results",
+      "Paper towel roll simply slides on and off holder; no need to remove end cap",
+      "Sturdy weighted base for stability"
+    ],
+    "description": [
+      "The Kamnestein Perfect Tear Paper Towel Holder has Patented Perfect Tear technology which ensures absolutely no unraveling from the roll, simple one-hand operation. Simply pull and tear to get perfect results."
+    ],
+    "price": null,
+    "store": "Kamenstein",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Paper Towel Holders"
+    ],
+    "details": {
+      "Product Dimensions": "7.5 x 7.5 x 13.5 inches",
+      "Item Weight": "5.05 pounds",
+      "Manufacturer": "M. Kamenstein Inc.",
+      "Item model number": "40033AS",
+      "Date First Available": "February 22, 2010",
+      "Material": "Wood",
+      "Color": "Brown",
+      "Brand": "Kamenstein"
+    },
+    "parent_asin": "B0039PNT10",
+    "bought_together": null
+  }
+}

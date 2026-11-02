@@ -1,0 +1,41 @@
+{
+  "id": "AEV2AM5IEUVKSKLEJTWGMW3VB7RQ_B0BGKB97ZB_1676416076531",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Didn’t work",
+  "text": "Didn’t work. Didn’t work but forgot to return it and now it’s past the time to do so and that’s my fault.",
+  "asin": "B0BGKB97ZB",
+  "parent_asin": "B0BGKB97ZB",
+  "user_id": "AEV2AM5IEUVKSKLEJTWGMW3VB7RQ",
+  "timestamp": 1676416076531,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Tidaivor Handheld Vacuum Cordless 13000pa, Car Vacuum Cordless Rechargeable, High Power Dual Motor Handheld Vacuum, Portable Household Wet Dry Vacuum Cleaners for Car, House&pet Hair",
+    "average_rating": 2.6,
+    "rating_number": 14,
+    "features": [],
+    "description": [],
+    "price": 69.98,
+    "store": "Tidaivor",
+    "categories": [],
+    "details": {
+      "Brand": "Tidaivor",
+      "Special Feature": "Lightweight, Wet, Dry",
+      "Is Cordless?": "Yes",
+      "Form Factor": "Handheld",
+      "Controller Type": "Push Button",
+      "Package Dimensions": "13.98 x 6.06 x 4.84 inches",
+      "Item Weight": "2.31 pounds",
+      "Item model number": "Tidaivor Handheld Vacuum",
+      "Batteries required": "No",
+      "Surface Recommendation Car": "",
+      "": "Wattage 150 watts",
+      "Voltage 12 Volts": ""
+    },
+    "parent_asin": "B0BGKB97ZB",
+    "bought_together": null
+  }
+}

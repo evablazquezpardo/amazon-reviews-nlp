@@ -1,0 +1,52 @@
+{
+  "id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ_B003TYGY04_1677048359508",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Nice magnet!",
+  "text": "Nice magnet!. Bought it as a souvenir of a recent trip to Memphis - it's a pleasant reminder!",
+  "asin": "B003TYGY04",
+  "parent_asin": "B003TYGY04",
+  "user_id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ",
+  "timestamp": 1677048359508,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Greetings from Memphis Tennessee Fridge Magnet",
+    "average_rating": 3.7,
+    "rating_number": 13,
+    "features": [
+      "Approximately 3\" x 2\"",
+      "Deluxe \"wrap-around\" metal inner shell with a glossy Mylar outer shell",
+      "Full, strong magnetic back",
+      "Crisp, vivid image",
+      "Made in USA"
+    ],
+    "description": [
+      "This is a charming refrigerator magnet featuring the phrase, \"Greetings from Memphis Tennessee.\" It is in the style of vintage postcards, where pictures of famous local sights would be superimposed on the letters. It is approximately 3\"x2\". This would make a great way to pay tribute to your hometown or state or display the places you've traveled."
+    ],
+    "price": 4.99,
+    "store": "Classical Creations",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Kitchen Accessories",
+      "Refrigerator Magnets"
+    ],
+    "details": {
+      "Manufacturer": "Classical Creations",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 758718,
+        "Refrigerator Magnets": 24374
+      },
+      "Date First Available": "June 25, 2010",
+      "Material": "Metal",
+      "Brand": "Classical Creations",
+      "Shape": "Round"
+    },
+    "parent_asin": "B003TYGY04",
+    "bought_together": null
+  }
+}

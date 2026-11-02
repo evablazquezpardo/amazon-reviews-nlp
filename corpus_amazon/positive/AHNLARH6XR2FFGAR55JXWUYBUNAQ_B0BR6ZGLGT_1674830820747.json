@@ -1,0 +1,48 @@
+{
+  "id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ_B0BR6ZGLGT_1674830820747",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Fabulous Unit Get One as Soon as Possible.",
+  "text": "Fabulous Unit Get One as Soon as Possible.. This is the best unit I have ever seen. Does fantastic cleaning, quietly and with so many attachments. Grab one while they are still available.",
+  "asin": "B0BR6ZGLGT",
+  "parent_asin": "B0BR6ZGLGT",
+  "user_id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ",
+  "timestamp": 1674830820747,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ezetek Cordless Vacuum Cleaner, Stick Vacuum Cleaner with Led",
+    "average_rating": 4.0,
+    "rating_number": 20,
+    "features": [],
+    "description": [],
+    "price": 199.99,
+    "store": "Ezetek",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuums",
+      "Stick Vacuums & Electric Brooms"
+    ],
+    "details": {
+      "Brand": "Ezetek",
+      "Filter Type": "Cartridge",
+      "Surface Recommendation": "Carpet,Floor",
+      "Power Source": "Battery Powered",
+      "Voltage": "20 Volts",
+      "Is Cordless?": "Yes",
+      "Wattage": "68 Watt-hours",
+      "Form Factor": "Stick",
+      "Noise Level": "68 dB",
+      "Controller Type": "Push Button",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 8728456,
+        "Stick Vacuums & Electric Brooms": 4287
+      }
+    },
+    "parent_asin": "B0BR6ZGLGT",
+    "bought_together": null
+  }
+}

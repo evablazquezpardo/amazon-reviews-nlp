@@ -1,0 +1,70 @@
+{
+  "id": "AHXBL3QDWZGJYH7A5CMPFNUPMF7Q_B09Y2XK5T4_1608827468125",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "I love it",
+  "text": "I love it. This works great! It keeps all of the seeds and pieces of lemon out of the juice. Easy to use.",
+  "asin": "B01B7HSI76",
+  "parent_asin": "B09Y2XK5T4",
+  "user_id": "AHXBL3QDWZGJYH7A5CMPFNUPMF7Q",
+  "timestamp": 1608827468125,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OXO Good Grips Small Citrus Juicer, Yellow",
+    "average_rating": 4.6,
+    "rating_number": 3585,
+    "features": [
+      "Sized for measuring citrus juice for cooking and baking",
+      "2. 5 oz cup with convenient measurement markings",
+      "Unique reamer design for easy and efficient juicing",
+      "Reamer dish fits securely onto cup for stability while juicing",
+      "Juicer is BPA-free and features a drip-free pour spout",
+      "Disassembles for cleaning"
+    ],
+    "description": [
+      "The OXO Good Grips Small Citrus Juicer is the ideal size for measuring citrus juice for cooking and baking. The Juicer is a 2. 5 ounce cup with convenient measuring markings and features a unique reamer design for easy and efficient juicing. The Reamer dish fits securely onto the cup for stability while juicing. The Juicer features a drip-free spout and disassemble for cleaning."
+    ],
+    "price": 11.99,
+    "store": "OXO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Fruit & Vegetable Tools",
+      "Manual Juicers"
+    ],
+    "details": {
+      "Brand": "OXO",
+      "Color": "Yellow",
+      "Special Feature": "BPA Free",
+      "Product Dimensions": "3.6\"D x 3.7\"W x 7.5\"H",
+      "Material": "Plastic",
+      "Product Care Instructions": "Dishwasher Safe",
+      "Capacity": "75 Milliliters",
+      "Wattage": "800 watts",
+      "Item Weight": "2.46 ounces",
+      "Blade Material": "Acrylonitrile Butadiene Styrene",
+      "Controller Type": "Manual",
+      "Is Dishwasher Safe": "Yes",
+      "Manufacturer": "OXO",
+      "Country of Origin": "China",
+      "Item model number": "11155800",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 3355,
+        "Zesters": 6,
+        "Manual Juicers": 15,
+        "Measuring Cups": 25
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Included Components": "One Citrus Juicer"
+    },
+    "parent_asin": "B09Y2XK5T4",
+    "bought_together": null
+  }
+}

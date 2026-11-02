@@ -1,0 +1,64 @@
+{
+  "id": "AH4CGRSYSW5CWLRGQYRZKNJBUPAA_B0BVZHN3CD_1552207085848",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great quality",
+  "text": "Great quality. Worth the price",
+  "asin": "B00U86EKW0",
+  "parent_asin": "B0BVZHN3CD",
+  "user_id": "AH4CGRSYSW5CWLRGQYRZKNJBUPAA",
+  "timestamp": 1552207085848,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "DecoBros 4 Pack Wall Mount Single Tier Mesh Spice Rack, Bronze",
+    "average_rating": 4.7,
+    "rating_number": 5068,
+    "features": [
+      "Multi-purpose elegant rack for spice bottles, jelly jar or nail polish bottles",
+      "Mounts on the wall. All mounting hardware (screws/wall anchors) included",
+      "4-pack in the package",
+      "3.5'' depth holds up to 3.1'' diameter bottle/jar",
+      "Dimension: 16'' L x 4'' H x 3.1'' D"
+    ],
+    "description": [],
+    "price": 22.97,
+    "store": "Deco Brothers",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Seasoning & Spice Tools",
+      "Spice Racks"
+    ],
+    "details": {
+      "Material": "Metal",
+      "Color": "Bronze",
+      "Product Dimensions": "3.1\"D x 16\"W x 4\"H",
+      "Shelf Type": "Tiered Shelf",
+      "Number of Shelves": "1",
+      "Assembly Required": "No",
+      "Mounting Type": "Wall Mount",
+      "Brand": "Deco Brothers",
+      "Style": "Elegant",
+      "Manufacturer": "Deco Brothers",
+      "Part Number": "RK-29B-B",
+      "Item Weight": "2.97 pounds",
+      "Country of Origin": "China",
+      "Item model number": "RK-29B-B",
+      "Size": "4 Pack",
+      "Item Package Quantity": "4",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 41986,
+        "Spice Racks": 416
+      },
+      "Date First Available": "February 18, 2021"
+    },
+    "parent_asin": "B0BVZHN3CD",
+    "bought_together": null
+  }
+}

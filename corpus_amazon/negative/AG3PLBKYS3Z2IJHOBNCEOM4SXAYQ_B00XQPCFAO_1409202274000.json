@@ -1,0 +1,66 @@
+{
+  "id": "AG3PLBKYS3Z2IJHOBNCEOM4SXAYQ_B00XQPCFAO_1409202274000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Totally lame.",
+  "text": "Totally lame.. A regular cube of butter doesn't fit ...with the top on, it smashes it.  Totally lame.",
+  "asin": "B001B37D4Q",
+  "parent_asin": "B00XQPCFAO",
+  "user_id": "AG3PLBKYS3Z2IJHOBNCEOM4SXAYQ",
+  "timestamp": 1409202274000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Anchor Hocking Presence Sugar Dish with Cover, Clear",
+    "average_rating": 4.4,
+    "rating_number": 511,
+    "features": [
+      "Clear glass sugar bowl from Anchor Hocking",
+      "Measures 4 inches in diameter by 4.25 inches tall",
+      "Clean, classic lines perfect for entertaining and everyday use",
+      "Dishwasher safe",
+      "Coordinates with Presence from Anchor Hocking tabletop accessories"
+    ],
+    "description": [
+      "Set the table with your Presence accessories. The clean lines of the butter dish, gravy boat, salt and pepper tie into any dinner setting or theme. The butter dish stores nicely in your fridge for everyday use as well."
+    ],
+    "price": 18.12,
+    "store": "Anchor Hocking",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Cream & Sugar",
+      "Sugar Bowls"
+    ],
+    "details": {
+      "Bowl Material": "Glass",
+      "Number of Pieces": "1",
+      "Brand": "Anchor Hocking",
+      "Color": "Clear",
+      "Style": "Sugar Dish",
+      "Special Feature": "Dishwasher Safe",
+      "Shape": "Round",
+      "Capacity": "8 Ounces",
+      "Seasons": "All Seasons",
+      "Is Dishwasher Safe": "Yes",
+      "Is Microwaveable": "No",
+      "Material": "Glass",
+      "Product Dimensions": "4\"W x 4.25\"H",
+      "Item Weight": "1.5 pounds",
+      "Manufacturer": "Anchor Hocking",
+      "Item model number": "64192B",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 104794,
+        "Sugar Bowls": 111
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 10, 2004"
+    },
+    "parent_asin": "B00XQPCFAO",
+    "bought_together": null
+  }
+}

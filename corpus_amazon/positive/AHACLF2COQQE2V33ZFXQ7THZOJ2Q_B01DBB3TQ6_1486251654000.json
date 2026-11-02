@@ -1,0 +1,47 @@
+{
+  "id": "AHACLF2COQQE2V33ZFXQ7THZOJ2Q_B01DBB3TQ6_1486251654000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Great for cold products from supermarket.",
+  "asin": "B01DBB3TQ6",
+  "parent_asin": "B01DBB3TQ6",
+  "user_id": "AHACLF2COQQE2V33ZFXQ7THZOJ2Q",
+  "timestamp": 1486251654000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Insulated Reusable Grab Bag Grocery Shopping Tote Holds Up To 40 lbs (2)",
+    "average_rating": 4.5,
+    "rating_number": 636,
+    "features": [
+      "2 pack of Grab Bags, Do your part for the enviroment with this set of durable Reusable Grocery bag, Holds 40 pounds each",
+      "Insulated to keep your food hot or cold",
+      "Outer pockets hold Grocery Lists, keys, wallet, coupons, phone etc",
+      "Easy to use, clips to shopping cart",
+      "Doubles as a trunk organizer, keeps your groceries from rolling around. Get one for each car"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Telebrands",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Travel & To-Go Food Containers",
+      "Reusable Grocery Bags"
+    ],
+    "details": {
+      "Product Dimensions": "7 x 8 x 11 inches",
+      "Item Weight": "8 ounces",
+      "Manufacturer": "Telebrands",
+      "Item model number": "9224",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 23, 2016"
+    },
+    "parent_asin": "B01DBB3TQ6",
+    "bought_together": null
+  }
+}

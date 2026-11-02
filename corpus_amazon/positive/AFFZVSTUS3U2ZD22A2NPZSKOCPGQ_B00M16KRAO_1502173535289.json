@@ -1,0 +1,40 @@
+{
+  "id": "AFFZVSTUS3U2ZD22A2NPZSKOCPGQ_B00M16KRAO_1502173535289",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "nice product",
+  "text": "nice product. love this mold. candy pops out very easy and cleans up nicely",
+  "asin": "B00M16KRAO",
+  "parent_asin": "B00M16KRAO",
+  "user_id": "AFFZVSTUS3U2ZD22A2NPZSKOCPGQ",
+  "timestamp": 1502173535289,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Silicone Baking Tray for Candy, Chocolate, Fudge (Brown, 2 Pieces)",
+    "average_rating": 4.1,
+    "rating_number": 44,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Juvale",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Candy Making Supplies",
+      "Candy Molds"
+    ],
+    "details": {
+      "Product Dimensions": "9 x 4 x 1 inches",
+      "Item Weight": "5 ounces",
+      "Item model number": "SYNCHKG125193",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 23, 2014"
+    },
+    "parent_asin": "B00M16KRAO",
+    "bought_together": null
+  }
+}

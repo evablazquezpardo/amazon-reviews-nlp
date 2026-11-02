@@ -1,0 +1,63 @@
+{
+  "id": "AER5A2LR25ZV3SYFCYUWBRGRKBBA_B000KKKUSM_1490655320000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "NOT kitchen shears",
+  "text": "NOT kitchen shears. Kitchen shears that do not come apart are not kitchen shears.These do not come apart.",
+  "asin": "B000KKKUSM",
+  "parent_asin": "B000KKKUSM",
+  "user_id": "AER5A2LR25ZV3SYFCYUWBRGRKBBA",
+  "timestamp": 1490655320000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Chef Craft Select Kitchen Shears, 9 inches in Length, Stainless Steel/Black",
+    "average_rating": 4.4,
+    "rating_number": 359,
+    "features": [
+      "Durable Stainless Steel Blades",
+      "Plastic handle comfortable to use",
+      "Twist off bottle opener between handles",
+      "Dishwasher safe",
+      "Sharp blades will last a long time"
+    ],
+    "description": [
+      "These 9-inch stainless steel kitchen sheers are a must have for the kitchen for ease of cutting through chicken bones and larger pieces of meat. The larger handle openings make it comfortable for the hand and the cutting edge is serrated and made from stainless steel."
+    ],
+    "price": 5.82,
+    "store": "Chef Craft",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Shears"
+    ],
+    "details": {
+      "Color": "Stainless Steel/Black",
+      "Material": "Stainless Steel",
+      "Brand": "Chef Craft",
+      "Blade Material": "Stainless Steel",
+      "Item Dimensions LxWxH": "0.5 x 3.75 x 9 inches",
+      "Style": "Classic",
+      "Blade Length": "9 Inches",
+      "Blade Edge": "Serrated",
+      "Finish Type": "Brushed",
+      "Handle Material": "Plastic,Stainless Steel",
+      "Hand Orientation": "Ambidextrous",
+      "Product Dimensions": "0.5 x 3.75 x 9 inches",
+      "Item Weight": "0.352 ounces",
+      "Manufacturer": "Chef Craft Corporation",
+      "Item model number": "21000",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 243771,
+        "Kitchen Shears": 533
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 16, 2007"
+    },
+    "parent_asin": "B000KKKUSM",
+    "bought_together": null
+  }
+}

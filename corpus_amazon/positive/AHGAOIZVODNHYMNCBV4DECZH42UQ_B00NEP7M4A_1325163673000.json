@@ -1,0 +1,60 @@
+{
+  "id": "AHGAOIZVODNHYMNCBV4DECZH42UQ_B00NEP7M4A_1325163673000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Excellent",
+  "text": "Excellent. perfect for my needs - it was here before i knew it ... shipped right out in perfect condition !",
+  "asin": "B000UEE3DG",
+  "parent_asin": "B00NEP7M4A",
+  "user_id": "AHGAOIZVODNHYMNCBV4DECZH42UQ",
+  "timestamp": 1325163673000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Winco Stainless Steel 3-Piece Cocktail Shaker Set, 16-Ounce, Set of 6",
+    "average_rating": 4.4,
+    "rating_number": 695,
+    "features": [
+      "Dishwasher safe",
+      "Quantity: Set of 6",
+      "Set includes shaker, strainer and jigger top",
+      "Stainless steel with mirror finish",
+      "16 ounce capacity"
+    ],
+    "description": [
+      "Winco 16 ounce stainless steel 3 piece cocktail shaker BL-3P. Stainless steel with mirror finish. Set includes shaker, strainer and jigger top."
+    ],
+    "price": 62.47,
+    "store": "Winco",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Bar & Wine Tools",
+      "Cocktail Shakers"
+    ],
+    "details": {
+      "Color": "Stainless Steel",
+      "Material": "Stainless Steel",
+      "Brand": "Winco",
+      "Item Dimensions LxWxH": "20 x 12 x 5 inches",
+      "Finish Type": "Polished",
+      "Capacity Description": "16 ounce",
+      "Is Dishwasher Safe": "Yes",
+      "Product Dimensions": "20 x 12 x 5 inches",
+      "Item Weight": "3.99 pounds",
+      "Manufacturer": "Winco",
+      "Item model number": "BL-3P-6",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 100622,
+        "Cocktail Shakers": 287
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 16, 2015"
+    },
+    "parent_asin": "B00NEP7M4A",
+    "bought_together": null
+  }
+}

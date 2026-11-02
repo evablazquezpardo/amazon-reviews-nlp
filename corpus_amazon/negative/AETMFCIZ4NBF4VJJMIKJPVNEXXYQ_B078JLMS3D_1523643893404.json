@@ -1,0 +1,39 @@
+{
+  "id": "AETMFCIZ4NBF4VJJMIKJPVNEXXYQ_B078JLMS3D_1523643893404",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Product was very flimsy and small and not sharp at all.",
+  "asin": "B078JLMS3D",
+  "parent_asin": "B078JLMS3D",
+  "user_id": "AETMFCIZ4NBF4VJJMIKJPVNEXXYQ",
+  "timestamp": 1523643893404,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "WhopperIndia Stainless Steel Lemon Zester with Handle, Kitchen Tools for Hard Cheese, Lemon, Chocolate, Ginger, Potato, Vegetables 5.5 Inch",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "WhopperIndia",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Graters, Peelers & Slicers",
+      "Zesters"
+    ],
+    "details": {
+      "Product Dimensions": "5.5 x 2.4 x 1.5 inches",
+      "Item Weight": "1.94 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B078JLMS3D",
+    "bought_together": null
+  }
+}

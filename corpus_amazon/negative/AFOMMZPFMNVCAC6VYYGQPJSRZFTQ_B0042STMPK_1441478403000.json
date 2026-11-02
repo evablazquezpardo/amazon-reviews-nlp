@@ -1,0 +1,57 @@
+{
+  "id": "AFOMMZPFMNVCAC6VYYGQPJSRZFTQ_B0042STMPK_1441478403000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Not very stable.",
+  "asin": "B0042STMPK",
+  "parent_asin": "B0042STMPK",
+  "user_id": "AFOMMZPFMNVCAC6VYYGQPJSRZFTQ",
+  "timestamp": 1441478403000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "King's Brand Furniture-3 Tier Metal Freestanding Bathroom Towel Rack Stand Organizer, Chrome",
+    "average_rating": 4.1,
+    "rating_number": 284,
+    "features": [
+      "Kings Brand Furniture - 3 Tier Metal Freestanding Bathroom Towel Rack Stand Organizer, Chrome",
+      "This free-standing towel stand is the perfect combination of style and functionality.",
+      "Constructed of high-quality metal, this towel stand is sturdy and will last for years to come.",
+      "It has a stunning chrome finish that can blend well with all types of interiors and color schemes.",
+      "Finish: Chrome. Material: Metal. Number of Bars: 3. Overall Dimensions: 19\"W x 14\"D x 36\"H"
+    ],
+    "description": [],
+    "price": 30.05,
+    "store": "King's Brand",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Towel Holders",
+      "Towel Racks"
+    ],
+    "details": {
+      "Color": "Chrome",
+      "Material": "Metal",
+      "Product Dimensions": "19.29\"L x 231.6\"W x 36.22\"H",
+      "Finish Type": "Chrome Finish",
+      "Brand": "King's Brand",
+      "Installation Type": "Freestanding",
+      "Item Weight": "0.01 Ounces",
+      "Country of Origin": "China",
+      "Item model number": "Towel Rack",
+      "Is Discontinued By Manufacturer": "No",
+      "Weight": "4.1 Pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1413786,
+        "Towel Racks": 1131
+      },
+      "Date First Available": "September 13, 2010"
+    },
+    "parent_asin": "B0042STMPK",
+    "bought_together": null
+  }
+}

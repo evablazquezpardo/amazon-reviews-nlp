@@ -1,0 +1,42 @@
+{
+  "id": "AGODEE2NRFP5H2KRXIZPZPV5QSJQ_B007ISQ9P2_1415933271000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Better than foil wrapped cardboard",
+  "asin": "B007ISQ9P2",
+  "parent_asin": "B007ISQ9P2",
+  "user_id": "AGODEE2NRFP5H2KRXIZPZPV5QSJQ",
+  "timestamp": 1415933271000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Wilton Silver 12-Inch Square Cake Platters, 5 Count",
+    "average_rating": 4.2,
+    "rating_number": 35,
+    "features": [
+      "Pack of 5 square decorative cake platters",
+      "Metallic silver finish for an elegant presentation",
+      "12-inch by 12-inch",
+      "Greaseproof",
+      "Best for cakes up to 10-inch"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Wilton",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Serveware",
+      "Serving Dishes, Trays & Platters",
+      "Platters"
+    ],
+    "details": {},
+    "parent_asin": "B007ISQ9P2",
+    "bought_together": null
+  }
+}

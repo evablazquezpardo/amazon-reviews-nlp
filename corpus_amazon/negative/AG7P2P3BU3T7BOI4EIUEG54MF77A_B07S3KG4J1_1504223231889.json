@@ -1,0 +1,62 @@
+{
+  "id": "AG7P2P3BU3T7BOI4EIUEG54MF77A_B07S3KG4J1_1504223231889",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Too small",
+  "asin": "B00021RESS",
+  "parent_asin": "B07S3KG4J1",
+  "user_id": "AG7P2P3BU3T7BOI4EIUEG54MF77A",
+  "timestamp": 1504223231889,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Atlantic Gravity-Fed Compact Double Canrack – Kitchen Organizer, Durable Steel Construction, Stackable or Side-by-Side, PN in Silver",
+    "average_rating": 4.3,
+    "rating_number": 2821,
+    "features": [
+      "Slim space-saving storage solution",
+      "Durable steel wire construction designed to withstand continuous use",
+      "Angled shelves for convenient and easy retrieval",
+      "Compact Size Fits in Most Cabinets and Pantry Shelves",
+      "Easy to clean finish"
+    ],
+    "description": [
+      "Slim space saving storage solution. Durable steel wire construction. Angled shelves for easy retrieval. Compact size fits most cabinets and pantry shelves. Easy no tool assembly."
+    ],
+    "price": 28.45,
+    "store": "Atlantic",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Stacking Can Dispensers"
+    ],
+    "details": {
+      "Product Dimensions": "15.7 x 12.7 x 3.6 inches",
+      "Item Weight": "8.05 pounds",
+      "Department": "Home",
+      "Manufacturer": "Atlantic, Inc.",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More",
+      "Country of Origin": "China",
+      "Item model number": "23235595",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 26540,
+        "Stacking Can Dispensers": 71,
+        "Standing Shelf Units": 171
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Volume": "1.11 Milliliters",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Warranty Description": "Limted 1 year warranty.",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07S3KG4J1",
+    "bought_together": null
+  }
+}

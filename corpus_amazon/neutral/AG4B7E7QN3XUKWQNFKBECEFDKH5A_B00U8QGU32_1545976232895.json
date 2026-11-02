@@ -1,0 +1,75 @@
+{
+  "id": "AG4B7E7QN3XUKWQNFKBECEFDKH5A_B00U8QGU32_1545976232895",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "My review",
+  "text": "My review. Material is sensitive to movement",
+  "asin": "B00Q7OFAU8",
+  "parent_asin": "B00U8QGU32",
+  "user_id": "AG4B7E7QN3XUKWQNFKBECEFDKH5A",
+  "timestamp": 1545976232895,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Reversible Lightweight Microfiber Comforter Blanket, Full/Queen, Burgundy/Gray",
+    "average_rating": 4.5,
+    "rating_number": 40403,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Comforter blanket for a cozy layer of warmth; ideal for bedrooms, guest bedrooms, and more",
+      "Includes a Full/Queen 86 x 92-inch comforter; reversible with Burgundy on one side and Gray on the other",
+      "Made of polyester microfiber for softness and strength; diamond stitching prevents the fill from shifting; lightweight for all-season use",
+      "Machine wash warm on permanent press cycle for easy home care",
+      "Made in OEKO-TEX Standard 100 factory, an independent certification system that ensures textiles meet high safety and environmental standards"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Reversible Microfiber Comforter Blanket - Full / Queen, Burgundy / Gray",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 36.95,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Comforters & Sets"
+    ],
+    "details": {
+      "Material": "Polyester",
+      "Color": "Burgundy / Grey",
+      "Brand": "Amazon Basics",
+      "Special Feature": "Reversible, Lightweight",
+      "Style": "1-Pack",
+      "Blanket Form": "Comforter",
+      "Age Range (Description)": "Adult",
+      "Product Dimensions": "92 x 86 x 0.04 inches",
+      "Theme": "Plain",
+      "Pattern": "Solid",
+      "Fill Material": "Polyester",
+      "Care instructions": "Machine Wash",
+      "Size": "Full/Queen",
+      "Fabric Type": "100% Polyester",
+      "Unit Count": "1 Count",
+      "Number of Items": "1",
+      "Item Weight": "3.98 pounds",
+      "Included Components": "comforter",
+      "Fabric Warmth Description": "Lightweight",
+      "Manufacturer": "Amazon Basics",
+      "Country of Origin": "China",
+      "Item model number": "2016122108",
+      "Best Sellers Rank": {
+        "Our Brands": 659,
+        "Bedding Comforter Sets": 21
+      },
+      "Refill": "Polyester",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B00U8QGU32",
+    "bought_together": null
+  }
+}

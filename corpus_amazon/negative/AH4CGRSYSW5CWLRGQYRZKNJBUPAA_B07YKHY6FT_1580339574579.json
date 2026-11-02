@@ -1,0 +1,41 @@
+{
+  "id": "AH4CGRSYSW5CWLRGQYRZKNJBUPAA_B07YKHY6FT_1580339574579",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Bad customer service",
+  "text": "Bad customer service. Offered a gift card for good review then did not reply to emails sent. Decent product and bad customer service",
+  "asin": "B07YKHY6FT",
+  "parent_asin": "B07YKHY6FT",
+  "user_id": "AH4CGRSYSW5CWLRGQYRZKNJBUPAA",
+  "timestamp": 1580339574579,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Toys & Games",
+    "title": "Balloon Pump Electric Balloon Inflator Portable Dual Nozzle with 85 PCS Balloons, Happy Birthday Balloons, Tying Tools, 20 Flower Clips, Tape Strip and Dot Glues for Party Decoration and Christmas",
+    "average_rating": 4.4,
+    "rating_number": 26,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "YOKARTEE",
+    "categories": [
+      "Home & Kitchen",
+      "Event & Party Supplies",
+      "Decorations",
+      "Balloons"
+    ],
+    "details": {
+      "Package Dimensions": "8.6 x 7.1 x 5.5 inches",
+      "Item Weight": "3.29 pounds",
+      "Occasion": "Christmas, Birthday",
+      "Material": "Aluminum",
+      "Unit Count": "85",
+      "Brand": "YOKARTEE",
+      "CPSIA Cautionary Statement": "Choking Hazard - Balloon"
+    },
+    "parent_asin": "B07YKHY6FT",
+    "bought_together": null
+  }
+}

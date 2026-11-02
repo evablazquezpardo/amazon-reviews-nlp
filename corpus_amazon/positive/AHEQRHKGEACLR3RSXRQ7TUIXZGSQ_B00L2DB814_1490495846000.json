@@ -1,0 +1,40 @@
+{
+  "id": "AHEQRHKGEACLR3RSXRQ7TUIXZGSQ_B00L2DB814_1490495846000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Excellent as described product",
+  "asin": "B00L2DB814",
+  "parent_asin": "B00L2DB814",
+  "user_id": "AHEQRHKGEACLR3RSXRQ7TUIXZGSQ",
+  "timestamp": 1490495846000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Liquid Kelp Organic Seaweed Fertilizer 32 Ounce",
+    "average_rating": 4.6,
+    "rating_number": 1158,
+    "features": [],
+    "description": [
+      "OMRI Organic Listed. 32 Ounce Liquid Concentrate. Liquid Kelp from GS Plant Foods is among the highest quality seaweed products you can buy, derived from the Ascophyllum Nodosum seaweed from Norway, which has been proven to be the most effective at providing the desired results. Liquid Kelp is a natural plant food that provides a range of benefits for plant health and growth. One of nature's miracle plant foods. GS Plant Foods Liquid Kelp will greatly increase your plant's resistance to stresses such as excessive heat, wind, drought conditions and more. Stimulates natural root growth, mineral uptake and overall plant growth and vigor. Use GS Plant Foods Liquid Kelp along with other fertilizers, or by itself. It pairs especially well with a high quality Liquid Fish fertilizer such as GS Plant Foods Organic Liquid Fish. Use on all plants, seedlings, fruit trees, houseplants as a regular healthful maintenance program. You will begin to experience healthier plants with stronger, more developed root systems and bigger blooms and flowers. Benefits of Liquid Kelp. Improves seed germination and increases root development. -Increases bloom set and size of flowers and fruit. Increases and stabilizes chlorophyll in plants, which results in darker green leaves and increased sugar content in plants. Relieves stress in plants caused by extreme weather conditions. Increases plant vigor, and thus imparts a greater resistance to disease, insect attack, drought, and frost. Increases microorganisms in the soil that can fix nitrogen from the air. Increases mineral uptake from the soil and into the plant. Increases the storage life of fruits and vegetables by retarding the loss of protein, chlorophyll, and RNA. Retards the aging process in plants (senescence), thereby lengthening the production season. All natural, you really can't overuse this product, and your plants will love you for it. GS Plant Foods. High Performance Products for your Plants."
+    ],
+    "price": null,
+    "store": "GS Plant Foods",
+    "categories": [],
+    "details": {
+      "Brand": "GS Plant Foods",
+      "Item Weight": "32 Ounces",
+      "Item Form": "Liquid",
+      "Coverage": "Organic",
+      "Liquid Volume": "0.94 Liters",
+      "Target Species": "Fish",
+      "Product Dimensions": "4 x 4 x 8 inches",
+      "Item model number": "LK320z",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B00L2DB814",
+    "bought_together": null
+  }
+}

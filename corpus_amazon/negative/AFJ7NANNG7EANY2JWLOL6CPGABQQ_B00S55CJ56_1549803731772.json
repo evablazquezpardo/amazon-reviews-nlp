@@ -1,0 +1,71 @@
+{
+  "id": "AFJ7NANNG7EANY2JWLOL6CPGABQQ_B00S55CJ56_1549803731772",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Defective",
+  "text": "Defective. The bottom isn't flat, it wobbles when you put it down.",
+  "asin": "B00S55CJ56",
+  "parent_asin": "B00S55CJ56",
+  "user_id": "AFJ7NANNG7EANY2JWLOL6CPGABQQ",
+  "timestamp": 1549803731772,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Toys & Games",
+    "title": "Enesco Gund Pusheen by Our Name is Mud Plastic Tumbler with Straw, 16 oz., Multicolor",
+    "average_rating": 4.4,
+    "rating_number": 208,
+    "features": [
+      "BPA-free plastic tumbler cup featuring high-quality graphics from a popular Pusheen comic",
+      "Removable, secure dome lid as well as a removable plastic straw to help avoid messes",
+      "Hand wash only",
+      "Appropriate for ages 8+",
+      "16 ounce capacity"
+    ],
+    "description": [
+      "This BPA-free plastic tumbler cup features high-quality graphics from a popular Pusheen comic. Message reads “I like to drink with a straw and pretend I’m a tiny elephant.” Includes a removable, secure dome lid as well as a removable plastic straw to help avoid messes. Hand wash only."
+    ],
+    "price": 29.99,
+    "store": "GUND",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Tumblers & Water Glasses"
+    ],
+    "details": {
+      "Brand": "GUND",
+      "Material": "Polystyrene",
+      "Color": "Multicolor",
+      "Capacity": "16 Ounces",
+      "Special Feature": "Removable",
+      "Style": "Modern",
+      "Theme": "Comic",
+      "Occasion": "Everyday",
+      "Included Components": "Tumbler",
+      "Shape": "Round",
+      "Pattern": "Cartoon",
+      "Product Care Instructions": "Hand Wash Only",
+      "Age Range (Description)": "Adult",
+      "Unit Count": "1.0 Count",
+      "Item Weight": "3.52 ounces",
+      "Number of Items": "1",
+      "Package Type": "Standard Packaging",
+      "Product Dimensions": "3.75 x 9.38 x 3.75 inches",
+      "Country of Origin": "China",
+      "Item model number": "4048959",
+      "Manufacturer recommended age": "8 months - 5 years",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 443074,
+        "Tumblers & Water Glasses": 16273
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Release date": "January 1, 2015",
+      "Manufacturer": "Rejects from Studios"
+    },
+    "parent_asin": "B00S55CJ56",
+    "bought_together": null
+  }
+}

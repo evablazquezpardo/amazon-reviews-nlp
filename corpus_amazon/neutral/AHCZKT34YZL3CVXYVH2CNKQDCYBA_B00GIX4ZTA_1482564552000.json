@@ -1,0 +1,45 @@
+{
+  "id": "AHCZKT34YZL3CVXYVH2CNKQDCYBA_B00GIX4ZTA_1482564552000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Nice, but they turned out useless to us since it is illegal to ship wine without a license.",
+  "asin": "B00GIX4ZTA",
+  "parent_asin": "B00GIX4ZTA",
+  "user_id": "AHCZKT34YZL3CVXYVH2CNKQDCYBA",
+  "timestamp": 1482564552000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Wine Skin WineSkin Bag, 4-Pack",
+    "average_rating": 4.7,
+    "rating_number": 457,
+    "features": [
+      "WINESKIN: The original and still the best. Travel with confidence when you choose authentic products from WineSkin, the leader in bottle transport bags. WineSkin is perfect for luggage since it features WineSkin's classic, brand-name, double-adhesive seal.",
+      "LEAK-RESISTANT - WineSkin is great for luggage since it features WineSkin's classic, brand-name, double-adhesive seal.",
+      "SECURE - WineSkin will help you get your delicious wines and spirits home safely with their bubble-packaging enclosure for extra cushion, and their tough, thick-grade vinyl exterior.",
+      "EASY TO USE: Simply insert the bottle into the WineSkin, then peel the inner seal and compress it against the protective outer vinyl covering. Then peel and stick the outer seal and fold the vinyl flap onto the second adhesive strip and press firmly.",
+      "Each unsealed WineSkin measures 17.75 x 7 x .25 inches. Fits up to 750ml size bottles."
+    ],
+    "description": [],
+    "price": 14.89,
+    "store": "WineSkin",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Wine Accessories",
+      "Wine Accessory Sets"
+    ],
+    "details": {
+      "Brand": "WineSkin",
+      "Color": "Clear",
+      "Material": "Other",
+      "Style": "Modern",
+      "Closure Type": "Flap"
+    },
+    "parent_asin": "B00GIX4ZTA",
+    "bought_together": null
+  }
+}

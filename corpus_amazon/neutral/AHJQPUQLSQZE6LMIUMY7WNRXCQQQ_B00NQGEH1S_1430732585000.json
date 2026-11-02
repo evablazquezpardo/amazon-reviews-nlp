@@ -1,0 +1,39 @@
+{
+  "id": "AHJQPUQLSQZE6LMIUMY7WNRXCQQQ_B00NQGEH1S_1430732585000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Would be better if opened wider.",
+  "text": "Would be better if opened wider.. I would have liked this better if the tongs opened up wider.<br />It is small, but for a few veggies seems to work ok..",
+  "asin": "B001FB59VS",
+  "parent_asin": "B00NQGEH1S",
+  "user_id": "AHJQPUQLSQZE6LMIUMY7WNRXCQQQ",
+  "timestamp": 1430732585000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Norpro Nonstick Stainless Locking Mini Tongs",
+    "average_rating": 3.7,
+    "rating_number": 152,
+    "features": [
+      "Nonstick nylon",
+      "Locking mechanism ensures compact storage",
+      "Non-stick nylon ends releases food for easy cleanup",
+      "Perfect for serving hot or cold foods with minimal mess"
+    ],
+    "description": [],
+    "price": 6.33,
+    "store": "Norpro",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cooking Utensils",
+      "Tongs"
+    ],
+    "details": {},
+    "parent_asin": "B00NQGEH1S",
+    "bought_together": null
+  }
+}

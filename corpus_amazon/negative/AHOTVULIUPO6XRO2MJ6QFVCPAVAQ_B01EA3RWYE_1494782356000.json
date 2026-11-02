@@ -1,0 +1,60 @@
+{
+  "id": "AHOTVULIUPO6XRO2MJ6QFVCPAVAQ_B01EA3RWYE_1494782356000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "TOASTER",
+  "text": "TOASTER. GREAT TOASTER",
+  "asin": "B007JRUSE0",
+  "parent_asin": "B01EA3RWYE",
+  "user_id": "AHOTVULIUPO6XRO2MJ6QFVCPAVAQ",
+  "timestamp": 1494782356000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Oster 4-Slice Toaster, Metallic Red (TSSTTRWF4R-SHP)",
+    "average_rating": 4.2,
+    "rating_number": 2915,
+    "features": [
+      "4-slice toaster features extra-wide slots to accommodate a variety of items",
+      "Auto-adjusting bread guides for even, consistent toasting",
+      "7 toast shades from light to dark and 3 settings: bagel, reheat, and frozen",
+      "Removable crumb tray makes cleanup easy",
+      "Retractable cord for compact storage"
+    ],
+    "description": [
+      "Start your day with a perfectly crisp slice of toast using the Oster 4-Slice Toaster. With its four extra-wide slots, this toaster can easily accommodate bagels, homemade bread, and more. Its dual bread guides automatically adjust to accommodate different bread thicknesses, helping ensure even toasting. Featuring a user-friendly control panel and two independently adjustable dials, the toaster allows you to adjust toast shade and cancel toasting with just a push of a button. A high-rise lever elevates toast for easy retrieval. This 4-slice toaster also makes cleanup easy thanks to its removable crumb tray, and it helps prevent jams with its anti-jamming mechanism. And thanks to its retractable cord, this compact toaster takes up minimal space on your kitchen counter."
+    ],
+    "price": null,
+    "store": "Oster",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Ovens & Toasters",
+      "Toasters"
+    ],
+    "details": {
+      "Brand": "Oster",
+      "Color": "Red",
+      "Material": "Stainless Steel",
+      "Specific Uses For Product": "Bagel, Bread",
+      "Special Feature": "Cancel Function",
+      "Item Weight": "3 pounds",
+      "Number of settings": "3",
+      "Number of Programs": "4",
+      "Product Dimensions": "12 x 12.5 x 8 inches",
+      "Manufacturer": "Oster",
+      "Item model number": "TSSTTRWF4R-SHP",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 114764,
+        "Toasters": 306
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 25, 2016"
+    },
+    "parent_asin": "B01EA3RWYE",
+    "bought_together": null
+  }
+}

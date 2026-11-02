@@ -1,0 +1,44 @@
+{
+  "id": "AFNL6BE7VYTXD37XIUVHYKMNOCXQ_B07RPMT9N6_1604881601811",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Bad news purchase",
+  "text": "Bad news purchase. This is a terrible product. First of all it only covers half of the sofa. The depth is to narrow. Floats around under the cushion.",
+  "asin": "B07RPMT9N6",
+  "parent_asin": "B07RPMT9N6",
+  "user_id": "AFNL6BE7VYTXD37XIUVHYKMNOCXQ",
+  "timestamp": 1604881601811,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sofa Protector Boards - 2 Seater | Deluxe Couch & Furniture Strengthener | Armchair & Sofa Saver | Upholstery Protector | Sofa Support Boards | M&W",
+    "average_rating": 3.5,
+    "rating_number": 1272,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Maison & White",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Slipcovers",
+      "Sofa Slipcovers"
+    ],
+    "details": {
+      "Product Dimensions": "2.32\"D x 20.2\"W x 4.61\"H",
+      "Recommended Uses For Product": "Sofa",
+      "Special Feature": "Upholstery",
+      "Material": "Wood, Polyvinyl Chloride",
+      "Pattern": "Solid",
+      "Closure Type": "Elastic",
+      "Number of Items": "1",
+      "Item Weight": "0.053 ounces",
+      "Brand": "Maison & White",
+      "Date First Available": "May 13, 2019"
+    },
+    "parent_asin": "B07RPMT9N6",
+    "bought_together": null
+  }
+}

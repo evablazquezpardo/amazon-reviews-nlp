@@ -1,0 +1,48 @@
+{
+  "id": "AGPNK4LAUX7FV5LKFYB4NCZN32PQ_B01I18USDG_1363656886000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Always need one!",
+  "text": "Always need one!. I am tired of getting oil splatters on my good clothing and wiping flour on my pants. This is so useful to have!",
+  "asin": "B003KN21NI",
+  "parent_asin": "B01I18USDG",
+  "user_id": "AGPNK4LAUX7FV5LKFYB4NCZN32PQ",
+  "timestamp": 1363656886000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Chef Works Unisex Bib Apron",
+    "average_rating": 4.5,
+    "rating_number": 1018,
+    "features": [
+      "65% Polyester, 35% Cotton",
+      "Drawstring closure",
+      "machine_wash",
+      "Yarn-dyed poly/cotton fabric",
+      "Adjustable neck closure",
+      "Patch pocket with center divide",
+      "White Striped Bib Aprons available in Size 34 1/4\"L x 27\"W"
+    ],
+    "description": [
+      "At Chef Works, we believe that basic can still be beautiful. So we crafted our Bib Apron from materials that are high quality and built to last. This is the perfect starter apron for culinary students and large catering services."
+    ],
+    "price": 16.99,
+    "store": "Chef Works",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Aprons"
+    ],
+    "details": {
+      "Item model number": "CSAA-P",
+      "Department": "Unisex",
+      "Date First Available": "October 27, 2015",
+      "Manufacturer": "Chef Works"
+    },
+    "parent_asin": "B01I18USDG",
+    "bought_together": null
+  }
+}

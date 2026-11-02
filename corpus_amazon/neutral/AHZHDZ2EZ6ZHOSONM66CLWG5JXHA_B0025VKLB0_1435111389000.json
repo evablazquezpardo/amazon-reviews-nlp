@@ -1,0 +1,60 @@
+{
+  "id": "AHZHDZ2EZ6ZHOSONM66CLWG5JXHA_B0025VKLB0_1435111389000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Cute but small",
+  "asin": "B0025VKLB0",
+  "parent_asin": "B0025VKLB0",
+  "user_id": "AHZHDZ2EZ6ZHOSONM66CLWG5JXHA",
+  "timestamp": 1435111389000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "SpongeBob Squarepants Bubbly Fun Rug",
+    "average_rating": 4.3,
+    "rating_number": 70,
+    "features": [
+      "Measures 17 by 29-inch",
+      "100-Percent acrylic",
+      "Machine wash separately in cold water, delicate dry, do not use any bleach or any detergent containing bleach, tumble dry low",
+      "Do not dry clean"
+    ],
+    "description": [
+      "Look down while you dry your feet on this Sponge Bob bath rug and see him looking back at you through snorkeling goggles."
+    ],
+    "price": null,
+    "store": "Nickelodeon",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Rugs, Pads & Protectors",
+      "Area Rugs"
+    ],
+    "details": {
+      "Brand": "Nickelodeon",
+      "Size": "17 by 29",
+      "Material": "Cotton",
+      "Pile Height": "Low Pile",
+      "Construction Type": "Machine Made",
+      "Back Material Type": "Acrylic",
+      "Color": "Yellow",
+      "Theme": "Animals",
+      "Product Care Instructions": "Machine Wash",
+      "Pattern": "Letter Print",
+      "Shape": "Square",
+      "Special Feature": "Washable",
+      "Room Type": "Bathroom",
+      "Product Dimensions": "29\"L x 17\"W",
+      "Style": "Squarepants",
+      "Cartoon Character": "SpongeBob Squarepants",
+      "Item Weight": "12 ounces",
+      "Item model number": "B664RP",
+      "Date First Available": "April 20, 2009"
+    },
+    "parent_asin": "B0025VKLB0",
+    "bought_together": null
+  }
+}

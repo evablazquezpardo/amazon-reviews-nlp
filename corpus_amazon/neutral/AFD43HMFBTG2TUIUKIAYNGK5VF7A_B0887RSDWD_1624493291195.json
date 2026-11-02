@@ -1,0 +1,46 @@
+{
+  "id": "AFD43HMFBTG2TUIUKIAYNGK5VF7A_B0887RSDWD_1624493291195",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok, but not what the product description said",
+  "text": "Ok, but not what the product description said. These were said to be 2 round and 2 square tops. Only round.",
+  "asin": "B0887RSDWD",
+  "parent_asin": "B0887RSDWD",
+  "user_id": "AFD43HMFBTG2TUIUKIAYNGK5VF7A",
+  "timestamp": 1624493291195,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Appliances",
+    "title": "Diamond Painting Tools Accessories Drill Pens Elbow Angled Pen Embroidery Pen for Diamond Rhinestone Painting, Accessories Kits Ideal Gift for Adults…",
+    "average_rating": 4.4,
+    "rating_number": 175,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "BreakinDeals",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Conditioners",
+      "Portable"
+    ],
+    "details": {
+      "Brand Name": "BreakinDeals",
+      "Model Info": "B23-C6",
+      "Item Weight": "3.2 ounces",
+      "Package Dimensions": "5.7 x 1.3 x 0.2 inches",
+      "Item model number": "B23-C6",
+      "Color": "blue & red angled pen",
+      "Batteries Included?": "No",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1739334,
+        "Portable Air Conditioners": 1948
+      },
+      "Date First Available": "May 21, 2020"
+    },
+    "parent_asin": "B0887RSDWD",
+    "bought_together": null
+  }
+}

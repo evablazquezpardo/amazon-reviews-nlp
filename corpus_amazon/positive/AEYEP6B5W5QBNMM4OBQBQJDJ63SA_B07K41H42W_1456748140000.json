@@ -1,0 +1,55 @@
+{
+  "id": "AEYEP6B5W5QBNMM4OBQBQJDJ63SA_B07K41H42W_1456748140000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Love it very strong and stays upright",
+  "asin": "B000JF8LSY",
+  "parent_asin": "B07K41H42W",
+  "user_id": "AEYEP6B5W5QBNMM4OBQBQJDJ63SA",
+  "timestamp": 1456748140000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rubbermaid Closet Fasttrack 4 to 8 Ft. Adjustable Wire Shelf Kit, White",
+    "average_rating": 4.6,
+    "rating_number": 5204,
+    "features": [
+      "Easy add-on for any Configurations or Rubbermaid Closet",
+      "Designed to increase versatility and functionality of any Rubbermaid Configurations or FastTrack Closet Organizers",
+      "Can install as two stacked shelves or one overlapping shelf",
+      "Shelving overlaps to adjust to any length from 4-ft to 8-ft",
+      "Includes: (5) 17-in Uprights, (6) 12-in Brackets, (2) 48.25-in FastTrack Expandable Shelves, All necessary hardware. Requires a rail to use the kit (sold separately)"
+    ],
+    "description": [
+      "Rubbermaid FastTrack 4 to 8 Ft. Adjustable Wire Shelf White"
+    ],
+    "price": 109.95,
+    "store": "Rubbermaid",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Mounted Closet Systems"
+    ],
+    "details": {
+      "Package Dimensions": "49 x 12.75 x 2 inches",
+      "Item Weight": "13.97 pounds",
+      "Manufacturer": "Rubbermaid",
+      "Item model number": "2060315",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 321267,
+        "Tie Racks": 102,
+        "Closet Mounted Storage & Organization Systems": 606
+      },
+      "Batteries required": "No",
+      "Brand": "Rubbermaid",
+      "Color": "White",
+      "Mounting Type": "Freestanding"
+    },
+    "parent_asin": "B07K41H42W",
+    "bought_together": null
+  }
+}

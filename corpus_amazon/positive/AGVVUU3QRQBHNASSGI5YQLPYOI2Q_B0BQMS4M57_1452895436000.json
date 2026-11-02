@@ -1,0 +1,49 @@
+{
+  "id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q_B0BQMS4M57_1452895436000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Nice looking",
+  "text": "Nice looking. Nice color, hope material holds up after washing",
+  "asin": "B00LITCKDM",
+  "parent_asin": "B0BQMS4M57",
+  "user_id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q",
+  "timestamp": 1452895436000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Elegant Comfort 2-Piece Sheer Panel with 2inch Rod Pocket - Window Curtains 60-inch Width X 84-inch Length - Black",
+    "average_rating": 4.5,
+    "rating_number": 2946,
+    "features": [
+      "Polyester",
+      "2 panels included. Each panel is 60\" x 84\"",
+      "2 panels included. Each panel is 60\" x 84\"",
+      "2 panels included. Each panel is 60\" x 84\"",
+      "These Sheer Window Treatments are 2 inch rod pocket panels.",
+      "Material: 100% Polyester",
+      "Machine Washable (see instructions in Description)",
+      "Elegant Comfort Luxurious Home"
+    ],
+    "description": [],
+    "price": 13.99,
+    "store": "Elegant Comfort",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Window Treatments",
+      "Curtains & Drapes",
+      "Panels"
+    ],
+    "details": {
+      "Brand": "Elegant Comfort",
+      "Color": "Black",
+      "Material": "Polyester, Polyester Blend",
+      "Product Dimensions": "84\"L x 60\"W",
+      "Opacity": "Light-filtering"
+    },
+    "parent_asin": "B0BQMS4M57",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "AEVQVMGH3QKDTOV5YUSDGO5XKLUA_B017UCE8OY_1504714216481",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Stinky, but works",
+  "text": "Stinky, but works. Runs fine.  Filters require manual cleaning frequently and produce a musty smell.",
+  "asin": "B017UCE8OY",
+  "parent_asin": "B017UCE8OY",
+  "user_id": "AEVQVMGH3QKDTOV5YUSDGO5XKLUA",
+  "timestamp": 1504714216481,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Haier HWE12XCR 12000 BTU High Efficiency Room Air Conditioner",
+    "average_rating": 3.5,
+    "rating_number": 44,
+    "features": [
+      "Electronic controls",
+      "Full function remote - magnetic + braille",
+      "Time/temperature display",
+      "Digital temperature adjust",
+      "3 cooling/3 fan speeds + auto cool"
+    ],
+    "description": [
+      "The Haier 12,000 BTU 115V window-mounted air conditioner is designed for a room up to 550 square feet. Four modes include cool for cooling the air. Fan to circulate the air and dehumidify to reduce humidity. Choose from 3 cooling speeds (high, medium or low) 3 fan speeds (high, medium or low) or auto cool for maximum versatility. With the energy saver mode, the fan will run at low speed when compressor cycles off and then return to the set speed once compressor cycles back on. This energy star unit has an electronic control panel with a digital display plus the Magnolia remote control. The Magnolia remote control can be magnetically stored directly on the unit so it is never misplaced plus it has braille controls for the visually impaired."
+    ],
+    "price": null,
+    "store": "Haier",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Conditioners",
+      "Portable"
+    ],
+    "details": {
+      "Product Dimensions": "20.13 x 14.38 x 20.5 inches",
+      "Item Weight": "70 pounds",
+      "Manufacturer": "Haier",
+      "Item model number": "HWE12XCR",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Floor Area": "550 Square Feet",
+      "Voltage": "115 Volts",
+      "Brand": "Haier",
+      "Cooling Power": "12000",
+      "Special Feature": "Remote_control",
+      "Seasonal Energy Efficiency Ratio (SEER)": "13",
+      "Color": "White",
+      "Number of Speeds": "3",
+      "Refrigerant": "R 410A",
+      "Power Source": "Corded Electric"
+    },
+    "parent_asin": "B017UCE8OY",
+    "bought_together": null
+  }
+}

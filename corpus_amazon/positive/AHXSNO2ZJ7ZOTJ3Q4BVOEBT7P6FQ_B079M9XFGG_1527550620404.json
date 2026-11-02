@@ -1,0 +1,49 @@
+{
+  "id": "AHXSNO2ZJ7ZOTJ3Q4BVOEBT7P6FQ_B079M9XFGG_1527550620404",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Beautiful real china tea cup with gold trim!",
+  "asin": "B079M9XFGG",
+  "parent_asin": "B079M9XFGG",
+  "user_id": "AHXSNO2ZJ7ZOTJ3Q4BVOEBT7P6FQ",
+  "timestamp": 1527550620404,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "H.r.h. Prince Harry & Meghan Markle Royal Wedding 19th May 2018 Commemorative",
+    "average_rating": 4.6,
+    "rating_number": 53,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Artist Unknown",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware"
+    ],
+    "details": {
+      "Brand": "Artist Unknown",
+      "Material": "Fine China",
+      "Color": "Gold",
+      "Capacity": "10 Ounces",
+      "Style": "Modern",
+      "Theme": "Wedding",
+      "Occasion": "Wedding",
+      "Shape": "Round",
+      "Age Range (Description)": "Adult",
+      "Unit Count": "1 Count",
+      "Number of Items": "1",
+      "Package Dimensions": "4.02 x 3.7 x 3.15 inches",
+      "Item Weight": "9.2 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 19, 2018"
+    },
+    "parent_asin": "B079M9XFGG",
+    "bought_together": null
+  }
+}

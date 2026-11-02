@@ -1,0 +1,46 @@
+{
+  "id": "AGMJ3EMDVL6OWBJF7CA5RGJLXN5A_B00P1XK65U_1550433210732",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "You won’t get a HOT cup of coffee!",
+  "text": "You won’t get a HOT cup of coffee!. The coffee fresh out of the pot isn’t very warm. The second cup after sitting on the warming plate is almost hot. I even warm my cup with hot water while the coffee brews.",
+  "asin": "B003W8JSH8",
+  "parent_asin": "B00P1XK65U",
+  "user_id": "AGMJ3EMDVL6OWBJF7CA5RGJLXN5A",
+  "timestamp": 1550433210732,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mr. Coffee Simple Brew Coffee Maker|4 Cup Coffee Machine|Drip Coffee Maker, Black",
+    "average_rating": 4.5,
+    "rating_number": 7400,
+    "features": [
+      "On/off indicator light lets you know when your coffee maker is on or off",
+      "Grab-A-Cup Auto Pause stops cycle if you need a cup (1 cup = 5 oz) before brewing is finished",
+      "Dual water window allows visibility as you fill—no more overflows",
+      "Removable filter basket for quick and easy cleanup",
+      "Stain-resistant warming plate is easy to clean.Watts: 650"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Mr. Coffee",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Coffee Machines"
+    ],
+    "details": {
+      "Brand": "Mr. Coffee",
+      "Capacity": "4 Cubic Feet",
+      "Color": "Black",
+      "Special Feature": "Manual, Permanent Filter",
+      "Coffee Maker Type": "Drip Coffee Machine"
+    },
+    "parent_asin": "B00P1XK65U",
+    "bought_together": null
+  }
+}

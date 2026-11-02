@@ -1,0 +1,53 @@
+{
+  "id": "AFRK75UM5D537UED2HCSV4QRW4RQ_B07MTDFMGB_1624663110746",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Didn’t work",
+  "text": "Didn’t work. Didn’t work as I expected",
+  "asin": "B07MTDFMGB",
+  "parent_asin": "B07MTDFMGB",
+  "user_id": "AFRK75UM5D537UED2HCSV4QRW4RQ",
+  "timestamp": 1624663110746,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Secura Electric Knife Sharpener, 2-Stage Kitchen Knives Sharpening System Quickly Sharpening Black",
+    "average_rating": 4.3,
+    "rating_number": 2085,
+    "features": [
+      "Two-stage sharpening system quickly and easily sharpens most non-serrated blades for professional results, you will get a razor-sharp blade in seconds.",
+      "Stage 1: Sharpens & rejuvenates the edge and reshapes the angle,quick & easy.",
+      "Stage 2: Hones & polishes the blade finishes the sharpening process.",
+      "Strong & Safety: The Secura Kitchen Knife Sharpener With heavy-duty non-slip suction cup feet keep the sharpener firmly in place during use to prevent mishaps.",
+      "Only for use with North American Electrical Standards, ETL approved 2 Year Manufacturer's Limited Warranty,120V 60Hz AC.WARNING: don't use it with a serrated knife."
+    ],
+    "description": [],
+    "price": 35.99,
+    "store": "Secura",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Knife Sharpeners"
+    ],
+    "details": {
+      "Product Dimensions": "7.87\"L x 5.31\"W x 3.54\"H",
+      "Item Weight": "2.27 Pounds",
+      "Item model number": "WT-28D-1",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 20683,
+        "Knife Sharpeners": 68
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 31, 2019",
+      "Material": "Acrylonitrile Butadiene Styrene",
+      "Brand": "Secura",
+      "Color": "Black",
+      "Grit Type": "Medium, Coarse"
+    },
+    "parent_asin": "B07MTDFMGB",
+    "bought_together": null
+  }
+}

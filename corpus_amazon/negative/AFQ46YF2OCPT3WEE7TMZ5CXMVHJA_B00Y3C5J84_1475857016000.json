@@ -1,0 +1,36 @@
+{
+  "id": "AFQ46YF2OCPT3WEE7TMZ5CXMVHJA_B00Y3C5J84_1475857016000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not Red But Orange",
+  "text": "Not Red But Orange. Product didn't show to be a strong red in color but more of an orange color. Have since faded so badly we threw it away since it wasn't worth keeping for next season.",
+  "asin": "B00Y3C5J84",
+  "parent_asin": "B00Y3C5J84",
+  "user_id": "AFQ46YF2OCPT3WEE7TMZ5CXMVHJA",
+  "timestamp": 1475857016000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Evergreen Burlap Modern Fleur de Lis House Flag, 28 x 44 inches",
+    "average_rating": 2.8,
+    "rating_number": 8,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Evergreen Flag",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "44\"L x 28\"W",
+      "Item Weight": "12.8 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Brand": "Evergreen Flag",
+      "Material": "Polyester",
+      "Special Feature": "Waterproof, Tear Resistant",
+      "Fabric Type": "Burlap"
+    },
+    "parent_asin": "B00Y3C5J84",
+    "bought_together": null
+  }
+}

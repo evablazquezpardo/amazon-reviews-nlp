@@ -1,0 +1,59 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B00SS7KUZC_1430947337000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Four Stars",
+  "text": "Four Stars. The apples are not quite as lifelike as I was hoping for.",
+  "asin": "B00SS7KUZC",
+  "parent_asin": "B00SS7KUZC",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1430947337000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Set of 8 Dark Red Apples - Decorative Life Size Fruit - Great for Decorating your Home, Creating a Store Display, and Photo Props - Realistically Colored and Sized Fruit (Dark Red Apples)",
+    "average_rating": 3.9,
+    "rating_number": 18,
+    "features": [
+      "Includes 8 Artificial Red Apples",
+      "Great for Decorating Dining Halls, Kitchen Tables, and Displays alike!",
+      "Bright and Realistic Colors, Size, and Shape! You Can Hardly Tell they aren't Real!",
+      "Super Lightweight Styrofoam Core Makes The Fruits Easy to Set up! Tooth Picks can Be Used to Hold them In Place for a long Time!",
+      "Add some Feelings of Homely Warmth to a House Showing, or a Splash of Color on an Otherwise Boring Conference Table!"
+    ],
+    "description": [
+      "Whether for home or display - these faux fruits are sure to get the job done in style! The realistic coloring and sizes sell these fruits in a display!"
+    ],
+    "price": null,
+    "store": "Good Old Values",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Fruit"
+    ],
+    "details": {
+      "Brand": "Good Old Values",
+      "Color": "Red",
+      "Material": "Synthetic",
+      "Specific Uses For Product": "Kitchen",
+      "Occasion": "Dining,Home",
+      "Number of Items": "8",
+      "Item Weight": "3.84 ounces",
+      "Item Package Quantity": "8",
+      "Product Dimensions": "8.2 x 6.1 x 4.7 inches",
+      "Manufacturer": "Good Old Values",
+      "Item model number": "G15716",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 3048904,
+        "Artificial Fruits": 2348
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 17, 2014"
+    },
+    "parent_asin": "B00SS7KUZC",
+    "bought_together": null
+  }
+}

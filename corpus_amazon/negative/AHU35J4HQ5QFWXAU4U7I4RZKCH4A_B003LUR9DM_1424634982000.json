@@ -1,0 +1,48 @@
+{
+  "id": "AHU35J4HQ5QFWXAU4U7I4RZKCH4A_B003LUR9DM_1424634982000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Nope",
+  "text": "Nope. Did not work at all I applied then one by one they fell off.",
+  "asin": "B003LUR9DM",
+  "parent_asin": "B003LUR9DM",
+  "user_id": "AHU35J4HQ5QFWXAU4U7I4RZKCH4A",
+  "timestamp": 1424634982000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Metal Wall Tiles - Square Tiles, Color Chrome",
+    "average_rating": 3.3,
+    "rating_number": 33,
+    "features": [
+      "Metal",
+      "Metal Wall Tiles - Square Tiles, Color Chrome"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Metal Wall Tiles - Square Tiles, Color Chrome",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Decorative Accessories",
+      "Hanging Decorative Tiles"
+    ],
+    "details": {
+      "Brand": "Metal Wall Tiles - Square Tiles, Color Chrome",
+      "Material": "Metal",
+      "Color": "Chrome",
+      "Finish Type": "Chrome",
+      "Style": "Modern",
+      "Installation Type": "Peel and Stick",
+      "Pattern": "Square",
+      "Shape": "Square",
+      "Edge Style": "Square Edge",
+      "Unit Count": "1.0 Count"
+    },
+    "parent_asin": "B003LUR9DM",
+    "bought_together": null
+  }
+}

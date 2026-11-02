@@ -1,0 +1,47 @@
+{
+  "id": "AH7P2ZJ7NDT2NNVS7ZEGNEPT2J2Q_B001OP92RC_1343579903000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "broke right away",
+  "text": "broke right away. The wire on this thing broke on the first try, just halfway through the slice of cheese! I thought since it said \"lifetime guarantee\" on the package that it'd last at least a little while. Nope. Returning it (bought at Walmart for $6, by the way).",
+  "asin": "B001OP92RC",
+  "parent_asin": "B001OP92RC",
+  "user_id": "AH7P2ZJ7NDT2NNVS7ZEGNEPT2J2Q",
+  "timestamp": 1343579903000,
+  "helpful_vote": 2,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Farberware Pro Cheese Slicer, Black",
+    "average_rating": 3.0,
+    "rating_number": 17,
+    "features": [
+      "Stainless steel slicing wire",
+      "Perfect for creating even slices of hard and soft cheeses",
+      "Comfortable grip handle",
+      "Dishwasher safe"
+    ],
+    "description": [
+      "Farberware's Professional Cheese Slicer is perfect for creating even slices of both hard and soft cheese. It has a comforatable grip handle and is constructed with a durable stainless steel slicing wire, and is dishwasher safe."
+    ],
+    "price": null,
+    "store": "Farberware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cheese Tools",
+      "Cheese Slicers"
+    ],
+    "details": {
+      "Product Dimensions": "1.5 x 5 x 8.66 inches",
+      "Item Weight": "0.01 ounces",
+      "Manufacturer": "Farberware",
+      "Item model number": "83012-10",
+      "Date First Available": "May 3, 2006"
+    },
+    "parent_asin": "B001OP92RC",
+    "bought_together": null
+  }
+}

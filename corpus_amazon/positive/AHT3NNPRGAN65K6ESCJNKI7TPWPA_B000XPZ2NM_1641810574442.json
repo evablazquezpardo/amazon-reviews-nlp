@@ -1,0 +1,65 @@
+{
+  "id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA_B000XPZ2NM_1641810574442",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great product",
+  "text": "Great product. Looks great in my front porch",
+  "asin": "B000XPZ2NM",
+  "parent_asin": "B000XPZ2NM",
+  "user_id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA",
+  "timestamp": 1641810574442,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Arcadia Silk Plantation 2 Pre-potted 4 Feet 2 Inches Spiral Boxwood Artificial Topiary Trees in Plastic Pot",
+    "average_rating": 4.7,
+    "rating_number": 2618,
+    "features": [
+      "Each with approx. 1221 leaves, Grower Pot approx 7\" W, 5\" H",
+      "Height approx. 4', Width approx. 1'",
+      "Made of plastic, used for both indoor and outdoor display",
+      "Pot Included, Basic assembly and shaping needed."
+    ],
+    "description": [
+      "Arcadia Silk Plantation TWO Pre-potted 4' 2\" Spiral Boxwood Artificial Topiary Trees. In Plastic Pot"
+    ],
+    "price": 98.88,
+    "store": "Arcadia Silk Plantation",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Shrubs & Topiaries",
+      "Artificial Topiaries"
+    ],
+    "details": {
+      "Brand": "Arcadia Silk Plantation",
+      "Product Dimensions": "12\"D x 12\"W x 48\"H",
+      "Color": "Green",
+      "Material": "Plastic",
+      "Item Package Quantity": "2",
+      "Recommended Uses For Product": "Decor",
+      "Special Feature": "Prelit",
+      "Seasons": "All Seasons",
+      "Tree Type": "Topiary",
+      "Base Type": "Pot",
+      "Plant or Animal Product Type": "boxwood",
+      "Built-in Light": "No",
+      "Light Color": "Warm White",
+      "Item Weight": "21.8 pounds",
+      "Manufacturer": "Arcadia Silk Plantation",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 93166,
+        "Artificial Topiaries": 22
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "Yes",
+      "Number of pieces": "2",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B000XPZ2NM",
+    "bought_together": null
+  }
+}

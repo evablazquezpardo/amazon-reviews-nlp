@@ -1,0 +1,56 @@
+{
+  "id": "AFGDRVPCP742YM5MMLFIKZCGNNRQ_B098R9P3BX_1582345639405",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not very good",
+  "text": "Not very good. The containers are ok. They are big enough to fit in everything. However, the quality isn’t as good as other brands on amazon. Also, the price isn’t as competitive as other brands",
+  "asin": "B07VHHBQH1",
+  "parent_asin": "B098R9P3BX",
+  "user_id": "AFGDRVPCP742YM5MMLFIKZCGNNRQ",
+  "timestamp": 1582345639405,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "[50 Sets] 28 oz. Meal Prep Containers With Lids, 2 Compartment Lunch Containers, Bento Boxes, Food Storage Containers",
+    "average_rating": 4.6,
+    "rating_number": 3755,
+    "features": [
+      "Value Pack - 50 sets of 2 compartment meal prep containers with airtight lids.",
+      "Fresh Seal Lids - Great as food storage containers for meal preparation or storing leftover meals. Seals tightly to keep food fresh, cold food cold and hot food hot.",
+      "Microwaveable, dishwasher and freezer safe so you can conveniently use it as disposable food storage containers, food prep containers, portion control containers, and to-go containers.",
+      "Made of durable, heavyweight polypropylene which makes this bento boxes strong and tough and can support hefty foods without bending or cracking, yet light enough to make carrying it simple and easy.",
+      "Easy to Open - Airtight overlapping lids which makes it leak-proof, and designed with multiple opening points to avoid spilling commonly when opening all at once."
+    ],
+    "description": [],
+    "price": 27.99,
+    "store": "Comfy Package",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "8 x 0.01 x 2.5 inches",
+      "Item Weight": "5.89 pounds",
+      "Manufacturer": "Rikkel Corp",
+      "Item model number": "CP-MPC-2C-50",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 10821,
+        "Food Container Sets": 507
+      },
+      "Date First Available": "July 23, 2019",
+      "Brand": "Comfy Package",
+      "Color": "2 Compartment - 28 oz. - Black",
+      "Material": "Plastic",
+      "Capacity": "800 Milliliters",
+      "Number of Sets": "50"
+    },
+    "parent_asin": "B098R9P3BX",
+    "bought_together": null
+  }
+}

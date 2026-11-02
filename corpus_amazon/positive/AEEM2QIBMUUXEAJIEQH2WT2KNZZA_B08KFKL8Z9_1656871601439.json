@@ -1,0 +1,51 @@
+{
+  "id": "AEEM2QIBMUUXEAJIEQH2WT2KNZZA_B08KFKL8Z9_1656871601439",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Works great",
+  "text": "Works great. Great product",
+  "asin": "B01F64RTWG",
+  "parent_asin": "B08KFKL8Z9",
+  "user_id": "AEEM2QIBMUUXEAJIEQH2WT2KNZZA",
+  "timestamp": 1656871601439,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Poo-Pourri Lavender Vanilla Before You Go Spray, 4 Ounce (2 Count)",
+    "average_rating": 4.8,
+    "rating_number": 4038,
+    "features": [
+      "Spritz the bowl before-you-go and no one else will ever know",
+      "The original before-you-go toilet spray that stops bathroom odors before they ever begin - seriously",
+      "Scientifically-tested formula made of essential oils and other natural compounds",
+      "Made in the good old USA",
+      "Up to 200 uses in the 4-ounce bottle"
+    ],
+    "description": [
+      "Spray the bowl before you go, and the natural oils in Poo-Pouria traps the scent so it does t escape the bowl. 100-use bottle size is 2 ounces. Spray bottle with cap. Two pack."
+    ],
+    "price": 37.0,
+    "store": "Poo-Pourri",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Fragrant Room Sprays"
+    ],
+    "details": {
+      "Scent": "Lavender Vanilla",
+      "Brand": "Poo-Pourri",
+      "Item Weight": "4 Ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "7 x 4 x 4 inches; 4 Ounces",
+      "Item model number": "2 lv 4oz",
+      "Department": "unisex-adult",
+      "Date First Available": "May 4, 2016",
+      "Manufacturer": "Poo-Pourri"
+    },
+    "parent_asin": "B08KFKL8Z9",
+    "bought_together": null
+  }
+}

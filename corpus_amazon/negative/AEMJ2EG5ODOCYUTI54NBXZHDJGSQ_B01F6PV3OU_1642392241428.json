@@ -1,0 +1,61 @@
+{
+  "id": "AEMJ2EG5ODOCYUTI54NBXZHDJGSQ_B01F6PV3OU_1642392241428",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Washed up",
+  "text": "Washed up. These towels are made in India for the equivalent of a dollar ! WS probably laughing all the way to the bank..suckers that bought these for an absurd price!!",
+  "asin": "B01KF54ESI",
+  "parent_asin": "B01F6PV3OU",
+  "user_id": "AEMJ2EG5ODOCYUTI54NBXZHDJGSQ",
+  "timestamp": 1642392241428,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Williams-Sonoma Kitchen Towels (Sage)",
+    "average_rating": 4.5,
+    "rating_number": 141,
+    "features": [
+      "100% Turkish cotton.",
+      "Hanging loops",
+      "Machine-wash",
+      "Set of four, one of each design"
+    ],
+    "description": [
+      "Williams-Sonoma has updated their popular towel set with fresh patterns and an array of vibrant hues. Loomed from yarn-dyed Turkish cotton, the set features pinstripes, wide stripes, windowpane plaid and their signature logo design, all in a high-density twill weave with superior absorbency and a smooth touch. Laundering and use only improve them, so you can count on them for years of exceptional service."
+    ],
+    "price": 33.0,
+    "store": "Williams-Sonoma",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Dish Cloths & Dish Towels"
+    ],
+    "details": {
+      "Color": "Sage",
+      "Brand": "Williams-Sonoma",
+      "Towel form type": "Bath Towel",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Product Dimensions": "8.19 x 7.4 x 1.81 inches",
+      "Number of Items": "4",
+      "Pattern": "Striped, Plaid",
+      "Product Care Instructions": "Machine Wash",
+      "Unit Count": "1.0 Count",
+      "Fabric Type": "Turkish Cotton",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "13.8 ounces",
+      "Manufacturer": "Williams-Sonoma",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 75332,
+        "Dish Cloths & Dish Towels": 630
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 13, 2016"
+    },
+    "parent_asin": "B01F6PV3OU",
+    "bought_together": null
+  }
+}

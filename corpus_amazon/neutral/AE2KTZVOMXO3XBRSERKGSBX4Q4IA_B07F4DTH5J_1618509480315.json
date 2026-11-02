@@ -1,0 +1,38 @@
+{
+  "id": "AE2KTZVOMXO3XBRSERKGSBX4Q4IA_B07F4DTH5J_1618509480315",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Toilet Scrubber",
+  "text": "Toilet Scrubber. Brush is not easy to clean. When cleaning toilet the stuff gets stuck in the bristles.",
+  "asin": "B07F4DTH5J",
+  "parent_asin": "B07F4DTH5J",
+  "user_id": "AE2KTZVOMXO3XBRSERKGSBX4Q4IA",
+  "timestamp": 1618509480315,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Clorox Under the Rim Toilet Bowl Brush, Gray",
+    "average_rating": 4.5,
+    "rating_number": 116,
+    "features": [],
+    "description": [],
+    "price": 14.4,
+    "store": "Clorox",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Toilet Accessories",
+      "Toilet Brushes & Holders"
+    ],
+    "details": {
+      "Brand": "Clorox",
+      "Handle Material": "Plastic",
+      "Shape": "Round"
+    },
+    "parent_asin": "B07F4DTH5J",
+    "bought_together": null
+  }
+}

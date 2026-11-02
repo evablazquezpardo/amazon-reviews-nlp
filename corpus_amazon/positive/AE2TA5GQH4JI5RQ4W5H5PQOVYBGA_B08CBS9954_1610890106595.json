@@ -1,0 +1,49 @@
+{
+  "id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA_B08CBS9954_1610890106595",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great value!",
+  "text": "Great value!. Beautiful colors n value!",
+  "asin": "B08CBS9954",
+  "parent_asin": "B08CBS9954",
+  "user_id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA",
+  "timestamp": 1610890106595,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "4th of July Decorations",
+    "average_rating": 4.5,
+    "rating_number": 278,
+    "features": [
+      "★Patriotic Decorations Set",
+      "★Fits for 4th of July Party",
+      "★High Quality",
+      "★Hanging Anywhere",
+      "★Way to use"
+    ],
+    "description": [
+      "4th of July Decorations"
+    ],
+    "price": null,
+    "store": "Besslly",
+    "categories": [
+      "Home & Kitchen",
+      "Event & Party Supplies",
+      "Decorations",
+      "Tissue Pom Poms"
+    ],
+    "details": {
+      "Package Dimensions": "10.4 x 7.5 x 1.2 inches",
+      "Item Weight": "8.8 ounces",
+      "Care instructions": "Machine Wash",
+      "Batteries required": "No",
+      "Color": "Red",
+      "Material": "Burlap",
+      "Brand": "Besslly"
+    },
+    "parent_asin": "B08CBS9954",
+    "bought_together": null
+  }
+}

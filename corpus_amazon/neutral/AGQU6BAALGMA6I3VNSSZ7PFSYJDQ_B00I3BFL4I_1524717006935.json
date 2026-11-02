@@ -1,0 +1,58 @@
+{
+  "id": "AGQU6BAALGMA6I3VNSSZ7PFSYJDQ_B00I3BFL4I_1524717006935",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. nice size",
+  "asin": "B0038KQ17K",
+  "parent_asin": "B00I3BFL4I",
+  "user_id": "AGQU6BAALGMA6I3VNSSZ7PFSYJDQ",
+  "timestamp": 1524717006935,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Chef Craft Select Plastic Measuring Cup, 2 Cup, Clear",
+    "average_rating": 4.4,
+    "rating_number": 901,
+    "features": [
+      "Clear plastic for durability and ease of measuring",
+      "Both US and metric graduations to suit any recipe",
+      "Easy to read gradations",
+      "Can be used to measure liquids or powders",
+      "Dishwasher safe"
+    ],
+    "description": [
+      "Chef Craft's Measuring Cups are made of durable plastic to prevent breaking when dropped and contain measurements in both metric and US units. The measuring cups are family friendly, perfect to teach the little ones in your house how to measure and cook! They are great for both liquids and solids and are easy to pour. Dishwasher safe for an easy and efficient clean up."
+    ],
+    "price": 6.19,
+    "store": "Chef Craft",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Measuring Tools & Scales",
+      "Cups"
+    ],
+    "details": {
+      "Color": "Clear",
+      "Material": "Plastic",
+      "Capacity": "2 Ounces",
+      "Brand": "Chef Craft",
+      "Item Dimensions LxWxH": "5.75 x 4.5 x 4.5 inches",
+      "Item Weight": "2.4 ounces",
+      "Number of Pieces": "1",
+      "Product Dimensions": "5.75 x 4.5 x 4.5 inches",
+      "Manufacturer": "Chef Craft Corporation",
+      "Item model number": "20790",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 20601,
+        "Measuring Cups": 130
+      },
+      "Date First Available": "October 25, 2013"
+    },
+    "parent_asin": "B00I3BFL4I",
+    "bought_together": null
+  }
+}

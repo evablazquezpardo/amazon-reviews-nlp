@@ -1,0 +1,39 @@
+{
+  "id": "AGAHANLSS7DG4ZHNPP5S56W4SKHA_B07F3CMRFK_1566816527020",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Don’t Buy",
+  "text": "Don’t Buy. Silly songs, wouldn’t fit in my toilet roll holder.  Useless.",
+  "asin": "B07F3CMRFK",
+  "parent_asin": "B07F3CMRFK",
+  "user_id": "AGAHANLSS7DG4ZHNPP5S56W4SKHA",
+  "timestamp": 1566816527020,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Hallmark Spin-A-Song Toilet Paper Roll Holder, Plays a Spooky Song When It Spins, Halloween",
+    "average_rating": 4.1,
+    "rating_number": 51,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Hallmark Home",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "2 x 7.5 x 8 inches",
+      "Item Weight": "0.48 Pounds",
+      "Item model number": "6MJN1481",
+      "Batteries": "2 AAA batteries required. (included)",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 28, 2019",
+      "Brand": "Hallmark Home",
+      "Material": "Paper",
+      "Roll Quantity": "1",
+      "Number of Items": "1"
+    },
+    "parent_asin": "B07F3CMRFK",
+    "bought_together": null
+  }
+}

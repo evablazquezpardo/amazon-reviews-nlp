@@ -1,0 +1,53 @@
+{
+  "id": "AHF3LSEZDKISVKUL6KXRHTCQ6USA_B01CQTRPG4_1509746245210",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Just okay",
+  "text": "Just okay. It's just okay.",
+  "asin": "B01CQTRPG4",
+  "parent_asin": "B01CQTRPG4",
+  "user_id": "AHF3LSEZDKISVKUL6KXRHTCQ6USA",
+  "timestamp": 1509746245210,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Nordic Ware Freshly Baked Cookie Sheet Pan, 11\" x 17\", Metallic",
+    "average_rating": 4.2,
+    "rating_number": 6,
+    "features": [
+      "​Aluminum steel",
+      "PFOA-free nonstick coating",
+      "Measures 20\"L x 12.4\"W x 1\"H",
+      "10-Year Warranty",
+      "Globally Sourced"
+    ],
+    "description": [
+      "This fresh, fun, no-nonsense Freshly Baked line covers all the basics. No-slip silicone grips mean you can hold pans securely, even while wearing bulky oven mitts. 0.6mm Steel construction provides strength while PFOA-free nonstick makes for easy release and clean-up! Safe to 400 degrees F."
+    ],
+    "price": null,
+    "store": "Nordic Ware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking & Cookie Sheets"
+    ],
+    "details": {
+      "Product Dimensions": "20 x 12.4 x 1 inches",
+      "Item Weight": "2.1 Pounds",
+      "Manufacturer": "Nordic Ware",
+      "Item model number": "48241",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 9, 2016",
+      "Color": "Metallic",
+      "Material": "Steel",
+      "Size": "11\" x 17\"",
+      "Brand": "Nordic Ware",
+      "Item Dimensions LxWxH": "20 x 12.4 x 1 inches"
+    },
+    "parent_asin": "B01CQTRPG4",
+    "bought_together": null
+  }
+}

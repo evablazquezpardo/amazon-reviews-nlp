@@ -1,0 +1,73 @@
+{
+  "id": "AF4XAUOI5XPGWHCPOTORKBIJSRDA_B07SNGVLCX_1565765948835",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Good",
+  "text": "Good. Worked as expected had a nice amount of air movement work perfect for what we needed",
+  "asin": "B00I8Q3082",
+  "parent_asin": "B07SNGVLCX",
+  "user_id": "AF4XAUOI5XPGWHCPOTORKBIJSRDA",
+  "timestamp": 1565765948835,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Holmes HBF2001DP-BM 20-Inch Box Fan,Black",
+    "average_rating": 4.3,
+    "rating_number": 8416,
+    "features": [
+      "20-inch box fan ideal for medium and large rooms",
+      "Sturdy design with attachable feet for added stability",
+      "3 speed settings offer customized control",
+      "Removable grill makes cleaning easy",
+      "Measures approximately 3.75 x 20.5 x 20.5 inch"
+    ],
+    "description": [
+      "Keep medium and large rooms cool during hot, humid summer months with the Holmes Box Fan. This 20-inch circulating fan features a wide coverage area for expansive cooling relief and three speed settings for optimal airflow and comfort. A removable grill makes cleaning easy, while integrated cord storage allows the fan to be stored compactly. The sturdy metal frame and attachable feet keep the fan stable while in use, making it a great choice for living rooms, kitchens, and bedrooms. This box fan has a 20-inch blade span and measures approximately 4.5 by 21 by 21 inches."
+    ],
+    "price": null,
+    "store": "Holmes",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Household Fans"
+    ],
+    "details": {
+      "Brand": "HOLMES",
+      "Color": "Black",
+      "Power Source": "Corded Electric",
+      "Style": "Traditional",
+      "Product Dimensions": "20.5\"D x 20.5\"W x 3.75\"H",
+      "Room Type": "Bedroom",
+      "Recommended Uses For Product": "Cooling",
+      "Mounting Type": "Window Mount, Wall Mount",
+      "Controller Type": "Button Control",
+      "Material": "Other",
+      "Number of Speeds": "3",
+      "Finish Type": "Painted",
+      "Number of Blades": "3",
+      "Voltage": "120 Volts",
+      "Item Weight": "5.67 pounds",
+      "Included Components": "Cord",
+      "Indoor/Outdoor Usage": "Indoor",
+      "Model Name": "HBF2001DP-BM",
+      "Control Method": "App",
+      "Manufacturer": "Holmes",
+      "Item model number": "HBF2001DP-BM",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 386333,
+        "Household Fans": 1537
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Diameter": "20 Inches",
+      "Finish types": "Painted",
+      "Assembly required": "No",
+      "Warranty Description": "1 year limited.",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B07SNGVLCX",
+    "bought_together": null
+  }
+}

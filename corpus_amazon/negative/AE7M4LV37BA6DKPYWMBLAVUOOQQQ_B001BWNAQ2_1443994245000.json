@@ -1,0 +1,51 @@
+{
+  "id": "AE7M4LV37BA6DKPYWMBLAVUOOQQQ_B001BWNAQ2_1443994245000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Caution needed when using",
+  "text": "Caution needed when using. It is very hard to use. It would be very easy to burn your self trying to get the effects that you would expect from the advertisement.",
+  "asin": "B001BWNAQ2",
+  "parent_asin": "B001BWNAQ2",
+  "user_id": "AE7M4LV37BA6DKPYWMBLAVUOOQQQ",
+  "timestamp": 1443994245000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Seymour Mfg. 30-525 Color Flame Crystals, 16 ounce",
+    "average_rating": 4.2,
+    "rating_number": 498,
+    "features": [
+      "Seymour #30-525 Color Flame Crystals",
+      "SEYMOUR MFG CO INC",
+      "Packaging may vary"
+    ],
+    "description": [
+      "Just sprinkle these crystals on fire for an array of colors. 1 lb. Packaging may vary."
+    ],
+    "price": 16.43,
+    "store": "Seymour",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Stove & Fireplace Accessories"
+    ],
+    "details": {
+      "Product Dimensions": "9 x 2.5 x 2.5 inches",
+      "Item Weight": "1.2 pounds",
+      "Manufacturer": "Seymour Mfg.",
+      "Item model number": "30-525",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 462642,
+        "Fireplace & Stove Accessories": 707,
+        "Home Décor Products": 94260
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B001BWNAQ2",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA_B0BKNS394P_1546744127629",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Use them everyday",
+  "text": "Use them everyday. Reordered this product",
+  "asin": "B016OIK6DM",
+  "parent_asin": "B0BKNS394P",
+  "user_id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA",
+  "timestamp": 1546744127629,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Poly-America HK18XDS050W Trash Compactor Bag, 50 Count (Pack of 1), White",
+    "average_rating": 4.7,
+    "rating_number": 2941,
+    "features": [
+      "Drawstring to make closing easy",
+      "18-gallon capacity"
+    ],
+    "description": [
+      "Trash compactor bags white with drawstrings. 2 feet 1- 5/8 inches x 2 feet 4 inches x 2 mil. Capacity: 18 gallons."
+    ],
+    "price": 23.95,
+    "store": "Poly-America",
+    "categories": [],
+    "details": {
+      "Brand": "Poly-America",
+      "Capacity": "18 Gallons",
+      "Unit Count": "50.0 Count",
+      "Color": "White",
+      "Material": "Plastic",
+      "Item Form": "Bag",
+      "Scent": "Unscented",
+      "Number of Items": "1",
+      "Item Weight": "0.1 Pounds",
+      "Item Dimensions LxWxH": "25 x 0.1 x 28 inches",
+      "Product Dimensions": "25 x 0.1 x 28 inches",
+      "Manufacturer": "Poly-America",
+      "Item model number": "HK18XDS050W",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B0BKNS394P",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B0798JB24Z_1607530854787",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love it",
+  "text": "Love it. Super pretty...love it",
+  "asin": "B078SQFBP5",
+  "parent_asin": "B0798JB24Z",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1607530854787,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Grelucgo Handmade Hemstitch Beige Table Runner Or Dresser Scarf, Rectangular 14 by 54 Inch",
+    "average_rating": 4.6,
+    "rating_number": 2803,
+    "features": [
+      "Simple design but looks very delicate",
+      "100% hand-hemstitch instead of machine-hemstitch",
+      "Can be customized to table runner, placemats, napkins, tablecloth of any size; matching cushion covers also available",
+      "100% polyester; fabric not thin",
+      "Hand wash preferred, slightly iron; no wrinkle"
+    ],
+    "description": [
+      "If you are looking for something simple yet pretty, this will do that all! It is made of nice weight and good material. Choose the right size to décor your nightstand, dressers, servers and tables!"
+    ],
+    "price": 14.99,
+    "store": "Grelucgo",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Table Runners"
+    ],
+    "details": {
+      "Item Weight": "5.6 ounces",
+      "Manufacturer": "Baishuo",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 19159,
+        "Table Runners": 242
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 4, 2018",
+      "Color": "Beige",
+      "Material": "Polyester",
+      "Size": "14x54",
+      "Brand": "Grelucgo",
+      "Pattern": "Solid"
+    },
+    "parent_asin": "B0798JB24Z",
+    "bought_together": null
+  }
+}

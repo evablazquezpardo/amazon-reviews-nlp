@@ -1,0 +1,49 @@
+{
+  "id": "AEDB2WFGSUHI7BUWXNHS45KI6X2A_B0734RPF61_1547433978020",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "My son liked it",
+  "text": "My son liked it. It's nice, good color quality.",
+  "asin": "B0734RPF61",
+  "parent_asin": "B0734RPF61",
+  "user_id": "AEDB2WFGSUHI7BUWXNHS45KI6X2A",
+  "timestamp": 1547433978020,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Power Rangers Lightning Strike Pillowcase",
+    "average_rating": 4.8,
+    "rating_number": 12,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Power Rangers",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Decorative Pillows, Inserts & Covers",
+      "Throw Pillow Covers"
+    ],
+    "details": {
+      "Brand": "Power Rangers",
+      "Material": "Polyester",
+      "Size": "Standard",
+      "Closure Type": "Envelope",
+      "Product Care Instructions": "Hand Wash Only",
+      "Style": "Modern",
+      "Pattern": "Print",
+      "Number of Items": "1",
+      "Thread Count": "200",
+      "Number of Sets": "1",
+      "Number of Pieces": "1",
+      "Package Dimensions": "7.09 x 4.88 x 1.02 inches",
+      "Item Weight": "3.87 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 23, 2017"
+    },
+    "parent_asin": "B0734RPF61",
+    "bought_together": null
+  }
+}

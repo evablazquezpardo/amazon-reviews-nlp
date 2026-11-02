@@ -1,0 +1,47 @@
+{
+  "id": "AFZR3DMRF5KW3WM6LVZ6SGSBGQXQ_B00W0KTE0K_1438114879000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Not too thin",
+  "text": "Not too thin. These sheets are nice and soft and are not too thin.  I would recommend these sheets and will probably be buying more in the future.",
+  "asin": "B00W0KTE0K",
+  "parent_asin": "B00W0KTE0K",
+  "user_id": "AFZR3DMRF5KW3WM6LVZ6SGSBGQXQ",
+  "timestamp": 1438114879000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "500 Thread Count 100% Egyptian Cotton Luxury Deep Pocket Sheet Set (Queen, Purple)",
+    "average_rating": 3.4,
+    "rating_number": 13,
+    "features": [
+      "Egyptian Cotton"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Sam Linens",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Size": "Queen",
+      "Material": "Acrylic Coated Cotton",
+      "Color": "Purple",
+      "Brand": "Sam Linens",
+      "Special Feature": "Deep Pocket",
+      "Included Components": "Pillowcase, Flat Sheet",
+      "Thread Count": "500",
+      "Item Weight": "0.01 ounces",
+      "Package Dimensions": "13.3 x 9.4 x 3 inches",
+      "Fabric Type": "Egyptian Cotton",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00W0KTE0K",
+    "bought_together": null
+  }
+}

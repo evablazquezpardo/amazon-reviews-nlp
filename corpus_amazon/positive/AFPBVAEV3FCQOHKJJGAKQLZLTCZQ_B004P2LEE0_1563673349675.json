@@ -1,0 +1,66 @@
+{
+  "id": "AFPBVAEV3FCQOHKJJGAKQLZLTCZQ_B004P2LEE0_1563673349675",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great size",
+  "text": "Great size. Small but perfect for sauces & small servings",
+  "asin": "B004P2LEE0",
+  "parent_asin": "B004P2LEE0",
+  "user_id": "AFPBVAEV3FCQOHKJJGAKQLZLTCZQ",
+  "timestamp": 1563673349675,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Crock-Pot Small 2 Quart Round Manual Slow Cooker, Black (SCR200-B)",
+    "average_rating": 4.6,
+    "rating_number": 9067,
+    "features": [
+      "2-QT Round Manual Slow Cooker serves 3+ people",
+      "High/Low cook settings, and convenient Warm setting",
+      "Crock-Pot features removable, dishwasher-safe stoneware insert, and dishwasher-safe glass lid",
+      "Compact slow cooker with purple polka-dot design.Recipes included",
+      "Dimension(inch):9 H x 8.9 W x 7.4 D"
+    ],
+    "description": [
+      "This Crock-Pot 2-Quart Round Manual Slow Cooker provides you the flexibility to prepare a meal early and then have it slow-cook all day, so you can come home to a nutritious, home-cooked meal in the evening. It's a healthier, more cost-efficient and convenient way to cook. This Crock-Pot Manual Slow Cooker cooks on High or Low settings, and the Warm setting can be used to keep your dish at an ideal serving temperature."
+    ],
+    "price": null,
+    "store": "Crock-Pot",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Slow Cookers"
+    ],
+    "details": {
+      "Brand": "Crock-Pot",
+      "Color": "Black",
+      "Material": "Stoneware",
+      "Product Dimensions": "7.4\"D x 8.9\"W x 9\"H",
+      "Capacity": "2 Quarts",
+      "Wattage": "825 watts",
+      "Item Weight": "4 Pounds",
+      "Is Dishwasher Safe": "Yes",
+      "Voltage": "220 Volts",
+      "Shape": "Round",
+      "Pattern": "Solid",
+      "Control Method": "Touch",
+      "Control Type": "Manual",
+      "Number of settings": "3",
+      "Controller Type": "Manual",
+      "Department": "Unisex-adult",
+      "Manufacturer": "Jarden Consumer Solutions",
+      "Item model number": "SCR200-B",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 13513,
+        "Slow Cookers": 51
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 20, 2011"
+    },
+    "parent_asin": "B004P2LEE0",
+    "bought_together": null
+  }
+}

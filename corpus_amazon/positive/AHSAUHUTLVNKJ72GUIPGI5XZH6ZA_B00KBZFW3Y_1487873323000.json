@@ -1,0 +1,50 @@
+{
+  "id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA_B00KBZFW3Y_1487873323000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. They worked as dessigned",
+  "asin": "B00KBZFW84",
+  "parent_asin": "B00KBZFW3Y",
+  "user_id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA",
+  "timestamp": 1487873323000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Water Bottle Humidifier (2)",
+    "average_rating": 4.5,
+    "rating_number": 546,
+    "features": [
+      "OXYGEN BOTTLE – includes a pressure relief valve and downspout diffuser, ensuring a high flow delivery of 6 LPM.",
+      "ADAPTABLE – water bottle humidifier attaches easily to any oxygen concentrator.",
+      "MAINTAINS DESIRED OXYGEN SATURATION – bubble humidifier from Healthline Trading is specifically made to deliver high oxygen flow rates via face mask.",
+      "SOFT-START – water bottle humidifier is easy to use and clean."
+    ],
+    "description": [
+      "The humidifier for oxygen concentrator supplied by Healthline Trading is made by qualified experts and consists of a high-quality materials. The oxygen accessories are used for various medical purposes and are equipped with safety valves. The safety oxygen humidifier bottle valves act as warning devices. They will emit a particular sound when excess pressure is released to the atmosphere. If this occurs, check the humidified oxygen tubing to ensure there is no kinking or blockage, before resuming use of the humidifier."
+    ],
+    "price": 11.95,
+    "store": "HEALTHLINE",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Humidifiers"
+    ],
+    "details": {
+      "Brand": "HEALTHLINE",
+      "Color": "Clear",
+      "Capacity": "3 Fluid Ounces",
+      "Item Weight": "2 Ounces",
+      "Room Type": "Living Room, Bedroom",
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "3 x 3 x 7 inches; 2 Ounces",
+      "Item model number": "HLBT",
+      "Date First Available": "May 14, 2014",
+      "Manufacturer": "Healthline Trading"
+    },
+    "parent_asin": "B00KBZFW3Y",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AEIPXVWUORGDX3K3WFJQQ3CFLUOQ_B0053OCWYA_1403030940000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Don't buy this",
+  "text": "Don't buy this. The chains are awkward and hang crookedly; the basket has large gaps near the top. Look for another type of hanging device.",
+  "asin": "B0053OCWYA",
+  "parent_asin": "B0053OCWYA",
+  "user_id": "AEIPXVWUORGDX3K3WFJQQ3CFLUOQ",
+  "timestamp": 1403030940000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Panacea 88634 Hanging Basket, Rope and Fern, 12-Inch",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [
+      "Hanging Basket",
+      "Available In Rope And Fern Color",
+      "Measures 12-Inch",
+      "Brand: Panacea"
+    ],
+    "description": [
+      "Hanging basket is available in rope and fern color and comes in 12-inch."
+    ],
+    "price": null,
+    "store": "Panacea",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Hanging Baskets"
+    ],
+    "details": {
+      "Product Dimensions": "12 x 12 x 7 inches",
+      "Item Weight": "1.15 pounds",
+      "Manufacturer": "Panacea",
+      "Language": "English",
+      "Item model number": "88634"
+    },
+    "parent_asin": "B0053OCWYA",
+    "bought_together": null
+  }
+}

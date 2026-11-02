@@ -1,0 +1,43 @@
+{
+  "id": "AGCUONI7ZAZ4SCQWIUQCV7LRU7VQ_B00CQ9S9LU_1447359633000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Decent for the price",
+  "text": "Decent for the price. I bought it as a back up. It's OK. You get what you pay for.",
+  "asin": "B00CQ9S9LU",
+  "parent_asin": "B00CQ9S9LU",
+  "user_id": "AGCUONI7ZAZ4SCQWIUQCV7LRU7VQ",
+  "timestamp": 1447359633000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Farberware Multi-Use Can Opener",
+    "average_rating": 4.0,
+    "rating_number": 15,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Farberware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Can Openers",
+      "Manual"
+    ],
+    "details": {
+      "Package Dimensions": "10.6 x 3.1 x 1.7 inches",
+      "Item Weight": "4.8 ounces",
+      "Item model number": "COMINHKPR22938",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 10, 2013",
+      "Color": "Silver",
+      "Brand": "Farberware",
+      "Operation Mode": "Manual"
+    },
+    "parent_asin": "B00CQ9S9LU",
+    "bought_together": null
+  }
+}

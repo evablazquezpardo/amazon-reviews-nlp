@@ -1,0 +1,48 @@
+{
+  "id": "AH2LEELEG5S4XLK44WCJPIRDEDUA_B07S5Z5ZGJ_1596826297337",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Good quality but a little small",
+  "text": "Good quality but a little small. does a good job,but a little  small.",
+  "asin": "B07S5Z5ZGJ",
+  "parent_asin": "B07S5Z5ZGJ",
+  "user_id": "AH2LEELEG5S4XLK44WCJPIRDEDUA",
+  "timestamp": 1596826297337,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Dish Towels, Kitchen Dishcloths TOHAO 6-Pack Cleaning Cloths (11.8 x 11.8 Inch) 100% Bamboo Fiber, Ultra Absorbent & Fast Drying, Strongly Removes Oil and Dirt",
+    "average_rating": 4.4,
+    "rating_number": 241,
+    "features": [
+      "Bamboo"
+    ],
+    "description": [],
+    "price": null,
+    "store": "TOHAO",
+    "categories": [],
+    "details": {
+      "Brand": "TOHAO",
+      "Age Range (Description)": "All Ages",
+      "Product Dimensions": "11.8\"L x 11.8\"W",
+      "Number of Items": "6",
+      "Pattern": "Solid",
+      "Special Feature": "Non-toxic",
+      "Theme": "No Theme",
+      "Product Care Instructions": "Machine Wash",
+      "Shape": "Rectangular",
+      "Size": "Small",
+      "Unit Count": "6.0 Count",
+      "Fabric Type": "Bamboo",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "7.2 ounces",
+      "Item model number": "XWJ-06",
+      "Number of pieces": "6",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07S5Z5ZGJ",
+    "bought_together": null
+  }
+}

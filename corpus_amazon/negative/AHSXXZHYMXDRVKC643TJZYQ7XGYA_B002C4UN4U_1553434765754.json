@@ -1,0 +1,59 @@
+{
+  "id": "AHSXXZHYMXDRVKC643TJZYQ7XGYA_B002C4UN4U_1553434765754",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Dumb",
+  "text": "Dumb. I think the bags work better, the packs got hard but didnt absorb any other water, the container was completely dry",
+  "asin": "B002C4UN4U",
+  "parent_asin": "B002C4UN4U",
+  "user_id": "AHSXXZHYMXDRVKC643TJZYQ7XGYA",
+  "timestamp": 1553434765754,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "DampRid FG90 Moisture Absorber Easy-Fill System, Large Room",
+    "average_rating": 4.4,
+    "rating_number": 2049,
+    "features": [
+      "Moisture absorber",
+      "Use in large rooms",
+      "Lasts up to 60 days depending on temperature conditions",
+      "Uses 2 easy fill system refill packs",
+      "Packs load quickly and easily without you touching the formula;By reducing excess humidity, DampRid helps create fresher indoor air."
+    ],
+    "description": [
+      "DampRid eliminates excess humidity.  It helps prevent musty odors caused by excess moisture in the air to create a more comfortable home."
+    ],
+    "price": null,
+    "store": "DampRid",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Dehumidifiers"
+    ],
+    "details": {
+      "Product Dimensions": "9.25 x 5.16 x 8.5 inches",
+      "Item Weight": "2.3 Pounds",
+      "Manufacturer": "Damp Rid",
+      "Item model number": "FG90",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 678506,
+        "Dehumidifiers": 719
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "1",
+      "Warranty Description": "N/a.",
+      "Batteries required": "No",
+      "Included Components": "User Manual, Dehumidifier",
+      "Brand": "DampRid",
+      "Special Feature": "Portable, Automatic Moisture Removal",
+      "Recommended Uses For Product": "Home",
+      "Model Name": "FG90",
+      "Operation Mode": "Continuous"
+    },
+    "parent_asin": "B002C4UN4U",
+    "bought_together": null
+  }
+}

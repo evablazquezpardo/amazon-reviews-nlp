@@ -1,0 +1,53 @@
+{
+  "id": "AEB3MYUZFZAHPUHWKOB65YNATYBA_B009IY9OXS_1373061015000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "One good, one not so good",
+  "text": "One good, one not so good. I ordered 2 of these. One is in good shape.  The other looks like it didn't do so good in the mold and a crappy job was done trying to patch it up.",
+  "asin": "B009IY9OXS",
+  "parent_asin": "B009IY9OXS",
+  "user_id": "AEB3MYUZFZAHPUHWKOB65YNATYBA",
+  "timestamp": 1373061015000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Creative Co-op DE6912 Iron Wall Decor with Three Red Faucet Hooks",
+    "average_rating": 4.1,
+    "rating_number": 11,
+    "features": [
+      "From the Turn of the Century Collection",
+      "Creative Co-op is on top of the trends and offers artwork to meet every preference",
+      "Measures 13.25L x 8.5H x 4W"
+    ],
+    "description": [
+      "At Creative Co-Op, passion is at the heart of all we do - passion for product, passion for quality, and passion for customer success. It is this passion that grew a company founded only 12 years ago into the dynamic, trend-setter that it is today. This passion ensures we will continue to lead the industry for years to come. At our core, we live and breathe product. Our design team travels the world for inspiration, taking the best elements of their experience and translating them into a creative, unique assortment that caters to a broad variety of tastes. Whether you're a small boutique or a larger furniture store, our product line has something for you - and at price points that work. We strive to create product of the highest quality standard, and go to great lengths to ensure that you'll be proud to sell our merchandise. Both abroad and in the US, we adhere to strict quality control measures, but should you ever encounter an issue, we will do everything possible to rectify the situation as quickly as possible. Our customer service team strives for continual improvement, with a single goal - to be the best in the industry."
+    ],
+    "price": null,
+    "store": "Creative Co-Op",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization"
+    ],
+    "details": {
+      "Brand": "Creative Co-Op",
+      "Material": "Plastic, Metal",
+      "Finish Type": "Antique",
+      "Mounting Type": "Wall Mount",
+      "Style": "Modern",
+      "Item Weight": "3 pounds",
+      "Item Dimensions LxWxH": "13.25 x 4 x 8.5 inches",
+      "Number of Hooks": "3",
+      "Product Dimensions": "13.25 x 4 x 8.5 inches",
+      "Manufacturer": "Creative Co-op",
+      "Item model number": "DE6912",
+      "Is Discontinued By Manufacturer": "Yes",
+      "Finish types": "Antique",
+      "Assembly required": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B009IY9OXS",
+    "bought_together": null
+  }
+}

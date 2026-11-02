@@ -1,0 +1,64 @@
+{
+  "id": "AHIFWJCLH3DZ5S6XBY7XKEKIFNMQ_B0051OHT9A_1417829898000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. wasn't what I thought they were",
+  "asin": "B0051OHT9A",
+  "parent_asin": "B0051OHT9A",
+  "user_id": "AHIFWJCLH3DZ5S6XBY7XKEKIFNMQ",
+  "timestamp": 1417829898000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Imperial Home 5 Pcs Nested Glass Bowl Set With Apple Design and Red Lids",
+    "average_rating": 4.1,
+    "rating_number": 122,
+    "features": [
+      "5 Pcs glass nesting bowl set. They are microwave, dishwasher and fridge safe",
+      "Perfect for storing leftovers, mixing things or preparing your delicious dips",
+      "Plastic ridged lids securely closed.",
+      "Nesting bowls make it easy to store.",
+      "Bowl Sizes are 5 Oz, 8 Oz, 12 Oz, 19 Oz and 32 Oz"
+    ],
+    "description": [
+      "5 Pcs glass storage bowl set. They are great for storing, mixing or serving. No need to worry about left over dips anymore. Serve them in these bowls and store the left overs on the fridge. Snap closed lids keeps the stored food fresh. The bowls are heat resistant, they are microwave, fridge or dishwasher safe. The bowls are stack-able when in use and nest inside each other for space saving storage when not in use."
+    ],
+    "price": null,
+    "store": "Imperial Home",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Dinnerware",
+      "Bowls",
+      "Bowl Sets"
+    ],
+    "details": {
+      "Bowl Material": "Glass",
+      "Number of Pieces": "5",
+      "Brand": "Imperial Home",
+      "Color": "Red",
+      "Style": "Classic",
+      "Special Feature": "Resistant",
+      "Shape": "Bowl",
+      "Capacity": "12 Ounces",
+      "Pattern": "Floral",
+      "Seasons": "All Seasons",
+      "Is Dishwasher Safe": "Yes",
+      "Is Microwaveable": "Yes",
+      "Material": "Glass",
+      "Product Dimensions": "7 x 7 x 4 inches",
+      "Item Weight": "3 pounds",
+      "Manufacturer": "Imperial Home",
+      "Item model number": "MW1115",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 19, 2011"
+    },
+    "parent_asin": "B0051OHT9A",
+    "bought_together": null
+  }
+}

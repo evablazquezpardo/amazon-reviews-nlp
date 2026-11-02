@@ -1,0 +1,65 @@
+{
+  "id": "AFYP2DBFJ6SGZXWN24EDH5QHSTJA_B002L0SNWE_1480084624000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "OK",
+  "text": "OK. Not as colorful as the one pictured. Mostly brown and yellow. Looks ok though.",
+  "asin": "B002L0SNWE",
+  "parent_asin": "B002L0SNWE",
+  "user_id": "AFYP2DBFJ6SGZXWN24EDH5QHSTJA",
+  "timestamp": 1480084624000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "bombayjewel Tree of Life Metal Wall Art Sculptures Home Decor, Brown Bronze",
+    "average_rating": 4.2,
+    "rating_number": 211,
+    "features": [
+      "Tree of life wall decor",
+      "Long lasting metal wall art",
+      "Color can be change according to design",
+      "Life Decoration 39\"w,24\"h",
+      "best of Bombay Jewel"
+    ],
+    "description": [
+      "Tree of Life Metal Wall Art Sculptures Home Decor Life Decoration 39\"w,24\"h"
+    ],
+    "price": null,
+    "store": "bombayjewel",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Sculptures",
+      "Wall Sculptures"
+    ],
+    "details": {
+      "Product Dimensions": "39\"L x 24\"W",
+      "Number of Items": "1",
+      "Orientation": "Landscape",
+      "Shape": "Round",
+      "Theme": "Tree",
+      "Frame Type": "Unframed",
+      "Material": "Metal",
+      "Color": "Brown Bronze",
+      "Style": "Decorative",
+      "Brand": "bombayjewel",
+      "Frame Material": "Metal",
+      "Mounting Type": "Wall Mount",
+      "Item Weight": "2.99 pounds",
+      "Manufacturer": "UMA",
+      "Item model number": "97985",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2302006,
+        "Wall Sculptures": 14155
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B002L0SNWE",
+    "bought_together": null
+  }
+}

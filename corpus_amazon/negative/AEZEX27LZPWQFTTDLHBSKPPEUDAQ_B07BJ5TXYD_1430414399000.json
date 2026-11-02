@@ -1,0 +1,66 @@
+{
+  "id": "AEZEX27LZPWQFTTDLHBSKPPEUDAQ_B07BJ5TXYD_1430414399000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Poor",
+  "text": "Poor. This slaughters the corn. Poor design",
+  "asin": "B003BEDQKS",
+  "parent_asin": "B07BJ5TXYD",
+  "user_id": "AEZEX27LZPWQFTTDLHBSKPPEUDAQ",
+  "timestamp": 1430414399000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OXO Good Grips Corn Peeler",
+    "average_rating": 4.7,
+    "rating_number": 1786,
+    "features": [
+      "Blade is made of durable stainless steel",
+      "Serrated vertical blade is ergonomic and easy to use",
+      "Removes close to 5 rows off the cob at one time",
+      "Blade cover protects blade and hands when not in use",
+      "Dishwasher Safe"
+    ],
+    "description": [
+      "We're all ears for a new way to remove corn kernels. It's never been easier than with the OXO Corn Peeler. The Peeler safely removes multiple rows of kernels from corn cobs with a quick and simple motion. The blade is positioned at an angle to ensure perfectly cut kernels every time, eliminating the risk of cutting too shallow or too deep. The durable, stainless-steel blade is serrated on both sides, making it easy to use for both righties and lefties. To protect fingers when the Peeler isn't in use, a cover snaps onto the blade. The soft, nonslip grip makes stripping a whole bushel of corn comfortable."
+    ],
+    "price": 11.95,
+    "store": "OXO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Graters, Peelers & Slicers",
+      "Peelers"
+    ],
+    "details": {
+      "Brand": "OXO",
+      "Color": "Yellow",
+      "Special Feature": "Dishwasher SafeSoft-Grip Handle",
+      "Item Dimensions LxWxH": "7 x 1.75 x 1 inches",
+      "Blade Material": "Stainless Steel",
+      "Model Name": "OXO Good Grips Corn Peeler",
+      "Operation Mode": "Manual",
+      "Material": "Plastic",
+      "Style": "Ergonomic",
+      "Item Weight": "2.96 ounces",
+      "Blade Edge": "Serrated",
+      "Number of Blades": "1",
+      "Product Dimensions": "7 x 1.75 x 1 inches",
+      "Department": "Unisex-adult",
+      "Manufacturer": "OXOX9",
+      "Country of Origin": "USA",
+      "Item model number": "1192100",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 30025,
+        "Peelers": 112
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 8, 2010"
+    },
+    "parent_asin": "B07BJ5TXYD",
+    "bought_together": null
+  }
+}

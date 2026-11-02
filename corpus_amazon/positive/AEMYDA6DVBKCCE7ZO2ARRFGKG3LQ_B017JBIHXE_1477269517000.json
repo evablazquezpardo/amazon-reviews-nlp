@@ -1,0 +1,64 @@
+{
+  "id": "AEMYDA6DVBKCCE7ZO2ARRFGKG3LQ_B017JBIHXE_1477269517000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Four Stars",
+  "text": "Four Stars. Great colors-thin, but for the price, good product",
+  "asin": "B017JBIHXE",
+  "parent_asin": "B017JBIHXE",
+  "user_id": "AEMYDA6DVBKCCE7ZO2ARRFGKG3LQ",
+  "timestamp": 1477269517000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bahia Collection by Dohler Coral Turtle Velour Brazilian Beach Towel 30x60 Inches",
+    "average_rating": 4.6,
+    "rating_number": 53,
+    "features": [
+      "Cotton",
+      "Imported"
+    ],
+    "description": [
+      "This famous Brazilian towel is 100% cotton, reactive fiber and velvet texture. It measures 30 x 60 and weighs 12 ounces (based on manufacturing data). See instructions on attached towel label for proper wash and dry care. This towel is a label with labels showing the origin (Brazil) and the manufacturer's name (Dohler) for your safety, please double upon receipt of the product."
+    ],
+    "price": null,
+    "store": "TMWHE",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Beach Towels"
+    ],
+    "details": {
+      "Color": "Grey",
+      "Brand": "TMWHE",
+      "Towel form type": "Beach Towel",
+      "Age Range (Description)": "All Ages",
+      "Product Dimensions": "60\"L x 30\"W",
+      "Number of Items": "1",
+      "Pattern": "Print",
+      "Special Feature": "Non-toxic",
+      "Theme": "Animals",
+      "Product Care Instructions": "Machine Wash",
+      "Shape": "Rectangular",
+      "Size": "30\" x 60\"",
+      "Unit Count": "1.0 Count",
+      "Fabric Type": "Cotton",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "12 ounces",
+      "Item model number": "COMIN16JU041695",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2326553,
+        "Beach Towels": 3983
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B017JBIHXE",
+    "bought_together": null
+  }
+}

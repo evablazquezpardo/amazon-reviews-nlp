@@ -1,0 +1,61 @@
+{
+  "id": "AHNNSS7BBGS6TUIY75LG6RIOD2VA_B002U82BMU_1483831986000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Meh, it's alright.",
+  "text": "Meh, it's alright.. It's cheap plastic. You get what ya pay for.",
+  "asin": "B002U82BMU",
+  "parent_asin": "B002U82BMU",
+  "user_id": "AHNNSS7BBGS6TUIY75LG6RIOD2VA",
+  "timestamp": 1483831986000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Beetle Spoon",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+      "Beetle transforms into spoon",
+      "Dishwasher safe",
+      "Comes with its own carrying case",
+      "Wings unfold to become a handle",
+      "Each Beetle Spoon comes with it's own travel and storage case",
+      "Both Beetle Spoon and Travel case are dishwasher safe",
+      "The only bugs you should allow at the dinner table",
+      "Another fun one from Hog Wild"
+    ],
+    "description": [
+      "Go anywhere design allows you take your eating utensils with you. Wings rotate 180 degrees from the closed position and into the ready-to-eat position. Beetle to spoon in no time!"
+    ],
+    "price": 1.0,
+    "store": "Hog Wild",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Spoons"
+    ],
+    "details": {
+      "Product Dimensions": "2 x 3 x 0.75 inches",
+      "Item Weight": "5.6 ounces",
+      "Manufacturer": "Hog Wild",
+      "Item model number": "10480",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 721511,
+        "Spoons": 5540
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 12, 2009",
+      "Color": "Red/Black, Green/Purple",
+      "Material": "Polycarbonate",
+      "Brand": "Hog Wild",
+      "Style": "Modern",
+      "Item Dimensions LxWxH": "2 x 3 x 0.75 inches"
+    },
+    "parent_asin": "B002U82BMU",
+    "bought_together": null
+  }
+}

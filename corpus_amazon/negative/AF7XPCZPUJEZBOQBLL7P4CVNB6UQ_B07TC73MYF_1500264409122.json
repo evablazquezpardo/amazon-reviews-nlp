@@ -1,0 +1,71 @@
+{
+  "id": "AF7XPCZPUJEZBOQBLL7P4CVNB6UQ_B07TC73MYF_1500264409122",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Had trouble out of the box",
+  "text": "Had trouble out of the box. Didn't work.",
+  "asin": "B06X1G4KTW",
+  "parent_asin": "B07TC73MYF",
+  "user_id": "AF7XPCZPUJEZBOQBLL7P4CVNB6UQ",
+  "timestamp": 1500264409122,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Dirt Devil Power Express Lite Stick Vacuum SD22020, Red, 0.4 litres capacity",
+    "average_rating": 4.3,
+    "rating_number": 2518,
+    "features": [
+      "Dirt cup capacity - .4 liters",
+      "Package Height is 21.88 inches",
+      "Package Length is 3.3 inches",
+      "Package Width is 6.13 inches",
+      "Capacity: 0.4 liters"
+    ],
+    "description": [
+      "Dirt Devil Power Express Lite Stick Vacuum SD22020, Red."
+    ],
+    "price": 57.54,
+    "store": "Dirt Devil",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuums",
+      "Stick Vacuums & Electric Brooms"
+    ],
+    "details": {
+      "Brand": "Dirt Devil",
+      "Special Feature": "corded",
+      "Form Factor": "Stick",
+      "Color": "Red",
+      "Filter Type": "Disk",
+      "Model Name": "Power Express Lite Stick Vacuum",
+      "Surface Recommendation": "Dual Action",
+      "Product Dimensions": "10 x 5.75 x 45 inches",
+      "Is Cordless?": "Yes",
+      "Voltage": "120 Volts",
+      "Item Weight": "4.4 pounds",
+      "Capacity": "0.4 Liters",
+      "Wattage": "750 watts",
+      "Noise Level": "78 dB",
+      "Manufacturer": "Dirt Devil",
+      "Number of Items": "1",
+      "Controller Type": "Hand Control",
+      "Country of Origin": "China",
+      "Item model number": "SD22020",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 80366,
+        "Stick Vacuums & Electric Brooms": 161
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Specific instructions for use": "dual action, hard floor, carpet",
+      "Assembly required": "Yes",
+      "Number of pieces": "3",
+      "Warranty Description": "1-year limited warranty.",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07TC73MYF",
+    "bought_together": null
+  }
+}

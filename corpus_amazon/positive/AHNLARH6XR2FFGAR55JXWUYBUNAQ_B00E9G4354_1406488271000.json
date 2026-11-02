@@ -1,0 +1,49 @@
+{
+  "id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ_B00E9G4354_1406488271000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Four Stars",
+  "text": "Four Stars. Effective!",
+  "asin": "B00E9G4354",
+  "parent_asin": "B00E9G4354",
+  "user_id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ",
+  "timestamp": 1406488271000,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Appliances",
+    "title": "Think Crucial Replacement for Dirt Devil Style F45 Foam Exhaust Filter Fits Easy Lite Canister Vacuums, Compatible with Part # 2KQ0104000",
+    "average_rating": 4.4,
+    "rating_number": 25,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Crucial Vacuum",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Filters"
+    ],
+    "details": {
+      "Brand Name": "Crucial Vacuum",
+      "Model Info": "Dirt Devil F45",
+      "Item Weight": "0.634 ounces",
+      "Package Dimensions": "5.24 x 4.29 x 0.39 inches",
+      "Item model number": "Dirt Devil F45",
+      "Is Discontinued By Manufacturer": "No",
+      "Part Number": "2KQ0104000",
+      "Material Type": "Foam",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Date First Available": "November 11, 2016",
+      "Brand": "Crucial Vacuum",
+      "Material": "Foam",
+      "Reusability": "Reusable",
+      "Number of Pieces": "1"
+    },
+    "parent_asin": "B00E9G4354",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "AHMNJSXO6ZB3C7AFPSL5HGLUH6LQ_B07P2VJ7MC_1563020321248",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not worth the money huge disappointment",
+  "text": "Not worth the money huge disappointment. It seems like it’s gonna break very hard to use",
+  "asin": "B07P2VJ7MC",
+  "parent_asin": "B07P2VJ7MC",
+  "user_id": "AHMNJSXO6ZB3C7AFPSL5HGLUH6LQ",
+  "timestamp": 1563020321248,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Alligator Black Chopper Set 2-in-1",
+    "average_rating": 4.2,
+    "rating_number": 150,
+    "features": [],
+    "description": [],
+    "price": 44.99,
+    "store": "Alligator",
+    "categories": [],
+    "details": {
+      "Brand": "Alligator",
+      "Material": "Alloy Steel",
+      "Color": "Black",
+      "Product Care Instructions": "Hand Wash Only",
+      "Blade Material": "Alloy Steel",
+      "Item Weight": "1 Pounds",
+      "Blade Shape": "Square",
+      "Operation Mode": "Manual",
+      "Product Dimensions": "16.5 x 5.5 x 3 inches",
+      "Item model number": "3008B",
+      "Date First Available": "February 24, 2019"
+    },
+    "parent_asin": "B07P2VJ7MC",
+    "bought_together": null
+  }
+}

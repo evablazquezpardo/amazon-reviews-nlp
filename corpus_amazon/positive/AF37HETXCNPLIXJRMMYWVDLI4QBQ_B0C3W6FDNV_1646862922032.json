@@ -1,0 +1,64 @@
+{
+  "id": "AF37HETXCNPLIXJRMMYWVDLI4QBQ_B0C3W6FDNV_1646862922032",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Well made",
+  "text": "Well made. If price drops I will buy em again",
+  "asin": "B0756D8W87",
+  "parent_asin": "B0C3W6FDNV",
+  "user_id": "AF37HETXCNPLIXJRMMYWVDLI4QBQ",
+  "timestamp": 1646862922032,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Slim, Velvet, Non-Slip Suit Clothes Hangers, Navy Blue/Silver - Pack of 100",
+    "average_rating": 4.8,
+    "rating_number": 170231,
+    "features": [
+      "INCLUDES: 100 suit clothes hangers in Navy Blue/Silver for keeping shirts, blazers, slacks, and more neatly hung and organized",
+      "CLOSET FRIENDLY: Slim profile helps maximize closet space",
+      "NON-SLIP DESIGN: Velvet surface and notched shoulders prevent items from shifting and slipping",
+      "DURABLE: Each sturdy metal-core hanger can hold up to 10 pounds",
+      "PRODUCT DIMENSIONS: 17.5 x 0.2 x 9 inches (LxWxH)"
+    ],
+    "description": [
+      "An Amazon Brand"
+    ],
+    "price": 32.45,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Clothes Hangers",
+      "Pants Hangers"
+    ],
+    "details": {
+      "Color": "Navy Blue/Silver",
+      "Brand": "Amazon Basics",
+      "Material": "Metal",
+      "Product Dimensions": "17.5\"W x 9\"H",
+      "Special Feature": "Slim",
+      "Number of Pieces": "100",
+      "Number of Items": "100",
+      "Room Type": "Dormitory, Laundry Room, Bedroom",
+      "Finish Type": "Metal",
+      "Size": "Pack of 100",
+      "Item Weight": "2.29 ounces",
+      "Manufacturer": "JOYFUN HOUSEWARE CO., LTD",
+      "Country of Origin": "China",
+      "Item model number": "JF1177",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 18,
+        "Pants Hangers": 1
+      },
+      "Finish types": "Metal",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B0C3W6FDNV",
+    "bought_together": null
+  }
+}

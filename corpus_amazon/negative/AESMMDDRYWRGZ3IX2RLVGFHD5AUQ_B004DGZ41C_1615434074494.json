@@ -1,0 +1,44 @@
+{
+  "id": "AESMMDDRYWRGZ3IX2RLVGFHD5AUQ_B004DGZ41C_1615434074494",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "This is not worth $100",
+  "text": "This is not worth $100. I don't know where the $100 comes from, but this thing is so flimsy. The rods that hold it together are joined with an elastic cord that comes loose and makes the rods fall apart. The stand in the back doesn't work. You have to use duct tape to hold it together. I am going to contact the manufacturer. This is not ok.",
+  "asin": "B004DGZ41C",
+  "parent_asin": "B004DGZ41C",
+  "user_id": "AESMMDDRYWRGZ3IX2RLVGFHD5AUQ",
+  "timestamp": 1615434074494,
+  "helpful_vote": 6,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cheryl Ann's Quilting Design Wall - 72\" White",
+    "average_rating": 3.9,
+    "rating_number": 484,
+    "features": [
+      "PORTABLE",
+      "LIGHTWEIGHT",
+      "COLLAPSES DOWN TO 5X5X22 INCHES",
+      "EASILY ASSEMBLED OR STORED IN TOTE BAG IN JUST MINUTES",
+      "CONVENIENT - REQUIRES ONLY 18X72 INCHES OF FLOOR SPACE"
+    ],
+    "description": [
+      "Cheryl Ann's Design Wall comes to you in a small tote bag measuring about 5x5 x 22 inches and weighing less than 7 pounds. It is easily assembled in just a few minutes to provide a giant 72x72 inch flannel surface that is stretched tight on a stable frame. The flannel is a high quality, 100% cotton, preshrunk flannel that has been measured and sewn to fit the frame. Because it is stretched tight and standing at an angle, adherence is marvelous and pinning is never necessary. A design wall like this will help you create wonderful projects and sharpen your quilting skills. When you are finished, just fold it up and put it away."
+    ],
+    "price": 159.99,
+    "store": "Cheryl Ann's",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "20 x 8 x 5 inches",
+      "Item Weight": "6.2 pounds",
+      "Manufacturer": "CHERYL ANN",
+      "Item model number": "DW1-W",
+      "Is Discontinued By Manufacturer": "No",
+      "Care instructions": "Machine Wash, Hand Wash Only",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B004DGZ41C",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "AHQQ62COZ3ANN33IRXZ6Z4KF664A_B08R8DNQR3_1617894434396",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Nope",
+  "text": "Nope. It doesn’t spin!",
+  "asin": "B08R8DNQR3",
+  "parent_asin": "B08R8DNQR3",
+  "user_id": "AHQQ62COZ3ANN33IRXZ6Z4KF664A",
+  "timestamp": 1617894434396,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "3D Sun Wind Spinner Grow Bag with Gazing Ball Spiral Tail, 360 Degrees Spin Metal Wind Sculptures, Stainless Steel Chimes for Outdoor Garden Room Crafts (14Inches, Sun)",
+    "average_rating": 4.2,
+    "rating_number": 19,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Smirdx",
+    "categories": [],
+    "details": {
+      "Package Dimensions": "4.88 x 4.25 x 1.85 inches",
+      "Item Weight": "3.2 ounces",
+      "Brand": "Smirdx",
+      "Material": "Stainless Steel,Metal",
+      "Special Feature": "Kinetic",
+      "Power Source": "Wind Powered",
+      "Recommended Uses For Product": "Crafts"
+    },
+    "parent_asin": "B08R8DNQR3",
+    "bought_together": null
+  }
+}

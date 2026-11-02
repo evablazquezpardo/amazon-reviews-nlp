@@ -1,0 +1,63 @@
+{
+  "id": "AFUOYIZBU3MTBOLYKOJE5Z35MBDA_B009LQIGLE_1444861735000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Bad Product",
+  "text": "Bad Product. Very poorly made. Plastic is cheap. Received 3 times cracked. Every time there was no handle with the item. Scratches very easily. Got tired of ordering and getting a bad product.",
+  "asin": "B009LQIGLE",
+  "parent_asin": "B009LQIGLE",
+  "user_id": "AFUOYIZBU3MTBOLYKOJE5Z35MBDA",
+  "timestamp": 1444861735000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "New Star Cake Cover with Handle, 12-Inch Diameter, Clear",
+    "average_rating": 4.0,
+    "rating_number": 59,
+    "features": [
+      "Dent and shatter resistant food safe plastic",
+      "Chrome plated Zinc Alloy handle",
+      "Contents stay fresh for daily dispays",
+      "Perfect for cakes, pies, and more",
+      "Measures approximately 13-inches in diameter and 5.25-inches high"
+    ],
+    "description": [
+      "New Star Foodservice believes in providing quality. That is the reason we focus on developing essential kitchen products that stand up to the high volume and heavy use environments of restaurants, while also providing the functionality and durability that cooks of all backgrounds utilize to be successful. Our quality also goes beyond our products thanks to our wonderful and resourceful team whose main purpose is to provide any assistance our customers might need, from answering questions about our items to quickly shipping replacements for orders damaged in transit. Whether you are a professional chef working in a huge commercial kitchen or a culinary artist cooking at home New Star is here to serve you."
+    ],
+    "price": null,
+    "store": "New Star Foodservice",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Cake Carriers"
+    ],
+    "details": {
+      "Part Number": "24012",
+      "Item Weight": "1.95 pounds",
+      "Product Dimensions": "13\"L x 13\"W x 5.25\"H",
+      "Item model number": "24012",
+      "Is Discontinued By Manufacturer": "No",
+      "Item Package Quantity": "1",
+      "Number Of Pieces": "1",
+      "Special Features": "Shatterproof",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 648848,
+        "Cake Carriers": 413,
+        "Kitchen Utensils & Gadgets": 203091
+      },
+      "Date First Available": "October 4, 2012",
+      "Brand": "New Star Foodservice",
+      "Recommended Uses For Product": "Fresh",
+      "Special Feature": "Shatterproof",
+      "Is Dishwasher Safe": "No"
+    },
+    "parent_asin": "B009LQIGLE",
+    "bought_together": null
+  }
+}

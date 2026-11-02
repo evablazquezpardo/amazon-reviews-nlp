@@ -1,0 +1,38 @@
+{
+  "id": "AFG7N7YAFN5JNRB5PTBKSENW6QAA_B0055VQ4WC_1424113170000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Don't waste your time and Money",
+  "text": "Don't waste your time and Money. Not near as good as the original product!!<br />Didn't work at all",
+  "asin": "B0055VQ4WC",
+  "parent_asin": "B0055VQ4WC",
+  "user_id": "AFG7N7YAFN5JNRB5PTBKSENW6QAA",
+  "timestamp": 1424113170000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Aerus Guardian Air Replacement Filter Brand New",
+    "average_rating": 3.5,
+    "rating_number": 65,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Purifier Parts & Accessories"
+    ],
+    "details": {
+      "Package Dimensions": "21.2 x 10.9 x 4.3 inches",
+      "Item Weight": "3.4 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B0055VQ4WC",
+    "bought_together": null
+  }
+}

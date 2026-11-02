@@ -1,0 +1,59 @@
+{
+  "id": "AEND3CIIB3TYKEOEBE53CB2PXTPA_B0000TQIFM_1519183834571",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Very small pockets",
+  "text": "Very small pockets. Pockets were smaller than what I thought.  But I'm making it work.",
+  "asin": "B0000TQIFM",
+  "parent_asin": "B0000TQIFM",
+  "user_id": "AEND3CIIB3TYKEOEBE53CB2PXTPA",
+  "timestamp": 1519183834571,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Household Essentials Hanging Clear Vinyl 12-Pocket Stocking Organizer",
+    "average_rating": 4.5,
+    "rating_number": 191,
+    "features": [
+      "Peva",
+      "Imported",
+      "12 clear pockets for quick selection.",
+      "Ideally sized for scarves and pantyhose.",
+      "2 large back pockets.",
+      "Soft, clear vinyl protects hoisery from snags.",
+      "Measures 26.25\" L x 14.5\" W"
+    ],
+    "description": [
+      "Never lose a stocking or snag nylons in your drawer. With this hanging organizer tucked discreetly in your closet, your stockings are always protected and easy to find. 12 clear, environmentally friendly PEVA pockets nestle their contents safely, keeping pantyhose clean and ready to wear. Two large pockets on the back hold other items as needed. Enjoy individualized convenience from the comfort of your closet. Measures 26.25\"L x 14.5\" W. Item #01917-9"
+    ],
+    "price": null,
+    "store": "Household Essentials",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Hanging Ornaments"
+    ],
+    "details": {
+      "Product Dimensions": "26.25 x 14.5 x 0.25 inches",
+      "Item Weight": "5.6 ounces",
+      "Department": "Cookware",
+      "Manufacturer": "Hosuehold Essentials",
+      "Item model number": "01917-9",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1802152,
+        "Decorative Hanging Ornaments": 24468
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Peva",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B0000TQIFM",
+    "bought_together": null
+  }
+}

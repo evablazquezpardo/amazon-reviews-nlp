@@ -1,0 +1,68 @@
+{
+  "id": "AFNVK27QX4RCTYKRFMLSGGCRAIIA_B00TPG5BGS_1450626897000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Too small.",
+  "asin": "B00TPG5BGS",
+  "parent_asin": "B00TPG5BGS",
+  "user_id": "AFNVK27QX4RCTYKRFMLSGGCRAIIA",
+  "timestamp": 1450626897000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ChefLand Stackable Restaurant Beverage Cup Break-Resistant Plastic Tumbler, 16-Ounce, Clear, 12-Pack",
+    "average_rating": 4.0,
+    "rating_number": 151,
+    "features": [
+      "1 dozen - 16 oz. Durable clear plastic tumblers are ideal for commercial or home use",
+      "Elegant design made for serving drinks or special beverages",
+      "Dishwasher-Safe construction for long life and easy care",
+      "Exterior's pebbled surface offers an improved grip",
+      "Dimensions: top diameter: 3\", bottom diameter: 2 1/8\", height: 5\""
+    ],
+    "description": [
+      "These pebbled plastic tumblers are sold 12 per pack, tumblers are shatter-resistant and feature lugs for easy stacking!."
+    ],
+    "price": null,
+    "store": "ChefLand",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Tumblers & Water Glasses"
+    ],
+    "details": {
+      "Brand": "ChefLand",
+      "Material": "Plastic",
+      "Color": "Clear",
+      "Capacity": "16 Fluid Ounces",
+      "Special Feature": "Break-resistant",
+      "Style": "Modern",
+      "Theme": "Restaurant",
+      "Occasion": "Home",
+      "Shape": "Tumblers",
+      "Pattern": "Solid",
+      "Product Care Instructions": "Machine Wash, Hand Wash Only",
+      "Age Range (Description)": "Baby",
+      "Material Feature": "Recyclable",
+      "Unit Count": "12.0 Count",
+      "Item Weight": "1.73 pounds",
+      "Number of Items": "12",
+      "Product Dimensions": "13.5 x 3 x 5.8 inches",
+      "Manufacturer": "ChefLand",
+      "Item model number": "05713",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 542455,
+        "Tumblers & Water Glasses": 20370
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 30, 2013"
+    },
+    "parent_asin": "B00TPG5BGS",
+    "bought_together": null
+  }
+}

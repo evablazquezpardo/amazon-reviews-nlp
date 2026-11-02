@@ -1,0 +1,58 @@
+{
+  "id": "AG7LIJ5TMA6RMLSB4IHKJNVBPSAA_B0046IDP0O_1542652879850",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Horrible",
+  "text": "Horrible. Absolutely horrible !!!! Thinner than a grocery store bag a plastic tablecloth would do a better job",
+  "asin": "B0046IDP0O",
+  "parent_asin": "B0046IDP0O",
+  "user_id": "AG7LIJ5TMA6RMLSB4IHKJNVBPSAA",
+  "timestamp": 1542652879850,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Queen Mattress Cover White Fitted Plastic Protector",
+    "average_rating": 2.8,
+    "rating_number": 322,
+    "features": [
+      "Plastic",
+      "Imported",
+      "Fitted Open Bottom",
+      "Long wearing stay soft plastic",
+      "Fitted Skirt for ease in handling"
+    ],
+    "description": [
+      "Queen Mattress Cover White Fitted Plastic Protector"
+    ],
+    "price": null,
+    "store": "Better Home",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Mattress Protectors & Encasements",
+      "Mattress Protectors"
+    ],
+    "details": {
+      "Package Dimensions": "10.5 x 7.7 x 1 inches",
+      "Item Weight": "4 ounces",
+      "Manufacturer": "Better Home Plastics Corp",
+      "Item model number": "B0046IDP0O",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1289900,
+        "Mattress Protectors": 874
+      },
+      "Fabric Type": "Plastic",
+      "Warranty Description": "As stated on package",
+      "Batteries required": "No",
+      "Import": "Imported",
+      "Brand": "Better Home",
+      "Color": "White",
+      "Size": "One size fits most",
+      "Material": "Plastic"
+    },
+    "parent_asin": "B0046IDP0O",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AFFYEYAXFXNAK3VEJQ5EMUU4TD2A_B08B37J4WY_1611625561390",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Too small and thin",
+  "text": "Too small and thin. Much smaller and thinner than I expected.",
+  "asin": "B08B37J4WY",
+  "parent_asin": "B08B37J4WY",
+  "user_id": "AFFYEYAXFXNAK3VEJQ5EMUU4TD2A",
+  "timestamp": 1611625561390,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "YNERHAI Kitchen Terry Dish Cloth Dish Towels Set of 12pcs 11 x 16 Inches Super Soft and Absorbent 100% Cotton Dishcloths Perfect for Household and Kitchen Uses",
+    "average_rating": 3.6,
+    "rating_number": 171,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "YNERHAI",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Dish Cloths & Dish Towels"
+    ],
+    "details": {
+      "Brand": "YNERHAI",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Product Dimensions": "16\"L x 11\"W",
+      "Number of Items": "12",
+      "Special Feature": "Non-toxic",
+      "Product Care Instructions": "Machine Wash",
+      "Shape": "Rectangular",
+      "Size": "Small",
+      "Unit Count": "12.0 Count",
+      "Fabric Type": "100% Cotton",
+      "Item Weight": "13.1 ounces",
+      "Date First Available": "August 6, 2020"
+    },
+    "parent_asin": "B08B37J4WY",
+    "bought_together": null
+  }
+}

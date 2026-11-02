@@ -1,0 +1,50 @@
+{
+  "id": "AHUOZU4UFPRZZZVHDIS65TMHIHSQ_B001J1JNA2_1388781400000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Wash before you use",
+  "text": "Wash before you use. As others have said these towels have a lot of lent.  I washed them before use and now they are fine",
+  "asin": "B001J1JNA2",
+  "parent_asin": "B001J1JNA2",
+  "user_id": "AHUOZU4UFPRZZZVHDIS65TMHIHSQ",
+  "timestamp": 1388781400000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "1888 Mills Bath Towels Commercial Quality - 8ct",
+    "average_rating": 3.5,
+    "rating_number": 42,
+    "features": [
+      "86% Cotton"
+    ],
+    "description": [],
+    "price": null,
+    "store": "1888 Mills",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Bath Towels"
+    ],
+    "details": {
+      "Brand": "1888 Mills",
+      "Towel form type": "Bath Towel",
+      "Material": "Cotton",
+      "Number of Items": "1",
+      "Pattern": "Solid",
+      "Special Feature": "Non-toxic",
+      "Theme": "No Theme",
+      "Product Care Instructions": "Machine Wash",
+      "Shape": "Rectangular",
+      "Unit Count": "8.0 Count",
+      "Fabric Type": "86% Cotton",
+      "Item Weight": "55 pounds",
+      "Package Dimensions": "13.5 x 12 x 10.5 inches",
+      "Number of pieces": "8"
+    },
+    "parent_asin": "B001J1JNA2",
+    "bought_together": null
+  }
+}

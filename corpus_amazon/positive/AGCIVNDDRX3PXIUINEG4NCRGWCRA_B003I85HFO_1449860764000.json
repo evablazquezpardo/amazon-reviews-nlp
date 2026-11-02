@@ -1,0 +1,58 @@
+{
+  "id": "AGCIVNDDRX3PXIUINEG4NCRGWCRA_B003I85HFO_1449860764000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. My husband is an avid fisherman and he loved it.",
+  "asin": "B003I85HFO",
+  "parent_asin": "B003I85HFO",
+  "user_id": "AGCIVNDDRX3PXIUINEG4NCRGWCRA",
+  "timestamp": 1449860764000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sterling Home Elk Lighting Rod 'N Reel Clock, 12-Inch, Brown",
+    "average_rating": 3.6,
+    "rating_number": 9,
+    "features": [
+      "Give the gift that keeps on giving to your favorite fishing enthusiast",
+      "This rod-n-reel fishing clock displayed on a mantle, desk, table, or shelf will bring warm, happy memories of those long days on the water"
+    ],
+    "description": [
+      "Sterling Rod N' Reel Clock"
+    ],
+    "price": null,
+    "store": "Sterling Home",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Clocks",
+      "Wall Clocks"
+    ],
+    "details": {
+      "Brand": "Sterling Home",
+      "Color": "Brown",
+      "Display Type": "Analog",
+      "Product Dimensions": "12\"W x 12\"H",
+      "Age Range (Description)": "Adult",
+      "Shape": "Round",
+      "Material": "Man-Made-Material",
+      "Theme": "Fishing",
+      "Frame Material": "Metal",
+      "Are Batteries Included": "No",
+      "Mounting Type": "Desk Clock,Wall",
+      "Item Weight": "1.45 pounds",
+      "Warranty Type": "Manufacturer",
+      "Number of Items": "1",
+      "Operation Mode": "Electrical",
+      "Item model number": "91-3515",
+      "Is Discontinued By Manufacturer": "No",
+      "Weight": "2 Pounds",
+      "Date First Available": "March 12, 2008"
+    },
+    "parent_asin": "B003I85HFO",
+    "bought_together": null
+  }
+}

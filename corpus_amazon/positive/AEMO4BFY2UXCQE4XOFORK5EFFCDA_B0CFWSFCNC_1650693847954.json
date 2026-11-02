@@ -1,0 +1,59 @@
+{
+  "id": "AEMO4BFY2UXCQE4XOFORK5EFFCDA_B0CFWSFCNC_1650693847954",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love ‘em!!",
+  "text": "Love ‘em!!. Perfect for a variety in portions and foods",
+  "asin": "B097CP1BDV",
+  "parent_asin": "B0CFWSFCNC",
+  "user_id": "AEMO4BFY2UXCQE4XOFORK5EFFCDA",
+  "timestamp": 1650693847954,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "EasyLunchboxes® - Bento Snack Boxes - Reusable 4-Compartment Food Containers for School, Work and Travel, Set of 10, (Jewel Brights)",
+    "average_rating": 4.7,
+    "rating_number": 2315,
+    "features": [
+      "THE ORIGINALS: EasyLunchboxes are often imitated, never duplicated. The original stackable, portable, reusable, and affordable way to prep healthy snacks for school, work, or on the go",
+      "BUILT-IN PORTION CONTROL: 4 perfectly portioned compartments make it easy to pack a variety of snacks for any size appetite from kids to adults",
+      "EASY-OPEN LIDS: Designed with kid-friendly lids that stay securely on, but can be easily removed by toddlers (not leak-proof)",
+      "MICROWAVE, FREEZER, & DISHWASHER SAFE: BPA-free containers designed by a mom to be easy to clean, convenient to use, and quick to organize"
+    ],
+    "description": [],
+    "price": 21.99,
+    "store": "EasyLunchboxes",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Manufacturer": "EasyLunchboxes",
+      "Item Weight": "2.03 pounds",
+      "Package Dimensions": "8.78 x 6.54 x 6.14 inches",
+      "Item model number": "Jewel Brights",
+      "Color": "Jewel Brights",
+      "Material": "Polypropylene",
+      "Item Package Quantity": "1",
+      "Batteries Required?": "No",
+      "Units": "10 Count",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 4777,
+        "Bento Boxes": 101,
+        "Food Container Sets": 300
+      },
+      "Date First Available": "August 13, 2021",
+      "Brand": "EasyLunchboxes",
+      "Product Dimensions": "6.5\"L x 6\"W x 2\"H",
+      "Container Shape": "Rectangular"
+    },
+    "parent_asin": "B0CFWSFCNC",
+    "bought_together": null
+  }
+}

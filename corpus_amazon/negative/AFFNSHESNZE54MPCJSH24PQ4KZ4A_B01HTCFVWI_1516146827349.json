@@ -1,0 +1,40 @@
+{
+  "id": "AFFNSHESNZE54MPCJSH24PQ4KZ4A_B01HTCFVWI_1516146827349",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. wow, Very difficult, impossible for me, hard to use, cannot get lid off, am returning item,",
+  "asin": "B01HTCFVWI",
+  "parent_asin": "B01HTCFVWI",
+  "user_id": "AFFNSHESNZE54MPCJSH24PQ4KZ4A",
+  "timestamp": 1516146827349,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Electric Coffee Grinder | Powerful 150W Motor with Double Stainless Steel Blades | Large Capacity For Beans, Seeds & Spices | Removable Safety Lock & One-Touch Control | Maximize Coffee Flavor & Aroma",
+    "average_rating": 4.2,
+    "rating_number": 186,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Mixpresso",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Grinders",
+      "Electric Blade Grinders"
+    ],
+    "details": {
+      "Package Dimensions": "7.05 x 3.75 x 3.6 inches",
+      "Item Weight": "1.44 pounds",
+      "Item model number": "SYNCHKG129036",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 11, 2019"
+    },
+    "parent_asin": "B01HTCFVWI",
+    "bought_together": null
+  }
+}

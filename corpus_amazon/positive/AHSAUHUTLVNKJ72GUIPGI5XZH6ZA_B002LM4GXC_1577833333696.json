@@ -1,0 +1,43 @@
+{
+  "id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA_B002LM4GXC_1577833333696",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Okay product",
+  "text": "Okay product. Works fine",
+  "asin": "B002LM4GXC",
+  "parent_asin": "B002LM4GXC",
+  "user_id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA",
+  "timestamp": 1577833333696,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "The Handy Bundler",
+    "average_rating": 4.4,
+    "rating_number": 40,
+    "features": [],
+    "description": [
+      "It's the Handy Bundler"
+    ],
+    "price": null,
+    "store": "The Handy Bundler",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization"
+    ],
+    "details": {
+      "Package Dimensions": "11.3 x 6.9 x 1.7 inches",
+      "Item Weight": "10.4 ounces",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 3179221,
+        "Kitchen Storage & Organization": 118391
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B002LM4GXC",
+    "bought_together": null
+  }
+}

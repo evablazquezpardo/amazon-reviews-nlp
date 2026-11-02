@@ -1,0 +1,58 @@
+{
+  "id": "AGJO2OS2ZIRSD24IAOOXTAV57HTQ_B00004Z1UE_1625171673015",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not for me.",
+  "text": "Not for me.. Didn't work for me sent back.",
+  "asin": "B00004Z1UE",
+  "parent_asin": "B00004Z1UE",
+  "user_id": "AGJO2OS2ZIRSD24IAOOXTAV57HTQ",
+  "timestamp": 1625171673015,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": null,
+    "title": "Clotheslnewire 5/32x100'",
+    "average_rating": 3.7,
+    "rating_number": 51,
+    "features": [
+      "Extruped P V C Wire Cable Clothesline",
+      "Maximum Strength",
+      "Minimum Stretch",
+      "Non Staining and gentle on clothes",
+      "Heavy Load"
+    ],
+    "description": [
+      "From the Manufacturer",
+      "Wellington's Wire Cable Core Clothesline is their premium grade PVC clothesline. Constructed with a super strong twisted wire cable center core, this line gives very little stretch. It is a good choice in high humidity areas and is recommended for use with wire rope clamps. This 5/32-inch green clothesline comes in a length of 100 feet. Wellington is dedicated to producing the highest quality products in the industry."
+    ],
+    "price": null,
+    "store": "Wellington",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Clotheslines"
+    ],
+    "details": {
+      "Package Dimensions": "7.72 x 7.4 x 1.3 inches",
+      "Item Weight": "2.24 pounds",
+      "Manufacturer": "Wellington",
+      "Item model number": "15743",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1601222,
+        "Clotheslines": 404
+      },
+      "Is Discontinued By Manufacturer": "Yes",
+      "Date First Available": "January 16, 2007",
+      "Brand": "Wellington",
+      "Material": "Plastic, Cotton",
+      "Color": "Green",
+      "Style": "Clothesline",
+      "Line Weight": "Heavy"
+    },
+    "parent_asin": "B00004Z1UE",
+    "bought_together": null
+  }
+}

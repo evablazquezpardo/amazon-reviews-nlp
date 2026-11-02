@@ -1,0 +1,60 @@
+{
+  "id": "AFOZZCGRU6QG4XA2LY2ZCPKYVOGQ_B07ZFTLBBP_1606179374119",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Got a bad item",
+  "text": "Got a bad item. I can't rate this item.  Unfortunately, I did not check this out when I received it.  I bought it to use for Christmas. I just got it out of the box and it doesn't work.  So disappointed.",
+  "asin": "B07VXD8Q36",
+  "parent_asin": "B07ZFTLBBP",
+  "user_id": "AFOZZCGRU6QG4XA2LY2ZCPKYVOGQ",
+  "timestamp": 1606179374119,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Twinkle Star 100 LED Lighted White Birch Branches 2 Pack Artificial Branches Waterproof Battery Operated with Timer for Indoor Outdoor Christmas Wedding Party Home Decoration (Vase Excluded)",
+    "average_rating": 4.3,
+    "rating_number": 869,
+    "features": [
+      "Artificial White Birch Branches with Lights: These flexible branches feature 100 warm white LED lights on branches, LED lighted white branch will add a sparkle of light to any floral arrangement, plant or centerpiece. (NOT INCLUDE VASE)",
+      "Best House Decoration: Each lighted artificial branches can be used as a unique table decoration in any season. Perfect decor for home, fireplace, living room, kitchen, balcony, office room, restaurant, porch.",
+      "Great Idea Present: It is an ideal gift for friends and family. Not only for Christmas party, but also for Thanksgiving day, Birthday, Wedding Ceremony, Dinner Party Decoration and so on.",
+      "Battery Operated: 3 AA Batteries requires, not include batteries. The artificial branches has on/off/timer modes. Set timer for 6 hours on and 18 hours off per day. Battery box are IP44 waterproof, it is perfect for indoor and outdoor use."
+    ],
+    "description": [],
+    "price": 29.99,
+    "store": "Twinkle Star",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Trees"
+    ],
+    "details": {
+      "Brand": "Twinkle Star",
+      "Plant or Animal Product Type": "birch",
+      "Color": "White",
+      "Material": "Plastic",
+      "Product Dimensions": "3\"D x 2\"W x 32\"H",
+      "Recommended Uses For Product": "Decoration",
+      "Indoor/Outdoor Usage": "Outdoor, Indoor",
+      "Package Information": "Vase",
+      "Occasion": "Birthday",
+      "Number of Items": "2",
+      "Seasons": "All",
+      "Unit Count": "2 Count",
+      "Item Weight": "12 ounces",
+      "Manufacturer": "Twinkle Star",
+      "Item model number": "H2W",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 462865,
+        "Artificial Trees": 600,
+        "Indoor String Lights": 1346
+      },
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07ZFTLBBP",
+    "bought_together": null
+  }
+}

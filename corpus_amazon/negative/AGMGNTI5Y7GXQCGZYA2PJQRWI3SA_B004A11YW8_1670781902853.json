@@ -1,0 +1,45 @@
+{
+  "id": "AGMGNTI5Y7GXQCGZYA2PJQRWI3SA_B004A11YW8_1670781902853",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Buyer Beware!!!!!",
+  "text": "Buyer Beware!!!!!. Loaded with chips on bottom of baking dish!",
+  "asin": "B004A11YW8",
+  "parent_asin": "B004A11YW8",
+  "user_id": "AGMGNTI5Y7GXQCGZYA2PJQRWI3SA",
+  "timestamp": 1670781902853,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Anchor Hocking 77887 Fire-King Square Cake Dish, Glass, 8-Inch",
+    "average_rating": 4.1,
+    "rating_number": 40,
+    "features": [
+      "9 x 11.25 x 2.5 inch",
+      "Constructed of clear, durable, heat-resistant glass",
+      "Use for casseroles, cakes, chicken dishes, brownies and more",
+      "Oven, microwave and dishwasher safe",
+      "Made by Anchor Hocking in the USA"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Anchor Hocking",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Bakeware Sets"
+    ],
+    "details": {
+      "Material": "Glass",
+      "Brand": "Anchor Hocking",
+      "Color": "Clear",
+      "Shape": "Square",
+      "Special Feature": "Microwave Safe, Dishwasher Safe ounce Free"
+    },
+    "parent_asin": "B004A11YW8",
+    "bought_together": null
+  }
+}

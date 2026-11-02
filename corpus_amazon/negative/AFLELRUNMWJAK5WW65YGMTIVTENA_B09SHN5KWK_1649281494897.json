@@ -1,0 +1,40 @@
+{
+  "id": "AFLELRUNMWJAK5WW65YGMTIVTENA_B09SHN5KWK_1649281494897",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "This is theft plain and simple .",
+  "text": "This is theft plain and simple .. Rip-off",
+  "asin": "B09SHN5KWK",
+  "parent_asin": "B09SHN5KWK",
+  "user_id": "AFLELRUNMWJAK5WW65YGMTIVTENA",
+  "timestamp": 1649281494897,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "LUTER 200 Pcs Unbleached Coffee Filters, Replacement Round Coffee Filter, Disposable Paper Filters Compatible with Espresso Makers and Aerobie Coffee (2.5 Inch in Diameter)",
+    "average_rating": 3.6,
+    "rating_number": 3,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "LUTER",
+    "categories": [
+      "Home & Kitchen",
+      "Newly launched kitchen"
+    ],
+    "details": {
+      "Package Dimensions": "6.26 x 3.27 x 0.79 inches",
+      "Item Weight": "1.44 ounces",
+      "Date First Available": "February 15, 2022",
+      "Material": "Paper",
+      "Compatible Devices": "AeroPress",
+      "Brand": "LUTER",
+      "Shape": "Disk",
+      "Number of Pieces": "200"
+    },
+    "parent_asin": "B09SHN5KWK",
+    "bought_together": null
+  }
+}

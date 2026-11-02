@@ -1,0 +1,54 @@
+{
+  "id": "AGVFRCPZDC7P4BCZ24FJQTQZBXTQ_B005M7B82U_1409154466000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. it's ok...",
+  "asin": "B005M7B82U",
+  "parent_asin": "B005M7B82U",
+  "user_id": "AGVFRCPZDC7P4BCZ24FJQTQZBXTQ",
+  "timestamp": 1409154466000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Tupperware Set of 10 Citrus Peeler (Colors may vary)",
+    "average_rating": 4.7,
+    "rating_number": 1440,
+    "features": [
+      "Handy gadget to peel oranges and other citrus fruits, just score the peel with the \"hook\" end, lift the peel with the flat end, and far less messy!",
+      "Tupperware Citrus Peelers",
+      "Colors may vary - 10 matching peelers"
+    ],
+    "description": [
+      "Tupperware Set of 10 Citrus Peeler"
+    ],
+    "price": 11.99,
+    "store": "Tupperware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Graters, Peelers & Slicers",
+      "Peelers"
+    ],
+    "details": {
+      "Brand": "Tupperware",
+      "Color": "Colors Vary",
+      "Operation Mode": "Manual",
+      "Style": "Tupperware",
+      "Item Weight": "0.05 Pounds",
+      "Number of Blades": "2",
+      "Package Dimensions": "6.42 x 2.48 x 1.14 inches",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 42394,
+        "Peelers": 153
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 10, 2011"
+    },
+    "parent_asin": "B005M7B82U",
+    "bought_together": null
+  }
+}

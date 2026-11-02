@@ -1,0 +1,45 @@
+{
+  "id": "AG4QA7XL2SWB2EQADGIRQXAMCDTA_B01IQYOQXS_1498608576900",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Too small, Ice sticks to the scoop",
+  "asin": "B01IQYOQXS",
+  "parent_asin": "B01IQYOQXS",
+  "user_id": "AG4QA7XL2SWB2EQADGIRQXAMCDTA",
+  "timestamp": 1498608576900,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lautechco 8 Inch Stainless Steel Ice Cube Shovel Scoop Scraper for Ice Bucket Multifunctional Bar Tools Tea Coffee Bean Scoop",
+    "average_rating": 3.6,
+    "rating_number": 48,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "7.5 x 2.4 x 1.2 inches",
+      "Item Weight": "18.14 Grams",
+      "Item model number": "SYNCHKG129197",
+      "Is Discontinued By Manufacturer": "No",
+      "Dishwasher compatible": "Yes",
+      "Batteries required": "No",
+      "Material": "Stainless_steel",
+      "Item Dimensions LxWxH": "7.5 x 2.4 x 1.2 inches",
+      "Is Dishwasher Safe": "Yes"
+    },
+    "parent_asin": "B01IQYOQXS",
+    "bought_together": null
+  }
+}

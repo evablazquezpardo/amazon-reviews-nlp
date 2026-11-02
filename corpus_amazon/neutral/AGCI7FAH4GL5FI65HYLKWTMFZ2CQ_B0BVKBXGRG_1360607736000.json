@@ -1,0 +1,60 @@
+{
+  "id": "AGCI7FAH4GL5FI65HYLKWTMFZ2CQ_B0BVKBXGRG_1360607736000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Works, but a bit funky",
+  "text": "Works, but a bit funky. It works okay. But I have to tinker with it alot. I didn't know u could take the whole thing apart and clean it. Seems to be working much better now. Customer service was helpful.",
+  "asin": "B00018RRRK",
+  "parent_asin": "B0BVKBXGRG",
+  "user_id": "AGCI7FAH4GL5FI65HYLKWTMFZ2CQ",
+  "timestamp": 1360607736000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cuisinart Programmable Conical Burr Mill, Stainless Steel, COMPACT",
+    "average_rating": 4.4,
+    "rating_number": 44862,
+    "features": [
+      "Fully programmable 1/2 pound capacity hopper",
+      "Cup selector from 1-14 for your precise amount of coffee",
+      "18 position grind selector from ultra-fine for espresso to extra coarse for French press.",
+      "Removable grind chamber, heavy duty motor, cord storage. BPA Free",
+      "Conical burr grinder delivers a full-flavor, uniform grind without heating the beans."
+    ],
+    "description": [
+      "The elegant brushed stainless steel Cuisinart Programmable Conical Burr Mill produces perfect results every time for all your coffee needs with 18 settings, from extra coarse for your French Press to extra fine for rich espresso. The conical burr grinder produces a uniform grind without sacrificing the natural oils of your coffee beans for rich, flavorful results. With an easy-to-read LCD display showing the time, fineness, and number of cups, coffee is easy and fresher than ever."
+    ],
+    "price": 98.23,
+    "store": "Cuisinart",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Grinders",
+      "Electric Burr Grinders"
+    ],
+    "details": {
+      "Color": "Programmable Grinder",
+      "Brand": "Cuisinart",
+      "Style": "Programmable Grinder",
+      "Item Dimensions LxWxH": "8.37 x 12.12 x 7.62 inches",
+      "Capacity": "0.5 Pounds",
+      "Recommended Uses For Product": "Home",
+      "Product Dimensions": "8.37 x 12.12 x 7.62 inches",
+      "Item Weight": "4.75 pounds",
+      "Manufacturer": "Cuisinart",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More",
+      "Country of Origin": "China",
+      "Item model number": "CBM-18N",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 15, 2009",
+      "Material man-made-material": "",
+      "": "Item Weight 4.75 Pounds"
+    },
+    "parent_asin": "B0BVKBXGRG",
+    "bought_together": null
+  }
+}

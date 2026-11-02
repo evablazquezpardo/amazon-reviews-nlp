@@ -1,0 +1,54 @@
+{
+  "id": "AHTFLHCD7UJXK7UNNM2FLNB5PWEA_B0058OH7H2_1440730464000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. they are ok",
+  "asin": "B0058OH7H2",
+  "parent_asin": "B0058OH7H2",
+  "user_id": "AHTFLHCD7UJXK7UNNM2FLNB5PWEA",
+  "timestamp": 1440730464000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Miles Kimball Bedskirt Pins,White,One Size Fits All",
+    "average_rating": 3.6,
+    "rating_number": 1073,
+    "features": [
+      "Bed skirt pins",
+      "Made with metal and plastic",
+      "Pins each measure 2\" long x 1 1/4\" deep",
+      "Set of 8",
+      "Keeps bed skirts neatly in place"
+    ],
+    "description": [
+      "Bedskirt Pins from Walter Drake. Clever little dust ruffle pins keep bed skirt neatly in placeso it won't budge when you flip your mattress or change sheets Bedskirt pins anchor skirt to box spring and can also alter a longer skirt to fit a shorter box spring. Metal, plastic. Set of eight. 2\"L x 1 1/4\"D."
+    ],
+    "price": 9.99,
+    "store": "B + W",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bedding Accessories",
+      "Bed Skirt Pins"
+    ],
+    "details": {
+      "Product Dimensions": "3 x 1 x 1.5 inches",
+      "Item Weight": "1.6 ounces",
+      "Manufacturer": "BW",
+      "Item model number": "9111",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 288525,
+        "Bed Skirt Pins": 23
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Perfume": "Unscented",
+      "Number of pieces": "8",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B0058OH7H2",
+    "bought_together": null
+  }
+}

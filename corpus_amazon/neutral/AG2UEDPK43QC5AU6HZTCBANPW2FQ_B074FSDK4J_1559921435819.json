@@ -1,0 +1,49 @@
+{
+  "id": "AG2UEDPK43QC5AU6HZTCBANPW2FQ_B074FSDK4J_1559921435819",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Smaller Than Expected",
+  "text": "Smaller Than Expected. They do make diamond ice cubes but they are smaller than I expected. They’re kind of flimsy so they’re difficult to fill and get into the freezer without spilling any.",
+  "asin": "B074FSDK4J",
+  "parent_asin": "B074FSDK4J",
+  "user_id": "AG2UEDPK43QC5AU6HZTCBANPW2FQ",
+  "timestamp": 1559921435819,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ice Cube Trays with Lids, Diamond-Shaped Silicone BPA-Free (4-pack)",
+    "average_rating": 4.2,
+    "rating_number": 303,
+    "features": [],
+    "description": [
+      "a"
+    ],
+    "price": null,
+    "store": "Bella Vino",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Specialty Tools & Gadgets",
+      "Ice Cube Molds & Trays"
+    ],
+    "details": {
+      "Package Dimensions": "6.5 x 5.51 x 5.51 inches",
+      "Item Weight": "1.4 pounds",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 387010,
+        "Ice Cube Molds & Trays": 2911
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 18, 2017",
+      "Material": "Silicone",
+      "Brand": "Bella Vino",
+      "Shape": "Diamond",
+      "Is Dishwasher Safe": "Yes"
+    },
+    "parent_asin": "B074FSDK4J",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "AF4KGFYH26KERCGL7IO2KQKJM2SQ_B07PZXXLD3_1592426909432",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Pretty good!",
+  "text": "Pretty good!. Use in a fairly small bedroom, does ok but takes awhile to cool down. Not quite but I like the air conditioning noise!",
+  "asin": "B07PZXXLD3",
+  "parent_asin": "B07PZXXLD3",
+  "user_id": "AF4KGFYH26KERCGL7IO2KQKJM2SQ",
+  "timestamp": 1592426909432,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "FRIGIDAIRE White 8,000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls",
+    "average_rating": 4.4,
+    "rating_number": 521,
+    "features": [
+      "Beat the heat while remaining cool and happy on hot summer days",
+      "Control the temperature prolifically with 2344.57 W cooling power",
+      "Provides enough cooling in your room with 3 fan speeds",
+      "Dehumidification up to 2.3 pints per hour",
+      "Mechanical rotary controls with 3 cool speeds and 3 fan speeds to achieve climate control when you need it most with"
+    ],
+    "description": [
+      "On hot, humid days, Frigidaire's 6,000 BTU window-mounted air conditioner quickly cools a room up to 350 square feet. This mini-compact unit features mechanical rotary controls and top 4-way air direction control. The washable filter with front, tilt-out access captures dust from the air to keep your air conditioner working efficiently. After a power outage, Effortless Restart automatically resumes operating at its previous settings once power is restored. Plus, low power start-up conserves energy and saves you money. Year after year, Frigidaire is the brand you can trust to keep you cool and comfortable."
+    ],
+    "price": null,
+    "store": "FRIGIDAIRE",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Conditioners",
+      "Window"
+    ],
+    "details": {
+      "Product Dimensions": "15.75 x 18.6 x 12.75 inches",
+      "Item Weight": "21.8 pounds",
+      "Manufacturer": "FRIGIDAIRE",
+      "Item model number": "FFRA081ZAE",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1213225,
+        "Window Air Conditioners": 199
+      },
+      "Assembly required": "No",
+      "Warranty Description": "1 year limited / 5 years sealed system.",
+      "Batteries required": "No",
+      "Included Components": "Air conditioner, window mounting kit, manual, warranty",
+      "Capacity": "10 Liters",
+      "Floor Area": "350 Square Feet",
+      "Voltage": "115 Volts",
+      "Noise Level": "51 Sones",
+      "Brand": "Frigidaire",
+      "Cooling Power": "8000 British Thermal Units",
+      "Special Feature": "Remote control",
+      "Energy Star": "2 Star",
+      "Color": "White",
+      "Number of Speeds": "3"
+    },
+    "parent_asin": "B07PZXXLD3",
+    "bought_together": null
+  }
+}

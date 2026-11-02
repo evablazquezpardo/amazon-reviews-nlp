@@ -1,0 +1,56 @@
+{
+  "id": "AE6EPWEAGVOKWS42HYLLT2CZWTGQ_B001PO0KLO_1470737555000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Not a fan",
+  "asin": "B001PO0KLO",
+  "parent_asin": "B001PO0KLO",
+  "user_id": "AE6EPWEAGVOKWS42HYLLT2CZWTGQ",
+  "timestamp": 1470737555000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Soft Silky Satin Solid Mocha Brown 4pc Deep Pocket Sheet Set for King Bed",
+    "average_rating": 4.0,
+    "rating_number": 51,
+    "features": [
+      "1 Piece Flat Sheet 90 x 100. 1 Piece Fitted Sheet 78 x 80. 2 Piece Pillowcases 20 x 40",
+      "Deep Pocket - Up to 16 inches deep pocket that will fit a wide range of mattresses.",
+      "350 thread count King sheet set- Seamless, soft and smoothness.",
+      "Elastic Band - At each corner to secure the sheet in proper place to your mattress.",
+      "Fabric Content:100 % Polyester. Easy Care- Machine Washable."
+    ],
+    "description": [
+      "Give in to an enchanted night's sleep with this luxurious set of satin sheets for King beds in high-fashion burgundy red. This set includes a flat sheet, fitted sheet, and two King pillowcases. Smooth and silky with a lustrous sheen, these satin sheets are made of 100 percent woven polyester satin. The fitted sheets feature elastic corners for a secure fit and 14-inch pockets that can fit mattresses up to 16 inches deep. They're machine washable for easy care."
+    ],
+    "price": null,
+    "store": "Chezmoi Collection",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Size": "King",
+      "Material": "Polyester",
+      "Pattern": "Solid",
+      "Brand": "Chezmoi Collection",
+      "Number of Pieces": "4",
+      "Special Feature": "Deep Pocket",
+      "Included Components": "Pillowcase, Flat Sheet, Fitted She",
+      "Closure Type": "Elastic",
+      "Age Range (Description)": "Adult",
+      "Product Care Instructions": "Machine Wash",
+      "Theme": "Solid",
+      "Seasons": "All",
+      "Package Dimensions": "12.2 x 9.4 x 4.2 inches",
+      "Item Weight": "3.25 pounds"
+    },
+    "parent_asin": "B001PO0KLO",
+    "bought_together": null
+  }
+}

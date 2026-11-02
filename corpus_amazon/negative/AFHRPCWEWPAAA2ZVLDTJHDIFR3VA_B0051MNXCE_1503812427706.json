@@ -1,0 +1,51 @@
+{
+  "id": "AFHRPCWEWPAAA2ZVLDTJHDIFR3VA_B0051MNXCE_1503812427706",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Very pretty table top",
+  "text": "Very pretty table top. Just didn't go with my decor.  Very pretty",
+  "asin": "B0051MNXCE",
+  "parent_asin": "B0051MNXCE",
+  "user_id": "AFHRPCWEWPAAA2ZVLDTJHDIFR3VA",
+  "timestamp": 1503812427706,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Heritage Lace Windsor 15-Inch by 33-Inch Runner, Antique",
+    "average_rating": 3.4,
+    "rating_number": 23,
+    "features": [
+      "100% Polyester",
+      "Made in US",
+      "Table textile",
+      "Medium-gauge lace",
+      "Made in USA",
+      "Machine wash cold, gentle",
+      "15-Inch by 33-inch"
+    ],
+    "description": [
+      "Windsor 15-inch by 33-inch Antique Runner has traditional stylized floral pattern worked into a sheer background of different lace weaves. Inspired by antique European trim lace, it has a small check woven into the flower design."
+    ],
+    "price": null,
+    "store": "Heritage Lace",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Table Runners"
+    ],
+    "details": {
+      "Product Dimensions": "33 x 15 x 0.57 inches",
+      "Item Weight": "0.8 ounces",
+      "Manufacturer": "Heritage Lace",
+      "Item model number": "WN-1533A",
+      "Fabric Type": "100% Polyester",
+      "Batteries required": "No",
+      "Import": "Made in US"
+    },
+    "parent_asin": "B0051MNXCE",
+    "bought_together": null
+  }
+}

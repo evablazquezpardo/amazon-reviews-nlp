@@ -1,0 +1,53 @@
+{
+  "id": "AEPRQP77VF2CEG2GISP567CWNEPA_B002WUPWC2_1435270728000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "You Look Marvelous",
+  "text": "You Look Marvelous. I think the fault might be mine as I assumed it would fit my old Kitchen Aid that I've had since the beginning of time. It fits but not tightly and I have to keep a hand on it when I get it going but it's okay. When I do a heavy dough I use the stainless steel bowl that came with it. But it looks nice, I'll say that. And it's probably a fine fit for a new model.",
+  "asin": "B002WUPWC2",
+  "parent_asin": "B002WUPWC2",
+  "user_id": "AEPRQP77VF2CEG2GISP567CWNEPA",
+  "timestamp": 1435270728000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KitchenAid 5-Qt. Tilt-Head Glass Bowl with Measurement Markings & Lid",
+    "average_rating": 4.7,
+    "rating_number": 3489,
+    "features": [
+      "5 Quart Capacity Glass Bowl with handle, pouring spout, measuring lines and lid",
+      "Fits all tilt head models with the exception of Accolade",
+      "Pour spout, wide handle, and measuring lines for easy use",
+      "Tight-sealing lid is dishwasher-safe and stores in bowl",
+      "Microwave- and freezer-safe for added functionality"
+    ],
+    "description": [
+      "This KitchenAid thick-walled clear glass mixing and measuring bowl fits 4 1/2-qt. and 5-qt. tilt-head mixers. It accommodates larger size recipes and features a drip-proof spout and side handle let you pour directly from the bowl. Graduated measurements, up to 12 cups, let you see the exact total amount of ingredients, especially beneficial when mixing bread dough. Solid clear glass design enables you to check mixing progress from every angle, and this KitchenAid bowl is microwave-safe to blend sauces or toppings and heat directly in the microwave without transferring to another bowl. With the form-fitted lid, you can blend any batter or sauce ahead of time, store it in the fridge and bake or cook in a pan when you're ready. Microwave- and dishwasher-safe. Measures up to 12 cups/96-oz., 2500ml/2 1/2 liter."
+    ],
+    "price": 119.99,
+    "store": "KitchenAid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Mixing Bowls"
+    ],
+    "details": {
+      "Product Dimensions": "9.1 x 11.8 x 7.5 inches",
+      "Item Weight": "2.88 pounds",
+      "Department": "Appliances",
+      "Manufacturer": "KitchenAid",
+      "Item model number": "K5GB",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 69161,
+        "Mixing Bowls": 286
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 1, 2009"
+    },
+    "parent_asin": "B002WUPWC2",
+    "bought_together": null
+  }
+}

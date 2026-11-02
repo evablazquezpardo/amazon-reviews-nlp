@@ -1,0 +1,61 @@
+{
+  "id": "AGWDA3EUN5GY7GIBS3FDBZQ77OJA_B008N1X8IO_1397065728000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Quality",
+  "text": "Quality. I returned this item because of the poor quality.  I also reviewed it but Amaxzon rejected the review for some reason.  I thought the qualit was very poor.",
+  "asin": "B008N1X8IO",
+  "parent_asin": "B008N1X8IO",
+  "user_id": "AGWDA3EUN5GY7GIBS3FDBZQ77OJA",
+  "timestamp": 1397065728000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ITALIAN 1500 Thread Count STRIPED 4PC QUEEN Sheet Set, WHITE",
+    "average_rating": 4.1,
+    "rating_number": 191,
+    "features": [
+      "1500 Thread Count Bedding Sheet Sets, machine washable",
+      "Queen set includes flat sheet, fitted sheet, and 2 standard pillowcases",
+      "Lustrous, Long Lasting understated sheen in sateen weave; both simple and fashionable",
+      "90-by-102-inch flat sheet; 60-by-80-inch fitted sheet; 20-by-30-inch pillowcases",
+      "12\" inch Deep Pockets Fits Mattresses up to 15\" Inch"
+    ],
+    "description": [
+      "Enjoy a cool and comfortable night's sleep with exceptionally thin breathable sheets that have a silky soft feel and a lustrous finish. These sheets provide a lasting vibrancy of color no matter how often they are washed and will stay soft and wrinkle free for years to come. The sheets have deep pockets that will fit any Mattress."
+    ],
+    "price": null,
+    "store": "Italian",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Size": "Queen",
+      "Material": "Microfiber",
+      "Color": "White",
+      "Pattern": "Solid",
+      "Brand": "Italian",
+      "Number of Pieces": "4",
+      "Special Feature": "Deep Pocket, Breathable",
+      "Style": "Modern",
+      "Included Components": "Pillowcase, Flat Sheet, Fitted She",
+      "Closure Type": "Zipper",
+      "Thread Count": "1500",
+      "Age Range (Description)": "Adult",
+      "Product Care Instructions": "Machine Wash",
+      "Theme": "stripe",
+      "Seasons": "All",
+      "Package Dimensions": "11.3 x 9 x 3.5 inches",
+      "Item Weight": "3.05 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B008N1X8IO",
+    "bought_together": null
+  }
+}

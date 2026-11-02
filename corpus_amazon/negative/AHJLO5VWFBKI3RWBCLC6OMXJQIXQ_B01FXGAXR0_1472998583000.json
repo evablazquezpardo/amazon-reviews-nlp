@@ -1,0 +1,51 @@
+{
+  "id": "AHJLO5VWFBKI3RWBCLC6OMXJQIXQ_B01FXGAXR0_1472998583000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. they work once or twice then do not snap close anymore",
+  "asin": "B01FXGAXR0",
+  "parent_asin": "B01FXGAXR0",
+  "user_id": "AHJLO5VWFBKI3RWBCLC6OMXJQIXQ",
+  "timestamp": 1472998583000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Meal Prep Zone 7 Piece Multi-Colored Portion Control Containers with Guide and Snap-Lids",
+    "average_rating": 3.4,
+    "rating_number": 110,
+    "features": [
+      "COMPLETE DIET SYSTEM: The system works to ensure that all your nutritional needs are covered: (1) green (veggies - 1 c.), (1) purple (fruits - 1 c.),(1) red (proteins - 3/4 c.), (1) blue (healthy fats - 1/4 c.), (1) yellow (carbs - 1/2 c.), (2) orange (seeds & dressings - 1 oz.).",
+      "DESIGNED FOR ALL LIFESTYLES: Whether you're paleo, a crossfitter, or simply do p90x at home, our guide can accommodate all types of diets and exercises. Simply plug in your requirements, and our program will tell you how to use the system to meet your goals and get that beach body you've been looking for!",
+      "SIMPLE PORTION CONTROL PLANNING: Weighing your food is a thing of the past! Our multi-color coded containers are designed to make portion control simple and easy, while accounting for all your dietary needs.",
+      "SAFE AND DURABLE: Our patented 4SNAP technology ensures that your food will never leak. All of our containers are made of high-grade polypropylene and are reusable, leakproof, BPA & BPH free, microwave and dishwasher safe."
+    ],
+    "description": [
+      "Your health and happiness is our priority. We believe the best way to achieve that is by honoring your body with only the most nutritious of foods. At Meal Prep Zone, we strive to provide our customers with only the best possible tools to help them achieve their goals.",
+      "In this portion control set, we've provided a guide to give you insight into your dietary needs on a day to day basis."
+    ],
+    "price": null,
+    "store": "Meal Prep Zone",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Containers"
+    ],
+    "details": {
+      "Package Dimensions": "6.6 x 4.3 x 4.2 inches",
+      "Item Weight": "8.8 ounces",
+      "Manufacturer": "Meal Prep Zone",
+      "Item model number": "MPZ-PC7P",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 20, 2016",
+      "Number of Sets": "7"
+    },
+    "parent_asin": "B01FXGAXR0",
+    "bought_together": null
+  }
+}

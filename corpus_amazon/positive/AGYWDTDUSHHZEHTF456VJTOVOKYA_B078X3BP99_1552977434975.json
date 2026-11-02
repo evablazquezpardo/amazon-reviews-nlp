@@ -1,0 +1,62 @@
+{
+  "id": "AGYWDTDUSHHZEHTF456VJTOVOKYA_B078X3BP99_1552977434975",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great for facial cleaning",
+  "text": "Great for facial cleaning. Better than expected",
+  "asin": "B078X36SY3",
+  "parent_asin": "B078X3BP99",
+  "user_id": "AGYWDTDUSHHZEHTF456VJTOVOKYA",
+  "timestamp": 1552977434975,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Made Easy Kit Bath Mitts - Pack of 6 - (6\" x 9\") European Style Washcloth with Loop by MEK (Aqua, 6 x 9 inches)",
+    "average_rating": 4.5,
+    "rating_number": 1531,
+    "features": [
+      "Mitt measures 6\" x 9\" and is a soft terry cloth fabric",
+      "European style wash cloth",
+      "Sewn in loop for hanging",
+      "100% Cotton",
+      "Money Back Satisfaction Guarantee 1 year"
+    ],
+    "description": [],
+    "price": 17.99,
+    "store": "Made Easy Kit",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Washcloths"
+    ],
+    "details": {
+      "Color": "Aqua",
+      "Brand": "Made Easy Kit",
+      "Towel form type": "Washcloth",
+      "Material": "Cotton",
+      "Product Dimensions": "9\"L x 6\"W",
+      "Number of Items": "6",
+      "Pattern": "Solid",
+      "Theme": "No Theme",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "6 x 9 inches",
+      "Unit Count": "6 Count",
+      "Fabric Type": "Terry Cloth",
+      "Package Type": "Standard Packaging",
+      "Package Dimensions": "10.04 x 7.24 x 2.44 inches",
+      "Item Weight": "8.1 ounces",
+      "Manufacturer": "Made Easy Kit",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 45189,
+        "Bath Washcloths": 40
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 9, 2018"
+    },
+    "parent_asin": "B078X3BP99",
+    "bought_together": null
+  }
+}

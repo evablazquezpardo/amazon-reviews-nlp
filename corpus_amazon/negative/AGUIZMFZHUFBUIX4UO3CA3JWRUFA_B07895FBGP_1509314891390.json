@@ -1,0 +1,55 @@
+{
+  "id": "AGUIZMFZHUFBUIX4UO3CA3JWRUFA_B07895FBGP_1509314891390",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Pieces are too breakable",
+  "asin": "B01N6S3S56",
+  "parent_asin": "B07895FBGP",
+  "user_id": "AGUIZMFZHUFBUIX4UO3CA3JWRUFA",
+  "timestamp": 1509314891390,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Under Armour Protege 16 Ounce Stainless Steel Hydration Bottle, Desert Gray",
+    "average_rating": 4.6,
+    "rating_number": 35,
+    "features": [
+      "THERMOS vacuum insulation for maximum temperature retention; keeps cold for 14 hours",
+      "One-handed, push-button lid operation with hygienic cover and locking ring",
+      "Durable stainless steel interior and exterior",
+      "Flip up carry loop",
+      "16 ounce capacity"
+    ],
+    "description": [
+      "The Under Armour hydration bottle line from Thermos was built with the active athlete in mind. Athletes need to perform their best, and that starts with proper hydration. THERMOS vacuum insulation technology delivers maximum temperature retention every time so that your drink stays cold the entire time you're training or competing. The Under Armour 16-ounce vacuum insulated hydration bottle will keep cold for up to 14 hours and features durable double wall stainless steel construction. The push button lid is easy to operate with one hand and includes a locking ring to keep the lid secure during transport."
+    ],
+    "price": null,
+    "store": "Under Armour",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining"
+    ],
+    "details": {
+      "Brand": "Under Armour",
+      "Capacity": "473 Milliliters",
+      "Color": "Desert Stripe",
+      "Special Feature": "Cold 14 hour, Double Wall",
+      "Model Name": "US4507DS4",
+      "Item Weight": "8 ounces",
+      "Material": "Stainless Steel",
+      "Number of Items": "1",
+      "Included Components": "Sports water bottle",
+      "Product Care Instructions": "Hand Wash Only",
+      "Cap Type": "Flip Top Cap",
+      "Product Dimensions": "3.01 x 2.67 x 8.49 inches",
+      "Manufacturer": "Thermos",
+      "Item model number": "US4507DS4",
+      "Date First Available": "January 17, 2017"
+    },
+    "parent_asin": "B07895FBGP",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA_B07PVKZV41_1604313294383",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Smaller than expected",
+  "text": "Smaller than expected. Much smaller than pictured",
+  "asin": "B07PVKZV41",
+  "parent_asin": "B07PVKZV41",
+  "user_id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA",
+  "timestamp": 1604313294383,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "RAZ Imports Posable Christmas Elf, 16\" Tall, Red and Green Velvet Outfit with Santa Book, 2019 Reindeer Games Holiday Collection",
+    "average_rating": 4.8,
+    "rating_number": 221,
+    "features": [
+      "Features an elf wearing traditional North Pole garb and holding a Santa Claus book",
+      "Made of polyester fabric with festive green and red colors",
+      "Figurine measures approximately 16 inches tall; Can be posed so that the figure stands or sits anywhere you like",
+      "Perfect for display on a tabletop, mantel, or shelf arrangement for Christmas",
+      "Contained in protective packaging; Ready for gifting"
+    ],
+    "description": [
+      "Features an elf wearing traditional North Pole garb and holding a Santa Claus book. Made of polyester fabric with festive green and red colors. Figurine measures approximately 16 inches tall; Can be posed so that the figure stands or sits anywhere you like. Perfect for display on a tabletop, mantel, or shelf arrangement for Christmas. Contained in protective packaging; Ready for gifting."
+    ],
+    "price": 48.38,
+    "store": "RAZ Imports",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Collectible Figurines"
+    ],
+    "details": {
+      "Product Dimensions": "8 x 4 x 16 inches",
+      "Item Weight": "6.4 ounces",
+      "Manufacturer": "Raz Imports",
+      "Item model number": "3902265",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1283414,
+        "Collectible Figurines": 10785
+      },
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07PVKZV41",
+    "bought_together": null
+  }
+}

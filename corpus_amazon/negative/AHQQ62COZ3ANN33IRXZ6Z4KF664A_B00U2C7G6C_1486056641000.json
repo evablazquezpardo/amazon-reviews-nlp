@@ -1,0 +1,58 @@
+{
+  "id": "AHQQ62COZ3ANN33IRXZ6Z4KF664A_B00U2C7G6C_1486056641000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not well made",
+  "text": "Not well made. It broke the first time I tried to use it. The soldering at the connection point at the bottom snapped immediately after I removed the packaging.",
+  "asin": "B00U2C7G6C",
+  "parent_asin": "B00U2C7G6C",
+  "user_id": "AHQQ62COZ3ANN33IRXZ6Z4KF664A",
+  "timestamp": 1486056641000,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Love Cooking Stainless Steel Slice N Easy Cake Cutter, Red",
+    "average_rating": 4.1,
+    "rating_number": 160,
+    "features": [
+      "Easy to hold and grip handle",
+      "Cuts a perfect slice of cake every time",
+      "Makes serving cake a breeze",
+      "Just slice and squeeze",
+      "Excellent addition to every kitchen"
+    ],
+    "description": [
+      "Cut perfectly plate able cake slices with the Mrs. Fields Slice N Easy Cake Cutter - Metal. Just place the cake cutter over the cake and push down. Then squeeze the soft touch handle grips and lift up to remove the slice. Finally, place the cutter with the cake inside on a plate and release the handle and you've just served a beautiful slice."
+    ],
+    "price": null,
+    "store": "Love Cooking Company",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Kitchen Knives & Accessories"
+    ],
+    "details": {
+      "Blade Material": "Stainless Steel",
+      "Brand": "Love Cooking Company",
+      "Color": "Red",
+      "Handle Material": "Stainless Steel, Metal",
+      "Blade Edge": "Plain",
+      "Item Weight": "1.6 ounces",
+      "Number of Pieces": "1",
+      "Product Dimensions": "12 x 7 x 4 inches",
+      "Manufacturer": "Love Cooking",
+      "Item model number": "436",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 468732,
+        "Kitchen Knives & Accessories": 10641
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 19, 2015"
+    },
+    "parent_asin": "B00U2C7G6C",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "AH3YRKP6KFFAEENTFXSQQ6QBIKXQ_B01MFB7C70_1670337906041",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Junk",
+  "text": "Junk. Piece of junk not worth the money sent back NEVER got credit",
+  "asin": "B01MFB7C70",
+  "parent_asin": "B01MFB7C70",
+  "user_id": "AH3YRKP6KFFAEENTFXSQQ6QBIKXQ",
+  "timestamp": 1670337906041,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ProductWorks 18-Inch Peanuts Charlie Brown Christmas Tree with Linus Blanket",
+    "average_rating": 4.7,
+    "rating_number": 767,
+    "features": [],
+    "description": [
+      "The original Charlie Brown Christmas tree"
+    ],
+    "price": 22.0,
+    "store": "Peanuts",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Trees"
+    ],
+    "details": {
+      "Brand": "Peanuts",
+      "Product Dimensions": "4\"D x 12\"W x 4\"H",
+      "Color": "Blue,red",
+      "Item Package Quantity": "1",
+      "Recommended Uses For Product": "Christmas Tree",
+      "Occasion": "Christmas",
+      "Special Feature": "Unlit",
+      "Seasons": "Winter",
+      "Base Type": "Stand",
+      "Built-in Light": "No",
+      "Light Color": "Red, Blue",
+      "Item Weight": "9.1 ounces",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 462566,
+        "Christmas Trees": 608
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 22, 2016"
+    },
+    "parent_asin": "B01MFB7C70",
+    "bought_together": null
+  }
+}

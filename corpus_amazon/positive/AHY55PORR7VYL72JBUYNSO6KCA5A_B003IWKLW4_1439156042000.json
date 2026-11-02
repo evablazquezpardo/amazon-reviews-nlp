@@ -1,0 +1,68 @@
+{
+  "id": "AHY55PORR7VYL72JBUYNSO6KCA5A_B003IWKLW4_1439156042000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Very cute!",
+  "asin": "B003IWKLW4",
+  "parent_asin": "B003IWKLW4",
+  "user_id": "AHY55PORR7VYL72JBUYNSO6KCA5A",
+  "timestamp": 1439156042000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "SANRIO KD1 Resin Mug, 1 Count (Pack of 1), hello kitty",
+    "average_rating": 4.0,
+    "rating_number": 2369,
+    "features": [
+      "Large face let kids be pleased",
+      "Volume: 8.1 oz. (24 ml)",
+      "Material: Plastic (abs)"
+    ],
+    "description": [
+      "Size: 3.5x4.4x3.7 inches (89×112×93mm) / volume: 8.1 oz. (240 ml) / material: Plastic (abs). Officially licensed cup made in China."
+    ],
+    "price": 11.49,
+    "store": "SANRIO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cups, Mugs, & Saucers",
+      "Coffee Cups & Mugs"
+    ],
+    "details": {
+      "Brand": "SANRIO",
+      "Material": "Resin",
+      "Color": "Red",
+      "Capacity": "240 Milliliters",
+      "Special Feature": "Tableware",
+      "Style": "Character",
+      "Theme": "Cartoon",
+      "Occasion": "Everyday use",
+      "Included Components": "Name Sticker",
+      "Shape": "Round",
+      "Pattern": "Cartoon",
+      "Product Care Instructions": "Hand Wash Only",
+      "Age Range (Description)": "Kid",
+      "Unit Count": "1.0 Count",
+      "Item Weight": "3.88 ounces",
+      "Product Dimensions": "3.11\"W x 2.99\"H",
+      "Number of Items": "1",
+      "Package Type": "Standard Packaging",
+      "Manufacturer": "Sanrio",
+      "Item model number": "3393",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 28010,
+        "Mugs": 75
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 23, 2010"
+    },
+    "parent_asin": "B003IWKLW4",
+    "bought_together": null
+  }
+}

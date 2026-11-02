@@ -1,0 +1,72 @@
+{
+  "id": "AFYBNKQHMQTDAJ73HFVFK7TWJXZA_B083KJK8VQ_1608548613315",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Color is not as pictured",
+  "text": "Color is not as pictured. The color was much darker blue than appeared in picture.",
+  "asin": "B083JNM42F",
+  "parent_asin": "B083KJK8VQ",
+  "user_id": "AFYBNKQHMQTDAJ73HFVFK7TWJXZA",
+  "timestamp": 1608548613315,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Dual Performance Washcloths - 12-Pack, Cotton, Silver Sheen",
+    "average_rating": 4.7,
+    "rating_number": 3395,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "Dual-performance towel with zero twist construction for enhanced softness and absorbency, and a 2-ply construction for durability",
+      "Pleated edge and solid color design adds a classic look to your bathroom; lightweight and absorbent",
+      "Set includes 12 washcloths of 12 x 12 inches, 580 GSM",
+      "Machine wash and dry; avoid contact with products containing benzoyl peroxide",
+      "Made in OEKO-TEX STeP certified factory, an independent certification system that ensures textiles meet high safety and environmental standards"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Dual Performance Washcloths - 12-Pack, Silver Sheen",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 18.02,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Washcloths"
+    ],
+    "details": {
+      "Color": "Silver Sheen",
+      "Brand": "Amazon Basics",
+      "Towel form type": "Washcloth",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Product Dimensions": "12 x 12 x 0.04 inches",
+      "Number of Items": "12",
+      "Style": "Washcloth (Pack of 12)",
+      "Pattern": "Solid",
+      "Theme": "No Theme",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "12\" x 12\"",
+      "Unit Count": "12.0 Count",
+      "Fabric Type": "100% Cotton",
+      "Item Weight": "1.43 pounds",
+      "Manufacturer": "Amazon Basics",
+      "Country of Origin": "India",
+      "Item model number": "ABDPWC12PKUSSS",
+      "Best Sellers Rank": {
+        "Our Brands": 3220,
+        "Bath Washcloths": 55
+      },
+      "Number of pieces": "12",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B083KJK8VQ",
+    "bought_together": null
+  }
+}

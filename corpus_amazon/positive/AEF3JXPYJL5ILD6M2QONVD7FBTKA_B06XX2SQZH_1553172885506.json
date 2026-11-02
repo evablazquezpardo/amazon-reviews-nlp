@@ -1,0 +1,64 @@
+{
+  "id": "AEF3JXPYJL5ILD6M2QONVD7FBTKA_B06XX2SQZH_1553172885506",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Perfect!",
+  "text": "Perfect!. The frame is pretty and compliments the picture I put in it.",
+  "asin": "B06XX2NDCG",
+  "parent_asin": "B06XX2SQZH",
+  "user_id": "AEF3JXPYJL5ILD6M2QONVD7FBTKA",
+  "timestamp": 1553172885506,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "EcoHome 8x10 Picture Frame Ornate Antique Gold - Mount Desktop Display, Frames",
+    "average_rating": 4.7,
+    "rating_number": 1792,
+    "features": [
+      "Picture Frame ready to Mount on the wall or Easel back to display on desktop.",
+      "Sturdy picture frame to decorate a wall, Vertically and Horizontally.",
+      "Made of recycled PS and glass. No trees were cut producing our frames.",
+      "All Ecohome Frames are carefully packaged in a tray box and bubble wrap.",
+      "Picture size opening 8x10. Total frame size with molding 10x12 (Free mat 8x10 to 5x7 included!)"
+    ],
+    "description": [],
+    "price": 16.29,
+    "store": "EcoHome",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Photo Albums, Frames & Accessories",
+      "Picture Frames",
+      "Wall & Tabletop Frames"
+    ],
+    "details": {
+      "Brand": "EcoHome",
+      "Color": "Antique Gold",
+      "Product Dimensions": "10\"L x 0.75\"W",
+      "Shape": "Rectangular",
+      "Mounting Type": "Wall Mount, Tabletop",
+      "Frame Type": "Poster Frame",
+      "Frame Material": "Glass",
+      "Finish Type": "Gold",
+      "Style": "Art Deco",
+      "Theme": "Trees",
+      "Target Audience": "Adults",
+      "Cover Material": "Glass",
+      "Item Weight": "1.41 pounds",
+      "Manufacturer": "EcoHome",
+      "Item model number": "EH3447-A-V31118x10",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 183232,
+        "Wall & Tabletop Picture Frames": 1772
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Finish types": "Gold",
+      "Warranty Description": "If you experience a manufacturing defect, Ecohome warrants your frames for the lifetime of the product, and we will replace the product at no charge.",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B06XX2SQZH",
+    "bought_together": null
+  }
+}

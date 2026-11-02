@@ -1,0 +1,38 @@
+{
+  "id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q_B076X3Z15J_1544795498133",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Perfect",
+  "text": "Perfect. These are fantastic! Love them",
+  "asin": "B076X3Z15J",
+  "parent_asin": "B076X3Z15J",
+  "user_id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q",
+  "timestamp": 1544795498133,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Park Designs Stocking Hanger with Snowflake 8\"- Black - Set of 4",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Park Designs",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "5 x 2.13 x 8 inches",
+      "Item Weight": "1.2 pounds",
+      "Manufacturer": "Park Designs",
+      "Number of pieces": "4",
+      "Batteries required": "No",
+      "Brand": "Park Designs",
+      "Item Dimensions LxWxH": "5 x 2.13 x 8 inches",
+      "Mounting Type": "Desk Mount",
+      "Number of Pieces": "4"
+    },
+    "parent_asin": "B076X3Z15J",
+    "bought_together": null
+  }
+}

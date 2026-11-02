@@ -1,0 +1,66 @@
+{
+  "id": "AF5HODO2N7XJR4PFLI7JPPHWKMMA_B01LXI4T42_1585711102661",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not well made",
+  "text": "Not well made. It’s a little cheap. The bar broke as I was trying to install it.",
+  "asin": "B000HM5UF6",
+  "parent_asin": "B01LXI4T42",
+  "user_id": "AF5HODO2N7XJR4PFLI7JPPHWKMMA",
+  "timestamp": 1585711102661,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "Closet Pro HD RP0022-18/30 Adjustable Closet Rod, 18-Inch to 30-Inch, Platinum",
+    "average_rating": 4.2,
+    "rating_number": 1763,
+    "features": [
+      "Nullify",
+      "Adjusts from 18 in. to 30 in. to fit your unique closet design",
+      "1-inch diameter rod",
+      "Platinum finish",
+      "Can be mounted with or without a cleat",
+      "Includes one closet rod and hardware"
+    ],
+    "description": [
+      "The Closet Pro HD 18 in. - 30 in. Adjustable Closet Rod with fixed flange creates hanging space in a uniquely sized closet. The expandable length allows for an easy installation with or without cleats. The rod is made out of 22 gauge steel with a 1-inch diameter. Features a platinum finish. Hardware included."
+    ],
+    "price": 15.26,
+    "store": "Knape & Vogt",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Mounted Closet Systems"
+    ],
+    "details": {
+      "Brand": "Knape & Vogt",
+      "Color": "Platinum",
+      "Product Dimensions": "19\"L x 10.5\"W",
+      "Material": "100% Polyester",
+      "Mounting Type": "Wall Mounted",
+      "Item Weight": "0.75 Pounds",
+      "Maximum Weight Recommendation": "25 Pounds",
+      "Manufacturer": "John Sterling",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More",
+      "Country of Origin": "USA",
+      "Item model number": "RP0022-18/30",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 51134,
+        "Closet Mounted Storage & Organization Systems": 139
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Diameter": "1 Inches",
+      "Fabric Type": "Nullify",
+      "Finish types": "Platinum",
+      "Assembly required": "Yes",
+      "Batteries required": "No",
+      "Included Components": "Closet rods"
+    },
+    "parent_asin": "B01LXI4T42",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "AG3HCHPHBOB4UWLVUGNEV7XQXHHA_B00N5JBXFY_1450923712000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Kind of thin.",
+  "asin": "B00N5JBXFY",
+  "parent_asin": "B00N5JBXFY",
+  "user_id": "AG3HCHPHBOB4UWLVUGNEV7XQXHHA",
+  "timestamp": 1450923712000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Christmas Decor - Christmas House Artificial Pine Garlands, 15 ft. (SET OF 2)",
+    "average_rating": 3.4,
+    "rating_number": 203,
+    "features": [
+      "Thin Garland"
+    ],
+    "description": [
+      "Perfect for bringing in the Christmas cheer!"
+    ],
+    "price": 7.5,
+    "store": "Christmas House",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Wreaths, Garlands & Swags",
+      "Garlands"
+    ],
+    "details": {
+      "Product Dimensions": "10.3 x 9.1 x 3.1 inches",
+      "Item Weight": "9.1 ounces",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1495635,
+        "Christmas Garlands": 2248
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Brand": "Holiday Bundle Finds",
+      "Material": "Synthetic",
+      "Item Dimensions LxWxH": "10.3 x 9.1 x 3.1 inches",
+      "Item Length": "180 Inches"
+    },
+    "parent_asin": "B00N5JBXFY",
+    "bought_together": null
+  }
+}

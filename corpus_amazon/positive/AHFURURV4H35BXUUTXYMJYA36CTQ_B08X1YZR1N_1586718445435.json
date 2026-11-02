@@ -1,0 +1,52 @@
+{
+  "id": "AHFURURV4H35BXUUTXYMJYA36CTQ_B08X1YZR1N_1586718445435",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Carpet cleaner",
+  "text": "Carpet cleaner. Fits perfectly in my home and worked great.",
+  "asin": "B074L775XC",
+  "parent_asin": "B08X1YZR1N",
+  "user_id": "AHFURURV4H35BXUUTXYMJYA36CTQ",
+  "timestamp": 1586718445435,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bissell TurboClean + Pet Formula",
+    "average_rating": 4.4,
+    "rating_number": 34472,
+    "features": [
+      "Buy BISSELL, save pets; BISSELL will donate 10 dollars for each power brush pet purchase, upon activation",
+      "Bissell lightest upright carpet cleaner, at 12 pounds , is easy to maneuver and carry. Tank Capacity 1/2 Gallon. Cleaning Path Width 9.5 Inch",
+      "Great for removing tracked in dirt and stains from Area rugs and entryways. 2 Tank System keeps clean and dirty water separate",
+      "Deep Cleaning action removes tough odors, tracked in dirt, dander and other soils",
+      "Concentrated formula with Scotchgard protector. Dual action that deep cleans and protects in one easy step making cleaning easier",
+      "Sustainable design- earth friendly formula contains no heavy metals, phosphates or dyes. Biodegradable detergents"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Bissell",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Carpet & Upholstery Cleaners & Accessories",
+      "Carpet Cleaning Machines"
+    ],
+    "details": {
+      "Item Weight": "12 Pounds",
+      "Manufacturer": "Bissell",
+      "Best Sellers Rank": {
+        "Industrial & Scientific": 23851,
+        "Commercial Carpet Steamers": 10,
+        "Carpet & Upholstery Cleaning Machines": 41
+      },
+      "Form Factor": "Upright",
+      "Included Components": "Brush",
+      "Brand": "Bissell",
+      "Style": "TurboClean + Pet"
+    },
+    "parent_asin": "B08X1YZR1N",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "AHGIDHSD4Y2TIN34IYRF3BANH7JQ_B003PE9NT2_1427823105000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Exactly what I needed it to be",
+  "text": "Exactly what I needed it to be. Exactly what i needed it to be.",
+  "asin": "B003PE9NT2",
+  "parent_asin": "B003PE9NT2",
+  "user_id": "AHGIDHSD4Y2TIN34IYRF3BANH7JQ",
+  "timestamp": 1427823105000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ikea DEKAD Alarm Clock, Black 204.040.00",
+    "average_rating": 3.7,
+    "rating_number": 76,
+    "features": [
+      "NOT Wind-Up , REQUIRES 2 \"AA\" Batteries (not included)",
+      "CLOCK FRAME: STEEL painted BLACK",
+      "FRONT PROTECTION: GLASS",
+      "WHITE FACE",
+      "HEIGHT 5.5\" x WIDTH 4\" x DEPTH 2.25\""
+    ],
+    "description": [
+      "Twin Bell / Double Bell Alarm Clock ~ Old Fashion Style ~ Black Steel Alarm Clock with Glass Front & 4\" Face NOT Wind-Up REQUIRES 2 \"AA\" Batteries (not included) ~ Designed in Sweden!"
+    ],
+    "price": 15.98,
+    "store": "IKEA",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Clocks",
+      "Alarm Clocks"
+    ],
+    "details": {
+      "Brand": "Ikea",
+      "Color": "Black",
+      "Display Type": "Analog",
+      "Style": "Modern",
+      "Special Feature": "Alarm",
+      "Product Dimensions": "4\"W x 5.5\"H",
+      "Power Source": "Manual Wind Up, Battery Powered",
+      "Age Range (Description)": "Adult",
+      "Shape": "Round",
+      "Material": "Steel",
+      "Theme": "Plain",
+      "Frame Material": "Alloy Steel",
+      "Are Batteries Included": "No",
+      "Mounting Type": "Tabletop",
+      "Item Weight": "8.8 ounces",
+      "Number of Batteries": "2 AA batteries required.",
+      "Alarm Clock": "Yes",
+      "Number of Items": "1",
+      "Operation Mode": "Electrical",
+      "Manufacturer": "SuperCoolStuff",
+      "Item model number": "204.040.00",
+      "Batteries": "2 AA batteries required.",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 663423,
+        "Alarm Clocks": 1457
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B003PE9NT2",
+    "bought_together": null
+  }
+}

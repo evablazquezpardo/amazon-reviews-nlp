@@ -1,0 +1,56 @@
+{
+  "id": "AETZNPZ4U4SINMTHBC5YDZR33MYQ_B004NYB4ZO_1410643948000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not very good",
+  "text": "Not very good. Not very good at all. I have tried 5 times to make it look like its so post to and it never come out right .",
+  "asin": "B004NYB4ZO",
+  "parent_asin": "B004NYB4ZO",
+  "user_id": "AETZNPZ4U4SINMTHBC5YDZR33MYQ",
+  "timestamp": 1410643948000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Joie Toast Top Egg Shaper",
+    "average_rating": 3.5,
+    "rating_number": 245,
+    "features": [
+      "Fun and functional egg form",
+      "Made of silicone; heat resistant up to 536-Degree Fahrenheit",
+      "Creates toast-shaped eggs - perfect for egg sandwiches",
+      "Making the kitchen fun for all ages"
+    ],
+    "description": [
+      "The super fun toast top egg shaper makes toast-shaped eggs, perfect for egg sandwiches. Made of heat-resistant silicone, shaper is safe to use in temperatures up to 536-Degree Fahrenheit. By joie - fun for all ages."
+    ],
+    "price": null,
+    "store": "MSC International",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Specialty Cookware",
+      "Egg Poachers"
+    ],
+    "details": {
+      "Product Dimensions": "3 x 3.75 x 0.75 inches",
+      "Item Weight": "0.5 Kilograms",
+      "Manufacturer": "MSC International",
+      "Item model number": "50681",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 583254,
+        "Egg Poachers": 825
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 16, 2011",
+      "Material": "Silicone",
+      "Color": "Orange",
+      "Brand": "MSC International",
+      "Item Dimensions LxWxH": "3 x 3.75 x 0.75 inches"
+    },
+    "parent_asin": "B004NYB4ZO",
+    "bought_together": null
+  }
+}

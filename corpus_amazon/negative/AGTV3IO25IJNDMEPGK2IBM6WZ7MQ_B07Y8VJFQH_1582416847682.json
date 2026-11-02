@@ -1,0 +1,49 @@
+{
+  "id": "AGTV3IO25IJNDMEPGK2IBM6WZ7MQ_B07Y8VJFQH_1582416847682",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "My mistake.",
+  "text": "My mistake.. Wrong item ordered.",
+  "asin": "B00U2XM6MK",
+  "parent_asin": "B07Y8VJFQH",
+  "user_id": "AGTV3IO25IJNDMEPGK2IBM6WZ7MQ",
+  "timestamp": 1582416847682,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Color Powder 70 Gram Individual Packets by Chameleon Colors, 10 Pack Plus Bonus White, Perfect for 3-5 People, Red, Yellow, Blue, Orange, Purple, Pink, Navy, Magenta, Aquamarine, and Green Powder",
+    "average_rating": 4.5,
+    "rating_number": 997,
+    "features": [
+      "PERFECT HOLI COLOR POWDER KIT FOR 3-5 PEOPLE. These 70 gram holi powder packets come in 11 brilliant colors that make your photo shoot, party, festival, race, or fundraiser epic!",
+      "NON TOXIC COLOR POWDER IS EASY TO CLEAN. For best results, dust off loose color powder from hair, skin, and clothes while dry. Easily blows off hard surfaces, and when used on grass, it practically disappears.",
+      "PACKETS ARE EASY TO CARRY, OPEN, AND SHARE. Each bag gives 2-3 handfuls. If you’re a newbie to the color powder scene, these are a perfect way to test the waters, ahem excuse us, colors.",
+      "OUR AUTHENTIC COLOR POWDER PRODUCTS have been enjoyed by millions all around the world. We offer the highest quality product possible. All our ingredients are FD&C and D&C approved.",
+      "SATISFACTION GUARANTEE: Manufacturer guarantee, valid for 30 days, in case you are not 100% satisfied."
+    ],
+    "description": [],
+    "price": 21.99,
+    "store": "Chameleon Colors",
+    "categories": [
+      "Home & Kitchen",
+      "Event & Party Supplies",
+      "Party Games & Activities"
+    ],
+    "details": {
+      "Product Dimensions": "10.9 x 5.5 x 3.9 inches",
+      "Item Weight": "2 pounds",
+      "Manufacturer": "Chameleon Colors",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 23, 2014",
+      "Color": "Multicolor",
+      "Brand": "Chameleon Colors",
+      "Item Form": "Powder",
+      "Number of Items": "10",
+      "Unit Count": "24.64 Ounce"
+    },
+    "parent_asin": "B07Y8VJFQH",
+    "bought_together": null
+  }
+}

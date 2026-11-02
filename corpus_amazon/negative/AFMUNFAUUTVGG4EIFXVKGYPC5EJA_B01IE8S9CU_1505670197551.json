@@ -1,0 +1,65 @@
+{
+  "id": "AFMUNFAUUTVGG4EIFXVKGYPC5EJA_B01IE8S9CU_1505670197551",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "don't like it.",
+  "text": "don't like it.. table very flimsy. don't like it...",
+  "asin": "B01IE8S9CU",
+  "parent_asin": "B01IE8S9CU",
+  "user_id": "AFMUNFAUUTVGG4EIFXVKGYPC5EJA",
+  "timestamp": 1505670197551,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Fox Valley Traders White Adjustable Tray Table EasyComforts, One Size Fits",
+    "average_rating": 3.6,
+    "rating_number": 552,
+    "features": [
+      "Adjustable tray table/bed tray table",
+      "Tray is made from plastic",
+      "steel frame",
+      "Six heights available",
+      "Three angles",
+      "Furniture finish: alloy steel"
+    ],
+    "description": [],
+    "price": 29.99,
+    "store": "Fox Valley Traders",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "End Tables"
+    ],
+    "details": {
+      "Product Dimensions": "15.25\"D x 20.25\"W x 26\"H",
+      "Color": "White",
+      "Shape": "Rectangular",
+      "Brand": "Fox Valley Traders",
+      "Table design": "Tray Table",
+      "Special Feature": "Storage",
+      "Style": "Modern",
+      "Top Material Type": "Plastic,Steel",
+      "Base Type": "Sled",
+      "Pattern": "Solid",
+      "Frame Material": "Plastic, Metal",
+      "Model Name": "Adjustable Tray Table - White by EasyComforts",
+      "Assembly Required": "No",
+      "Item Weight": "5 pounds",
+      "Furniture Finish": "Alloy Steel",
+      "Country of Origin": "China",
+      "Item model number": "NP3218",
+      "Is Discontinued By Manufacturer": "No",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 406593,
+        "End Tables": 1580
+      },
+      "Date First Available": "February 19, 2014"
+    },
+    "parent_asin": "B01IE8S9CU",
+    "bought_together": null
+  }
+}

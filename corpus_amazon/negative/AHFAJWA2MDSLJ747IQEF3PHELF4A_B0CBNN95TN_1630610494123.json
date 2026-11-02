@@ -1,0 +1,60 @@
+{
+  "id": "AHFAJWA2MDSLJ747IQEF3PHELF4A_B0CBNN95TN_1630610494123",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not great",
+  "text": "Not great. The frame is OK, but I was planning on using it horizontally, not vertically. Every single picture frame I've ever purchased has the option of which direction you want the picture to go without having to get additional hardware.",
+  "asin": "B07PQ8NV8W",
+  "parent_asin": "B0CBNN95TN",
+  "user_id": "AHFAJWA2MDSLJ747IQEF3PHELF4A",
+  "timestamp": 1630610494123,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Frame It Easy 8\" x 20\" White Wood Frame (Derby)",
+    "average_rating": 4.5,
+    "rating_number": 61,
+    "features": [
+      "This 8\" x 20\" Wood style frame is made from a North American hardwood with a decorative wood pattern wrap. Made in the U.S.A.",
+      "Comes with Clear Framing Grade Acrylic that offers beautiful clarity at half the weight of glass and many times the impact resistance. Additionally, it blocks some ultraviolet light. It is the ideal glazing material for museums, galleries, and homes.",
+      "Includes our premium Acid-Free Foamcore Backing, recommended for important artwork or work which will be framed for many years. It is buffered with an alkaline solution, which helps to combat the acids found in most printed art and slows down the rate at which the artwork damages itself.",
+      "Fits art, posters, and/or photo prints measuring exactly 8\" x 20\". This frame includes hanging hardware, wire and nail."
+    ],
+    "description": [],
+    "price": 49.7,
+    "store": "Frame It Easy",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Photo Albums, Frames & Accessories",
+      "Picture Frames",
+      "Wall & Tabletop Frames"
+    ],
+    "details": {
+      "Brand": "Frame It Easy",
+      "Color": "White",
+      "Product Dimensions": "20\"L x 8\"W",
+      "Shape": "Rectangular",
+      "Mounting Type": "Wall Mount",
+      "Frame Type": "Poster Frame",
+      "Frame Material": "Wood",
+      "Finish Type": "Wood_grain",
+      "Theme": "Wood",
+      "Occasion": "Grandparents Day, New Year, Retirement",
+      "Number of Items": "1",
+      "Target Audience": "Unisex Adult",
+      "Cover Material": "Acrylic",
+      "Manufacturer": "Frame It Easy",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 438414,
+        "Wall & Tabletop Picture Frames": 3622
+      },
+      "Finish types": "Wood_grain",
+      "Import": "Made in USA"
+    },
+    "parent_asin": "B0CBNN95TN",
+    "bought_together": null
+  }
+}

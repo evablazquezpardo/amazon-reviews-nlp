@@ -1,0 +1,60 @@
+{
+  "id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q_B07JC8TP9T_1648530197871",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Wow",
+  "text": "Wow. Love this… finally received it after delivered to wrong address but now that I have it VERY happy!",
+  "asin": "B07JC8TP9T",
+  "parent_asin": "B07JC8TP9T",
+  "user_id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q",
+  "timestamp": 1648530197871,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Arts, Crafts & Sewing",
+    "title": "Bieye W10028 Victorian Tiffany Style Stained Glass Window Panel with Chain, Rectangular Shape, 18\"W x 25\"H",
+    "average_rating": 4.8,
+    "rating_number": 42,
+    "features": [
+      "SIZE: 18 inches wide, 25-inches high, net weight: 6.05 lbs.",
+      "HANDMADE: This window panel was handmade of 326 hand-cutted glass sheets + 15 glass jewels. Every panel was prepared by using the copper foil method",
+      "HIGH QUALITY CHAIN: 33 inches long black hanging chain, uses electroscopic paint for flawless rust prevention.",
+      "TIMELESS COLOR: The color of Stained Glass is colorful when the sunshine passes through in the daytime, and the color of stained glass will never fade.",
+      "SAFE PACKING: Ensure safe delivery, we are not only using the foam but also using honeycomb board inside the package."
+    ],
+    "description": [],
+    "price": 195.99,
+    "store": "BIEYE",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Window Treatments",
+      "Stained Glass Panels"
+    ],
+    "details": {
+      "Brand": "Bieye",
+      "Color": "Green",
+      "Material": "Glass",
+      "Style": "Tiffany",
+      "Room Type": "Living Room",
+      "Specific Uses For Product": "Home",
+      "Indoor/Outdoor Usage": "Indoor",
+      "Power Source": "Corded Electric",
+      "Shade Material": "Glass",
+      "Shape": "Rectangular",
+      "Product Dimensions": "18 x 0.3 x 25 inches",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 821845,
+        "Stained Glass Panels": 178
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Item Weight": "3.99 pounds",
+      "Manufacturer": "Weaseller Inc.",
+      "Country of Origin": "China",
+      "Date First Available": "October 13, 2018"
+    },
+    "parent_asin": "B07JC8TP9T",
+    "bought_together": null
+  }
+}

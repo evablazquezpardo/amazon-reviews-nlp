@@ -1,0 +1,60 @@
+{
+  "id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ_B001HBI7CY_1406488241000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Disappointing!",
+  "text": "Disappointing!. Clumsy, and non-sealing!",
+  "asin": "B001HBI7CY",
+  "parent_asin": "B001HBI7CY",
+  "user_id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ",
+  "timestamp": 1406488241000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rubbermaid Easy Find Lids Food Storage-Containers, Racer Red, 18-Piece Set",
+    "average_rating": 4.3,
+    "rating_number": 638,
+    "features": [
+      "Lids snap together and to container bases so you can always find the right lid",
+      "Graduated sized containers nest for compact storage",
+      "One lid fits multiple bases; Thick, durable container walls for everyday use",
+      "Microwave, freezer and dishwasher-safe, BPA-free, Made in the USA",
+      "Set includes (3) 0.5 Cup, (2) 1.25 Cup, (1) 2 Cup, (2) 3 Cup, and (1) 5 Cup; Lids included"
+    ],
+    "description": [
+      "Find the right lid, right now! This 18-Piece Food Storage Container Set features the Rubbermaid Easy Find Lid system: the lids snap on to the container bases as well as other same-size lids, so that the right lid is always at your fingertips. These graduated-size containers nest together to give you more space in the fridge or cupboard."
+    ],
+    "price": 31.12,
+    "store": "Rubbermaid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "8.25 x 8.25 x 7.75 inches",
+      "Item Weight": "0.01 Ounces",
+      "Manufacturer": "Rubbermaid",
+      "Item model number": "1783145",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 101124,
+        "Food Container Sets": 3078
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 3, 2008",
+      "Capacity": "1.2 Liters",
+      "Volume": "1.2 Liters",
+      "Number of Sets": "18",
+      "Brand": "Rubbermaid",
+      "Color": "As Picture Show",
+      "Material": "Plastic"
+    },
+    "parent_asin": "B001HBI7CY",
+    "bought_together": null
+  }
+}

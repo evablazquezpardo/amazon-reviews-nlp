@@ -1,0 +1,43 @@
+{
+  "id": "AGYTEAXMUXEFHXUSVVTKONKBFTVQ_B00D6Q1CKC_1443041792000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Worked great as a replacement.",
+  "asin": "B00D6Q1CKC",
+  "parent_asin": "B00D6Q1CKC",
+  "user_id": "AGYTEAXMUXEFHXUSVVTKONKBFTVQ",
+  "timestamp": 1443041792000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Wine Opener Replacement Worm",
+    "average_rating": 3.6,
+    "rating_number": 6,
+    "features": [],
+    "description": [
+      "Fits all BonJour Chateau Wine Openers. Dupont nonstick worm that works on all corks including synthetic, composition and natural cork. The worm was designed to open bottles of wine effortlessly in just seconds."
+    ],
+    "price": null,
+    "store": "BonJour",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Bar Tools & Drinkware"
+    ],
+    "details": {
+      "Package Dimensions": "5.8 x 3.7 x 0.6 inches",
+      "Item Weight": "0.798 ounces",
+      "Manufacturer": "BonJour",
+      "Date First Available": "October 14, 2013",
+      "Material": "Carbon Steel",
+      "Color": "Bronze",
+      "Brand": "BonJour"
+    },
+    "parent_asin": "B00D6Q1CKC",
+    "bought_together": null
+  }
+}

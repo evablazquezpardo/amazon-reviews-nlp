@@ -1,0 +1,68 @@
+{
+  "id": "AHQNEJWPJFZ6KDRSEVCFZOCOEMXA_B09WFZV3TN_1671912999670",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Works fair.",
+  "text": "Works fair.. Works but doesn't pick up much.",
+  "asin": "B09WFZV3TN",
+  "parent_asin": "B09WFZV3TN",
+  "user_id": "AHQNEJWPJFZ6KDRSEVCFZOCOEMXA",
+  "timestamp": 1671912999670,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BISSELL® Featherweight™ PowerBrush Vacuum, 2773A Gray",
+    "average_rating": 4.2,
+    "rating_number": 1242,
+    "features": [
+      "Every Purchase Saves Pets. BISSELL proudly supports BISSELL Pet Foundation and its mission to help save homeless pets..600.0 watts",
+      "Powerful Motorized Brush Roll. Brush roll and powerful suction work great for quick and easy cleaning on multiple surfaces, including carpet, bare floors, stairs and upholstery.",
+      "3-in-1 Versatility. Use as a traditional stick vacuum, remove the foot for a high reach vacuum or use the Quick Release Handle to easily convert into a hand vacuum.",
+      "Lightweight & Easy to Carry. Weighing less than 4 lbs, its lightweight design makes it easy to pick up and carry around your home.",
+      "Tools Included. Crevice tool included for vacuuming hard-to-reach spaces and messes."
+    ],
+    "description": [
+      "BISSELL® Featherweight™ PowerBrush is a 3-in-1 ultra-lightweight corded stick vacuum that’s great for quick and effective multi-surface cleaning. With its powerful motorized brush roll, Featherweight™ PowerBrush can be used as a lightweight stick vacuum for speedy cleaning across multiple surfaces, including carpet, area rugs and hard floors. Use the Quick Release Handle to easily convert the machine into a hand vacuum for cleaning above floor surfaces with the crevice tool, or keep the foot on the hand vacuum for cleaning stairs. This ultra-lightweight machine weighs less than 4 lbs, making it is easy to use and light enough to carry around your home. Plus, it easily stores when you’re done cleaning. BISSELL proudly supports BISSELL Pet Foundation® and its mission to help save homeless pets. When you buy a BISSELL product, you help save pets, too. We’re proud to design products that help make pet messes, odors and pet homelessness disappear."
+    ],
+    "price": 49.99,
+    "store": "Bissell",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuums",
+      "Upright Vacuums"
+    ],
+    "details": {
+      "Brand": "Bissell",
+      "Special Feature": "Lightweight",
+      "Filter Type": "Disk",
+      "Surface Recommendation": "Hard Floor, Upholstery, Carpet, Bare Floor",
+      "Power Source": "Corded Electric",
+      "Voltage": "220 Volts",
+      "Included Components": "Brush",
+      "Is Cordless?": "No",
+      "Item Weight": "4 pounds",
+      "Capacity": "4 Pounds",
+      "Wattage": "600 watts",
+      "Cable Length": "20 Feet",
+      "Form Factor": "Stick",
+      "Color": "Gray",
+      "Model Name": "BISSELL® Featherweight™ PowerBrush Vacuum",
+      "Product Dimensions": "7.8\"L x 4.5\"W x 42\"H",
+      "Manufacturer": "BISSELL",
+      "Number of Items": "1",
+      "Controller Type": "Hand Control",
+      "Country of Origin": "China",
+      "Item model number": "2773A",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 18842,
+        "Upright Vacuum Cleaners": 27
+      },
+      "Batteries required": "No"
+    },
+    "parent_asin": "B09WFZV3TN",
+    "bought_together": null
+  }
+}

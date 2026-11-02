@@ -1,0 +1,49 @@
+{
+  "id": "AG5FGCIM6PBJX3JNDRKQMITZTIMA_B00BL5D3QG_1516559509252",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "A bit disappointing...",
+  "text": "A bit disappointing.... Guess I was expecting something so wonderful-smelling that I would be blown away.  It’s nice, but not anything special.",
+  "asin": "B00BL5D3QG",
+  "parent_asin": "B00BL5D3QG",
+  "user_id": "AG5FGCIM6PBJX3JNDRKQMITZTIMA",
+  "timestamp": 1516559509252,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Capri Blue Volcano Room Spray",
+    "average_rating": 4.0,
+    "rating_number": 158,
+    "features": [
+      "Tropical fruits and sugared citrus",
+      "Size: 4 fl oz",
+      "A blend of exotic pure essential oils and refined fragrances are captured in the capri-blue by aspen-bay room spray"
+    ],
+    "description": [
+      "The Capri Blue room spray is approximately size 6H x 1.5d. The volcano fragrance is tropical fruits and sugared citrus."
+    ],
+    "price": null,
+    "store": "Capri Blue",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Fragrant Room Sprays"
+    ],
+    "details": {
+      "Product Dimensions": "5.5 x 2.2 x 2.3 inches",
+      "Item Weight": "0.96 ounces",
+      "Manufacturer": "Capri Blue",
+      "Item model number": "CB522VOL",
+      "Is Discontinued By Manufacturer": "No",
+      "Perfume": "Citrus",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00BL5D3QG",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "AHQBYI3BU45WRT2UFVW5C4FLN56Q_B0BLNF4DXT_1678042048144",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Dont work",
+  "text": "Dont work. Did not work at all it would not shut off",
+  "asin": "B0BLNF4DXT",
+  "parent_asin": "B0BLNF4DXT",
+  "user_id": "AHQBYI3BU45WRT2UFVW5C4FLN56Q",
+  "timestamp": 1678042048144,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Electric Can Opener",
+    "average_rating": 2.0,
+    "rating_number": 36,
+    "features": [
+      "Fits Almost Size Cans: The electric can opener works with almost all sizes of cans (excluding rimless/square and shaped cans)"
+    ],
+    "description": [
+      "With just one touch, this amazing electric can opener automatically opens your can in seconds!"
+    ],
+    "price": null,
+    "store": "Rantuia",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Can Openers",
+      "Electric"
+    ],
+    "details": {
+      "Package Dimensions": "6.81 x 3.23 x 2.4 inches",
+      "Item Weight": "9.8 ounces",
+      "Manufacturer": "Rantuia",
+      "Item model number": "Electric Can Opener",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 2008327,
+        "Electric Can Openers": 957
+      },
+      "Date First Available": "November 7, 2022",
+      "Color": "White",
+      "Material": "Plastic",
+      "Brand": "Rantuia",
+      "Size": "SMALL",
+      "Operation Mode": "Automatic"
+    },
+    "parent_asin": "B0BLNF4DXT",
+    "bought_together": null
+  }
+}

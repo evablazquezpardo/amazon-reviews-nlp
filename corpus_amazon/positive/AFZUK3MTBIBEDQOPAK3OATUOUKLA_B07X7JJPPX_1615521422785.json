@@ -1,0 +1,48 @@
+{
+  "id": "AFZUK3MTBIBEDQOPAK3OATUOUKLA_B07X7JJPPX_1615521422785",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "bath and body works",
+  "text": "bath and body works. Smells clean and as you would expect from bath and body - fits into their dispensers.",
+  "asin": "B07X7JJPPX",
+  "parent_asin": "B07X7JJPPX",
+  "user_id": "AFZUK3MTBIBEDQOPAK3OATUOUKLA",
+  "timestamp": 1615521422785,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bath & Body Works Linen & Lavender Wallflowers Refill - 6 Packs",
+    "average_rating": 4.6,
+    "rating_number": 396,
+    "features": [],
+    "description": [
+      "Fragrance Scent Notes: Linen & Lavender, Laundry, Rose Petal & Linen"
+    ],
+    "price": 39.95,
+    "store": "Bath & Body Works",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Home Fragrance Accessories"
+    ],
+    "details": {
+      "Package Dimensions": "8.19 x 4.57 x 1.69 inches",
+      "Item Weight": "1.06 pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 124454,
+        "Home Fragrance Accessories": 238
+      },
+      "Perfume": "Lavender, Rose",
+      "Batteries required": "No",
+      "Brand": "Bath & Body Works",
+      "Scent": "Lavender, Rose",
+      "Unit Count": "6.00 Fl Oz",
+      "Number of Items": "6"
+    },
+    "parent_asin": "B07X7JJPPX",
+    "bought_together": null
+  }
+}

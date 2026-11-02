@@ -1,0 +1,50 @@
+{
+  "id": "AFWVKPFTABKQGJPIN3YMYP7MWJPA_B00U0UZCAS_1598314636044",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Just okay",
+  "text": "Just okay. light weight and the colors and cheap looking.",
+  "asin": "B00U0UZCAS",
+  "parent_asin": "B00U0UZCAS",
+  "user_id": "AFWVKPFTABKQGJPIN3YMYP7MWJPA",
+  "timestamp": 1598314636044,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Malden International Designs Gilded Fallon Wash Picture Frame, 5x7, Gold",
+    "average_rating": 4.2,
+    "rating_number": 11,
+    "features": [
+      "Holds one 5-inch by 7-inch photo",
+      "Hangs vertically or horizontally",
+      "Wipes Clean"
+    ],
+    "description": [
+      "Transform the look of your home or office with this classic frame. This frame is able to hang horizontally or vertically or can be adorn on a mantel, desk or just about anywhere in your space, beautifully. With its simple yet elegant design it can be combined with other frames for a unique look. This item comes individually boxed which makes it perfect for a gift. For three generations Malden International Designs has been a family owned business, starting out in a small brick mill building in Malden Massachusetts. Since that time, they have grown into a leader of tabletop frames, wall frames and photo albums."
+    ],
+    "price": null,
+    "store": "Malden",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Photo Albums, Frames & Accessories",
+      "Picture Frames",
+      "Wall & Tabletop Frames"
+    ],
+    "details": {
+      "Product Dimensions": "7 x 1.1 x 9 inches",
+      "Item Weight": "14.4 ounces",
+      "Manufacturer": "Malden International Designs",
+      "Item model number": "2312-57",
+      "Is Discontinued By Manufacturer": "No",
+      "Finish types": "Gold",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00U0UZCAS",
+    "bought_together": null
+  }
+}

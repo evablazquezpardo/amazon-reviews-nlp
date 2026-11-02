@@ -1,0 +1,48 @@
+{
+  "id": "AHGPH3BLLQJLGQWK2T6P3KZJNSQQ_B00C0E16PW_1497700929978",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not purple!",
+  "text": "Not purple!. Not what I'd call purple, more like pinky-red.",
+  "asin": "B00C0E16PW",
+  "parent_asin": "B00C0E16PW",
+  "user_id": "AHGPH3BLLQJLGQWK2T6P3KZJNSQQ",
+  "timestamp": 1497700929978,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Northlight Set of 100 Pink Purple Mini Halloween or Christmas Lights - Black Wire",
+    "average_rating": 4.1,
+    "rating_number": 83,
+    "features": [
+      "100 mini lights suitable for outdoor and indoor use",
+      "Spacing between each bulb: 2.5 inches",
+      "Ideal for Christmas and special occasions"
+    ],
+    "description": [
+      "Color: Transparent pink purple / Black wire. Lights purple, but when lit the bulbs are pinkish purple. Number of bulbs on string: 100. Bulb size: mini. Spacing between each bulb: 2.5\". Lighted length: 20.6'. Total length: 21.8' 12\" lead cord. Suitable for indoor and outdoor use. This is ideal for all ocassions."
+    ],
+    "price": null,
+    "store": "Northlight",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Seasonal Lighting",
+      "Indoor String Lights"
+    ],
+    "details": {
+      "Product Dimensions": "247.2 x 0.5 x 0.5 inches",
+      "Item Weight": "11.2 ounces",
+      "Department": "Unisex-adult",
+      "Manufacturer": "Northlight",
+      "Item model number": "18624N11",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00C0E16PW",
+    "bought_together": null
+  }
+}

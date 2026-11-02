@@ -1,0 +1,55 @@
+{
+  "id": "AHEN2HBK3MAUM2WTXKZ6O6Z57RZA_B0C47P7TRD_1673535668512",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Value",
+  "text": "Value. Price",
+  "asin": "B098FJYQBJ",
+  "parent_asin": "B0C47P7TRD",
+  "user_id": "AHEN2HBK3MAUM2WTXKZ6O6Z57RZA",
+  "timestamp": 1673535668512,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "Rubbermaid® Mixermate™ Leak-Resistant Pitcher, 1 Gallon",
+    "average_rating": 4.5,
+    "rating_number": 1299,
+    "features": [
+      "Rubbermaid pitcher is designed for easy mixing, serving, and storing",
+      "Leak-resistant lids are designed to prevent spills while you're shaking the pitcher or pouring from it",
+      "Ideal for making drinks from mixes, or as a sangria pitcher or lemonade pitcher",
+      "Comfortable, rounded side handle is designed for easy pouring; large lid opening makes filling easy",
+      "Plastic pitcher is BPA-free and dishwasher-safe",
+      "Made in the USA"
+    ],
+    "description": [
+      "Rubbermaid Mixermate pitchers are designed for easy mixing, serving, and storing. The leak-resistant lids help to prevent spills while you're shaking the pitcher or pouring from it. The rounded handle makes pouring more comfortable. Rubbermaid Mixermate pitchers are BPA-free, dishwasher-safe, and made in the USA."
+    ],
+    "price": 21.69,
+    "store": "Rubbermaid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Serveware",
+      "Beverage Serveware",
+      "Jugs"
+    ],
+    "details": {
+      "Brand": "Rubbermaid",
+      "Material": "Plastic",
+      "Color": "Clear",
+      "Capacity": "1 Gallons",
+      "Style": "Pitcher",
+      "Product Dimensions": "5.25 x 7.15 x 11.55 inches; 8.47 Ounces",
+      "Item model number": "2122604",
+      "Date First Available": "March 15, 2022",
+      "Manufacturer": "Rubbermaid"
+    },
+    "parent_asin": "B0C47P7TRD",
+    "bought_together": null
+  }
+}

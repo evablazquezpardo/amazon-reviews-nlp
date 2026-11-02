@@ -1,0 +1,61 @@
+{
+  "id": "AEIPXVWUORGDX3K3WFJQQ3CFLUOQ_B081JCY26S_1434325261000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "UGH",
+  "text": "UGH. Certainly not worth the money --puny and unattractive.",
+  "asin": "B003ZYDALO",
+  "parent_asin": "B081JCY26S",
+  "user_id": "AEIPXVWUORGDX3K3WFJQQ3CFLUOQ",
+  "timestamp": 1434325261000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Household Essentials ML-6634 Cattail and Paper Waste Basket, Cream, Tan",
+    "average_rating": 4.5,
+    "rating_number": 4048,
+    "features": [
+      "Cream-colored wicker waste basket",
+      "Flexible sided and sturdy",
+      "Bedroom and bathroom waste bin for dry trash",
+      "Hand-woven wicker: light gray and cream water hyacinth",
+      "Dimensions: 10.23 inch diameter and 9.84 inches taller"
+    ],
+    "description": [
+      "Dress up the bath and bedroom trash with this cream-colored flexible wicker waste basket by Household Essentials. Flexible sides for easy use and comfortable emptying-fitness small sized trash bags and grocery bags. Neutral color fits into most home decors. This wicker trash can is made of cattail water hyacinth. It is best for use with dry trash. It may also be used as a decorative planter (not water tight; separate liner required)."
+    ],
+    "price": null,
+    "store": "Household Essentials",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Trash, Recycling & Compost",
+      "Wastebaskets"
+    ],
+    "details": {
+      "Brand": "Household Essentials",
+      "Color": "Tan",
+      "Opening Mechanism": "Open-Top",
+      "Material": "Paper",
+      "Room Type": "Bathroom,Bedroom,Grocery",
+      "Shape": "Cylindrical",
+      "Finish Type": "Unfinished",
+      "Product Dimensions": "10.25\"L x 10.23\"W x 10.25\"H",
+      "Item Weight": "4.8 ounces",
+      "Manufacturer": "Household Essentials",
+      "Item model number": "ML-6634",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 24368,
+        "Wastebaskets": 42
+      },
+      "Finish types": "Unfinished",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Included Components": "Waste Basket"
+    },
+    "parent_asin": "B081JCY26S",
+    "bought_together": null
+  }
+}

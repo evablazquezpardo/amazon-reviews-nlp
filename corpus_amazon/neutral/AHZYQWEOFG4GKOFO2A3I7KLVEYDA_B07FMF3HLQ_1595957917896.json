@@ -1,0 +1,55 @@
+{
+  "id": "AHZYQWEOFG4GKOFO2A3I7KLVEYDA_B07FMF3HLQ_1595957917896",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Seems ok but small",
+  "text": "Seems ok but small. It's small, not really big enough for washing plates",
+  "asin": "B075H7QSTB",
+  "parent_asin": "B07FMF3HLQ",
+  "user_id": "AHZYQWEOFG4GKOFO2A3I7KLVEYDA",
+  "timestamp": 1595957917896,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "SAMMART 9.45L (2.5 Gallon) Collapsible Tub - Foldable Dish Tub - Portable Washing Basin - Space Saving Plastic Washtub (Grey/Black, M)",
+    "average_rating": 4.6,
+    "rating_number": 10263,
+    "features": [
+      "BPA Free. User friendly by simply pop-up to open when using and collapses to flat for space saving.",
+      "Space saving with Expanded size: 15.3 x 11.3 x 5.6(h) inches and its height just 1.6 inches after folds, save over 70% space when storage. Capacity: 9.45L / 2.49gallon",
+      "Perfect for icing beverages, washing dishes and also outdoor uses, such as camping, BBQ and campsite cleanup.",
+      "Non-slip design at the bottom keeping the dishpan steady and firmly.",
+      "Hanging hole for easy hanging on the wall"
+    ],
+    "description": [],
+    "price": 16.69,
+    "store": "SAMMART",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization"
+    ],
+    "details": {
+      "Brand": "SAMMART",
+      "Color": "Grey/Black",
+      "Material": "Thermoplastic Elastomers, Polypropylene",
+      "Item Weight": "440 Grams",
+      "Product Dimensions": "11.3\"L x 5.6\"W x 15.3\"H",
+      "Capacity": "9.45 Liters",
+      "Handle Material": "Plastic",
+      "Shape": "Rectangular",
+      "Manufacturer": "SAMMART",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1809,
+        "Open Home Storage Bins": 2,
+        "Laundry Storage Products": 18
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 16, 2018"
+    },
+    "parent_asin": "B07FMF3HLQ",
+    "bought_together": null
+  }
+}

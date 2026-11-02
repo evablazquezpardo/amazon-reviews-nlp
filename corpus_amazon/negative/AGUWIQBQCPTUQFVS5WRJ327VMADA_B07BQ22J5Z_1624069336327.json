@@ -1,0 +1,63 @@
+{
+  "id": "AGUWIQBQCPTUQFVS5WRJ327VMADA_B07BQ22J5Z_1624069336327",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "IT IS NOT RED",
+  "text": "IT IS NOT RED. It is ORANGE",
+  "asin": "B07CCNGW6S",
+  "parent_asin": "B07BQ22J5Z",
+  "user_id": "AGUWIQBQCPTUQFVS5WRJ327VMADA",
+  "timestamp": 1624069336327,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ceramics Dot Sugar Salt Pepper Storage Jar Seasoning Pot with Lid And Spoon",
+    "average_rating": 4.7,
+    "rating_number": 619,
+    "features": [
+      "Material:High fired ceramic.(Food safe)",
+      "About 230-250ML / 7.6-8.3OZ",
+      "Dishwasher and microwave safe.",
+      "Has improved the packaging method, please rest assured to buy, if you have any questions, please contact us in time, we will solve it for you."
+    ],
+    "description": [
+      "Ceramics Dot Sugar Salt Pepper Storage Jar Seasoning Pot with Lid And Spoon"
+    ],
+    "price": 10.55,
+    "store": "123Arts",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Cream & Sugar",
+      "Sugar Bowls"
+    ],
+    "details": {
+      "Bowl Material": "Ceramic",
+      "Number of Pieces": "3",
+      "Brand": "123Arts",
+      "Color": "Yellow",
+      "Style": "Classic",
+      "Special Feature": "Microwave safe",
+      "Shape": "Spoon",
+      "Capacity": "230 Milliliters",
+      "Specific Uses For Product": "Sugar",
+      "Seasons": "All Seasons",
+      "Is Dishwasher Safe": "Yes",
+      "Is Microwaveable": "Yes",
+      "Material": "Ceramic",
+      "Product Dimensions": "2.95 x 0.01 x 4.33 inches",
+      "Item Weight": "10.5 ounces",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 99936,
+        "Sugar Bowls": 103
+      },
+      "Date First Available": "March 26, 2018"
+    },
+    "parent_asin": "B07BQ22J5Z",
+    "bought_together": null
+  }
+}

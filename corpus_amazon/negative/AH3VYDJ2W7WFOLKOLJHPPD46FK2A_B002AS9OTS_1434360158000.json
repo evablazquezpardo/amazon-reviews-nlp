@@ -1,0 +1,75 @@
+{
+  "id": "AH3VYDJ2W7WFOLKOLJHPPD46FK2A_B002AS9OTS_1434360158000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. nice pillow, but do not last very long, mine crapped out after about 2 - 3 months.",
+  "asin": "B002AS9OTS",
+  "parent_asin": "B002AS9OTS",
+  "user_id": "AH3VYDJ2W7WFOLKOLJHPPD46FK2A",
+  "timestamp": 1434360158000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "DreamSleep Home Gusseted Quilted Pillow, King, Medium",
+    "average_rating": 3.8,
+    "rating_number": 96,
+    "features": [
+      "Cotton",
+      "INCLUDES: (2) Quilted sidewall pillows",
+      "MATERIALS: Filled with soft 100% Slumbersoft polyester fiberfill that stays lofty and is hypo-allergenic",
+      "FEATURES: Strong reinforced corded edge engineered for superior strength; 2\" gusseted quilted sidewall",
+      "CARE INSTRUCTIONS: Machine washable for easy care.",
+      "DIMENSIONS: King size measures 20\" x 36\""
+    ],
+    "description": [
+      "DreamSleep - Medium Firm Bed Pillow Insert, Quilted Gusseted Edges (King Size, 2-Pack)"
+    ],
+    "price": null,
+    "store": "DreamSleep Home",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Bed Pillows"
+    ],
+    "details": {
+      "Fill Material": "Polyester",
+      "Pillow Type": "Bed Pillow",
+      "Color": "Medium",
+      "Size": "King",
+      "Brand": "DreamSleep Home",
+      "Shape": "Rectangular",
+      "Special Feature": "Hypoallergenic, Washable",
+      "Cover Material": "Cotton",
+      "Pattern": "Gusseted",
+      "Number of Items": "2",
+      "Product Dimensions": "36\"L x 20\"W",
+      "Product Care Instructions": "Machine Wash",
+      "Style": "King",
+      "Item Firmness Description": "Medium",
+      "Thread Count": "233",
+      "Item Weight": "3 pounds",
+      "Model Name": "Gusseted Quilted Pillow",
+      "Unit Count": "1.0 Count",
+      "Fabric Type": "Cotton",
+      "Item Thickness": "0.25 Inches",
+      "Manufacturer": "DreamSleep Home",
+      "Item model number": "MED-KI-OTS",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1937482,
+        "Bed Pillows": 3181
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Refill": "Polyester",
+      "Assembly required": "No",
+      "Number of pieces": "2",
+      "Warranty Description": "2 year warranty.",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B002AS9OTS",
+    "bought_together": null
+  }
+}

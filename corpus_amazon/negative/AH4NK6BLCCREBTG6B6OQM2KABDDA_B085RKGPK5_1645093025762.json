@@ -1,0 +1,50 @@
+{
+  "id": "AH4NK6BLCCREBTG6B6OQM2KABDDA_B085RKGPK5_1645093025762",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not as advertised",
+  "text": "Not as advertised. Doesn't do its job, I get a maximum baseline of 46 percent across all kinds of different jars. These were left and checked everyday for 3 weeks.",
+  "asin": "B084DX8FK4",
+  "parent_asin": "B085RKGPK5",
+  "user_id": "AH4NK6BLCCREBTG6B6OQM2KABDDA",
+  "timestamp": 1645093025762,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ball Kerr Humidity Control Packs and Holders, 32oz, Blue",
+    "average_rating": 4.5,
+    "rating_number": 102,
+    "features": [
+      "INCLUDED 10 Integra Boost 62% Humidity Control Packs 3 Wide Mouth Pack Holders",
+      "CONVENIENT DESIGN Pack holder nests in any Kerr Wide Mouth jar keeps humidity control pack elevated from jar contents and makes replacing the pack easy and effortless",
+      "HUMIDITY CONTROL TECHNOLOGY Integra Boost Humidity Control Packs work by releasing or absorbing moisture as needed to maintain a 62% relative humidity level"
+    ],
+    "description": [
+      "The Kerr Humidity Control Replacement Pack features 10 Integra Boost 62% Humidity Control Packs and 3 additional Wide Mouth Pack Holders to help you keep your dried fruits and herbs stored at a 62% relative humidity level"
+    ],
+    "price": 9.96,
+    "store": "Ball",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Canning",
+      "Jars"
+    ],
+    "details": {
+      "Product Dimensions": "2.5 x 4.55 x 4.3 inches",
+      "Item Weight": "2.89 ounces",
+      "Manufacturer": "Newell",
+      "Item model number": "7061040001",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 124361,
+        "Canning Jars": 1108
+      },
+      "Date First Available": "March 1, 2020"
+    },
+    "parent_asin": "B085RKGPK5",
+    "bought_together": null
+  }
+}

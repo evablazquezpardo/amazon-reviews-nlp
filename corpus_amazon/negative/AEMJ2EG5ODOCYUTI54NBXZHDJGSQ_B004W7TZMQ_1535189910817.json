@@ -1,0 +1,52 @@
+{
+  "id": "AEMJ2EG5ODOCYUTI54NBXZHDJGSQ_B004W7TZMQ_1535189910817",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "No value for money",
+  "text": "No value for money. Not worth the price. Feels cheap",
+  "asin": "B004W7TZMQ",
+  "parent_asin": "B004W7TZMQ",
+  "user_id": "AEMJ2EG5ODOCYUTI54NBXZHDJGSQ",
+  "timestamp": 1535189910817,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "Vollrath 7\" Wear-Ever® CeramiGuard II Fry Pan w/ Handle",
+    "average_rating": 4.4,
+    "rating_number": 185,
+    "features": [
+      "Wear-Ever fry pan",
+      "Made of heavy-duty impact-resistant 3004 aluminum material",
+      "Ceramic Guard II better withstands the abuse of metal utensils",
+      "Comes with Cool handle",
+      "Measures 7-inch top diameter by 4-3/4-inch bottom diameter by 1-1/2-inch height"
+    ],
+    "description": [
+      "The ceramiguard II finish on this wear‐ ever 7 inch fry pan is 130% more durable and scratch resistant than ordinary silver stone. Model: Z4007 ceramiguard II non‐ stick scuff, scrape and scratch resistant extra dent resistant 8 gauge 3004 aluminum alloy Exclusive cool handle the does not apply to products purchased for personal, family or household use 101596"
+    ],
+    "price": 43.31,
+    "store": "Vollrath",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Pots & Pans",
+      "Woks & Stir-Fry Pans"
+    ],
+    "details": {
+      "Brand": "Vollrath",
+      "Material": "Aluminum",
+      "Special Feature": "Non Stick",
+      "Color": "Black/Blue",
+      "Capacity": "2 Quarts",
+      "Is Discontinued By Manufacturer": "Yes",
+      "Item model number": "Z4007",
+      "Date First Available": "October 10, 2007",
+      "Manufacturer": "Vollrath"
+    },
+    "parent_asin": "B004W7TZMQ",
+    "bought_together": null
+  }
+}

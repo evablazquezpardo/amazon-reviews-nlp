@@ -1,0 +1,71 @@
+{
+  "id": "AG3HAD4VAFWFT2TGBDBCQJADINHQ_B07YZQDN2W_1588278770285",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Nice but wobbly",
+  "text": "Nice but wobbly. Wobbly",
+  "asin": "B00MHSTQM6",
+  "parent_asin": "B07YZQDN2W",
+  "user_id": "AG3HAD4VAFWFT2TGBDBCQJADINHQ",
+  "timestamp": 1588278770285,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Convenience Concepts Oslo Coffee Table, White",
+    "average_rating": 4.3,
+    "rating_number": 220,
+    "features": [
+      "Oslo Collection",
+      "Available in Multiple Finishes",
+      "Solid Wood Legs",
+      "Easy Assembly",
+      "Will Provide Years of Enjoyment",
+      "Color May Vary Slightly Due to Photography Lighting or Monitors Display"
+    ],
+    "description": [
+      "Inspired by Mid Century styling the Oslo Coffee Table will transform your space. This coffee table is available in multiple finishes from beautiful high gloss piano finishes to lovely woodgrain finishes so you will be sure to find the right finish for your decor. Also featuring solid wood legs and easy assembly you will have this table together and ready to use in no time! Look for other items from the Oslo Collection for the complete look sold separately."
+    ],
+    "price": 108.95,
+    "store": "Convenience Concepts",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "Coffee Tables"
+    ],
+    "details": {
+      "Product Dimensions": "43.5\"D x 23.75\"W x 18\"H",
+      "Color": "White",
+      "Shape": "Rectangular",
+      "Brand": "Convenience Concepts",
+      "Table design": "Coffee Table",
+      "Special Feature": "Portable",
+      "Style": "Coffee Table",
+      "Room Type": "Living Room",
+      "Top Material Type": "Manufactured Wood,MDF",
+      "Finish Type": "Gloss Finish",
+      "Base Type": "Legs",
+      "Unit Count": "1.0 Count",
+      "Pattern": "Solid",
+      "Frame Material": "Wood",
+      "Model Name": "Oslo Coffee Table",
+      "Assembly Required": "Yes",
+      "Item Weight": "17 pounds",
+      "Furniture Finish": "White",
+      "Country of Origin": "China",
+      "Item model number": "203583",
+      "Is Discontinued By Manufacturer": "No",
+      "Weight": "20 Pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1073303,
+        "Coffee Tables": 1635
+      },
+      "Date First Available": "August 4, 2014"
+    },
+    "parent_asin": "B07YZQDN2W",
+    "bought_together": null
+  }
+}

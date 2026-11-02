@@ -1,0 +1,33 @@
+{
+  "id": "AEOKAIB6OJVB5FRZGLEB3YAK5UBQ_B016ANHEEK_1545869783175",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Small",
+  "text": "Small. Smaller than expected but cute",
+  "asin": "B016ANHEEK",
+  "parent_asin": "B016ANHEEK",
+  "user_id": "AEOKAIB6OJVB5FRZGLEB3YAK5UBQ",
+  "timestamp": 1545869783175,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": null,
+    "title": "Miles Kimball Personalized Snowman Dangle Ornament, Family of 3",
+    "average_rating": 4.7,
+    "rating_number": 27,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Miles Kimball",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Hanging Ornaments"
+    ],
+    "details": {},
+    "parent_asin": "B016ANHEEK",
+    "bought_together": null
+  }
+}

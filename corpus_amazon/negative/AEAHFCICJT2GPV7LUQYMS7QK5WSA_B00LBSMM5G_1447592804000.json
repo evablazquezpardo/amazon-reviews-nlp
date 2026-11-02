@@ -1,0 +1,71 @@
+{
+  "id": "AEAHFCICJT2GPV7LUQYMS7QK5WSA_B00LBSMM5G_1447592804000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not good",
+  "text": "Not good. Smelled like oil, had to return",
+  "asin": "B002KFYS92",
+  "parent_asin": "B00LBSMM5G",
+  "user_id": "AEAHFCICJT2GPV7LUQYMS7QK5WSA",
+  "timestamp": 1447592804000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sun Yin USA Inc Full Queen Burgundy 100% Cotton Blanket",
+    "average_rating": 4.1,
+    "rating_number": 1572,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "Soft 100-percent cotton",
+      "Easy case machine wash and dry",
+      "Available in seven fashion colors",
+      "Full/Queen is 90 by 90-inch",
+      "Made in China"
+    ],
+    "description": [
+      "Sun Yin USA Inc 300 GSM cotton blankets. These thermal blankets are soft natural cotton. They are made from 100Percent cotton yarns. The blankets are great for all year use and and are easy care. They are both machine washable and dryable. Just cuddle up in bed, on a chair or couch, in a car or even on the beach. They come in three sizes to fit your bed. The twin measures 66 by 90 inches. The Full/Queen measures 90 by 90 inches. The king size is 108 by 90 inches. They come in 4 fashion colors that include white, ivory, light green and burgundy, plus these 2 new colors of Grey and indigo"
+    ],
+    "price": 28.01,
+    "store": "SUNYIN",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Bed Blankets"
+    ],
+    "details": {
+      "Material": "Cotton",
+      "Color": "Burgundy",
+      "Brand": "SUNYIN",
+      "Style": "Modern",
+      "Age Range (Description)": "Adult",
+      "Product Dimensions": "90\"L x 90\"W",
+      "Theme": "Car,Grey",
+      "Pattern": "Solid",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "Full-Queen",
+      "Fabric Type": "100% Cotton",
+      "Number of Items": "1",
+      "Included Components": "Blanket",
+      "Item Weight": "3.39 pounds",
+      "Manufacturer": "Sun Yin",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More",
+      "Country of Origin": "China",
+      "Item model number": "70351",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 206354,
+        "Bed Blankets": 397
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B00LBSMM5G",
+    "bought_together": null
+  }
+}

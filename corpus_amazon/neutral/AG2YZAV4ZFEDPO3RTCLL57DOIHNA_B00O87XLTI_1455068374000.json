@@ -1,0 +1,41 @@
+{
+  "id": "AG2YZAV4ZFEDPO3RTCLL57DOIHNA_B00O87XLTI_1455068374000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Perfect for Patriot Fan",
+  "text": "Perfect for Patriot Fan. The rings are super cheap plastic ones that break easily.",
+  "asin": "B00O87XLTI",
+  "parent_asin": "B00O87XLTI",
+  "user_id": "AG2YZAV4ZFEDPO3RTCLL57DOIHNA",
+  "timestamp": 1455068374000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "New England Patriots 15 Piece Bath Set",
+    "average_rating": 4.2,
+    "rating_number": 31,
+    "features": [
+      "{htmlentities(Officially Licensed NFL Merchandise)}"
+    ],
+    "description": [
+      "New England Patriots 15 Piece Bath Set"
+    ],
+    "price": null,
+    "store": "Northwest",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories"
+    ],
+    "details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "17.5 x 1.5 x 14 inches; 2.15 Pounds",
+      "Item model number": "AX-AY-ABHI-72356",
+      "Date First Available": "October 7, 2014"
+    },
+    "parent_asin": "B00O87XLTI",
+    "bought_together": null
+  }
+}

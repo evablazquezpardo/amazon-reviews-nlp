@@ -1,0 +1,53 @@
+{
+  "id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA_B08MQRZ7Z9_1604313901742",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Good value.",
+  "text": "Good value.. Heavier quality than expected. Not easy to put together",
+  "asin": "B0874CBNJM",
+  "parent_asin": "B08MQRZ7Z9",
+  "user_id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA",
+  "timestamp": 1604313901742,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mainstay Black 5-Piece Folding TV Tray Table Set (4 Trays, 1 Stand) (Black)",
+    "average_rating": 4.1,
+    "rating_number": 2256,
+    "features": [],
+    "description": [
+      "Includes 4 black folding tray tables and one coordinating stand Tray Table set measures: 25.98\" H x 14.17\" W x 19.09\" D Folding tray table is perfect for use by one person, whether as a side table to your favorite recliner or pulled out for special occasions Folds away to near-flat for easy storage and transport Classic dark black finish, sure to compliment any decor sensibility Durable tray table set is constructed from 100% solid wood Perfect for game nights, crafting, family gatherings, meals outside of the kitchen, as a bedside table, and much more!"
+    ],
+    "price": null,
+    "store": "Mainstay",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Game & Recreation Room Furniture",
+      "TV Trays"
+    ],
+    "details": {
+      "Product Dimensions": "19.09\"D x 14.17\"W x 25.98\"H",
+      "Color": "Black",
+      "Brand": "Mainstay",
+      "Table design": "Tray Table",
+      "Special Feature": "Storage",
+      "Style": "Modern",
+      "Room Type": "Kitchen",
+      "Base Type": "Cross",
+      "Assembly Required": "No",
+      "Furniture Finish": "Black",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1057754,
+        "TV Trays": 106
+      },
+      "Date First Available": "November 4, 2020",
+      "Shape Rectangular": "",
+      "": "Frame Material Wood"
+    },
+    "parent_asin": "B08MQRZ7Z9",
+    "bought_together": null
+  }
+}

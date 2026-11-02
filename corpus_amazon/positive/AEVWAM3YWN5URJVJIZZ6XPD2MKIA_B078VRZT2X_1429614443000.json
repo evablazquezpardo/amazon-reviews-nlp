@@ -1,0 +1,57 @@
+{
+  "id": "AEVWAM3YWN5URJVJIZZ6XPD2MKIA_B078VRZT2X_1429614443000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Looks beautiful, easy to follow instructions, went together easy.",
+  "asin": "B005VY9GFU",
+  "parent_asin": "B078VRZT2X",
+  "user_id": "AEVWAM3YWN5URJVJIZZ6XPD2MKIA",
+  "timestamp": 1429614443000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Skyline Furniture Velvet Twin Nail Button Notched Bed, Berry",
+    "average_rating": 3.8,
+    "rating_number": 27,
+    "features": [
+      "Handmade in america",
+      "100-percent polyester upholstery",
+      "Requires box spring and mattress (not included)",
+      "Brass-tone nail head trim",
+      "Spot clean only"
+    ],
+    "description": [
+      "Add some interest to your bedroom with this stylish notched nail button bed. It is handmade in America and features luxuriously soft velvet upholstery and a brass-tone nail head trim. Easy assembly required. Requires a mattress and box spring (not included)."
+    ],
+    "price": null,
+    "store": "Skyline Furniture",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Bedroom Furniture",
+      "Beds, Frames & Bases",
+      "Beds"
+    ],
+    "details": {
+      "Size": "Twin",
+      "Product Dimensions": "78\"L x 41\"W x 54\"H",
+      "Color": "Velvet Berry",
+      "Brand": "Skyline Furniture",
+      "Furniture Finish": "Brass",
+      "Assembly Required": "Yes",
+      "Item Weight": "83 pounds",
+      "Manufacturer": "Skyline Furniture MFG",
+      "Item model number": "A-830BEDNB-BR-VLVT-BRY",
+      "Warranty Description": "1 year limited manufacturer's warranty; excludes fabric.",
+      "Batteries required": "No",
+      "Material Velvet": "",
+      "": "Item Weight 83 Pounds",
+      "Maximum Weight Recommendation 500 Pounds": ""
+    },
+    "parent_asin": "B078VRZT2X",
+    "bought_together": null
+  }
+}

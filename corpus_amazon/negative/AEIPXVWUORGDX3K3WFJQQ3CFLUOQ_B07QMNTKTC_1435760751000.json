@@ -1,0 +1,64 @@
+{
+  "id": "AEIPXVWUORGDX3K3WFJQQ3CFLUOQ_B07QMNTKTC_1435760751000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Crappy product",
+  "text": "Crappy product. Small, inadequately filled so do not freeze fully. What a waste -- even if it is an add-on cheap price. Plus I can't cancel my order for labels (which still haven't shipped) because they were part of the same order. Aggravating!",
+  "asin": "B00A1BYCIE",
+  "parent_asin": "B07QMNTKTC",
+  "user_id": "AEIPXVWUORGDX3K3WFJQQ3CFLUOQ",
+  "timestamp": 1435760751000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Sports & Outdoors",
+    "title": "Igloo 25159 Maxcold Natural Ice",
+    "average_rating": 3.6,
+    "rating_number": 23,
+    "features": [
+      "Made with pure water",
+      "Sheets of reusable ice cubes remain flexible when frozen",
+      "Cut for custom fit around items for localized intense cold",
+      "Two sheet inside (8 cubes each)",
+      "Sheet size: 3.5 by 7.5-inches"
+    ],
+    "description": [],
+    "price": 8.5,
+    "store": "Igloo",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Specialty Tools & Gadgets",
+      "Ice Cube Molds & Trays"
+    ],
+    "details": {
+      "Item Package Dimensions L x W x H": "8.9 x 7.68 x 2.64 inches",
+      "Package Weight": "0.36 Kilograms",
+      "Item Dimensions  LxWxH": "3.5 x 1.75 x 7.5 inches",
+      "Item Weight": "0.4 Pounds",
+      "Brand Name": "Igloo",
+      "Model Name": "Natural Ice 2 Sheets 8 Cube",
+      "Color": "Blue",
+      "Material": "Plastic",
+      "Suggested Users": "unisex-adult",
+      "Number of Items": "2",
+      "Manufacturer": "Igloo",
+      "Part Number": "00025159",
+      "Style": "Blue",
+      "Size": "One Size",
+      "Best Sellers Rank": {
+        "Sports & Outdoors": 454642,
+        "Ice Cube Molds & Trays": 2735,
+        "Cycling Clothing": 27037,
+        "Camping & Hiking Equipment": 63423
+      },
+      "Date First Available": "November 6, 2013",
+      "Brand": "Igloo",
+      "Is Dishwasher Safe": "No"
+    },
+    "parent_asin": "B07QMNTKTC",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AG3IIIN4QARMCMYS5TGLZUZ4HRUQ_B00C0AQB8S_1524077850831",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Poor Quality, for the price I paid should be ...",
+  "text": "Poor Quality, for the price I paid should be .... Poor Quality,  for the price I paid should be better quality.  Would not recommend",
+  "asin": "B00C0AQB8S",
+  "parent_asin": "B00C0AQB8S",
+  "user_id": "AG3IIIN4QARMCMYS5TGLZUZ4HRUQ",
+  "timestamp": 1524077850831,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rurality Plain and Elegant Wicker Storage Basket with Liner,Medium",
+    "average_rating": 4.3,
+    "rating_number": 70,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Rurality",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Baskets, Bins & Containers",
+      "Shelf Baskets"
+    ],
+    "details": {
+      "Product Dimensions": "13.78 x 9.84 x 1.97 inches",
+      "Item Weight": "14.4 ounces",
+      "Item model number": "LBK017-2",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1967919,
+        "Shelf Baskets": 2231
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Brand": "Rurality",
+      "Shape": "Rectangular",
+      "Room Type": "Office",
+      "Handle Material": "Cotton"
+    },
+    "parent_asin": "B00C0AQB8S",
+    "bought_together": null
+  }
+}

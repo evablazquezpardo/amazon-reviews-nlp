@@ -1,0 +1,55 @@
+{
+  "id": "AFV22L7AEKI2LW6HMLRLUKNYVBGQ_B00Y33919G_1648648736451",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not quite right",
+  "text": "Not quite right. Bought this as a replacement part for my Hoover, but it does not fit the same as the original.",
+  "asin": "B00Y33919G",
+  "parent_asin": "B00Y33919G",
+  "user_id": "AFV22L7AEKI2LW6HMLRLUKNYVBGQ",
+  "timestamp": 1648648736451,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Hoover Filter, Extractor Foam Recovery Tank Cup F5800 Series",
+    "average_rating": 4.6,
+    "rating_number": 1488,
+    "features": [
+      "This is an O.E.M. authorized part",
+      "Fits various Hoover models",
+      "OEM Part Number 440007364",
+      "Part Number 440007364",
+      "This is an O.E.M. part"
+    ],
+    "description": [
+      "This is an O.E.M. authorized part. Fits various Hoover models. OEM Part Number 440007364. Made in United States."
+    ],
+    "price": 6.19,
+    "store": "Hoover",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Filters",
+      "Handheld Filters"
+    ],
+    "details": {
+      "Product Dimensions": "1 x 1 x 1 inches",
+      "Item Weight": "1.92 ounces",
+      "Manufacturer": "Hoover",
+      "Item model number": "440007364",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 65441,
+        "Replacement Handheld Vacuum Filters": 16
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00Y33919G",
+    "bought_together": null
+  }
+}

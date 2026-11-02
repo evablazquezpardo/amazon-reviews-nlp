@@ -1,0 +1,57 @@
+{
+  "id": "AHTU4O4QDYDGUXW5ZO7OOYCTSXRA_B01AMB1TN8_1546187748637",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Cute but too expensive",
+  "text": "Cute but too expensive. They are cute but the price they charge is ridiculous",
+  "asin": "B01AMB1TN8",
+  "parent_asin": "B01AMB1TN8",
+  "user_id": "AHTU4O4QDYDGUXW5ZO7OOYCTSXRA",
+  "timestamp": 1546187748637,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kate Spade Strut Your Stuff 3Pc Kitchen Gift Set",
+    "average_rating": 4.7,
+    "rating_number": 21,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "Can be matched to any dinnerware",
+      "Machine washable",
+      "Easy cleaning"
+    ],
+    "description": [
+      "A dash of whimsy is a welcome ingredient in the kitchen, and with its winsome print, this clever cotton set is completely giftable for all those warm-weather housewarmings, patio parties and spring weddings."
+    ],
+    "price": 85.0,
+    "store": "Kate Spade New York",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Kitchen Linen Sets"
+    ],
+    "details": {
+      "Product Dimensions": "15 x 4 x 12 inches",
+      "Item Weight": "1 pounds",
+      "Manufacturer": "China",
+      "Item model number": "157879SET 001",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 714007,
+        "Kitchen Linen Sets": 419
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "100% Cotton",
+      "Assembly required": "No",
+      "Number of pieces": "3",
+      "Batteries required": "No",
+      "Included Components": "Home^Linens",
+      "Import": "Imported"
+    },
+    "parent_asin": "B01AMB1TN8",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AFABDHAX4UX5QYXIFBZEQRL6P4VQ_B001QD40R4_1442724869000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Bought this to put sand toys in. It ripped quickly.",
+  "asin": "B001QD40R4",
+  "parent_asin": "B001QD40R4",
+  "user_id": "AFABDHAX4UX5QYXIFBZEQRL6P4VQ",
+  "timestamp": 1442724869000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Whitmor Mesh Laundry Bag - White, 6154-111",
+    "average_rating": 4.6,
+    "rating_number": 2214,
+    "features": [
+      "Ideal for college dorms, apartments and Laundromats",
+      "SERVICE AND GUARANTEE: Whitmor stands by our products. If you have any problems, contact us for help"
+    ],
+    "description": [
+      "Whitmor 6154-111 White Mesh Laundry Bag"
+    ],
+    "price": 6.8,
+    "store": "Whitmor",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Laundry Bags"
+    ],
+    "details": {
+      "Brand": "Whitmor",
+      "Material": "Polyester",
+      "Color": "White",
+      "Closure Type": "Drawstring",
+      "Shape": "Rectangular",
+      "Number of Items": "1",
+      "Number of Sets": "1",
+      "Product Dimensions": "0.25 x 24 x 36 inches",
+      "Item Weight": "2.11 ounces",
+      "Manufacturer": "Whitmor",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More",
+      "Country of Origin": "China",
+      "Item model number": "6154-111",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 192370,
+        "Laundry Bags": 320
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B001QD40R4",
+    "bought_together": null
+  }
+}

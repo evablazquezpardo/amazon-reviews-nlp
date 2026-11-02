@@ -1,0 +1,61 @@
+{
+  "id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A_B001U21Q78_1670889825165",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "worth the price",
+  "text": "worth the price. This is worth the price.  it works nicely",
+  "asin": "B001U21Q78",
+  "parent_asin": "B001U21Q78",
+  "user_id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A",
+  "timestamp": 1670889825165,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Taylor RA14276 Mechanical Stainless Steel Timer for School, Learning, Projects, and Kitchen Tasks, One Size, Multicolor",
+    "average_rating": 4.2,
+    "rating_number": 2076,
+    "features": [
+      "KITCHEN ESSENTIAL: Keep track of time and more with this mechanical timer.",
+      "EASY TO USE: Twist the dial to the desired time setting, and the alarm rings once it reaches the zero mark.",
+      "FUNCTIONAL DESIGN: Bold black graphics on the large dial face make setting times easy.",
+      "ALARM: Easily hear the alarm around the home with a loud nine-second ring.",
+      "GREAT FOR LEARNING: Easy to use for timing projects and assignments for school.",
+      "BOOST PRODUCTIVITY: Set a timer to focus on a project and allow 5 minutes of rest to break work into intervals. Also great for a hair stylist to set the alarm for client rinse times, especially when dealing with more than one customer at a time."
+    ],
+    "description": [
+      "Never miss a minute with the Taylor Precision Products Pro Stainless Steel Mechanical Timer Keep track of time in the kitchen and more with this mechanical timer Count down times up to 60 minutes with the twist of a dial Simply turn the dial to the desired time setting and the alarm rings once it reaches the zero mark Bold black graphics on the large dial face make setting times easy Easily hear the alarm around the home with a loud 9-second ring."
+    ],
+    "price": 9.58,
+    "store": "Taylor",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Thermometers & Timers",
+      "Timers"
+    ],
+    "details": {
+      "Color": "Multicolor",
+      "Brand": "Taylor",
+      "Material": "Plastic",
+      "Product Dimensions": "1\"D x 1\"W x 1\"H",
+      "Number of settings": "11",
+      "Human Interface Input": "Dial",
+      "Item Weight": "5.3 ounces",
+      "Department": "Electronics",
+      "Manufacturer": "Lifetime Brands Inc.",
+      "Country of Origin": "China",
+      "Item model number": "5830",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 5846,
+        "Timers": 25
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 29, 2004"
+    },
+    "parent_asin": "B001U21Q78",
+    "bought_together": null
+  }
+}

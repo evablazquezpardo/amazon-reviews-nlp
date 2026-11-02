@@ -1,0 +1,42 @@
+{
+  "id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA_B01N47ZYYT_1524179447445",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. junk",
+  "asin": "B01N47ZYYT",
+  "parent_asin": "B01N47ZYYT",
+  "user_id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA",
+  "timestamp": 1524179447445,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Jumbl Sofa or Loveseat Saver (Loveseat",
+    "average_rating": 3.6,
+    "rating_number": 33,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Jumbl",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Sofas & Couches"
+    ],
+    "details": {
+      "Product Dimensions": "44.02 x 20 x 0.51 inches",
+      "Item model number": "1235",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 25, 2017",
+      "Style": "Modern",
+      "Pattern": "Solid",
+      "Number of Items": "1",
+      "Brand": "Jumbl"
+    },
+    "parent_asin": "B01N47ZYYT",
+    "bought_together": null
+  }
+}

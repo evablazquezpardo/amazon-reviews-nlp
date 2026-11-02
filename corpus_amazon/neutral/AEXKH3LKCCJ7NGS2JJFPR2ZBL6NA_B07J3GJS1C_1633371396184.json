@@ -1,0 +1,55 @@
+{
+  "id": "AEXKH3LKCCJ7NGS2JJFPR2ZBL6NA_B07J3GJS1C_1633371396184",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Fair quality",
+  "text": "Fair quality. Item was much lighter that I expected.  Does not keep hot beverages hot for long. I was disappointed in the quality.",
+  "asin": "B00UUX3CAW",
+  "parent_asin": "B07J3GJS1C",
+  "user_id": "AEXKH3LKCCJ7NGS2JJFPR2ZBL6NA",
+  "timestamp": 1633371396184,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Spoontiques Smiley Face Insulated Travel Mug, Yellow",
+    "average_rating": 4.5,
+    "rating_number": 12126,
+    "features": [
+      "Insulated Travel Mug",
+      "Acrylic with a Stainless Steel Inner Wall",
+      "15 Ounce Capacity",
+      "Keeps Drinks Hot or Cold",
+      "Fits in Most Vehicle Cup holders"
+    ],
+    "description": [
+      "This Insulated Travel Mug is great for anyone on the go. It holds 15 ounces and keeps your drink warm or cold with the double walled, stainless steel inner wall. With a sliding lock lid and skid platted bottom it's a fantastic travel companion! Hand wash."
+    ],
+    "price": null,
+    "store": "Spoontiques",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Novelty",
+      "Drinkware",
+      "Coffee Mugs"
+    ],
+    "details": {
+      "Product Dimensions": "4.6 x 3.3 x 7 inches",
+      "Item Weight": "6.4 ounces",
+      "Manufacturer": "Spoontiques",
+      "Item model number": "17227",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 6305,
+        "Insulated Cups & Mugs": 22,
+        "Novelty Coffee Mugs": 48,
+        "Glassware & Drinkware": 411
+      },
+      "Date First Available": "December 4, 2013"
+    },
+    "parent_asin": "B07J3GJS1C",
+    "bought_together": null
+  }
+}

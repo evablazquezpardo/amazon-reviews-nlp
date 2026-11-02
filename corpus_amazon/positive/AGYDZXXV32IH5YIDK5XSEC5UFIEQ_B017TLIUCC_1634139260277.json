@@ -1,0 +1,38 @@
+{
+  "id": "AGYDZXXV32IH5YIDK5XSEC5UFIEQ_B017TLIUCC_1634139260277",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great product at great price.",
+  "text": "Great product at great price.. Great product at great price.",
+  "asin": "B017TLIUCC",
+  "parent_asin": "B017TLIUCC",
+  "user_id": "AGYDZXXV32IH5YIDK5XSEC5UFIEQ",
+  "timestamp": 1634139260277,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "50 Red Castor Castor Bean Ricinus Communis Non-GMO Seeds ~ Chris's Garden",
+    "average_rating": 3.9,
+    "rating_number": 187,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "RORCHIO",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Plants & Greenery"
+    ],
+    "details": {
+      "Package Dimensions": "6.22 x 4.21 x 0.59 inches",
+      "Item Weight": "1.13 ounces",
+      "Item model number": "A0019-9",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B017TLIUCC",
+    "bought_together": null
+  }
+}

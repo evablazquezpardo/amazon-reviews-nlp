@@ -1,0 +1,55 @@
+{
+  "id": "AH4FT75HQYRS36JB6KL2JJNWSP2Q_B00JYA79NI_1498576582935",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "not for me",
+  "text": "not for me. Legs are too tall and don't fit in stove",
+  "asin": "B00FK6TQEA",
+  "parent_asin": "B00JYA79NI",
+  "user_id": "AH4FT75HQYRS36JB6KL2JJNWSP2Q",
+  "timestamp": 1498576582935,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Pleasant Hearth - 3/4\" Premium Solid Steel Fireplace Grates - Lifetime Warranty, Black, 30-Inch",
+    "average_rating": 4.6,
+    "rating_number": 1343,
+    "features": [
+      "8 bars",
+      "Heavy duty steel construction with 3/4\" solid bars",
+      "Lifts firewood off the chimney floor allowing air to circulate",
+      "Design to safely contain firewood, ideal for most wood burning fireplaces",
+      "Heat resistant black finish"
+    ],
+    "description": [
+      "The 30\" LIFETIME steel grate is crafted from thick 3/4 inch solid steel rods. This grate will lift the firewood off the chimney floor allowing air to better circulate, while providing a more robust fire. This heavy duty grate is guaranteed to last you for years and is backed by a LIFETIME warranty!"
+    ],
+    "price": 98.9,
+    "store": "Pleasant Hearth",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Stove & Fireplace Accessories",
+      "Fireplace Grates"
+    ],
+    "details": {
+      "Product Dimensions": "30 x 15.25 x 7 inches",
+      "Item Weight": "30.2 pounds",
+      "Manufacturer": "Pleasant Hearth",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More",
+      "Item model number": "BG7-308M",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 887244,
+        "Fireplace Grates": 54
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00JYA79NI",
+    "bought_together": null
+  }
+}

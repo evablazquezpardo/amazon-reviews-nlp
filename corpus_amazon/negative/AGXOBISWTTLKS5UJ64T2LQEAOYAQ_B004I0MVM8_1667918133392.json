@@ -1,0 +1,49 @@
+{
+  "id": "AGXOBISWTTLKS5UJ64T2LQEAOYAQ_B004I0MVM8_1667918133392",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not the same",
+  "text": "Not the same. Bought this in 2020nand it is incredible. Still have it and it is fantastic. This is not the same smell. At all.  This stinks.",
+  "asin": "B004I0MVM8",
+  "parent_asin": "B004I0MVM8",
+  "user_id": "AGXOBISWTTLKS5UJ64T2LQEAOYAQ",
+  "timestamp": 1667918133392,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Golden Amber Resin 5 Grams",
+    "average_rating": 4.3,
+    "rating_number": 112,
+    "features": [
+      "Finest Amber Resin of India, our amber resin is #1 grade"
+    ],
+    "description": [
+      "With light floral sweet smell, it can be worn on skin or can be burnt on charcoal tablet for aroma."
+    ],
+    "price": 6.99,
+    "store": "New Age",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Incense & Incense Holders",
+      "Incense"
+    ],
+    "details": {
+      "Package Dimensions": "4.57 x 2.99 x 0.71 inches",
+      "Item Weight": "0.317 ounces",
+      "Manufacturer": "New Age Imports",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 562786,
+        "Incense": 1615
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Perfume": "Amber",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B004I0MVM8",
+    "bought_together": null
+  }
+}

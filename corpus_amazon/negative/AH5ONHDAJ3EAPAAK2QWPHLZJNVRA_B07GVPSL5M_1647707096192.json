@@ -1,0 +1,61 @@
+{
+  "id": "AH5ONHDAJ3EAPAAK2QWPHLZJNVRA_B07GVPSL5M_1647707096192",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Terrible customer service",
+  "text": "Terrible customer service. The machine worked for two weeks then broke down.  The back and forth correspondence with TBeco customer service has been pointless.  I won't recommend this product to anybody.",
+  "asin": "B01FV1EXM8",
+  "parent_asin": "B07GVPSL5M",
+  "user_id": "AH5ONHDAJ3EAPAAK2QWPHLZJNVRA",
+  "timestamp": 1647707096192,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Beko Turkish Coffee Maker, 120V Coffee Brewing Machine, 2-Cup Capacity, 100% BPA Free, Excellent Taste with Cooksense Technology, Ready in 3 Minutes",
+    "average_rating": 4.4,
+    "rating_number": 789,
+    "features": [
+      "PERFECT COFFEE EVERY TIME: BEKO's CookSense brewing technology gives you the consistency and excellent taste you are looking for in every cup.",
+      "DELICIOUS DOUBLE FOAM: The Turkish Coffee Maker follows a traditional brewing method with a precise temperature to prepare an excellent cup of Turkish coffee with extra foam.",
+      "READY IN 3 MINUTES: It takes only three minutes to prepare two perfect cups of Turkish coffee and enjoy right in your home. The sound and light indicators will simply notify the stages of preparation.",
+      "EASY TO CLEAN: The brewing pot can be easily removed, cleaned, and hand-washed.",
+      "120V PLUG: The Turkish Coffee Maker is designed for North American electrical outlets, and does not require any additional adapters to use."
+    ],
+    "description": [],
+    "price": 134.99,
+    "store": "Beko",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Coffee Machines"
+    ],
+    "details": {
+      "Brand": "Beko",
+      "Color": "Black",
+      "Product Dimensions": "6\"D x 6.75\"W x 9.5\"H",
+      "Coffee Maker Type": "Turkish Coffee Machine",
+      "Filter Type": "Reusable",
+      "Specific Uses For Product": "Coffee maker",
+      "Operation Mode": "Manual",
+      "Number of Items": "1",
+      "Human Interface Input": "Buttons",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "4.74 pounds",
+      "Item model number": "BKK2300",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 196676,
+        "Coffee Machines": 295
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 18, 2016",
+      "Capacity 1 Cups": "",
+      "": "Voltage 120 Volts"
+    },
+    "parent_asin": "B07GVPSL5M",
+    "bought_together": null
+  }
+}

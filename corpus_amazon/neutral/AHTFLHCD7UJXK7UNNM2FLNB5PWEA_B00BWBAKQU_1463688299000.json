@@ -1,0 +1,59 @@
+{
+  "id": "AHTFLHCD7UJXK7UNNM2FLNB5PWEA_B00BWBAKQU_1463688299000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. bought as a gift",
+  "asin": "B00BWBAKQU",
+  "parent_asin": "B00BWBAKQU",
+  "user_id": "AHTFLHCD7UJXK7UNNM2FLNB5PWEA",
+  "timestamp": 1463688299000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ceramic 3.5Qt Covered Casserole Dish",
+    "average_rating": 3.5,
+    "rating_number": 12,
+    "features": [
+      "Ideal for casseroles, vegetables, baked pastas and more",
+      "Dishwasher safe",
+      "Comes with a coordinating lid",
+      "Made of ceramic",
+      "Color: White"
+    ],
+    "description": [
+      "Our ceramic casserole dish keeps food warm longer than other baking dishes and can go from the oven to table and freezer to microwave with ease. This casserole dish is an attractive high-performance item. The simple white look will fit in with any existin"
+    ],
+    "price": null,
+    "store": "Anchor Hocking",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Bakers & Casseroles",
+      "Casseroles"
+    ],
+    "details": {
+      "Material": "Ceramic",
+      "Brand": "Anchor Hocking",
+      "Color": "White",
+      "Finish Type": "Painted",
+      "Shape": "Round",
+      "Capacity": "3.31 Liters",
+      "Item Weight": "0.01 Ounces",
+      "Product Care Instructions": "Dishwasher Safe",
+      "With Lid": "Yes",
+      "Is Oven Safe": "Yes",
+      "Is Dishwasher Safe": "Yes",
+      "Product Dimensions": "11.9 x 11 x 5.5 inches",
+      "Manufacturer": "ANCHOR HOCKING",
+      "Item model number": "95924",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 18, 2013"
+    },
+    "parent_asin": "B00BWBAKQU",
+    "bought_together": null
+  }
+}

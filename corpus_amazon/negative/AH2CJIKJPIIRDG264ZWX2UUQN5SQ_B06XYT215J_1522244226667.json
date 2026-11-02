@@ -1,0 +1,40 @@
+{
+  "id": "AH2CJIKJPIIRDG264ZWX2UUQN5SQ_B06XYT215J_1522244226667",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Pass",
+  "text": "Pass. Frame arrived very late, was broken and leaking upon arrival.",
+  "asin": "B06XYT215J",
+  "parent_asin": "B06XYT215J",
+  "user_id": "AH2CJIKJPIIRDG264ZWX2UUQN5SQ",
+  "timestamp": 1522244226667,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "fiz Small Glitter Photo Frame",
+    "average_rating": 2.4,
+    "rating_number": 2,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Photo Albums, Frames & Accessories",
+      "Picture Frames",
+      "Wall & Tabletop Frames"
+    ],
+    "details": {
+      "Product Dimensions": "3.74 x 2.36 x 0.98 inches",
+      "Item Weight": "4.2 ounces",
+      "Item model number": "TRTAZ11A",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B06XYT215J",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "AGXFB2KKVUFFURDZDWAZJAV35OHQ_B00K38NNQ2_1416187553000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Kitchen Mat",
+  "text": "Kitchen Mat. This mat does not slide, but it is not very soft to step on.  Not very comfortable.",
+  "asin": "B00K38NNQ2",
+  "parent_asin": "B00K38NNQ2",
+  "user_id": "AGXFB2KKVUFFURDZDWAZJAV35OHQ",
+  "timestamp": 1416187553000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Zinus SR Home Gel Memory Foam Comfort Kitchen Mat, Standard Size",
+    "average_rating": 3.3,
+    "rating_number": 78,
+    "features": [
+      "1/2\" of high density memory foam; CertiPUR-US certified foam",
+      "Foam is ventilated and features a gel layer, combined to help keep the surface of the mat cooler",
+      "Help relieve backache and fatigue while prepping and cooking in the kitchen",
+      "Cover: synthetic leather with non-slip backing",
+      "Measurements: 21\"x31\"x0.5\""
+    ],
+    "description": [],
+    "price": null,
+    "store": "Zinus",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Kitchen Accessories",
+      "Comfort Mats"
+    ],
+    "details": {},
+    "parent_asin": "B00K38NNQ2",
+    "bought_together": null
+  }
+}

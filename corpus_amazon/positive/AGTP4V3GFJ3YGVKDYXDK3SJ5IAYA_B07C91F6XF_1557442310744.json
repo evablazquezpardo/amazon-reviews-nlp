@@ -1,0 +1,54 @@
+{
+  "id": "AGTP4V3GFJ3YGVKDYXDK3SJ5IAYA_B07C91F6XF_1557442310744",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Incense sticks",
+  "text": "Incense sticks. It s ok",
+  "asin": "B004B40LNW",
+  "parent_asin": "B07C91F6XF",
+  "user_id": "AGTP4V3GFJ3YGVKDYXDK3SJ5IAYA",
+  "timestamp": 1557442310744,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "HEM French Vanilla Incense, 240 Sticks Box",
+    "average_rating": 4.4,
+    "rating_number": 3466,
+    "features": [
+      "Quality incense from hem, one of the leading incense makers in India",
+      "Box containing twelve 20 stick tubes of incense, for about 240 sticks total",
+      "Hand-rolled in India to exacting quality standards"
+    ],
+    "description": [],
+    "price": 12.0,
+    "store": "HEM",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Incense & Incense Holders",
+      "Incense"
+    ],
+    "details": {
+      "Product Dimensions": "9.75 x 9 x 0.75 inches",
+      "Item Weight": "8.5 ounces",
+      "Manufacturer": "HEM",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 22573,
+        "Incense": 50
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Perfume": "French Vanilla",
+      "Batteries required": "No",
+      "Brand": "HEM",
+      "Item Form": "Sticks",
+      "Material": "Other",
+      "Scent": "French Vanilla",
+      "Item Length": "9.75 inches"
+    },
+    "parent_asin": "B07C91F6XF",
+    "bought_together": null
+  }
+}

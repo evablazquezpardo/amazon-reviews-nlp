@@ -1,0 +1,58 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B07STN8DRL_1651921225208",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "pale - returned",
+  "text": "pale - returned. hated color and didnt seem food safe",
+  "asin": "B07STN8DRL",
+  "parent_asin": "B07STN8DRL",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1651921225208,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kaizen Casa Acacia Wood Salt or Spice Box with Swivel Cover perfect for keeping table salt, gourmet salts, herbs or favorite seasonings, close at hand on your countertop.",
+    "average_rating": 4.6,
+    "rating_number": 1996,
+    "features": [
+      "CORNERLESS: The interior forms a smooth bowl that is easy to pinch ingredients from as well as clean. Single piece sidewall/bottom creates a beautiful look",
+      "ELEGANT: We designed it to feature a clean, seamless lid and body, no wood plugs, no filler. Just beautiful lines.",
+      "Made from gorgeous acacia wood, known for its unique and natural contrasting patterns",
+      "Conveniently swivels open and closed to protect contents inside and keep them fresher longer",
+      "DIMENSIONS: 3.5\"diameter by 2.5 in tall."
+    ],
+    "description": [
+      "Keep spices stylishly stored with this Acacia Salt Box with Swivel Cover. Crafted of solid acacia wood, it is noted for its durability, sustainability, and gorgeous wood grain. The unique swivel cover allows easy access but offers protection when not in use. Perfect for storing specialty salts, spices or even small household items."
+    ],
+    "price": 9.99,
+    "store": "Kaizen Casa",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Seasoning & Spice Tools",
+      "Spice Cellars"
+    ],
+    "details": {
+      "Material": "Wood",
+      "Color": "Brown",
+      "Brand": "Kaizen Casa",
+      "Item Weight": "0.44 Pounds",
+      "Number of Pieces": "1",
+      "Shape": "Round",
+      "Product Dimensions": "3.5\"L x 3.5\"W x 2.5\"H",
+      "Manufacturer": "Kaizen Casa",
+      "Country of Origin": "India",
+      "Item model number": "KC013",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 2021,
+        "Spice Cellars": 2
+      },
+      "Date First Available": "June 8, 2019"
+    },
+    "parent_asin": "B07STN8DRL",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "AF224BZVIYKHVGJGPKGC3UAVTLQQ_B0017PHQ6S_1441659146000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Returned as too flexible for my needs",
+  "asin": "B0017PHQ6S",
+  "parent_asin": "B0017PHQ6S",
+  "user_id": "AF224BZVIYKHVGJGPKGC3UAVTLQQ",
+  "timestamp": 1441659146000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "Generic 32-1830-03 Flexible Crevice Tool for all Vacuum Hoses",
+    "average_rating": 3.8,
+    "rating_number": 1105,
+    "features": [
+      "24\" Long",
+      "Flexible, bends up to 180 degrees",
+      "Allows cleaning in hard to reach areas",
+      "Great for dryer vents, heating ducts, along side the refrigerator",
+      "Fits all vacuums accepting 1 1/4\" inner diameter attachments"
+    ],
+    "description": [],
+    "price": 13.99,
+    "store": "Generic",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Attachments & Brushes",
+      "Attachments"
+    ],
+    "details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "23.62 x 0.98 x 0.98 inches; 5.61 Ounces",
+      "Item model number": "ZVac24inchcrevice",
+      "Date First Available": "April 11, 2008",
+      "Manufacturer": "Generic"
+    },
+    "parent_asin": "B0017PHQ6S",
+    "bought_together": null
+  }
+}

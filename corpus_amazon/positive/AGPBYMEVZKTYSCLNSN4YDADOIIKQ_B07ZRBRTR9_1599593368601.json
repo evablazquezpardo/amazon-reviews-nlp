@@ -1,0 +1,50 @@
+{
+  "id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ_B07ZRBRTR9_1599593368601",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Very nice",
+  "text": "Very nice. Wonderful accent piece and great magazine stand or for books.",
+  "asin": "B07ZRBRTR9",
+  "parent_asin": "B07ZRBRTR9",
+  "user_id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ",
+  "timestamp": 1599593368601,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "9 PLUS End Table Oval Side Table with Storage Nightstand Magazine Table, White",
+    "average_rating": 4.2,
+    "rating_number": 108,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "9 Plus",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Bedroom Furniture",
+      "Nightstands"
+    ],
+    "details": {
+      "Product Dimensions": "15.4\"D x 11.4\"W x 23.4\"H",
+      "Shape": "Oval",
+      "Brand": "9 Plus",
+      "Table design": "End Table",
+      "Special Feature": "Storage",
+      "Style": "Modern",
+      "Room Type": "Living Room",
+      "Top Material Type": "Engineered Wood",
+      "Base Type": "Legs",
+      "Pattern": "Solid",
+      "Frame Material": "Engineered Wood",
+      "Assembly Required": "Yes",
+      "Furniture Finish": "white",
+      "Item Weight": "7.93 pounds",
+      "Item model number": "P17W",
+      "Date First Available": "July 21, 2020"
+    },
+    "parent_asin": "B07ZRBRTR9",
+    "bought_together": null
+  }
+}

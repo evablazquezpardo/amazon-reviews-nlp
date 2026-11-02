@@ -1,0 +1,53 @@
+{
+  "id": "AFPBVAEV3FCQOHKJJGAKQLZLTCZQ_B06XD2NHL1_1621960977597",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great value for price",
+  "text": "Great value for price. Fit perfectly",
+  "asin": "B01EGERR3I",
+  "parent_asin": "B06XD2NHL1",
+  "user_id": "AFPBVAEV3FCQOHKJJGAKQLZLTCZQ",
+  "timestamp": 1621960977597,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "AF Replacement Holmes Carbon Filters HAPF60, CP-6011 Filter C, 4 Pack",
+    "average_rating": 4.5,
+    "rating_number": 172,
+    "features": [
+      "4-Pack Premium Aftermarket Carbon Pre-Filters (HAPF60) Made in the USA",
+      "Fits Holmes air purifiers models: HAP242, HAP412, HAP422, HAP424, HAP615, HAP625, HAP633, HAP650, HAP675RC, HAP702, HAP706, HAP716, HAP725, HAP726, HAP750, HAP756, HAP1200, HAP1201, HAP1702, HAP8615, HAP8650, HAP8756, HAP9240, HAP9241, HAP9242, HAP9243, HAP9412, HAP9413, HAP9414, HAP9415, HAP9422, HAP9423, HAP9424",
+      "Fits Bionaire model air purifiers: BAP260, BAP520, BAP615, BAP625, BAP650, BAP815, BAP825, BAP1125, BAP1150, BAP1175, BAP1225, BAP1250, BAP1300, BAP1412, BAP9200, BAP9700, CBAP520",
+      "Fits Claritin model air purifiers: CAP529, CAP 531, CBAP531",
+      "Also fits GE Models: 106633,106643,106653,106569,106853"
+    ],
+    "description": [
+      "Premium Replacement Carbon Odor Filters naturally deodorizes the air by absorbing and eliminating odors that may come from pets, garbage, bathrooms, smoke, litter boxes or cooking. These replacement carbon filters are for use in Holmes and Bionaire branded air cleaners. Also fits some GE brand air cleaners. OEM MFR part# HAPF60 filter c 4-pack. Filters measure 6\"x9.25\" and are approximately .25\" thick Filters by All-Filters, Inc."
+    ],
+    "price": 9.25,
+    "store": "AF",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Purifier Parts & Accessories"
+    ],
+    "details": {
+      "Product Dimensions": "6\"L x 0.75\"W x 9.25\"Th",
+      "Item Weight": "0.04 Pounds",
+      "Manufacturer": "All-Filters, Inc",
+      "Item model number": "HAPF60",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 494040,
+        "Home Air Purifier Parts & Accessories": 2551
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Brand": "AF"
+    },
+    "parent_asin": "B06XD2NHL1",
+    "bought_together": null
+  }
+}

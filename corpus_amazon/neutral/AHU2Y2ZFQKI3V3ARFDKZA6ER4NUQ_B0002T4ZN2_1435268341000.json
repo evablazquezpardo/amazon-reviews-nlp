@@ -1,0 +1,50 @@
+{
+  "id": "AHU2Y2ZFQKI3V3ARFDKZA6ER4NUQ_B0002T4ZN2_1435268341000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Cheap stuff",
+  "text": "Cheap stuff. OK if you're not picky.",
+  "asin": "B0002T4ZN2",
+  "parent_asin": "B0002T4ZN2",
+  "user_id": "AHU2Y2ZFQKI3V3ARFDKZA6ER4NUQ",
+  "timestamp": 1435268341000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Oggi Stack 'N Store 4 Piece Canister Set, White",
+    "average_rating": 3.9,
+    "rating_number": 101,
+    "features": [
+      "4 Piece Stack n' Store acrylic canister set",
+      "One touch easy lift off lids; airtight; superior lid locks to keep contents fresh",
+      "Set includes 18, 36, 60 and 92 ounce containers",
+      "Stackable; saves vital cupboard space",
+      "Dishwasher safe, top rack only"
+    ],
+    "description": [
+      "The Stack n' Store 4-pc. Canister Set is an easy solution for storing your dry goods. The simple, plastic, stackable canisters feature easy-off lids and superior lid locks. Pasta, cereal, flour or coffee all stay fresh in the airtight storage of the Stack 'n Store 4-pc. Canister Set. Easy to fit in your pantry or cupboards, this simple design also looks great on display. Dishwasher safe. Imported. 9-1/2Hx6\" dia. 8Hx5-1/4\" dia. 6-1/2Hx4-1/2\" dia. 5-1/4Hx4\" dia."
+    ],
+    "price": null,
+    "store": "Oggi",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "6.75 x 6.75 x 10 inches",
+      "Item Weight": "2.05 pounds",
+      "Manufacturer": "Oggi",
+      "Item model number": "5383.1",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 30, 2004"
+    },
+    "parent_asin": "B0002T4ZN2",
+    "bought_together": null
+  }
+}

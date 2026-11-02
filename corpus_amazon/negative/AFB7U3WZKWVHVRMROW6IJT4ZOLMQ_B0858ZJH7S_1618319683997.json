@@ -1,0 +1,48 @@
+{
+  "id": "AFB7U3WZKWVHVRMROW6IJT4ZOLMQ_B0858ZJH7S_1618319683997",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Waste of money",
+  "text": "Waste of money. Terrible don’t buy it. It doesn’t work.",
+  "asin": "B0858ZJH7S",
+  "parent_asin": "B0858ZJH7S",
+  "user_id": "AFB7U3WZKWVHVRMROW6IJT4ZOLMQ",
+  "timestamp": 1618319683997,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Portable Air Conditioner Fan, KUUOTE Personal Space Air Cooler Quiet Desk Fan Mini Evaporative Cooler with 7 Colors Night Light, Air Circulator Humidifier Misting Fan for Home Office Bedroom, Black",
+    "average_rating": 3.1,
+    "rating_number": 1400,
+    "features": [],
+    "description": [],
+    "price": 37.99,
+    "store": "KUUOTE",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Conditioners",
+      "Portable"
+    ],
+    "details": {
+      "Brand": "KUUOTE",
+      "Mounting Type": "Freestanding",
+      "Color": "Black",
+      "Controls Type": "Remote",
+      "Item Weight": "0.88 Kilograms",
+      "Form Factor": "Personal",
+      "Wattage": "10 watts",
+      "Number of Speeds": "3",
+      "Product Dimensions": "5.1\"D x 5.1\"W x 8.3\"H",
+      "Package Dimensions": "11.14 x 5.91 x 5.79 inches",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 714701,
+        "Portable Air Conditioners": 618
+      }
+    },
+    "parent_asin": "B0858ZJH7S",
+    "bought_together": null
+  }
+}

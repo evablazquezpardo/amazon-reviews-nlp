@@ -1,0 +1,50 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B00EODPCCK_1388062706000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Goebel",
+  "text": "Goebel. Gift for family. To me, looks like dime store stuff.  Cost $49 too high. Very very small. It must be the collectiable thing? Not impressed.",
+  "asin": "B00EODPCCK",
+  "parent_asin": "B00EODPCCK",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1388062706000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "2013 Goebel Annual Dated Angel Bell Ornament (Color - Margarita) 38th Edition",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+      "annual edition"
+    ],
+    "description": [
+      "Goebel Angel Bell"
+    ],
+    "price": 49.99,
+    "store": "Goebel",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Hanging Ornaments"
+    ],
+    "details": {
+      "Brand": "Goebel",
+      "Theme": "Religious",
+      "Shape": "Bell",
+      "Item Package Quantity": "1",
+      "Unit Count": "1.0 Count",
+      "Item Weight": "1 pounds",
+      "Scent": "Unscented",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 6115099,
+        "Decorative Hanging Ornaments": 172815
+      },
+      "Date First Available": "September 28, 2013"
+    },
+    "parent_asin": "B00EODPCCK",
+    "bought_together": null
+  }
+}

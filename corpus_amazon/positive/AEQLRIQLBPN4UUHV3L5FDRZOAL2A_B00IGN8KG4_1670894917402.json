@@ -1,0 +1,50 @@
+{
+  "id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A_B00IGN8KG4_1670894917402",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "heavy and well made",
+  "text": "heavy and well made. well made and heavy.  not decorated beautifully tho",
+  "asin": "B00IGN8KG4",
+  "parent_asin": "B00IGN8KG4",
+  "user_id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A",
+  "timestamp": 1670894917402,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "\"Mr. & Mrs.\" \"His\" Mug, 4.5\" H",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+      "High quality ceramic",
+      "Measures 4.5\" in heightHolds 14 ounces"
+    ],
+    "description": [
+      "Stylishly decorated; this one's for \"him\". One for \"her\" is also available."
+    ],
+    "price": null,
+    "store": "Carson Home",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cups, Mugs, & Saucers",
+      "Coffee Cups & Mugs"
+    ],
+    "details": {
+      "Product Dimensions": "4.5 x 3 x 5.5 inches",
+      "Item Weight": "1 Pounds",
+      "Manufacturer": "Carson Home",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 15, 2014",
+      "Brand": "Carson Home",
+      "Material": "Ceramic",
+      "Product Care Instructions": "Hand Wash Only",
+      "Unit Count": "1 Count"
+    },
+    "parent_asin": "B00IGN8KG4",
+    "bought_together": null
+  }
+}

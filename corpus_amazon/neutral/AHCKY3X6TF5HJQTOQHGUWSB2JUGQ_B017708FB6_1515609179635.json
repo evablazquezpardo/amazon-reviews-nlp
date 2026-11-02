@@ -1,0 +1,48 @@
+{
+  "id": "AHCKY3X6TF5HJQTOQHGUWSB2JUGQ_B017708FB6_1515609179635",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Rather tight fitting and not impressed at all",
+  "asin": "B017708FB6",
+  "parent_asin": "B017708FB6",
+  "user_id": "AHCKY3X6TF5HJQTOQHGUWSB2JUGQ",
+  "timestamp": 1515609179635,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": null,
+    "title": "6 Reusable Microfiber Replacement Pads Compatible with Swiffer Bissell Steamboost",
+    "average_rating": 3.9,
+    "rating_number": 83,
+    "features": [
+      "Product Measurements 10\" x 5\"",
+      "Reusable: Machine wash, tumble dry or line dry",
+      "70% Polyester and 30% polyamide",
+      "adjustable draw string opening ensures a perfectly snug fit",
+      "Quantity: 6 Pads"
+    ],
+    "description": [],
+    "price": 19.99,
+    "store": "HollywoodLightsLA",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Steam Cleaners, Steam Mops & Accessories",
+      "Steam Cleaner & Steam Mop Accessories"
+    ],
+    "details": {
+      "Manufacturer": "HollywoodlightsLA",
+      "Item model number": "6ST",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1642334,
+        "Steam Cleaner & Steam Mop Accessories": 649
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 26, 2015"
+    },
+    "parent_asin": "B017708FB6",
+    "bought_together": null
+  }
+}

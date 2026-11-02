@@ -1,0 +1,50 @@
+{
+  "id": "AFKSYG2XHOCLCVDDKEZMWQTFFG7A_B00IOV445O_1426606812000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. awesome.",
+  "asin": "B00IOV445O",
+  "parent_asin": "B00IOV445O",
+  "user_id": "AFKSYG2XHOCLCVDDKEZMWQTFFG7A",
+  "timestamp": 1426606812000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "1 X Disney the Muppets, Kermit and Miss Piggy, Ceramic Mug",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Mug",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cups, Mugs, & Saucers",
+      "Coffee Cups & Mugs"
+    ],
+    "details": {
+      "Brand": "Mug",
+      "Material": "Ceramic",
+      "Style": "Modern",
+      "Theme": "Disney",
+      "Shape": "Round",
+      "Pattern": "Cartoon",
+      "Product Care Instructions": "Machine Wash, Microwave Safe",
+      "Age Range (Description)": "Kid",
+      "Unit Count": "1.0 Count",
+      "Number of Items": "1",
+      "Product Dimensions": "5 x 4 x 4 inches",
+      "Item Weight": "8 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 27, 2014"
+    },
+    "parent_asin": "B00IOV445O",
+    "bought_together": null
+  }
+}

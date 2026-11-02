@@ -1,0 +1,39 @@
+{
+  "id": "AECABX3OO3GK7FCPZLFM3LT2E6UA_B07ZTSHKHQ_1602853742343",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great",
+  "text": "Great. Aunt loves it - very pretty - well boxed",
+  "asin": "B07ZTSHKHQ",
+  "parent_asin": "B07ZTSHKHQ",
+  "user_id": "AECABX3OO3GK7FCPZLFM3LT2E6UA",
+  "timestamp": 1602853742343,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Vintage 1930 Etched 17oz Stemless Wine Glass - 90th Birthday Aged to Perfection - 90 Years Old Gifts",
+    "average_rating": 4.8,
+    "rating_number": 62,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Spotted Dog Company",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Wine & Champagne Glasses",
+      "Wine Glasses"
+    ],
+    "details": {
+      "Package Dimensions": "6.81 x 4.45 x 4.37 inches",
+      "Item Weight": "10.2 ounces",
+      "Date First Available": "November 17, 2019"
+    },
+    "parent_asin": "B07ZTSHKHQ",
+    "bought_together": null
+  }
+}

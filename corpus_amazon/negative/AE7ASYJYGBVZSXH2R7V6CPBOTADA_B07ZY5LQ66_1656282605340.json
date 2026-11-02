@@ -1,0 +1,62 @@
+{
+  "id": "AE7ASYJYGBVZSXH2R7V6CPBOTADA_B07ZY5LQ66_1656282605340",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not black and white.  It’s grey.",
+  "text": "Not black and white.  It’s grey.. So upset.  It’s grey.",
+  "asin": "B07FR53WPM",
+  "parent_asin": "B07ZY5LQ66",
+  "user_id": "AE7ASYJYGBVZSXH2R7V6CPBOTADA",
+  "timestamp": 1656282605340,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Creative Co-op DF0131 Black & White Gingham Stoneware Pitcher",
+    "average_rating": 4.6,
+    "rating_number": 351,
+    "features": [
+      "Made with stoneware",
+      "Holds 64 ounces",
+      "Black & white gingham design",
+      "7.75\"L x 5\"W x 9.5\"H",
+      "Hand wash only"
+    ],
+    "description": [
+      "This multifunctional stoneware pitcher is perfect for any kitchen. Use it for display, serving, or even make it a vase by adding beautiful flowers."
+    ],
+    "price": 42.99,
+    "store": "Creative Co-Op",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Serveware",
+      "Beverage Serveware",
+      "Jugs"
+    ],
+    "details": {
+      "Brand": "Creative Co-Op",
+      "Material": "Stoneware",
+      "Color": "Black",
+      "Capacity": "4 Pounds",
+      "Style": "Pitcher",
+      "Product Dimensions": "7.8\"W x 9.5\"H",
+      "Shape": "Irregular",
+      "Item Weight": "2.4 pounds",
+      "Manufacturer": "Creative Co-Op",
+      "Country of Origin": "China",
+      "Item model number": "DF0131",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 206240,
+        "Jugs": 757
+      },
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07ZY5LQ66",
+    "bought_together": null
+  }
+}

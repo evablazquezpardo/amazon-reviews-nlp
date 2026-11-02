@@ -1,0 +1,41 @@
+{
+  "id": "AGTW6ZGPUAORQ7X6CNBP6PJW7OTA_B07V6XSYYX_1582173648049",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not Bad, but Not Good",
+  "text": "Not Bad, but Not Good. Decent quality for the price, but these are definitely not high quality towels.",
+  "asin": "B07V6XSYYX",
+  "parent_asin": "B07V6XSYYX",
+  "user_id": "AGTW6ZGPUAORQ7X6CNBP6PJW7OTA",
+  "timestamp": 1582173648049,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Beauty Threadz, Bath Towel Set, 100% Cotton, Set of 8 for Maximum Softness, 12 x 12, 15 x 25, 27 x 52, Grey, sage Green, Chocolate, Camel Taupe(Turquoise, 27x52)",
+    "average_rating": 2.6,
+    "rating_number": 4,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Beauty Threadz",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Towel Sets"
+    ],
+    "details": {
+      "Package Dimensions": "13.2 x 9.1 x 4.7 inches",
+      "Item Weight": "2.64 pounds",
+      "Date First Available": "December 12, 2019",
+      "Brand": "Beauty Threadz",
+      "Towel form type": "Bath Towel",
+      "Product Care Instructions": "Machine Wash, Tumble Dry",
+      "Fabric Type": "100% Cotton"
+    },
+    "parent_asin": "B07V6XSYYX",
+    "bought_together": null
+  }
+}

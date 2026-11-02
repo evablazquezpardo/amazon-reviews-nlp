@@ -1,0 +1,54 @@
+{
+  "id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q_B0091P3QNI_1452895311000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Best blind ever",
+  "text": "Best blind ever. Love the color, perfect look, good quality",
+  "asin": "B0091P3QNI",
+  "parent_asin": "B0091P3QNI",
+  "user_id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q",
+  "timestamp": 1452895311000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "Lewis Hyman 0240731 Radiance Sahara Woven Wood Bamboo Roll Up Window Blind, 30-Inch Wide by 72-Inch Long, Natural",
+    "average_rating": 3.4,
+    "rating_number": 30,
+    "features": [
+      "All hardware and instructions included",
+      "Matchstick shades come standard with a matching 6 inch valance",
+      "Natural insulation properties effectively block and trap heat",
+      "Constructed of real bamboo and other environmentally friendly materials",
+      "Conforms with C.P.S.C. child safety guidelines"
+    ],
+    "description": [
+      "Product Description",
+      "This exotic Sahara Natural Woven Wood Bamboo Shade will look great with a jute rug in any room. Feel like you are on a Tahitian island as the early morning sunlight glides across the room. Use under other window treatments for an added layer of texture. This bamboo shade softly filters light and rolls up for a rich look. It comes in various measurements that are sure to fit the size of your window.",
+      "From the Manufacturer",
+      "This exotic Sahara Natural Woven Wood Bamboo Shade will look great with a jute rug in any room. Feel like you are on a Tahitian island as the early morning sunlight glides across the room. Use under other window treatments for an added layer of texture. This bamboo shade softly filters light and rolls up for a rich look. It comes in various measurements that are sure to fit the size of your window."
+    ],
+    "price": null,
+    "store": "Lewis Hyman",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Window Treatments",
+      "Blinds & Shades",
+      "Horizontal Blinds"
+    ],
+    "details": {
+      "Material": "Bamboo",
+      "Product Dimensions": "2.4 x 72 x 30 inches; 4.8 Pounds",
+      "Brand": "Lewis Hyman",
+      "Operation Mode": "Manual",
+      "Shape": "Rectangular",
+      "Item model number": "0240731",
+      "UPC": "048037407317",
+      "Manufacturer": "Lewis Hyman"
+    },
+    "parent_asin": "B0091P3QNI",
+    "bought_together": null
+  }
+}

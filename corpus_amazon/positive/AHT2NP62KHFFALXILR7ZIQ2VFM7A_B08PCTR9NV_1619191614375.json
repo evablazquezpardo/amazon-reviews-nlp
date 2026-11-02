@@ -1,0 +1,45 @@
+{
+  "id": "AHT2NP62KHFFALXILR7ZIQ2VFM7A_B08PCTR9NV_1619191614375",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Easy to work. Good value",
+  "text": "Easy to work. Good value. Always wanted one of these. Really easy to work",
+  "asin": "B08PCTR9NV",
+  "parent_asin": "B08PCTR9NV",
+  "user_id": "AHT2NP62KHFFALXILR7ZIQ2VFM7A",
+  "timestamp": 1619191614375,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Vacuum Sealer Machine, One-Touch Operation Food Vacuum Sealer, Food Sealers Vacuum Packing Machine with 15pcs Bags Full Starter Kit - Dry & Moist Food Sealer Modes",
+    "average_rating": 3.3,
+    "rating_number": 19,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "CZNGY",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Specialty Appliances",
+      "Vacuum Sealers"
+    ],
+    "details": {
+      "Package Dimensions": "16.1 x 4 x 3.6 inches",
+      "Item Weight": "1.5 Pounds",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 641508,
+        "Vacuum Sealers": 2631
+      },
+      "Date First Available": "January 13, 2021",
+      "Brand": "CZNGY",
+      "Operation Mode": "Automatic",
+      "Wattage": "135"
+    },
+    "parent_asin": "B08PCTR9NV",
+    "bought_together": null
+  }
+}

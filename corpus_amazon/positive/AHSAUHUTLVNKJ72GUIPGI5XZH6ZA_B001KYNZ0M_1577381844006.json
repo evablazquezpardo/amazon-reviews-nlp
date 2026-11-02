@@ -1,0 +1,40 @@
+{
+  "id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA_B001KYNZ0M_1577381844006",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "It works",
+  "text": "It works. Use it daily on my toothpaste",
+  "asin": "B001KYNZ0M",
+  "parent_asin": "B001KYNZ0M",
+  "user_id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA",
+  "timestamp": 1577381844006,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ez Squeeze Toothpaste Dispenser And More Colors Will vary",
+    "average_rating": 4.4,
+    "rating_number": 213,
+    "features": [
+      "Abs"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Hendlent",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories"
+    ],
+    "details": {
+      "Brand": "Hendlent",
+      "Color": "Tysoaab2380",
+      "Finish Type": "Matte",
+      "Package Information": "Box",
+      "Number of Items": "1"
+    },
+    "parent_asin": "B001KYNZ0M",
+    "bought_together": null
+  }
+}

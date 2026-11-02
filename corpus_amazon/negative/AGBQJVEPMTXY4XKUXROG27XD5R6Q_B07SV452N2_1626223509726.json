@@ -1,0 +1,64 @@
+{
+  "id": "AGBQJVEPMTXY4XKUXROG27XD5R6Q_B07SV452N2_1626223509726",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Extremely weak",
+  "text": "Extremely weak. Very silent, but only because it's extremely weak and takes forever to grind a few beans.",
+  "asin": "B07SYTRPSG",
+  "parent_asin": "B07SV452N2",
+  "user_id": "AGBQJVEPMTXY4XKUXROG27XD5R6Q",
+  "timestamp": 1626223509726,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Stainless Steel Electric Coffee Bean Grinder",
+    "average_rating": 4.5,
+    "rating_number": 10193,
+    "features": [
+      "Electric coffee bean grinder appliance for home use",
+      "Can grind 30 grams/1 ounce of beans for drip coffee brewing in 10 seconds",
+      "Grind coffee beans, herbs, spices, grains, nuts, and more",
+      "Clear safety lid allows you to easily see the results in progress",
+      "Heavy-duty stainless steel grind blade",
+      "Compact design perfect for countertop use"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Stainless Steel Electric Coffee Bean Grinder",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 19.62,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Grinders",
+      "Electric Blade Grinders"
+    ],
+    "details": {
+      "Color": "Stainless Steel",
+      "Brand": "Amazon Basics",
+      "Material": "Stainless Steel",
+      "Style": "Coffee Bean Grinder",
+      "Item Weight": "1.54 Pounds",
+      "Item Dimensions LxWxH": "3.5 x 3.72 x 6.9 inches",
+      "Capacity": "30 Grams",
+      "Recommended Uses For Product": "Grinding",
+      "Product Dimensions": "3.5 x 3.72 x 6.9 inches",
+      "Manufacturer": "Amazon Basics",
+      "Country of Origin": "China",
+      "Item model number": "CG9402-UL",
+      "Best Sellers Rank": {
+        "Our Brands": 530,
+        "Electric Coffee Blade Grinders": 3
+      },
+      "Date First Available": "November 15, 2019"
+    },
+    "parent_asin": "B07SV452N2",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "AFS5TQHRDNYDFD7ONWOVFWTCGAKQ_B011AYY1TK_1472828006000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Didn't do much for me",
+  "text": "Didn't do much for me. Didn't help me much but that does not mean it would not help others, I guess. It just didn't help me.",
+  "asin": "B011AYY1TK",
+  "parent_asin": "B011AYY1TK",
+  "user_id": "AFS5TQHRDNYDFD7ONWOVFWTCGAKQ",
+  "timestamp": 1472828006000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": null,
+    "title": "Gel Thumb Support Glove",
+    "average_rating": 4.3,
+    "rating_number": 4,
+    "features": [
+      "Protect and relieve painful thumb joints with this soothing support.",
+      "Thumb support features a built-in gel cushion that fits snugly over your lower thumb joint to provide gentle compression, support and soothing warmth to help ease pain.",
+      "Lightweight and flexible construction won't restrict your activities.",
+      "Fits right or left hand and most wrists.",
+      "Machine washable. Nylon, spandex; imported."
+    ],
+    "description": [
+      "Protect and relieve painful thumb joints with this soothing support. Thumb support features a built-in gel cushion that fits snugly over your lower thumb joint to provide gentle compression, support and soothing warmth to help ease pain. Lightweight and flexible construction won't restrict your activities. Fits right or left hand and most wrists. Machine washable. Nylon, spandex; imported."
+    ],
+    "price": null,
+    "store": "Collections Etc",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Body Pillows"
+    ],
+    "details": {
+      "Department": "Collections",
+      "Manufacturer": "Collections Etc"
+    },
+    "parent_asin": "B011AYY1TK",
+    "bought_together": null
+  }
+}

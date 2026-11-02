@@ -1,0 +1,49 @@
+{
+  "id": "AH3Z3UA44AC7THBQFPUOFLKJRFOA_B07QP7SMZ2_1598588195025",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "If you like a little water on your counter....",
+  "text": "If you like a little water on your counter..... Leaks every other time I use it",
+  "asin": "B07QP7SMZ2",
+  "parent_asin": "B07QP7SMZ2",
+  "user_id": "AH3Z3UA44AC7THBQFPUOFLKJRFOA",
+  "timestamp": 1598588195025,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Single Serve Capsule Coffee Maker, Red",
+    "average_rating": 3.8,
+    "rating_number": 971,
+    "features": [
+      "Single-serve capsule coffee maker",
+      "Compatible with standard k-pods pods including brands such as Starbucks, Green Mountain, Lipton, and more",
+      "Makes hot coffee quickly and easily without the complicated process of a drip coffee maker",
+      "Makes a single 8 ounce or 10 ounce cup of coffee per pod",
+      "Removable capsule holder, drip tray, and water tank for easy cleaning; includes auto-shut off feature",
+      "Compact design is perfect for small spaces; easy to store or travel with"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Coffee Machines"
+    ],
+    "details": {
+      "Brand": "Amazon Basics",
+      "Color": "Red",
+      "Special Feature": "Removable Tank",
+      "Coffee Maker Type": "Drip Coffee Machine",
+      "Filter Type": "Reusable",
+      "Capacity 8 Milliliters": "",
+      "": "Item Weight 6.16 Pounds"
+    },
+    "parent_asin": "B07QP7SMZ2",
+    "bought_together": null
+  }
+}

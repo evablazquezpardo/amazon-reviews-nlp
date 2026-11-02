@@ -1,0 +1,60 @@
+{
+  "id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA_B07XG3YCQC_1579574183230",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Disappointed",
+  "text": "Disappointed. Thought it looked cheap in structure.",
+  "asin": "B07XG3YCQC",
+  "parent_asin": "B07XG3YCQC",
+  "user_id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA",
+  "timestamp": 1579574183230,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KINDEN Wood Stove Fan 5-Blade - Heat Powered Log Burner Eco-Friendly with Stove Thermometer (Aluminium Black, Large Size) Patent Pending",
+    "average_rating": 4.2,
+    "rating_number": 297,
+    "features": [
+      "✅[Updated 5-Blade]: Air Flow: 370CFM(Max.), Running Speed: 1360 RPM(Max), 5-Blade fan starts to rotate when temperature reach 60°C(140°F), The hotter the fire, the faster the blades turn.",
+      "✅[No Electricity Needed]: It is not like the electric fan, not so much air volume, but enough to blow the hot air to the whole room. it is generate power by converting the heat from your fireplace or wood-burning stove. Highly effective at distributing heat throughout the entire house nicely. Never need to turn it on or off.",
+      "✅[High Temperature Protection Shrapnel]: The fireplace fans can withstand 340°C(644°F) high temperature, there is high temperature protection shrapnel at the bottom, full oxidation of the fuselage, high temperature does not change color.",
+      "✅[Whisper Quiet]: The noise less than 25DB, extremely quiet while working. Say good-bye to the loud noise of electric-forced fans! You won't even know the fan is there, but you'll feel warm all the time.",
+      "✅[Maintenance Free]: Just dust it off occasionally, and put some light oil on the blade shaft to keep it spinning smoothly and quietly! Patent Pending"
+    ],
+    "description": [],
+    "price": null,
+    "store": "KINDEN",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Stove & Fireplace Accessories",
+      "Fireplace Fans"
+    ],
+    "details": {
+      "Brand": "KINDEN",
+      "Color": "Black",
+      "Electric fan design": "Blower",
+      "Style": "Modern",
+      "Recommended Uses For Product": "Air Circulation",
+      "Mounting Type": "NO",
+      "Controller Type": "Button Control",
+      "Material": "Aluminum , Wood",
+      "Noise Level": "25 dB",
+      "Finish Type": "Oil",
+      "Number of Blades": "5",
+      "Item Weight": "1.16 pounds",
+      "Package Dimensions": "8.62 x 7.87 x 5.67 inches",
+      "Manufacturer": "KINDEN",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1603642,
+        "Fireplace Fans": 362
+      },
+      "Date First Available": "October 7, 2019"
+    },
+    "parent_asin": "B07XG3YCQC",
+    "bought_together": null
+  }
+}

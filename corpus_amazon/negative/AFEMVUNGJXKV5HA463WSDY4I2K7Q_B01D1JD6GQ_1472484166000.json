@@ -1,0 +1,47 @@
+{
+  "id": "AFEMVUNGJXKV5HA463WSDY4I2K7Q_B01D1JD6GQ_1472484166000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "There must be better",
+  "text": "There must be better. Nothing special.",
+  "asin": "B01D1JD6GQ",
+  "parent_asin": "B01D1JD6GQ",
+  "user_id": "AFEMVUNGJXKV5HA463WSDY4I2K7Q",
+  "timestamp": 1472484166000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Vegetable Peeler, Ultra Sharp Stainless Steel Peeler & Potato Peeler, Perfect for Potato, Carrot, Apple & Zucchini",
+    "average_rating": 3.0,
+    "rating_number": 11,
+    "features": [],
+    "description": [
+      "big"
+    ],
+    "price": 18.86,
+    "store": "Cerobit",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Graters, Peelers & Slicers",
+      "Peelers"
+    ],
+    "details": {
+      "Brand": "Cerobit",
+      "Handle Material": "Stainless Steel",
+      "Operation Mode": "Manual",
+      "Material": "Stainless Steel",
+      "Style": "Classic",
+      "Number of Blades": "2",
+      "Package Dimensions": "8.7 x 3.9 x 0.5 inches",
+      "Item Weight": "0.798 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 28, 2016"
+    },
+    "parent_asin": "B01D1JD6GQ",
+    "bought_together": null
+  }
+}

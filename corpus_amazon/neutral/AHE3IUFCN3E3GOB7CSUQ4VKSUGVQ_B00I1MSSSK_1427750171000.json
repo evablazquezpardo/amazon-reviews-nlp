@@ -1,0 +1,51 @@
+{
+  "id": "AHE3IUFCN3E3GOB7CSUQ4VKSUGVQ_B00I1MSSSK_1427750171000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Meh",
+  "asin": "B00I1MSSSK",
+  "parent_asin": "B00I1MSSSK",
+  "user_id": "AHE3IUFCN3E3GOB7CSUQ4VKSUGVQ",
+  "timestamp": 1427750171000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bambooee Reusable Bamboo Towel (2)",
+    "average_rating": 4.1,
+    "rating_number": 32,
+    "features": [
+      "Bamboo"
+    ],
+    "description": [
+      "The Bambooee Perforated Bamboo Towels are the new reusable paper towel alternative to hit the market. These bamboo towels have the same look and feel as ordinary paper towels - they even come in a roll, mimicking how paper towels are normally consumed. The big difference, though, is that you don't just tear a sheet and throw it away. Instead, each sheet of bamboo towel is machine washable and reusable. In fact, when you purchase a roll of 20 Bambooee sheets, it replaces up to 60 paper towel rolls, helping you reduce waste and save money. Rayon made from a sustainibly sourced certified organic bamboo. Bambooee Towels are also strong, absorbent and durable."
+    ],
+    "price": null,
+    "store": "Bambooee",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Hand Towels"
+    ],
+    "details": {
+      "Product Dimensions": "1 x 1 x 1 inches",
+      "Item Weight": "1 pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 3162394,
+        "Hand Bath Towels": 5176
+      },
+      "Fabric Type": "Bamboo",
+      "Care instructions": "Machine Wash",
+      "Brand": "Bambooee",
+      "Unit Count": "2.0 Count",
+      "Sheet Count": "20",
+      "Color": "White",
+      "Material": "Bamboo"
+    },
+    "parent_asin": "B00I1MSSSK",
+    "bought_together": null
+  }
+}

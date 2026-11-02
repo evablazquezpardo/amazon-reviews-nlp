@@ -1,0 +1,40 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B00ARKS3XO_1611883733857",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Favorite brand",
+  "text": "Favorite brand. This is the only brand my husband will use.",
+  "asin": "B00ARKS3XO",
+  "parent_asin": "B00ARKS3XO",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1611883733857,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Compare-N-Save 75324 Herbicide, 1-gallon, white",
+    "average_rating": 4.5,
+    "rating_number": 18213,
+    "features": [
+      "Rainproof in 2 hours",
+      "Visible results in as little as 2 to 4 days",
+      "Contains 41-percent glyphosate",
+      "Covers over 25,000 square feet",
+      "Makes up to 85 gal. of ready-to-use spray. Note: Packaging may vary"
+    ],
+    "description": [],
+    "price": 42.99,
+    "store": "Compare-N-Save",
+    "categories": [],
+    "details": {
+      "Brand": "Compare-N-Save",
+      "Item Weight": "9.65 Pounds",
+      "Liquid Volume": "128 Fluid Ounces",
+      "Item Form": "Spray",
+      "Active Ingredients": "glyphosate"
+    },
+    "parent_asin": "B00ARKS3XO",
+    "bought_together": null
+  }
+}

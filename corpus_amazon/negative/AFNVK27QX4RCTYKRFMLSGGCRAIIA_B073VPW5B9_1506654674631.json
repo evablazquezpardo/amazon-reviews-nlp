@@ -1,0 +1,32 @@
+{
+  "id": "AFNVK27QX4RCTYKRFMLSGGCRAIIA_B073VPW5B9_1506654674631",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Crap product.",
+  "asin": "B073VPW5B9",
+  "parent_asin": "B073VPW5B9",
+  "user_id": "AFNVK27QX4RCTYKRFMLSGGCRAIIA",
+  "timestamp": 1506654674631,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Flo King (1.5\" x 3 ft) Plastiflex Pool Filter Connecting Hose",
+    "average_rating": 3.7,
+    "rating_number": 4,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Flo King",
+    "categories": [],
+    "details": {
+      "Package Dimensions": "15.98 x 12.99 x 2.01 inches",
+      "Item Weight": "13.6 ounces",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B073VPW5B9",
+    "bought_together": null
+  }
+}

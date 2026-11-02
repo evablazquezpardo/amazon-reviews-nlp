@@ -1,0 +1,54 @@
+{
+  "id": "AFSCQMP2EPYLGJN7OBTMEXCBE2OQ_B084XB3F4W_1602104072301",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Cheap",
+  "text": "Cheap. Bad quality",
+  "asin": "B084XB3F4W",
+  "parent_asin": "B084XB3F4W",
+  "user_id": "AFSCQMP2EPYLGJN7OBTMEXCBE2OQ",
+  "timestamp": 1602104072301,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "MINGLIFE LED Strip Lights, 5M RGB LED Light Strip 3258 LED Tape Lights, Color Changing LED Strip Lights with Remote for Home Lighting Kitchen Bed Flexible Strip Lights for Bar Home",
+    "average_rating": 2.5,
+    "rating_number": 143,
+    "features": [
+      "Remove promotional code"
+    ],
+    "description": [],
+    "price": null,
+    "store": "MINGLIFE",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Seasonal Lighting",
+      "Rope Lights"
+    ],
+    "details": {
+      "Color": "RGB (Red, Green, Blue)",
+      "Brand": "MINGLIFE",
+      "Special Feature": "Color Changing",
+      "Light Source Type": "LED",
+      "Power Source": "Corded Electric",
+      "Light Color": "RGB",
+      "Theme": "Indoor",
+      "Occasion": "Christmas",
+      "Style": "Modern",
+      "Controller Type": "Remote Control",
+      "Number of Light Sources": "150",
+      "Control Method": "Remote",
+      "Special Features": "Color Changing",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1312575,
+        "Rope Lights": 532
+      },
+      "Date First Available": "December 16, 2019"
+    },
+    "parent_asin": "B084XB3F4W",
+    "bought_together": null
+  }
+}

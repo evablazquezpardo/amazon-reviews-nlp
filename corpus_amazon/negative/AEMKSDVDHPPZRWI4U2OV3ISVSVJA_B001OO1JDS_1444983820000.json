@@ -1,0 +1,44 @@
+{
+  "id": "AEMKSDVDHPPZRWI4U2OV3ISVSVJA_B001OO1JDS_1444983820000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. smells more like baby powder to me.",
+  "asin": "B001OO1JDS",
+  "parent_asin": "B001OO1JDS",
+  "user_id": "AEMKSDVDHPPZRWI4U2OV3ISVSVJA",
+  "timestamp": 1444983820000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "1 X Cool Water InScents Incense Sticks - 100 stick package",
+    "average_rating": 3.6,
+    "rating_number": 16,
+    "features": [
+      "Cool Water InScents Incense Sticks - 100 stick package"
+    ],
+    "description": [
+      "100 stick bulk package of In-Scents incense. These are brightly colored and fragrant sticks at a lower price. The color of the sticks vary from that shown."
+    ],
+    "price": null,
+    "store": "Dpnamron",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Incense & Incense Holders",
+      "Incense"
+    ],
+    "details": {
+      "Package Dimensions": "11.3 x 3 x 0.4 inches",
+      "Item Weight": "4.8 ounces",
+      "Manufacturer": "USA",
+      "Batteries required": "No",
+      "Import": "Made in USA"
+    },
+    "parent_asin": "B001OO1JDS",
+    "bought_together": null
+  }
+}

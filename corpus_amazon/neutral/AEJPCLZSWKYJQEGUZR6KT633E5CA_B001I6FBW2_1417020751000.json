@@ -1,0 +1,56 @@
+{
+  "id": "AEJPCLZSWKYJQEGUZR6KT633E5CA_B001I6FBW2_1417020751000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not so good",
+  "text": "Not so good. Cheaply made and came with $3.99 price tag on each item.",
+  "asin": "B001I6FBW2",
+  "parent_asin": "B001I6FBW2",
+  "user_id": "AEJPCLZSWKYJQEGUZR6KT633E5CA",
+  "timestamp": 1417020751000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lucite desktop cube photo frame for 6 photos - 3.5x3.5",
+    "average_rating": 4.3,
+    "rating_number": 154,
+    "features": [
+      "3.500x3.500"
+    ],
+    "description": [
+      "Each acrylic cube holds five 5 3.50\" x 3.50\" photos in a neat desk paperweight style. More than one photo cube can be displayed together for a stackable collage effect. Easy to use; just slide photo cube open adhere photos onto cardboard insert and slide the photo cube closed. Great as a corporate gift and desk accessory."
+    ],
+    "price": 3.88,
+    "store": "MCS",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Photo Albums, Frames & Accessories",
+      "Picture Frames"
+    ],
+    "details": {
+      "Brand": "MCS",
+      "Color": "Clear",
+      "Room Type": "Office",
+      "Mounting Type": "Tabletop",
+      "Age Range (Description)": "Adult",
+      "Item Weight": "0.25 Pounds",
+      "Assembly Required": "No",
+      "Package Dimensions": "3.9 x 3.66 x 3.5 inches",
+      "Manufacturer": "MCS PLASTICS",
+      "Item model number": "21837",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 465917,
+        "Picture Frames": 4449
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Shape Rectangular": "",
+      "": "Number of Drawers 1"
+    },
+    "parent_asin": "B001I6FBW2",
+    "bought_together": null
+  }
+}

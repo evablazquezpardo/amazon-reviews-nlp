@@ -1,0 +1,45 @@
+{
+  "id": "AHOTTCH2V6EADWONZ3GAVU5KUP3A_B07FXB21FC_1604949992522",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Just what I ordered",
+  "text": "Just what I ordered. Exactly as I expected",
+  "asin": "B07FXB21FC",
+  "parent_asin": "B07FXB21FC",
+  "user_id": "AHOTTCH2V6EADWONZ3GAVU5KUP3A",
+  "timestamp": 1604949992522,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Clear Hexagon Jars 1.5oz With Lids Black,Glass Jars For Spice,Foods,Jams,Liquid,Mason Jars For Storage 25 Pack",
+    "average_rating": 4.4,
+    "rating_number": 105,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Woaiwo-q",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Canning",
+      "Jars"
+    ],
+    "details": {
+      "Package Dimensions": "11.1 x 9.8 x 3 inches",
+      "Item Weight": "3.59 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 25, 2018",
+      "Capacity": "1.5 Fluid Ounces",
+      "Number of Sets": "25",
+      "Brand": "Woaiwo-q",
+      "Color": "Black",
+      "Material": "Glass",
+      "Recommended Uses For Product": "Spices"
+    },
+    "parent_asin": "B07FXB21FC",
+    "bought_together": null
+  }
+}

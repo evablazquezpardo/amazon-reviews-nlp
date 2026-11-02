@@ -1,0 +1,42 @@
+{
+  "id": "AF4NIQPIZQ3S3G6KEVQW33DNHZSQ_B001H4HLMS_1411115986000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok",
+  "text": "Ok. Somewhat weak. Doesn't linger after burning.",
+  "asin": "B001H4HLMS",
+  "parent_asin": "B001H4HLMS",
+  "user_id": "AF4NIQPIZQ3S3G6KEVQW33DNHZSQ",
+  "timestamp": 1411115986000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "All Beauty",
+    "title": "HEM Coconut Incense Sticks - Pack of 6 - 120 count - 301g",
+    "average_rating": 4.6,
+    "rating_number": 1419,
+    "features": [
+      "Coconut - Box of Six 20 Gram Tubes - HEM Incense"
+    ],
+    "description": [],
+    "price": 6.99,
+    "store": "HEM",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Incense & Incense Holders",
+      "Incense"
+    ],
+    "details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "10.24 x 3.54 x 2.36 inches; 9.92 Ounces",
+      "Item model number": "8541862489",
+      "UPC": "885650625564",
+      "Manufacturer": "USA"
+    },
+    "parent_asin": "B001H4HLMS",
+    "bought_together": null
+  }
+}

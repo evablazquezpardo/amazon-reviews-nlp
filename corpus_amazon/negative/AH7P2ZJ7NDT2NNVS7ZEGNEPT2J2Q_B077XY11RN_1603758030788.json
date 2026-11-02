@@ -1,0 +1,52 @@
+{
+  "id": "AH7P2ZJ7NDT2NNVS7ZEGNEPT2J2Q_B077XY11RN_1603758030788",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Hardly works",
+  "text": "Hardly works. This heater hardly works. It puts out nice heat for the 60 seconds I can get it to turn on, but it never stays on. I have it turned all the way up to 85 but it only randomly turns on and I'm cold. It's definitely not 85 degrees in this room. It's not like I'm forcing it to overheat because it never stays on for more than a minute at a time!",
+  "asin": "B077XY11RN",
+  "parent_asin": "B077XY11RN",
+  "user_id": "AH7P2ZJ7NDT2NNVS7ZEGNEPT2J2Q",
+  "timestamp": 1603758030788,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "Soleil PTC-910B Sole Digital Ceramic Heater",
+    "average_rating": 4.3,
+    "rating_number": 85,
+    "features": [],
+    "description": [
+      "Soleil PTC-910B Sole Digital Ceramic Heater"
+    ],
+    "price": null,
+    "store": "Soleil",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Space Heaters",
+      "Electric Space Heaters"
+    ],
+    "details": {
+      "Brand": "Soleil",
+      "Power Source": "Electric",
+      "Heating Method": "Convection",
+      "Mounting Type": "Floor Mount",
+      "Burner type": "Radiant",
+      "Heat Output": "1500 Watts",
+      "Product Dimensions": "14.5 x 12.6 x 10 inches; 4.39 Pounds",
+      "Item Weight": "4.38 pounds",
+      "Manufacturer": "Soleil",
+      "Item model number": "PTC-910B",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 7, 2017",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1977057,
+        "Indoor Electric Space Heaters": 1362
+      }
+    },
+    "parent_asin": "B077XY11RN",
+    "bought_together": null
+  }
+}

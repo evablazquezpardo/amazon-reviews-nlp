@@ -1,0 +1,49 @@
+{
+  "id": "AEX5EMHNA37WNCHBT7NTTPRECMAQ_B0087XVDBC_1459101163000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Oh well",
+  "text": "Oh well. Ohmyword they're gigantic! I guess I should have figured it out... but seriously - these are much bigger than I'd expected and heavy.",
+  "asin": "B0087XVDBC",
+  "parent_asin": "B0087XVDBC",
+  "user_id": "AEX5EMHNA37WNCHBT7NTTPRECMAQ",
+  "timestamp": 1459101163000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Crestware Alpine White 24-Ounce Mug, 12-Pack",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+      "Professional grade",
+      "Commercial use",
+      "Durable, mug",
+      "Economical, vitrified: dishwasher, oven, and microwave safe",
+      "High quality"
+    ],
+    "description": [],
+    "price": null,
+    "store": "CRESTWARE",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cups, Mugs, & Saucers",
+      "Coffee Cups & Mugs"
+    ],
+    "details": {
+      "Brand": "CRESTWARE",
+      "Color": "White",
+      "Product Care Instructions": "Machine Wash, Microwave Safe",
+      "Unit Count": "12",
+      "Material Porcelain": "",
+      "": "Item Weight 36 Pounds",
+      "Occasion Party": ""
+    },
+    "parent_asin": "B0087XVDBC",
+    "bought_together": null
+  }
+}

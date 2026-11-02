@@ -1,0 +1,59 @@
+{
+  "id": "AHBSL5FBY72KB63INTSP3SNGMFBQ_B07Q5VLTFB_1678121354791",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Didn’t work for me",
+  "text": "Didn’t work for me. Not what I needed",
+  "asin": "B07Q5VLSD5",
+  "parent_asin": "B07Q5VLTFB",
+  "user_id": "AHBSL5FBY72KB63INTSP3SNGMFBQ",
+  "timestamp": 1678121354791,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Premium Nylon CO2 Regulator Washers, Self Centering, Fits All CGA-320 Fittings (12)",
+    "average_rating": 4.4,
+    "rating_number": 341,
+    "features": [
+      "Premium Nylon construction. Engineered in the USA!",
+      "Sealing ribs ensure an air-tight seal between regulator ad CO2 tank, Centering fins accurately position and retain the washer in fitting",
+      "3/4\" OD, 1/4\" ID, 0.110\" Thk",
+      "Fits all CGA-320 Fittings. (Not replacement for the Taprite permanent O-Ring)",
+      "For draft beer, beverage dispensing, hydroponics and other CO2 applications"
+    ],
+    "description": [
+      "High quality Nylon replacement washer for an air-tight seal between the regulator and CO2 cylinder in draft beer and soda systems. (1-Pack) 3/4\" Diameter, 0.110\" Thick, 1/4\" Center Hole"
+    ],
+    "price": 7.99,
+    "store": "Frog",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Home Brewing & Wine Making",
+      "Beer Brewing",
+      "Kegs & Kegging"
+    ],
+    "details": {
+      "Material": "Nylon",
+      "Outside Diameter": "0.75 Inches",
+      "Washer Type": "O Ring",
+      "Exterior Finish": "Nylon",
+      "Size": "3/4 inch dia.",
+      "Brand": "FROG",
+      "Item Weight": "0.1 ounces",
+      "Color": "Green",
+      "Number of Pieces": "12",
+      "Fastener Type": "Flat Washer",
+      "Package Dimensions": "2 x 2 x 0.2 inches",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 22464,
+        "Beer Brewing Kegs & Kegging": 13
+      },
+      "Date First Available": "April 3, 2019"
+    },
+    "parent_asin": "B07Q5VLTFB",
+    "bought_together": null
+  }
+}

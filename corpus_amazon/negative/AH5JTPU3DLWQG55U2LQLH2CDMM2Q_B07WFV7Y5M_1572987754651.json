@@ -1,0 +1,38 @@
+{
+  "id": "AH5JTPU3DLWQG55U2LQLH2CDMM2Q_B07WFV7Y5M_1572987754651",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not good",
+  "text": "Not good. Bought 3 of these and 2 of them broke in less then a day. They aren’t that good.",
+  "asin": "B07WFV7Y5M",
+  "parent_asin": "B07WFV7Y5M",
+  "user_id": "AH5JTPU3DLWQG55U2LQLH2CDMM2Q",
+  "timestamp": 1572987754651,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "SZELAM Car Air Humidifier Portable Mini Cool Mist Humidifier Small 310ml Auto Shut-Off Ultrasonic Humidifier with 7 Color Light for Bedroom Desk Travel Office",
+    "average_rating": 3.4,
+    "rating_number": 78,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "SZELAM",
+    "categories": [],
+    "details": {
+      "Brand": "SZELAM",
+      "Special Feature": "Auto Shut Off",
+      "Capacity": "0.08 Gallons",
+      "Item Weight": "0.38 Pounds",
+      "Room Type": "Office, Bedroom",
+      "Power Source": "Corded Electric",
+      "Control Method": "Touch",
+      "Product Dimensions": "2.99 x 2.99 x 5.82 inches",
+      "Date First Available": "August 22, 2019"
+    },
+    "parent_asin": "B07WFV7Y5M",
+    "bought_together": null
+  }
+}

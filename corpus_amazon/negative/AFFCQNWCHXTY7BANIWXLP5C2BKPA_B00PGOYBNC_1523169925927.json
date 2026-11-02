@@ -1,0 +1,59 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B00PGOYBNC_1523169925927",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Weak!",
+  "text": "Weak!. Very weak!",
+  "asin": "B00PAIXXBK",
+  "parent_asin": "B00PGOYBNC",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1523169925927,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lockseam Triple Curtain Rod 84-120 inch",
+    "average_rating": 4.6,
+    "rating_number": 501,
+    "features": [
+      "Includes one 84-120\" (3 piece) triple lock seam rod, 2 end brackets, 2 support brackets and hardware",
+      "Material: steel",
+      "Clearance: wall to back rod 1-1/2 inch, wall to middle rod 3 inch, wall to front rod 5 inch",
+      "Rod Width: 3/4 inches"
+    ],
+    "description": [
+      "Rod Desyne is pleased to introduce our triple lock-seam curtain rod. This rod is designed to support rod pocket curtains or valances. Excellent quality and sturdy with a coating on the inside and out. Rod is baked in enamel with no exposed edges to prevent any snags in fabric. Single and double lock seams also available."
+    ],
+    "price": null,
+    "store": "Rod Desyne",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Window Treatment Hardware",
+      "Window Hardware Sets"
+    ],
+    "details": {
+      "Product Dimensions": "84 x 5.38 x 0.75 inches",
+      "Item Weight": "3.66 Pounds",
+      "Manufacturer": "Syn Yao",
+      "Item model number": "KLS1584-T",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1107074,
+        "Window Treatment Hardware Sets": 101
+      },
+      "Maximum recommended load": "22 Pounds",
+      "Finish types": "White",
+      "Assembly required": "Yes",
+      "Number of pieces": "3",
+      "Batteries required": "No",
+      "Brand": "Rod Desyne",
+      "Color": "White",
+      "Material": "Steel",
+      "Mounting Type": "Wall Mounted",
+      "Maximum Weight Recommendation": "22 Pounds"
+    },
+    "parent_asin": "B00PGOYBNC",
+    "bought_together": null
+  }
+}

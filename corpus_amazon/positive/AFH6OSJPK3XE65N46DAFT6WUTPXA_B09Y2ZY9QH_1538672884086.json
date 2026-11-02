@@ -1,0 +1,64 @@
+{
+  "id": "AFH6OSJPK3XE65N46DAFT6WUTPXA_B09Y2ZY9QH_1538672884086",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Perfect!",
+  "text": "Perfect!. Perfect",
+  "asin": "B003L0OOWQ",
+  "parent_asin": "B09Y2ZY9QH",
+  "user_id": "AFH6OSJPK3XE65N46DAFT6WUTPXA",
+  "timestamp": 1538672884086,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OXO Good Grips Nylon Ladle, Black, One Size",
+    "average_rating": 4.8,
+    "rating_number": 5427,
+    "features": [
+      "Perfect for portioning and serving soups, stews and chilis",
+      "Sturdy nylon is safe for non-stick cookware",
+      "Soft, comfortable grip",
+      "High-heat resistant nylon",
+      "Dishwasher Safe"
+    ],
+    "description": [
+      "Designed especially for parents, the OXO Tot Infant Feeding Spoon is comfortable to hold whether you're sitting in front of or beside your little one. The baby-sized spoon bowl has a soft edge for scraping bits off of little faces or out of jars."
+    ],
+    "price": 8.99,
+    "store": "OXO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cooking Utensils"
+    ],
+    "details": {
+      "Product Dimensions": "13 x 3.5 x 3 inches",
+      "Item Weight": "3.66 ounces",
+      "Manufacturer": "OXO International Ltd.",
+      "Country of Origin": "China",
+      "Item model number": "1190800",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 344,
+        "Cooking Utensils": 7
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Care instructions": "Hand Wash",
+      "Dishwasher compatible": "Yes",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Warranty Description": "The OXO Better Guarantee: If you experience an issue with your OXO product, get in touch with us for a repair or replacement. We’re grateful for the opportunity to learn from your experience, and we’ll make it better",
+      "Batteries required": "No",
+      "Included Components": "Ladle",
+      "Color": "Black",
+      "Material": "Nylon",
+      "Brand": "OXO",
+      "Style": "Ladle",
+      "Item Dimensions LxWxH": "13 x 3.5 x 3 inches"
+    },
+    "parent_asin": "B09Y2ZY9QH",
+    "bought_together": null
+  }
+}

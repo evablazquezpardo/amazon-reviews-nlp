@@ -1,0 +1,73 @@
+{
+  "id": "AHFURURV4H35BXUUTXYMJYA36CTQ_B018LKVDCY_1539020130171",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Towels",
+  "text": "Towels. Soft and a little bit larger than  I thought which is great.",
+  "asin": "B010S5VXKC",
+  "parent_asin": "B018LKVDCY",
+  "user_id": "AHFURURV4H35BXUUTXYMJYA36CTQ",
+  "timestamp": 1539020130171,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Fast Drying, Extra Absorbent, Terry Cotton Washcloths - Pack of 24, Seafoam Green, 12 x 12-Inch",
+    "average_rating": 4.7,
+    "rating_number": 46290,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "Includes (24) 12 x 12-inch seafoam green washcloths",
+      "Made of highly absorbent, fast drying looped-terry cotton",
+      "Soft enough for face and body; sturdy enough for household cleaning",
+      "Machine washable and dryer safe; reinforced edges stand up to frequent washing",
+      "Made in OEKO-TEX Standard 100 factory, an independent certification system that ensures textiles meet high safety and environmental standards."
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Fast Drying, Extra Absorbent, Terry Cotton Washcloths - Pack of 24, Seafoam Green, 12 x 12-Inch",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 19.49,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Washcloths"
+    ],
+    "details": {
+      "Color": "Seafoam Green",
+      "Brand": "Amazon Basics",
+      "Towel form type": "Washcloth",
+      "Age Range (Description)": "Adult",
+      "Material": "Cotton",
+      "Product Dimensions": "12\"L x 12\"W",
+      "Number of Items": "24",
+      "Style": "Pack of 24",
+      "Pattern": "Solid",
+      "Special Feature": "Super Soft|Super Absorbent|Quick Dry",
+      "Theme": "No Theme",
+      "Care instructions": "Machine Wash",
+      "Size": "24-Count",
+      "Unit Count": "24.0 Count",
+      "Fabric Type": "100% Cotton",
+      "Item Weight": "2.2 pounds",
+      "Manufacturer": "Amazon Basics",
+      "Country of Origin": "India",
+      "Item model number": "ABWC-24PK-SG",
+      "Best Sellers Rank": {
+        "Our Brands": 196,
+        "Bath Washcloths": 3
+      },
+      "Number of pieces": "24",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B018LKVDCY",
+    "bought_together": null
+  }
+}

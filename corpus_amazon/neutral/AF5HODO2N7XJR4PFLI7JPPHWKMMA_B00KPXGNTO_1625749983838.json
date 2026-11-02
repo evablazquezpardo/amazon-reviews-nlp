@@ -1,0 +1,41 @@
+{
+  "id": "AF5HODO2N7XJR4PFLI7JPPHWKMMA_B00KPXGNTO_1625749983838",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok",
+  "text": "Ok. Ok",
+  "asin": "B00KPXGNTO",
+  "parent_asin": "B00KPXGNTO",
+  "user_id": "AF5HODO2N7XJR4PFLI7JPPHWKMMA",
+  "timestamp": 1625749983838,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "DiatomaceousEarth 2 Lbs Food Grade DE- Diametaceous for Humans is Safe Around Children - Includes Free Scoop",
+    "average_rating": 4.6,
+    "rating_number": 4152,
+    "features": [
+      "2 Lbs de - meets U.S. Food chemicals codex standards",
+      "Free scoop - includes small measuring cup",
+      "Natural product - OMRI listed for organic use",
+      "No additives - 100% pure freshwater diatomaceous earth",
+      "No Contaminants - Professionally Packaged Using Stainless Steel Machinery"
+    ],
+    "description": [
+      "Diatomaceous earth (de) is made of tiny, fossilized diatoms (aquatic organisms) that accumulated over millennia in fresh water lakes. When mined and left untreated, this amazing product can be used in hundreds of different ways. However, not all diatomaceous earth is created equal. While most other manufacturer's hand scoop de into zip lock bags, brand de is professionally packaged using stainless steel equipment. Because of this process, you can be confident there are no contaminants in your food grade diatomaceous earth. Includes free measuring scoop."
+    ],
+    "price": 15.99,
+    "store": "DiatomaceousEarth",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "6 x 2 x 7 inches",
+      "Item Weight": "2.1 pounds",
+      "Item model number": "DE2CUP",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B00KPXGNTO",
+    "bought_together": null
+  }
+}

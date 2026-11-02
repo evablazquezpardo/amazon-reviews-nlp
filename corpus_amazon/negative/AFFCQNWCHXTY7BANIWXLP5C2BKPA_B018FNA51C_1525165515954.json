@@ -1,0 +1,60 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B018FNA51C_1525165515954",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "returned",
+  "text": "returned. was broken",
+  "asin": "B018FNA51C",
+  "parent_asin": "B018FNA51C",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1525165515954,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Coaster Home Furnishings 704419 Sofa Table, Dark Cherry/Antique White",
+    "average_rating": 3.7,
+    "rating_number": 11,
+    "features": [
+      "This genuine Coaster Furniture product Comes finished in dark brown/ Antique white",
+      "This piece measures 47. 25 L x 17. 75 W x 27. 75 H",
+      "Transitional styled occasional Set with contrasting dark brown table Top and Antique white frame and shelves; end table Comes with one drawer for storage"
+    ],
+    "description": [
+      "This sofa table has a dark cherry antique white finish with a Bottom shelf for storage. This genuine coaster furniture product comes finished in dark brown/ antique white. This piece measures 47. 25 L x 17. 75 W x 27. 75 h. Transitional styled occasional set with contrasting dark brown table top and antique white frame and shelves; end table comes with one drawer for storage."
+    ],
+    "price": null,
+    "store": "Coaster Home Furnishings",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "Sofa & Console Tables"
+    ],
+    "details": {
+      "Product Dimensions": "47.25\"D x 17.75\"W x 27.75\"H",
+      "Color": "Dark Cherry/Antique White",
+      "Brand": "Coaster Home Furnishings",
+      "Table design": "End Table",
+      "Special Feature": "Storage",
+      "Style": "Transitional",
+      "Finish Type": "Dark brown/ Antique white",
+      "Base Type": "Legs",
+      "Pattern": "Solid",
+      "Model Name": "Coaster 704419",
+      "Number of Drawers": "1",
+      "Item Weight": "46 pounds",
+      "Furniture Finish": "White Finish",
+      "Is Discontinued By Manufacturer": "No",
+      "Weight": "52 Pounds",
+      "Date First Available": "November 24, 2015",
+      "Shape Rectangular": "",
+      "": "Assembly Required No",
+      "Frame Material Wood": ""
+    },
+    "parent_asin": "B018FNA51C",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B0BPFSRYQ7_1513823559815",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Beautiful fabric and design.",
+  "asin": "B0042S1EHY",
+  "parent_asin": "B0BPFSRYQ7",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1513823559815,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Avanti Linens Mojave Hand Towel, Brick",
+    "average_rating": 4.6,
+    "rating_number": 253,
+    "features": [
+      "Chenille",
+      "Avanti Linens",
+      "100% Cotton",
+      "For decorative bathrooms and guest bathrooms"
+    ],
+    "description": [
+      "These nicely decorated towels are made in America by Avanti Linens. Each towel is come with washing instructions."
+    ],
+    "price": 27.99,
+    "store": "Avanti Linens",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Hand Towels"
+    ],
+    "details": {
+      "Color": "Brick",
+      "Brand": "Avanti Linens",
+      "Towel form type": "Hand Towel",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Style": "Hand Towel",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "Hand Towel",
+      "Unit Count": "1.0 Count",
+      "Fabric Type": "Chenille",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "5.3 ounces",
+      "Product Dimensions": "16 x 30 x 0.5 inches",
+      "Manufacturer": "Avanti Linens",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More",
+      "Country of Origin": "Canada",
+      "Item model number": "17722BRK",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 259322,
+        "Hand Bath Towels": 373
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B0BPFSRYQ7",
+    "bought_together": null
+  }
+}

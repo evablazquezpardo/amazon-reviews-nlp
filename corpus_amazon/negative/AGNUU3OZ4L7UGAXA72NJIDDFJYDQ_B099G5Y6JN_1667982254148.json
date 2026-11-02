@@ -1,0 +1,60 @@
+{
+  "id": "AGNUU3OZ4L7UGAXA72NJIDDFJYDQ_B099G5Y6JN_1667982254148",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "I expected better",
+  "text": "I expected better. I've purchased throw blankets from spirit before so I expected this to be good. It's not. Feels very cheap and the material is strange. Very disappointed.",
+  "asin": "B099G5Y6JN",
+  "parent_asin": "B099G5Y6JN",
+  "user_id": "AGNUU3OZ4L7UGAXA72NJIDDFJYDQ",
+  "timestamp": 1667982254148,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Spirit Halloween Killer Klowns from Outer Space Sherpa Fleece Blanket | Officially Licensed | Halloween Décor | Horror Décor | Home Decor",
+    "average_rating": 4.8,
+    "rating_number": 89,
+    "features": [
+      "You won’t want to miss out on adding this officially licensed Killer Klowns From Outer Space Fleece Sherpa Blanket to your Halloween collection!",
+      "This product is made from polyester materials. Its high-quality design ensures that it will last you through many Halloween seasons.",
+      "This product is the perfect size to use when cuddling up on the couch or in bed to binge watch all your favorite classic horror films!",
+      "Take extra caution when cleaning this product to avoid wear and tear. Always be sure to machine wash to prolong the life of the product.",
+      "This product is imported. Put this blanket on display for the holidays or use it year-round to keep you warm on the chilliest of nights!"
+    ],
+    "description": [],
+    "price": 32.99,
+    "store": "Spirit Halloween",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Throws"
+    ],
+    "details": {
+      "Material": "Polyester",
+      "Brand": "Spirit Halloween",
+      "Style": "Modern",
+      "Blanket Form": "Single Layered Blanket",
+      "Age Range (Description)": "Adult",
+      "Product Dimensions": "60\"L x 45\"W",
+      "Theme": "Movies",
+      "Pattern": "Animal Print",
+      "Seasons": "Winter",
+      "Weave Type": "Plain",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "One Size",
+      "Fabric Type": "Sherpa,polyester,fleece",
+      "Item Weight": "2.1 pounds",
+      "Manufacturer": "Spirit Halloween",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 281997,
+        "Bed Throws": 1886
+      },
+      "Date First Available": "July 14, 2021"
+    },
+    "parent_asin": "B099G5Y6JN",
+    "bought_together": null
+  }
+}

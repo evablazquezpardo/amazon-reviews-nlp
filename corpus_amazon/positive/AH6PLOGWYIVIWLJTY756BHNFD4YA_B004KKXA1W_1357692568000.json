@@ -1,0 +1,61 @@
+{
+  "id": "AH6PLOGWYIVIWLJTY756BHNFD4YA_B004KKXA1W_1357692568000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Good Purchase",
+  "text": "Good Purchase. These are great, stylish storage containers.  Well made, sturdy and come in lots of different colors. Great in the bathroom, where I have mine, holding shampoos, lotions, soaps etc.  Lots of room.",
+  "asin": "B004KKXA1W",
+  "parent_asin": "B004KKXA1W",
+  "user_id": "AH6PLOGWYIVIWLJTY756BHNFD4YA",
+  "timestamp": 1357692568000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "InterDesign Large Storage Basket, Aloe",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+      "Sturdy translucent plastic body with large mesh design",
+      "Easily stacked for maximum space utilization",
+      "Equipped with two handles on either side for easy transportation",
+      "Great storage solution for any room",
+      "11.2-Inch by 14.3-Inch by 8.1-Inch"
+    ],
+    "description": [
+      "Resolve your storage issues with Spa X-6 Plastic Storage Basket. This translucent Aloe Green storage basket can carry loads of items and be used in any room in your house. Use it in the laundry room, kitchen, bedroom, or even in your bathroom to store utilities. In case you store laundry in the basket, the mesh pattern of the plastic storage basket allows ventilation and prevents bad odor from the garments. There are two handles at the top of the plastic basket that help you move the heavy loaded basket. These storage totes are stackable for maximum storage space and can be aptly used to organize your home or office."
+    ],
+    "price": null,
+    "store": "InterDesign",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Shower Accessories",
+      "Shower Caddies"
+    ],
+    "details": {
+      "Material": "Plastic",
+      "Color": "Aloe",
+      "Brand": "InterDesign",
+      "Shape": "Rectangular",
+      "Style": "Modern",
+      "Room Type": "Kitchen",
+      "Number of Pieces": "1",
+      "Finish Type": "Green",
+      "With Lid": "No",
+      "Handle Material": "Plastic",
+      "Closure Type": "Open Top",
+      "Special Feature": "Sturdy",
+      "Product Dimensions": "11.2 x 14.3 x 8.1 inches",
+      "Item Weight": "1.4 pounds",
+      "Manufacturer": "InterDesign",
+      "Item model number": "61872",
+      "Finish types": "Green",
+      "Warranty Description": "90-day limited."
+    },
+    "parent_asin": "B004KKXA1W",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B0BZG5CVJT_1655256250807",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "As expected",
+  "text": "As expected. As expected",
+  "asin": "B08B1T3KBN",
+  "parent_asin": "B0BZG5CVJT",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1655256250807,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "YouCopia RollOut Caddy Under Sink Organizer, 8\" Wide, White",
+    "average_rating": 4.7,
+    "rating_number": 2500,
+    "features": [
+      "CUSTOMIZABLE: Two adjustable dividers help create the right size compartments for keeping all your cleaning supplies upright and organized. A removable hanging basket provides more storage for little extras like sponges and brushes on the front or back of the caddy.",
+      "WHEELS IN AND OUT: Large, smooth-spinning wheels with soft-grip surface roll the caddy in and out while protecting cabinet floors under the sink.",
+      "MOVES WITH YOU: Handles make it easy to pick up and carry the caddy anywhere you need it. The sturdy plastic design holds up to 30 pounds.",
+      "QUICK SET-UP: Simply place adjustable dividers where you like and load supplies - no tools or installation required. It’s a one-minute organization project with big results!",
+      "MADE TO FIT: Measures 7.8\" W x 5.3\" H x 16.3\" D (21.3” with basket) to fit standard lower cabinets. Made from high-quality plastic that’s easy to clean.",
+      "MULTIPLE USES: Great for organizing spray bottles, cleaning wipes, aerosol cans, sponges and brushes in the kitchen and for storing backstock haircare, skincare and personal care products in the bathroom."
+    ],
+    "description": [
+      "Tackles the messiness of your deepest, darkest cabinet. RollOut® Under Sink Caddy was designed to shine by organizing your under sink area. Two adjustable dividers create separate spaces for holding cleaning products, spray bottles, sponges and more. A removable basket hangs off the front, back or sides of the caddy–wherever you want the extra storage. Smooth-spinning wheels and sturdy handles help you roll items out from underneath the sink to carry to any task. When cleaning supplies are organized, you can achieve the (quick) cleaning dream."
+    ],
+    "price": 29.99,
+    "store": "YouCopia",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Under-Sink Organizers"
+    ],
+    "details": {
+      "Product Dimensions": "16.4 x 7.7 x 5.3 inches",
+      "Item Weight": "1.93 pounds",
+      "Manufacturer": "YouCopia",
+      "Country of Origin": "China",
+      "Item model number": "1",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 11246,
+        "Under-Sink Organizers": 97
+      },
+      "Date First Available": "June 26, 2020"
+    },
+    "parent_asin": "B0BZG5CVJT",
+    "bought_together": null
+  }
+}

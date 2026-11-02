@@ -1,0 +1,53 @@
+{
+  "id": "AHMNJSXO6ZB3C7AFPSL5HGLUH6LQ_B07G297Q7N_1576492164172",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Just ok",
+  "text": "Just ok. Flimsy but will do",
+  "asin": "B07G297Q7N",
+  "parent_asin": "B07G297Q7N",
+  "user_id": "AHMNJSXO6ZB3C7AFPSL5HGLUH6LQ",
+  "timestamp": 1576492164172,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "SimpleHouseware Stackable Coffee Pods Storage Drawer for K-cup, Bronze",
+    "average_rating": 4.5,
+    "rating_number": 242,
+    "features": [
+      "Holder for 36 Pods for k-cup",
+      "Sturdy Metal construction with Classic Bronze Coating",
+      "Sliding drawer with space saving design",
+      "Dimension: 13.5\"W x 3.3\"H x 13.5\"D (without knob: 12.75\"D)"
+    ],
+    "description": [
+      "SimpleHouseware Coffee Pods Storage Drawer for K-cup, Bronze"
+    ],
+    "price": null,
+    "store": "Simple Houseware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Coffee Pod Holders"
+    ],
+    "details": {
+      "Package Dimensions": "13.86 x 12.83 x 3.54 inches",
+      "Item Weight": "4.24 pounds",
+      "Manufacturer": "Simple Houseware",
+      "Item model number": "CO-023-1",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 30, 2018",
+      "Color": "Bronze",
+      "Material": "Metal",
+      "Brand": "Simple Houseware",
+      "Finish Type": "Bronze",
+      "Capacity": "36 Pods"
+    },
+    "parent_asin": "B07G297Q7N",
+    "bought_together": null
+  }
+}

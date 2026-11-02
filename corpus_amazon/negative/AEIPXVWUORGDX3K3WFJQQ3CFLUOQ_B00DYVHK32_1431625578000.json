@@ -1,0 +1,55 @@
+{
+  "id": "AEIPXVWUORGDX3K3WFJQQ3CFLUOQ_B00DYVHK32_1431625578000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Cheaply Made",
+  "text": "Cheaply Made. Cheap product which takes forever to flatten out.",
+  "asin": "B00DYVHK32",
+  "parent_asin": "B00DYVHK32",
+  "user_id": "AEIPXVWUORGDX3K3WFJQQ3CFLUOQ",
+  "timestamp": 1431625578000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BuyDirect2You Oven Liner Mat",
+    "average_rating": 3.7,
+    "rating_number": 82,
+    "features": [
+      "Easy to use and clean",
+      "Fits ovens up to 30'' wide",
+      "Easy to trim for a custom fit",
+      "Resists heat up to 500 degrees",
+      "Burnt-on foods can easily be wiped away"
+    ],
+    "description": [
+      "The BuyDirect2You Oven Liner is the perfect item for your kitchen. Made of heavy-duty non-stick fiberglass, the oven liner fits ovens up to 30'' wide. Easy to clean and easy to trim for a custom fit."
+    ],
+    "price": null,
+    "store": "BuyDirect2You",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking Tools & Accessories",
+      "Baking Mats"
+    ],
+    "details": {
+      "Material": "Nonstick",
+      "Size": "Medium",
+      "Color": "Black",
+      "Brand": "BuyDirect2You",
+      "Number of Pieces": "1",
+      "Product Dimensions": "30\"L x 30\"W",
+      "Is Dishwasher Safe": "No",
+      "Item Weight": "0.353 ounces",
+      "Manufacturer": "EuroCentra Inc.",
+      "Item model number": "10100003",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 16, 2013"
+    },
+    "parent_asin": "B00DYVHK32",
+    "bought_together": null
+  }
+}

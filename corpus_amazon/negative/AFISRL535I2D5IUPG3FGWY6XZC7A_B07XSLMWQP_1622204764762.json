@@ -1,0 +1,55 @@
+{
+  "id": "AFISRL535I2D5IUPG3FGWY6XZC7A_B07XSLMWQP_1622204764762",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "would not buy",
+  "text": "would not buy. flimsy design ...doesn't stay on wall...not happy with this",
+  "asin": "B08865VKQL",
+  "parent_asin": "B07XSLMWQP",
+  "user_id": "AFISRL535I2D5IUPG3FGWY6XZC7A",
+  "timestamp": 1622204764762,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ASOBEAGE Toilet Brush,Deep Cleaner Silicone Toilet Brushes with No-Slip Long Plastic Handle and Flexible Bristles, Silicone Toilet Brush with Quick Drying Holder Set for Bathroom Toilet（Silver）",
+    "average_rating": 4.0,
+    "rating_number": 12662,
+    "features": [
+      "【Silicone brush head】The head of the brush is made of TPE material, will not hurt the toilet and pick up dirt. The bathroom toilet brush never wears off and changes shape and maintains perfect cleaning.",
+      "【Quick drying】Pack with a stable & breathable holder base, it is good for ventilation and keep the base cleaning.",
+      "【Efficient】 Best cleaning results in one operation. Thorough cleaning also under the toilet rim. Residue-free! Nothing sticks! Long-lasting & flexible TPE bristles.",
+      "【Professional】Ergonomic toilet brush for powerful, deep cleaning from the drain to under the edge. You can reach hard-to-reach areas with perfect cleaning results.",
+      "【Wall Mount & Stand】You can hang it on the wall without drilling, or just put it on the floor."
+    ],
+    "description": [],
+    "price": 11.99,
+    "store": "ASOBEAGE",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Toilet Accessories",
+      "Toilet Brushes & Holders"
+    ],
+    "details": {
+      "Brand": "ASOBEAGE",
+      "Color": "Silver",
+      "Handle Material": "Plastic",
+      "Product Dimensions": "4.5\"L x 4.5\"W x 16\"H",
+      "Material": "Plastic",
+      "Special Feature": "Durable,Flexible",
+      "Surface Recommendation": "Plastic",
+      "Item Weight": "12.7 ounces",
+      "Manufacturer": "ASOBEAGE",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 24165,
+        "Toilet Brushes & Holders": 59
+      },
+      "Date First Available": "September 12, 2019"
+    },
+    "parent_asin": "B07XSLMWQP",
+    "bought_together": null
+  }
+}

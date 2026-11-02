@@ -1,0 +1,48 @@
+{
+  "id": "AFGDRVPCP742YM5MMLFIKZCGNNRQ_B078TNYC1C_1579482994535",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "It doesn’t work",
+  "text": "It doesn’t work. This never worked. I charged it for a very long time, but it won’t turn on.",
+  "asin": "B078TNYC1C",
+  "parent_asin": "B078TNYC1C",
+  "user_id": "AFGDRVPCP742YM5MMLFIKZCGNNRQ",
+  "timestamp": 1579482994535,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "WAERATOR 3-in-1 Fully-Automatic Rechargeable Electric Wine Opener with Foil Cutter & Wine Preserver",
+    "average_rating": 3.7,
+    "rating_number": 103,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "WAERATOR",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Electric Utensils",
+      "Electric Wine Bottle Openers"
+    ],
+    "details": {
+      "Product Dimensions": "10.19 x 1.78 x 1.78 inches",
+      "Item Weight": "0.85 Pounds",
+      "Item model number": "WA-OP1-RD",
+      "Batteries": "3 AAA batteries required.",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 508866,
+        "Electric Wine Bottle Openers": 530
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 5, 2018",
+      "Brand": "WAERATOR",
+      "Item Dimensions LxWxH": "10.19 x 1.78 x 1.78 inches",
+      "Is Customizable": "No"
+    },
+    "parent_asin": "B078TNYC1C",
+    "bought_together": null
+  }
+}

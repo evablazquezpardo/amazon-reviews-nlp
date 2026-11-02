@@ -1,0 +1,57 @@
+{
+  "id": "AEZI46LNQNWUSPGUSZQRAGS5QTQQ_B0042FN4AM_1489962581000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. I gave them away since I had trouble getting the cubes out.",
+  "asin": "B0042FN4AM",
+  "parent_asin": "B0042FN4AM",
+  "user_id": "AEZI46LNQNWUSPGUSZQRAGS5QTQQ",
+  "timestamp": 1489962581000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Tray Ice Cube 3 Nested Set",
+    "average_rating": 3.7,
+    "rating_number": 530,
+    "features": [
+      "Trays are designed to channel water so trays fill quickly and evenly",
+      "Designed to stack together in your freezer",
+      "Trays nest when not in use but stack easily in freezer",
+      "Sky blue color",
+      "Pack of 3 trays"
+    ],
+    "description": [
+      "The ice cube trays in the Set of 3 Stacking/Nesting Ice Cube Trays are designed to channel water so the trays fill quickly and evenly. When not in use, these trays sit tightly together for efficient storage, but stack securely in the freezer when filled with water. Ice cube trays are dishwasher safe, as well as BPA-free and phthalate-free."
+    ],
+    "price": null,
+    "store": "JOEY'Z",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Specialty Tools & Gadgets",
+      "Ice Cube Molds & Trays"
+    ],
+    "details": {
+      "Product Dimensions": "11 x 1 x 5 inches",
+      "Item Weight": "0.42 Pounds",
+      "Manufacturer": "STERILITE",
+      "Item model number": "72330024",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 450581,
+        "Ice Cube Molds & Trays": 3405
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 4, 2011",
+      "Color": "Blue",
+      "Brand": "JOEY'Z",
+      "Shape": "Square",
+      "Is Dishwasher Safe": "Yes"
+    },
+    "parent_asin": "B0042FN4AM",
+    "bought_together": null
+  }
+}

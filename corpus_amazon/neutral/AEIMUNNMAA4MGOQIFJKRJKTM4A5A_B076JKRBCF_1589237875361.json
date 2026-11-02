@@ -1,0 +1,53 @@
+{
+  "id": "AEIMUNNMAA4MGOQIFJKRJKTM4A5A_B076JKRBCF_1589237875361",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "It works, but it seems very thin and fragile",
+  "text": "It works, but it seems very thin and fragile. The good news is that it fits, but I'm not sure it will hold up to daily use.  We ordered an OEM replacement (more expensive but also more substantial) and are keeping this as a backup should the need arise",
+  "asin": "B076JKRBCF",
+  "parent_asin": "B076JKRBCF",
+  "user_id": "AEIMUNNMAA4MGOQIFJKRJKTM4A5A",
+  "timestamp": 1589237875361,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "CAFÉ BREW COLLECTION Glass Coffee Replacement Carafe - Coffee Machine Replacement Carafe - Best BPA free Coffee Replacement Carafe - 12 Cup Replacement Coffee Carafe",
+    "average_rating": 4.1,
+    "rating_number": 2522,
+    "features": [
+      "Designed to fit most 12-cup coffee maker brands and models in use today including Mr. Coffee, Cuisinart, Hamilton Beach, Black & Decker and more!",
+      "THIS MODEL IS NOT A REPLACEMENT FOR THE NINJA COFFEE MAKER OR THE Keurig Duo ESSENTIALS Coffee Maker",
+      "CHECK THE DIMENSIONS TO ENSURE A PROPER FIT FOR YOUR COFFEE MAKER"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Cuisinart",
+    "categories": [
+      "Kitchen & Dining",
+      "Small Appliance Parts & Accessories",
+      "Coffee & Espresso Machine Parts & Accessories",
+      "Coffee Machine Accessories",
+      "Coffeemaker Pots"
+    ],
+    "details": {
+      "Brand": "Cuisinart",
+      "Material": "Borosilicate Glass",
+      "Capacity": "4 Ounces",
+      "Product Dimensions": "6\"W x 6.59\"H",
+      "Included Components": "Lid",
+      "Shape": "Round",
+      "Item Weight": "1.49 pounds",
+      "Item model number": "123ABC",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 348779,
+        "Coffeemaker Pots": 81
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 18, 2017"
+    },
+    "parent_asin": "B076JKRBCF",
+    "bought_together": null
+  }
+}

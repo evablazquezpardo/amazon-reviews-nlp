@@ -1,0 +1,50 @@
+{
+  "id": "AGD53FZJLNU4UOJE43EZTFFDJYTA_B00BU86RE4_1462875988000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Beautiful",
+  "text": "Beautiful. I bought this as a gift for my son. It is a beautiful cup. Simple yet exquisite. Packaged extremely well to prevent breakage.",
+  "asin": "B00BU86RE4",
+  "parent_asin": "B00BU86RE4",
+  "user_id": "AGD53FZJLNU4UOJE43EZTFFDJYTA",
+  "timestamp": 1462875988000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Royal Doulton Signature Blue Teacup & Saucer Set, 7.4 oz, White",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Platinum accented rims and inner verge",
+      "Navy Blue band",
+      "Fine Bone China",
+      "Hand Wash Recommended",
+      "7.4 ounce capacity"
+    ],
+    "description": [
+      "Royal Doulton Signature Blue showcases a striking Navy Blue band to complement the platinum accented rims and inner verge. The Signature Collection, made of fine bone china, creates an atmosphere of fine dining and elegance."
+    ],
+    "price": null,
+    "store": "Royal Doulton",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cups, Mugs, & Saucers",
+      "Cup & Saucer Sets"
+    ],
+    "details": {
+      "Product Dimensions": "1 x 1 x 1 inches",
+      "Item Weight": "1 pounds",
+      "Manufacturer": "Royal Doulton",
+      "Item model number": "RDSIBL26505",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 25, 2013"
+    },
+    "parent_asin": "B00BU86RE4",
+    "bought_together": null
+  }
+}

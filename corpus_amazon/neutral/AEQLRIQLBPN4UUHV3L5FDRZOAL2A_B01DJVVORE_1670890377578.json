@@ -1,0 +1,52 @@
+{
+  "id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A_B01DJVVORE_1670890377578",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Nice product",
+  "text": "Nice product. not something I need to use.",
+  "asin": "B01DJVVORE",
+  "parent_asin": "B01DJVVORE",
+  "user_id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A",
+  "timestamp": 1670890377578,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Nourished Essentials Fermentation Kit - 3-Pack Airlock Fermentation Lids for Wide Mouth Mason Jars with Vacuum Pump - Air Lock for Fermenting Kimchi, Sauerkraut, and Kombucha",
+    "average_rating": 4.5,
+    "rating_number": 5000,
+    "features": [
+      "Ferment with Confidence: Join our Fermenting Club for expert guidance, recipes, and support. Our fool-proof kit includes ebooks, videos, and a Q&A forum to ensure your success.",
+      "Original Quality: Beware of imitations. Our stiff, durable plastic fermentation lids with a thick, leak-proof gasket are the real deal. Accept no substitutes.",
+      "Effortless Fermenting: Our easy fermenter lids release gas while keeping mold and bacteria out, with a built-in date dial and pull tabs for easy opening. No burping or messy airlocks required.",
+      "Easy Cleaning: Our air lock for fermenting kit has parts that easily separate for thorough cleaning, including under the date dial. All food safe and BPA-free.",
+      "Risk-Free Purchase: Made in the USA, our kit includes 3 fermentation lids compatible with wide mouth jars and a vacuum pump for easy air removal. If not satisfied, we offer money-back guarantee."
+    ],
+    "description": [],
+    "price": 19.99,
+    "store": "Nourished Essentials",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Home Brewing & Wine Making",
+      "Fermentation & More",
+      "Fermenters"
+    ],
+    "details": {
+      "Product Dimensions": "3.74 x 3.74 x 0.98 inches",
+      "Item Weight": "10.6 ounces",
+      "Manufacturer": "Nourished Essentials",
+      "Country of Origin": "China",
+      "Item model number": "EF-1",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 10580,
+        "Brewing & Fermentation Fermenters": 21
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 29, 2016"
+    },
+    "parent_asin": "B01DJVVORE",
+    "bought_together": null
+  }
+}

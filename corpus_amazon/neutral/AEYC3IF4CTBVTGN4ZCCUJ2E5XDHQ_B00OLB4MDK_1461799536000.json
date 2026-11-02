@@ -1,0 +1,45 @@
+{
+  "id": "AEYC3IF4CTBVTGN4ZCCUJ2E5XDHQ_B00OLB4MDK_1461799536000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Okay quality color not same as picture. I wanted ...",
+  "text": "Okay quality color not same as picture. I wanted .... Okay quality color not same as picture.  I wanted bright orange.",
+  "asin": "B00OLB4MDK",
+  "parent_asin": "B00OLB4MDK",
+  "user_id": "AEYC3IF4CTBVTGN4ZCCUJ2E5XDHQ",
+  "timestamp": 1461799536000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Honeymoon 1800 Brushed Microfiber Bed Sheet Set, Ultra Soft, Queen - Orange",
+    "average_rating": 4.2,
+    "rating_number": 100,
+    "features": [
+      "Microfiber",
+      "Made in USA or Imported"
+    ],
+    "description": [],
+    "price": null,
+    "store": "HONEYMOON HOME FASHIONS",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Package Dimensions": "11.2 x 9.5 x 3.5 inches",
+      "Item Weight": "2.74 pounds",
+      "Item model number": "HM005",
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Microfiber",
+      "Number of pieces": "3",
+      "Batteries required": "No",
+      "Import": "Made in USA or Imported"
+    },
+    "parent_asin": "B00OLB4MDK",
+    "bought_together": null
+  }
+}

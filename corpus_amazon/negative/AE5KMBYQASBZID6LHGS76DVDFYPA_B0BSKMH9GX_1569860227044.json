@@ -1,0 +1,76 @@
+{
+  "id": "AE5KMBYQASBZID6LHGS76DVDFYPA_B0BSKMH9GX_1569860227044",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Dangerous",
+  "text": "Dangerous. This thing tried to electrocute me last night! I will be reporting this to consumer safety.",
+  "asin": "B008BF21SK",
+  "parent_asin": "B0BSKMH9GX",
+  "user_id": "AE5KMBYQASBZID6LHGS76DVDFYPA",
+  "timestamp": 1569860227044,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sunbeam Royal Ultra Admiral Blue Heated Blanket - Twin",
+    "average_rating": 4.3,
+    "rating_number": 32623,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Easy to use electric blanket with digital controller, with 12 heat settings and 12-hour selectable auto-shut off function for peace of mind",
+      "Soft, comfy and cozy royal ultra for ideal warmth and comfort, elegant admiral blue color",
+      "84\" x 62\", Twin size",
+      "Perfect for layering and pre-heating bed sheets on chilly nights",
+      "Machine washable and dryer safe for easy care, 100% Polyester"
+    ],
+    "description": [
+      "Sleep better with the Sunbeam Royal Ultra Heated Twin Size Blanket and beat those winter blues. Indulge yourself with its comfy and cozy royal ultra material, wrapping you in luxurious warmth all night long. Easy to use detachable controller with 12 heat settings to choose from and a 12-hour auto-shut off feature for peace of mind. This stylish blanket comes in elegant color options that are sure to compliment any decor. Remove the controller and place the blanket into the washer and dryer for easy maintenance."
+    ],
+    "price": 39.87,
+    "store": "Sunbeam",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Electric Blankets"
+    ],
+    "details": {
+      "Material": "Polyester",
+      "Color": "Admiral Blue",
+      "Brand": "Sunbeam",
+      "Special Feature": "Washable",
+      "Style": "Heated Blanket",
+      "Blanket Form": "Quilt",
+      "Age Range (Description)": "All Ages",
+      "Product Dimensions": "75 x 39 x 1 inches",
+      "Theme": "Plain",
+      "Pattern": "Solid",
+      "Recommended Uses For Product": "Home",
+      "Seasons": "Autumn, Winter",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "Twin",
+      "Fabric Type": "100% Polyester",
+      "Unit Count": "1.0 Count",
+      "Number of Items": "1",
+      "Item Thickness": "1 Inches",
+      "Included Components": "Remote Control, Heated Blanket",
+      "Item Weight": "3.94 pounds",
+      "Manufacturer": "Sunbeam",
+      "Item model number": "BSF9GTS-R595-13A00",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 18391,
+        "Electric Blankets": 5,
+        "Bed Blankets": 61
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Warranty Description": "Limited 5 years warranty",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B0BSKMH9GX",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "AHF3LSEZDKISVKUL6KXRHTCQ6USA_B07CRV3K3Q_1493485634000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Good product.",
+  "text": "Good product.. Good product, too small.",
+  "asin": "B000BQO932",
+  "parent_asin": "B07CRV3K3Q",
+  "user_id": "AHF3LSEZDKISVKUL6KXRHTCQ6USA",
+  "timestamp": 1493485634000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "RUBBERMAID Covered Pitcher 2.25 qt - White with Red Cover",
+    "average_rating": 4.6,
+    "rating_number": 4696,
+    "features": [
+      "Pitcher",
+      "Three position cover that turns for free pouring, pouring with ice guard or closed",
+      "Spout has drip proof design",
+      "Handle designed for ease of lifting and pouring",
+      "Capacity: 2.25 quart"
+    ],
+    "description": [
+      "RUBBERMAID Covered Pitcher 2.25 qt - White with Red Cover"
+    ],
+    "price": 12.54,
+    "store": "Rubbermaid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Serveware",
+      "Beverage Serveware",
+      "Jugs"
+    ],
+    "details": {
+      "Brand": "Rubbermaid",
+      "Material": "Plastic",
+      "Color": "White",
+      "Capacity": "1.9 Liters",
+      "Style": "Contemporary",
+      "Product Dimensions": "6\"W x 10\"H",
+      "Item Weight": "9.6 ounces",
+      "Model Name": "FBA_30621-4",
+      "Manufacturer": "Rubbermaid",
+      "Item model number": "30621-4",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 24111,
+        "Jugs": 132
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 27, 2007"
+    },
+    "parent_asin": "B07CRV3K3Q",
+    "bought_together": null
+  }
+}

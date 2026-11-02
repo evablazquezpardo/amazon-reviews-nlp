@@ -1,0 +1,53 @@
+{
+  "id": "AGRKCZLSFFECGP54U2T2CBYB3RLA_B003VDHRDQ_1664650434736",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Happy she loved it",
+  "text": "Happy she loved it. It was great",
+  "asin": "B003VDHRDQ",
+  "parent_asin": "B003VDHRDQ",
+  "user_id": "AGRKCZLSFFECGP54U2T2CBYB3RLA",
+  "timestamp": 1664650434736,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "K2 New Signature Collection Queen Size Sea Turtles Korean Mink Blanket",
+    "average_rating": 4.4,
+    "rating_number": 55,
+    "features": [
+      "100% Polyester",
+      "Easy Care, machine wash and dry.",
+      "Officially Licensed",
+      "Queen Size"
+    ],
+    "description": [
+      "Colorful gorgeous elusive and plushthe \"12 Turtles\" mink blanket from our signature collection is all this and much more. With an intricate design and a visually pleasing style the super-soft faux-fur blanket is 79 x 96-inches so it easily fits a queen or king-sized bed. It also weighs 6-lbs making it one of our thicker heavy-weight pieces. Since it is 100% Polyester it is totally machine washable and air-dries quickly.This means that you can easily use it as a comforter as a throw for your sofa or in your car and even as a durable camping or beach blanket. If it gets dirty just toss it in the wash and it is ready by bedtime. Featuring 12 turtles hidden against a blue ocean background this blanket is as fun as it is beautiful. Give one as a gift to your favorite person to snuggle with and search for the turtles together."
+    ],
+    "price": 54.95,
+    "store": "K2",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Throws"
+    ],
+    "details": {
+      "Product Dimensions": "20 x 18.5 x 9.2 inches",
+      "Item Weight": "7.3 pounds",
+      "Manufacturer": "JPI",
+      "Item model number": "Sea Turtles",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2350777,
+        "Bed Throws": 19846
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "100% Polyester",
+      "Care instructions": "Machine Wash",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B003VDHRDQ",
+    "bought_together": null
+  }
+}

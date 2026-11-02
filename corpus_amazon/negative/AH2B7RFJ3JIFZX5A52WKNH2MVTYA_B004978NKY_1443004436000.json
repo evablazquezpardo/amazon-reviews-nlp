@@ -1,0 +1,64 @@
+{
+  "id": "AH2B7RFJ3JIFZX5A52WKNH2MVTYA_B004978NKY_1443004436000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Do Not Buy!",
+  "text": "Do Not Buy!. ONE week and it stopped working!  Nothing will get it going.  Would never buy this product again!!",
+  "asin": "B004978NKY",
+  "parent_asin": "B004978NKY",
+  "user_id": "AH2B7RFJ3JIFZX5A52WKNH2MVTYA",
+  "timestamp": 1443004436000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Keurig K-Cup In Room Brewing System, 11.1 x 10-Inches, 8 ounces",
+    "average_rating": 4.4,
+    "rating_number": 3625,
+    "features": [
+      "Single-use Water Reservoir, Brews One 8-ounce Cup",
+      "Fits approximately 4.5 inches coffee mug with tray, 5 inches with tray removed",
+      "Heat times may vary depending on temperature of water added",
+      "Cold water can take 5-7 minutes, while room temperature water can take 3-5 minutes",
+      "Not compatible with reusable K cup filters"
+    ],
+    "description": [
+      "Keurig K-Cup In Room Brewing System. Single-use Water Reservoir that brews 1 - 8 Ounce Cup of coffee. Not compatible with reusable K cup filters. Fits approximately 4.5 inch mug with the tray in place, approximately 5 inch mug if you remove the tray before putting the mug in place. Heat times may vary depending on temperature of water. Cold water can take 5-7 minutes, while room temperature water can take 3-5 minutes. Energy Savings Mode - Automatic On/Off Function. Easy Cleaning and Maintenance. Power: 700 watts"
+    ],
+    "price": null,
+    "store": "Keurig",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Single-Serve Brewers"
+    ],
+    "details": {
+      "Brand": "Keurig",
+      "Capacity": "8 Ounces",
+      "Color": "Silver",
+      "Product Dimensions": "7\"D x 10\"W x 11\"H",
+      "Material": "Plastic",
+      "Filter Type": "Reusable",
+      "Specific Uses For Product": "Coffee brewing",
+      "Item Weight": "7.2 pounds",
+      "Included Components": "Filter",
+      "Wattage": "700 watts",
+      "Number of Items": "1",
+      "Human Interface Input": "Buttons",
+      "Package Type": "Standard Packaging",
+      "Manufacturer": "KEURIG, INCORPORATED",
+      "Item model number": "B130",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 860910,
+        "Single-Serve Brewers": 182
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 26, 2010"
+    },
+    "parent_asin": "B004978NKY",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "AGD7R6EVPDKNZEIYEU3QHFIQ6IUA_B097XQSCN9_1642191951208",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "too damn small",
+  "text": "too damn small. too small for the price a Amazon rip off",
+  "asin": "B097XQSCN9",
+  "parent_asin": "B097XQSCN9",
+  "user_id": "AGD7R6EVPDKNZEIYEU3QHFIQ6IUA",
+  "timestamp": 1642191951208,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sunday Living Portable Electric Heater, 1500W Ceramic Space Heater Fast Heating, Small Personal Heater with Adjustable Thermostat, 3 Modes, 90° Rotation, Metal Base, Overheat Protection for indoor Use Garage Home, Red",
+    "average_rating": 4.2,
+    "rating_number": 15,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "5 SUNDAY LIVING",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Space Heaters",
+      "Electric Space Heaters"
+    ],
+    "details": {
+      "Brand": "5 SUNDAY LIVING",
+      "Special Feature": "Portable, Fast Heating, Overheat Protection",
+      "Color": "Red",
+      "Indoor/Outdoor Usage": "Indoor",
+      "Heating Method": "Convection",
+      "Recommended Uses For Product": "Home,Use",
+      "Mounting Type": "Floor Mount",
+      "Room Type": "Di, Bedroom, Home Office, Study Room",
+      "Burner type": "Radiant",
+      "Heat Output": "1500 Watts",
+      "Package Dimensions": "10.04 x 9.37 x 7.56 inches",
+      "Item Weight": "3.76 pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 3433009,
+        "Indoor Electric Space Heaters": 2068
+      },
+      "Date First Available": "December 20, 2021"
+    },
+    "parent_asin": "B097XQSCN9",
+    "bought_together": null
+  }
+}

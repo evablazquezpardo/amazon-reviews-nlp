@@ -1,0 +1,56 @@
+{
+  "id": "AEUQ6SS65LZCFMELHMNTRGOPSEKA_B0019GLHJ2_1606686419171",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Mine came damaged",
+  "text": "Mine came damaged. I just now unboxed to find two good size scratches.",
+  "asin": "B0019GLHJ2",
+  "parent_asin": "B0019GLHJ2",
+  "user_id": "AEUQ6SS65LZCFMELHMNTRGOPSEKA",
+  "timestamp": 1606686419171,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Powell Woodbury Mahogany Bed Step with Storage",
+    "average_rating": 3.7,
+    "rating_number": 248,
+    "features": [
+      "Mahogany finished bed steps",
+      "Turned decorative carved acanthus corner posts",
+      "Swirled mahogany veneered surfaces",
+      "Scalloped front apron",
+      "Step flips open to reveal deep storage compartment"
+    ],
+    "description": [
+      "These rich mahogany finished bed steps feature turned decorative carved acanthus corner posts, swirled mahogany veneered surfaces, scalloped front apron, and select hardwoods. The step flips open to reveal deep storage compartment. Some assembly required."
+    ],
+    "price": 110.66,
+    "store": "Powell Furniture",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Kids' Furniture",
+      "Step Stools"
+    ],
+    "details": {
+      "Item Weight": "27.6 pounds",
+      "Product Dimensions": "20 x 17.75 x 17.25 inches",
+      "Country of Origin": "Vietnam",
+      "Item model number": "520-535",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembled Height": "17.25 inches",
+      "Assembled Width": "17.75 inches",
+      "Assembled Length": "20 inches",
+      "Weight": "36 Pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1044887,
+        "Kids' Step Stools": 529
+      },
+      "Date First Available": "July 26, 2005"
+    },
+    "parent_asin": "B0019GLHJ2",
+    "bought_together": null
+  }
+}

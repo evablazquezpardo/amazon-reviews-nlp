@@ -1,0 +1,46 @@
+{
+  "id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ_B007A33MDC_1569119725134",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "It works!",
+  "text": "It works!. I ordered this because my electric teakettle was",
+  "asin": "B007A33MDC",
+  "parent_asin": "B007A33MDC",
+  "user_id": "AFQYT7EAPIHCFFCHKNSOSFJH76KQ",
+  "timestamp": 1569119725134,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Dpnamron Yourspares Oust - All Purpose Descaler 3x25ml",
+    "average_rating": 4.3,
+    "rating_number": 9,
+    "features": [],
+    "description": [],
+    "price": 8.91,
+    "store": "Dpnamron",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliance Parts & Accessories"
+    ],
+    "details": {
+      "Product Dimensions": "1.18 x 3.54 x 5.51 inches",
+      "Item Weight": "0.03 Kilograms",
+      "Item model number": "Oust",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 3470754,
+        "Small Appliance Parts & Accessories": 30462
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 11, 2011",
+      "Brand": "Dpnamron",
+      "Item Form": "Spray",
+      "Item Volume": "30 Milliliters",
+      "Unit Count": "1.00 Count"
+    },
+    "parent_asin": "B007A33MDC",
+    "bought_together": null
+  }
+}

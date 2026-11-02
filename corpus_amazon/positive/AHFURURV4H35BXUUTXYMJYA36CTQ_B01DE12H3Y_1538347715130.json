@@ -1,0 +1,47 @@
+{
+  "id": "AHFURURV4H35BXUUTXYMJYA36CTQ_B01DE12H3Y_1538347715130",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Map",
+  "text": "Map. Love the map",
+  "asin": "B01DE12H98",
+  "parent_asin": "B01DE12H3Y",
+  "user_id": "AHFURURV4H35BXUUTXYMJYA36CTQ",
+  "timestamp": 1538347715130,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Office Products",
+    "title": "Superior Mapping Company United States Poster Size Wall Map 40 x 28 with Cities (1 Map)",
+    "average_rating": 4.6,
+    "rating_number": 5745,
+    "features": [],
+    "description": [],
+    "price": 8.78,
+    "store": "Kappa",
+    "categories": [
+      "Home & Kitchen",
+      "Wall Art",
+      "Posters & Prints"
+    ],
+    "details": {
+      "Manufacturer": "Kappa",
+      "Brand": "Kappa",
+      "Item Weight": "0.15 Pounds",
+      "Product Dimensions": "28\"L x 40\"W",
+      "Item model number": "B4220",
+      "Is Discontinued By Manufacturer": "No",
+      "Size": "1 Map",
+      "Paper Finish": "Smooth",
+      "Manufacturer Part Number": "B4220",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 39231,
+        "Posters & Prints": 141
+      },
+      "Date First Available": "March 24, 2016"
+    },
+    "parent_asin": "B01DE12H3Y",
+    "bought_together": null
+  }
+}

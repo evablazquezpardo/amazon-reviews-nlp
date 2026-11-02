@@ -1,0 +1,52 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B0163LHWSM_1480353599000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Looks nice and smells good.",
+  "asin": "B0163LHWSM",
+  "parent_asin": "B0163LHWSM",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1480353599000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Luminessence Apple Cinnamon Potpourri",
+    "average_rating": 3.1,
+    "rating_number": 238,
+    "features": [
+      "Potpourri",
+      "Apple Cinamon Scent"
+    ],
+    "description": [
+      "A warm, full potpourri that will liven up your home. A warm apple cinnamon smell will add an air of festivity to your home."
+    ],
+    "price": 7.35,
+    "store": "Luminessence",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Potpourris"
+    ],
+    "details": {
+      "Product Dimensions": "2 x 3 x 8 inches",
+      "Item Weight": "0.11 Kilograms",
+      "Manufacturer": "Luminessence",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 150587,
+        "Home Fragrance Potpourris": 20
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Perfume": "Apple Cinnamon",
+      "Batteries required": "No",
+      "Import": "Imported",
+      "Scent": "Apple Cinnamon",
+      "Brand": "Luminessence"
+    },
+    "parent_asin": "B0163LHWSM",
+    "bought_together": null
+  }
+}

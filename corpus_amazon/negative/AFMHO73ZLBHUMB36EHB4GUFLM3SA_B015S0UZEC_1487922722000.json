@@ -1,0 +1,54 @@
+{
+  "id": "AFMHO73ZLBHUMB36EHB4GUFLM3SA_B015S0UZEC_1487922722000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. It was like sleeping on plastic. Very sweaty.",
+  "asin": "B015S0UZEC",
+  "parent_asin": "B015S0UZEC",
+  "user_id": "AFMHO73ZLBHUMB36EHB4GUFLM3SA",
+  "timestamp": 1487922722000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Linenspa Waterproof Mattress Pad with Quilted Microfiber Cover -",
+    "average_rating": 3.9,
+    "rating_number": 91,
+    "features": [
+      "Polyester",
+      "Soft, hypoallergenic microfiber fabric over a noiseless waterproof barrier offers quiet and comfortable mattress protection"
+    ],
+    "description": [
+      "Comfort, protection and value come together with the Linenspa Waterproof Mattress Pad. Plush microfiber fabric and soft down alternative fabric rest on top of a thin liquid-proof barrier that guards your mattresses from fluids and accidents. Diamond quilting ensures a smooth, even surface that's quiet and breathable, and corner elastics secure the pad to the mattress. Machine washable mattress pad makes it easy to keep your sleep surface clean and fresh."
+    ],
+    "price": null,
+    "store": "Linenspa",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Mattress Pads & Toppers",
+      "Mattress Pads"
+    ],
+    "details": {
+      "Brand": "Linenspa",
+      "Size": "Queen",
+      "Fabric Type": "Polyester",
+      "Special Feature": "Waterproof",
+      "Closure Type": "Pull On",
+      "Product Care Instructions": "Machine Wash",
+      "Water Resistance Level": "Waterproof",
+      "Age Range (Description)": "Adult",
+      "Material": "Top: 100% Polyester|Backing: 100% Polyethylene",
+      "Package Dimensions": "15.5 x 12 x 4 inches",
+      "Item Weight": "1.9 pounds",
+      "Manufacturer": "LinenSpa",
+      "Item model number": "LS85QQ10WP",
+      "Is Discontinued By Manufacturer": "No",
+      "Tick-repellent material": "Top: 100% Polyester Backing: 100% Polyethylene"
+    },
+    "parent_asin": "B015S0UZEC",
+    "bought_together": null
+  }
+}

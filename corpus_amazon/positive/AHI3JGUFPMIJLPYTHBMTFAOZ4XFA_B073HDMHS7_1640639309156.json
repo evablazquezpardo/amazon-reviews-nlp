@@ -1,0 +1,53 @@
+{
+  "id": "AHI3JGUFPMIJLPYTHBMTFAOZ4XFA_B073HDMHS7_1640639309156",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Great value",
+  "text": "Great value. Used for holiday cookies..two thumbs up👍🏻👍🏻",
+  "asin": "B073HDMHS7",
+  "parent_asin": "B073HDMHS7",
+  "user_id": "AHI3JGUFPMIJLPYTHBMTFAOZ4XFA",
+  "timestamp": 1640639309156,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Aluminum Sheet Pans (15 Pack) Disposable Heavy-Duty Large Baking Trays - Half Sheet Size. Sturdy Foil Pans Great For Baking Cookies, Grilling and more, 17 3/4\" x 13 1/4\" x 1 1/4\"",
+    "average_rating": 4.5,
+    "rating_number": 513,
+    "features": [
+      "EXTRA-STURDY ALUMINUM PANS – Made from quality food-grade aluminum with reinforced rib walls, DOBI pans are stronger and sturdier than most single-use aluminum pans. Deep sides and full curl trim reduce the risk of spills.",
+      "VERSATILE – Choose from several multipurpose sizes that can be refrigerated, frozen, and heated in the oven. Perfect for picnics and potlucks, cooking, baking, storing food, and sending guests home with leftovers.",
+      "EVEN COOKING AND BAKING – Our special design facilitates air flow for superior heat conductivity. DOBI’s extra-sturdy aluminum promotes even cooking and baking for beautiful and delicious results.",
+      "MESS-FREE AND ECO-FRIENDLY – Skip the dirty dishes with DOBI disposable pans, made of infinitely recyclable aluminum and kinder to the environment than single-use plastic.",
+      "VALUE PACKAGED – Put convenience within reach with 15 pack sizes at affordable prices, ideal for home cooks, professional chefs, and caterers alike."
+    ],
+    "description": [],
+    "price": 23.99,
+    "store": "DOBI",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Disposable Cookware"
+    ],
+    "details": {
+      "Package Dimensions": "17.8 x 12.8 x 3.74 inches",
+      "Item Weight": "2.27 pounds",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 14528,
+        "Disposable Cookware": 35
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 29, 2017",
+      "Color": "Silver",
+      "Material": "Aluminum",
+      "Size": "Sheet Pans",
+      "Brand": "DOBI",
+      "Is Dishwasher Safe": "Yes"
+    },
+    "parent_asin": "B073HDMHS7",
+    "bought_together": null
+  }
+}

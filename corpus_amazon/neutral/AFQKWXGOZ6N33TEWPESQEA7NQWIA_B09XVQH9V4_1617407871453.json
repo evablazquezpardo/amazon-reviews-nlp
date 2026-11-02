@@ -1,0 +1,58 @@
+{
+  "id": "AFQKWXGOZ6N33TEWPESQEA7NQWIA_B09XVQH9V4_1617407871453",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Don’t know",
+  "text": "Don’t know. Didn’t buy",
+  "asin": "B071D58ZY5",
+  "parent_asin": "B09XVQH9V4",
+  "user_id": "AFQKWXGOZ6N33TEWPESQEA7NQWIA",
+  "timestamp": 1617407871453,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "LEVOIT Air Purifier for Home, H13 True HEPA Filter for Smokers, Smoke, Dust and Pollen in Bedroom, Filtration System Odor Eliminators for Office with Optional Night Light, 1 pack, Black",
+    "average_rating": 4.6,
+    "rating_number": 47510,
+    "features": [
+      "DESIGNED IN CALIFORNIA: The UV-C Light that other brands adopt to purify air could produce a kind of air pollutant-Ozone, which is especially harmful for the children, Asthma sufferers and pets. Levoit air purifiers never use these for 100% Ozone free",
+      "ADVANCED 3-STAGE FILTRATION SYSTEM: The Pre-Filter, True HEPA Filter, and High-Efficiency Activated Carbon Filter capture allergens, pet hair, dander, smoke, mold, odor and large dust particles, in addition to removing 99. 97% of airborne contaminants as small as 0. 3 microns",
+      "GENUINE REPLACEMENT FILTERS: Search for B06XD7X81D for Replacement filter. Use genuine Levoit replacement filters to maintain the best performance and to ensure what you're buying is worthy of your investment",
+      "ADJUSTABLE SPEEDS WITH SILENCE: Three speed settings (low, medium, high) to meet different air quality and personal needs. Purify the air with only 25 dB on low level, suitable for restful environment and sleep time",
+      "HIGH-EFFICIENCY AIR PURIFIER: Circulates room air over 4 times per hour to achieve rapid purification. Unique size and contemporary design make the Levoit air purifier suitable for small or medium-sized rooms, like offices and dorms",
+      "SMART FILTER CHANGE REMINDER: Built-in Replacement Indicator reminds you when you need to replace your filter. It is recommended to replace your filter every 6-8 months depending on the use and air quality",
+      "NIGHT LIGHT: Choose between two brightness settings at night to help you see in the evening or turn the light off entirely to create your ideal sleep environment. Note: Power Supply: AC 120V/60Hz (Only applies to the USA and Canada.)"
+    ],
+    "description": [
+      "Levoit air purifiers avoid using UV-C light, an air cleaning method that research has shown can produce harmful ozone and secondary pollution.",
+      "Please follow the details and FAQs below.",
+      "Q: How safe are UV purifiers?",
+      "The biggest issue with UV purifiers is that they emit varying levels of ozone. Even very small amounts of ozone in the air may result in chest pain, coughing, shortness of breath, and throat irritation. In fact, The World HealthOrganization (WHO) has issued a warning against people using UV light to sterilize their hands or any other part of their skin.",
+      "Q: How effective are UV purifiers?",
+      "Not very. Microbes have to spend some time in front of the UV light before they’re destroyed. The EPA explains that microbes must be exposed to the light “on the order of minutes and hours rather than the few seconds typical of most UVGI air cleaners”."
+    ],
+    "price": 89.99,
+    "store": "LEVOIT",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Purifiers",
+      "HEPA Air Purifiers"
+    ],
+    "details": {
+      "Color": "Black",
+      "Brand": "LEVOIT",
+      "Product Dimensions": "7.9 x 7.9 x 12.6 inches; 6.49 Pounds",
+      "Power Source": "Corded Electric",
+      "Item Weight": "6.49 Pounds",
+      "Item model number": "LV-H132",
+      "Date First Available": "September 8, 2019",
+      "Manufacturer": "LEVOIT",
+      "Country of Origin": "China"
+    },
+    "parent_asin": "B09XVQH9V4",
+    "bought_together": null
+  }
+}

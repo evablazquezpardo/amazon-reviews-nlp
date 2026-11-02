@@ -1,0 +1,61 @@
+{
+  "id": "AFNT6ZJCYQN3WDIKUSWHJDXNND2Q_B01DP053VC_1569528905992",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Too long",
+  "text": "Too long. It’s too long making it awkward to use",
+  "asin": "B00F0A6FYU",
+  "parent_asin": "B01DP053VC",
+  "user_id": "AFNT6ZJCYQN3WDIKUSWHJDXNND2Q",
+  "timestamp": 1569528905992,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Wilton Icing Spatula, 13-Inch, Angled Cake Spatula, Steel",
+    "average_rating": 4.7,
+    "rating_number": 18634,
+    "features": [
+      "READY, SET, BAKE: This Wilton angled spatula is perfect for smoothing frosting on treats or spreading filling between cake layers. Versatile and durable, this 13 in. offset spatula is one kitchen tool you'll find yourself coming back to again and again!",
+      "CONVENIENT: The Wilton icing and cake spatula is designed to keep your fingers out of the frosting, making it easy to evenly spread buttercream on cakes, cupcakes, cookies and more",
+      "DURABILITY: The Wilton icing and cake spatula has an ergonomic black handle that fits comfortably in the hand and the sturdy, stainless-steel blade helps you get nice, smooth edges and designs",
+      "CARE INSTRUCTIONS: Dishwasher safe; however for best results, wash the Wilton spatula in warm, soapy water before first and after each use",
+      "INCLUDES: 1 spatula, dimensions: 13 in. (33 cm)"
+    ],
+    "description": [
+      "This Wilton icing spatula is great for frosting your cakes. The angled shape makes it easy to keep fingers out of icing as you go, and the stainless steel blade makes smoothing your buttercream a cinch. This 13-inch cake spatula is designed with the decorator in mind."
+    ],
+    "price": 7.1,
+    "store": "Wilton",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cooking Utensils",
+      "Spatulas"
+    ],
+    "details": {
+      "Material": "Stainless Steel",
+      "Color": "Black",
+      "Brand": "Wilton",
+      "Size": "13 inch",
+      "Item Weight": "3.42 ounces",
+      "Number of Pieces": "1",
+      "Is Dishwasher Safe": "Yes",
+      "Handle Material": "Steel",
+      "Product Dimensions": "13\"L x 1.13\"W",
+      "Manufacturer": "Wilton",
+      "Item model number": "409-7716",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 7160,
+        "Spatulas": 50
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 11, 2012",
+      "Item Dimensions LxWxH": "13 x 1.13 x 1.13 inches"
+    },
+    "parent_asin": "B01DP053VC",
+    "bought_together": null
+  }
+}

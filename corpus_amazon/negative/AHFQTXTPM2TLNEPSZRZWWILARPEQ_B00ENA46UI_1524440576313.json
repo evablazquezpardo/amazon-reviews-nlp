@@ -1,0 +1,63 @@
+{
+  "id": "AHFQTXTPM2TLNEPSZRZWWILARPEQ_B00ENA46UI_1524440576313",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. to small",
+  "asin": "B004O07LRC",
+  "parent_asin": "B00ENA46UI",
+  "user_id": "AHFQTXTPM2TLNEPSZRZWWILARPEQ",
+  "timestamp": 1524440576313,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Proctor-Silex 33042 4-Quart Slow Cooker",
+    "average_rating": 4.6,
+    "rating_number": 2102,
+    "features": [
+      "Removable stoneware for easy cleaning",
+      "4 quart capacity",
+      "Dishwasher safe stoneware",
+      "Keep warm setting",
+      "Dishwasher safe glass lid"
+    ],
+    "description": [
+      "The Proctor Silex 4 Quart Portable Slow Cooker has a Keep Warm setting. The removable stoneware is dishwasher safe for easy cleanup."
+    ],
+    "price": 47.99,
+    "store": "Proctor Silex",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Slow Cookers"
+    ],
+    "details": {
+      "Brand": "Proctor Silex",
+      "Color": "White",
+      "Material": "Stoneware",
+      "Capacity": "3.78 Quarts",
+      "Item Weight": "8.1 Pounds",
+      "Is Dishwasher Safe": "Yes",
+      "Voltage": "220 Volts",
+      "Shape": "Oval",
+      "Pattern": "Solid",
+      "Control Method": "Touch",
+      "Control Type": "Knob",
+      "Number of settings": "3",
+      "Product Dimensions": "11.8 x 11.8 x 9.5 inches",
+      "Manufacturer": "Hamilton Beach",
+      "Item model number": "33042",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 117688,
+        "Slow Cookers": 278
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 1, 2011"
+    },
+    "parent_asin": "B00ENA46UI",
+    "bought_together": null
+  }
+}

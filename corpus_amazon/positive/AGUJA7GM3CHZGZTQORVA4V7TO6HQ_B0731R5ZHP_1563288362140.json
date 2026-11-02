@@ -1,0 +1,40 @@
+{
+  "id": "AGUJA7GM3CHZGZTQORVA4V7TO6HQ_B0731R5ZHP_1563288362140",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Just what I needed",
+  "text": "Just what I needed. Works great. Love the release button to get plugs out.",
+  "asin": "B001PUG59O",
+  "parent_asin": "B0731R5ZHP",
+  "user_id": "AGUJA7GM3CHZGZTQORVA4V7TO6HQ",
+  "timestamp": 1563288362140,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Conntek 03411 U.S. 2 Prong Power Splitter 1 to 4 Outlets with Snap Pop",
+    "average_rating": 4.3,
+    "rating_number": 81,
+    "features": [
+      "Plug: NEMA 1-15P",
+      "Receptacle: 4 - 1-15R Outlets",
+      "Snap Pop Easy Release Feature"
+    ],
+    "description": [
+      "Our 1 to 4 outlet creator is perfect for using up to four devices with the Type A, US Standard configuration. It also features our Snap Pop Easy Release for convenience.Approval: Plug: UL, C-UL, NI SPT-2: UL, Connector: UL, C-UL"
+    ],
+    "price": null,
+    "store": "Conntek",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "9.5 x 3.1 x 1.4 inches",
+      "Item Weight": "7.2 ounces",
+      "Manufacturer": "Conntek",
+      "Item model number": "03411",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B0731R5ZHP",
+    "bought_together": null
+  }
+}

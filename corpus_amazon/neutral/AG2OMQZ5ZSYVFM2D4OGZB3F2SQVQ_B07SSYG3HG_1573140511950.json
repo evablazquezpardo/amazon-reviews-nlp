@@ -1,0 +1,45 @@
+{
+  "id": "AG2OMQZ5ZSYVFM2D4OGZB3F2SQVQ_B07SSYG3HG_1573140511950",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not Cool",
+  "text": "Not Cool. Doesn't cool as much as you think it should.",
+  "asin": "B07SSYG3HG",
+  "parent_asin": "B07SSYG3HG",
+  "user_id": "AG2OMQZ5ZSYVFM2D4OGZB3F2SQVQ",
+  "timestamp": 1573140511950,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Air Cooler, Powerful Personal Air Conditioner Cooler Mini Evaporative Air Conditioner Desktop Cooling Fan With Nightlight And Humidification Function Low Noise Perfect For Home Office",
+    "average_rating": 2.4,
+    "rating_number": 50,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "SMSJ",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Conditioners",
+      "Portable"
+    ],
+    "details": {
+      "Package Dimensions": "17 x 8.9 x 8.82 inches",
+      "Item Weight": "8.13 pounds",
+      "Batteries required": "No",
+      "Floor Area": "350 Square Feet",
+      "Voltage": "110 Volts",
+      "Brand": "SMSJ",
+      "Color": "Blue",
+      "Power Source": "Corded Electric",
+      "Control Method": "Remote",
+      "Self Timer Duration": "24 Hours",
+      "Controller Type": "Remote Control"
+    },
+    "parent_asin": "B07SSYG3HG",
+    "bought_together": null
+  }
+}

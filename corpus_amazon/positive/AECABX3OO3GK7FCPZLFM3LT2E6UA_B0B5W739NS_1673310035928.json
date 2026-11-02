@@ -1,0 +1,50 @@
+{
+  "id": "AECABX3OO3GK7FCPZLFM3LT2E6UA_B0B5W739NS_1673310035928",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Works great",
+  "text": "Works great. Seems to be working well and is quiet",
+  "asin": "B09FJSJQ95",
+  "parent_asin": "B0B5W739NS",
+  "user_id": "AECABX3OO3GK7FCPZLFM3LT2E6UA",
+  "timestamp": 1673310035928,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": null,
+    "title": "AROEVE Air Purifiers for Home, HEPA Air Purifiers Air Cleaner For Smoke Pollen Dander Hair Smell Portable Air Purifier with Sleep Mode Speed Control For Bedroom Office Living Room, MK01- Black",
+    "average_rating": 4.6,
+    "rating_number": 19970,
+    "features": [
+      "Efficient Particle Filtration: AROEVE air purifier utilizes a HEPA filter that can effectively filter out particles such as smoke, pollen, dander, hair, and more, potentially improving air quality and promoting better health and well-being for you.",
+      "High Circulation Rate: With dual-channel and 360-degree air inlets technology, AROEVE air purifier refreshes the air per hour in rooms up to 215 ft² / 20 m², covering every corner of the room to promote better health for you.",
+      "Low Decibel Operation: AROEVE air purifier operates quietly, especially when the sleep mode is activated, which reduces the fan speed to the lowest setting, effectively eliminating any noticeable sound. The filtered air noise is as low as 22 dB, making it ideal for creating a peaceful and relaxing indoor environment while still providing effective purification.",
+      "Enjoy Fragrant Air: It features an aroma pad located below the air outlet that allows you to add 4-5 drops of your favorite essential oil (not included). As the purifier circulates fresh air, the fragrance spreads throughout the room, creating a pleasant and healthy environment for you and your family to enjoy.",
+      "Notice: To ensure the health and safety of you and your family, our AROEVE air purifiers are equipped with a 2000-hour cartridge replacement reminder. Once the purifier has been in use for more than 2000 hours, a red indicator light will turn on to remind you to replace the filter cartridge. For optimal performance, we recommend replacing the filter cartridge once every 3-6 months. (Note: The voltage of the air purifier is 120V and is suitable for use only in the United States.)"
+    ],
+    "description": [],
+    "price": null,
+    "store": "AROEVE",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Purifiers",
+      "HEPA Air Purifiers"
+    ],
+    "details": {
+      "Color": "Black",
+      "Brand": "AROEVE",
+      "Product Dimensions": "6.1 x 6.1 x 9.7 inches; 3 Pounds",
+      "Floor Area": "215 Square Feet",
+      "Specification Met": "ETL Certified",
+      "Power Source AC": "",
+      "": "Filter Type HEPA",
+      "Control Method Touch": "",
+      "Item model number": "MK01",
+      "Date First Available": "September 18, 2021"
+    },
+    "parent_asin": "B0B5W739NS",
+    "bought_together": null
+  }
+}

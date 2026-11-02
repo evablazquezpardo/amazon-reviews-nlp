@@ -1,0 +1,46 @@
+{
+  "id": "AEIYWY5GEM34X74NW7BACBRAZCYQ_B08JM5Z8W6_1608771544375",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Garbage",
+  "text": "Garbage. Garbage!",
+  "asin": "B08JM5Z8W6",
+  "parent_asin": "B08JM5Z8W6",
+  "user_id": "AEIYWY5GEM34X74NW7BACBRAZCYQ",
+  "timestamp": 1608771544375,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "2 People 2020 Christmas Ornament Quarantine Kit, Quarantine Survivor Christmas Decoration Kit",
+    "average_rating": 2.6,
+    "rating_number": 84,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "UpdateClassic",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Hanging Ornaments"
+    ],
+    "details": {
+      "Color": "Original",
+      "Brand": "UpdateClassic",
+      "Occasion": "Christmas",
+      "Material": "Plastic",
+      "Theme": "People,Christmas",
+      "Unit Count": "1 Count",
+      "Scent": "Unscented",
+      "Package Dimensions": "3 x 2 x 1 inches",
+      "Item Weight": "1.9 ounces",
+      "Manufacturer": "UpdateClassic",
+      "Item model number": "UpdateClassic",
+      "Date First Available": "September 21, 2020"
+    },
+    "parent_asin": "B08JM5Z8W6",
+    "bought_together": null
+  }
+}

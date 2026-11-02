@@ -1,0 +1,61 @@
+{
+  "id": "AEQP7PV4KDYYNSB6PF2DFU7ZBIWQ_B00F9ZA8TY_1485074817000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Meh",
+  "text": "Meh. Too small for most birds.",
+  "asin": "B00F9ZA8TY",
+  "parent_asin": "B00F9ZA8TY",
+  "user_id": "AEQP7PV4KDYYNSB6PF2DFU7ZBIWQ",
+  "timestamp": 1485074817000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Toastabags Self Basting Oven Bags, STD, Multicolor",
+    "average_rating": 4.1,
+    "rating_number": 43,
+    "features": [
+      "Preserves The Natural Flavors And Colors Of The Food And Retains Nutrients",
+      "Simple To Use. Just Open The Bag, Place In A Pan And Fill It With Your Favorite Meats And Vegetables",
+      "Also Suitable For Microwaving, Re-Heating, Boiling, Freezing And Storing Meat And Vegetables",
+      "No Need for Extra Fat -The Meats are Continually Basted in Their Own Juices",
+      "Keeps Oven Clean For Easy Cooking And Clean-Up"
+    ],
+    "description": [
+      "Roastabags - Self Basting Oven Bags (Pack of 8) for Brining and Roasting Chicken, Meat, Seafood & Vegetables. Bags Size 10 X 15. 25 Inches"
+    ],
+    "price": 7.1,
+    "store": "Toastabags",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Cookware Accessories"
+    ],
+    "details": {
+      "Brand": "Toastabags",
+      "Product Dimensions": "25\"W x 25\"H",
+      "Closure Type": "Zipper",
+      "Number of Items": "1",
+      "Shape": "Rectangular",
+      "Color": "Multicolor",
+      "Item Weight": "1.4 Ounces",
+      "Model Name": "Self Basting Oven Bags",
+      "Number of Pieces": "1",
+      "Size": "STD",
+      "Is Microwaveable": "Yes",
+      "Manufacturer": "Toastabags",
+      "Item model number": "596590",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 528935,
+        "Cookware Accessories": 2667
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 18, 2013"
+    },
+    "parent_asin": "B00F9ZA8TY",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B01BDBX1LO_1479463057000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "WATCH OUT!",
+  "text": "WATCH OUT!. They turn to ash!",
+  "asin": "B01BDBX1LO",
+  "parent_asin": "B01BDBX1LO",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1479463057000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "2dayShip Quilon Parchment Paper Baking Liner Sheets, Unbleached Brown, 12 X 16 Inches, 200 Count",
+    "average_rating": 4.6,
+    "rating_number": 187,
+    "features": [
+      "Model number : BROWNPARCHMENT-100PK",
+      "Country of origin : United States"
+    ],
+    "description": [],
+    "price": 18.19,
+    "store": "CucinaPrime",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking Tools & Accessories",
+      "Parchment"
+    ],
+    "details": {
+      "Product Dimensions": "0.1 x 12 x 16 inches",
+      "Item Weight": "2.2 pounds",
+      "Item model number": "BROWNPARCHMENT-100PK",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 153595,
+        "Baking Parchment": 818
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 2, 2016",
+      "Brand": "2dayShip",
+      "Item Form": "Liner,Sheets",
+      "Sheet Count": "200",
+      "Sheet Size": "12 x 16 Inches"
+    },
+    "parent_asin": "B01BDBX1LO",
+    "bought_together": null
+  }
+}

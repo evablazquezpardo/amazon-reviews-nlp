@@ -1,0 +1,56 @@
+{
+  "id": "AEHJJPC3MQJAHAJWBEVIF5EFQQBQ_B004FJTMO2_1356018128000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Grandma is lookin' poorly",
+  "text": "Grandma is lookin' poorly. Head is lopsided; features on face misplaced; skirt not wide enough for my vacuum cleaner. This was cheap, and I thought I was getting a bargain.  Proves that you get what you paid for...",
+  "asin": "B004FJTMO2",
+  "parent_asin": "B004FJTMO2",
+  "user_id": "AEHJJPC3MQJAHAJWBEVIF5EFQQBQ",
+  "timestamp": 1356018128000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Collections Etc Grandma Upright Vacuum Cleaner Cover",
+    "average_rating": 3.5,
+    "rating_number": 970,
+    "features": [
+      "No place for your vacuum cleaner? Dress it up with this whimsical cover",
+      "It's styled to look like a grandma, with a long skirt to slip over the vacuum handle",
+      "Fits most upright vacuums",
+      "Cotton/polyester| Spot clean| Imported"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Collections Etc",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Bags",
+      "Upright Bags"
+    ],
+    "details": {
+      "Brand": "Collections Etc",
+      "Special Feature": "Unlit",
+      "Voltage": "240 Volts",
+      "Item Weight": "0.75 Pounds",
+      "Form Factor": "Upright",
+      "Color": "Na",
+      "Controller Type": "Push Button",
+      "Product Dimensions": "52 x 25 x 5 inches",
+      "Department": "Collections",
+      "Item model number": "17427",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 911486,
+        "Replacement Upright Vacuum Bags": 844
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 1, 2011"
+    },
+    "parent_asin": "B004FJTMO2",
+    "bought_together": null
+  }
+}

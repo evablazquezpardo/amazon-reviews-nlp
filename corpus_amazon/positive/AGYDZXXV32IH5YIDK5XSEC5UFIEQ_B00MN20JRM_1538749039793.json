@@ -1,0 +1,43 @@
+{
+  "id": "AGYDZXXV32IH5YIDK5XSEC5UFIEQ_B00MN20JRM_1538749039793",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Good product and inexpensive.",
+  "text": "Good product and inexpensive.. Works for both scissors and knives. Inexpensive",
+  "asin": "B00MN20JRM",
+  "parent_asin": "B00MN20JRM",
+  "user_id": "AGYDZXXV32IH5YIDK5XSEC5UFIEQ",
+  "timestamp": 1538749039793,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Perfect Professional 2 in1 Handheld Knife Scissors Blade Sharpener Tool#07",
+    "average_rating": 3.9,
+    "rating_number": 103,
+    "features": [
+      "2-in-1 professional quality blade sharpener for sharpening both knife and scissors.",
+      "Sharpen more than 10,000 blades",
+      "Simple and easy to use this instrument to sharpen knives and scissors.",
+      "Handle makes for easy grip while sharpening your knives.",
+      "Material:Tungsten carbide sharpening stones and high impact plastic (handle)."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Keyzone",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Knife Sharpeners"
+    ],
+    "details": {
+      "Material": "Tungsten Carbide",
+      "Brand": "Keyzone",
+      "Product Dimensions": "5.51\"L x 2.76\"W x 1.02\"H"
+    },
+    "parent_asin": "B00MN20JRM",
+    "bought_together": null
+  }
+}

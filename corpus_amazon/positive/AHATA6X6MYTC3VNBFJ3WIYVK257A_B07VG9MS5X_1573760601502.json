@@ -1,0 +1,61 @@
+{
+  "id": "AHATA6X6MYTC3VNBFJ3WIYVK257A_B07VG9MS5X_1573760601502",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Smaller than expected. Well made.",
+  "text": "Smaller than expected. Well made.. These are a little smaller than I expected, but they are well made.",
+  "asin": "B07VG9MS5X",
+  "parent_asin": "B07VG9MS5X",
+  "user_id": "AHATA6X6MYTC3VNBFJ3WIYVK257A",
+  "timestamp": 1573760601502,
+  "helpful_vote": 1,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics 2 Compartment Meal Prep Containers - BPA Free, Microwave/Dishwasher/Freezer Safe, 32 ounces, 20-Pack,Black",
+    "average_rating": 4.0,
+    "rating_number": 643,
+    "features": [
+      "Set of 20 reusable meal prep containers with lids and 2 compartment each; 32 ounce capacity",
+      "Ideal for school or work lunches, meal planning, storing leftovers, and more",
+      "Stackable design offers easy, space-saving storage",
+      "Microwave, freezer, and dishwasher safe",
+      "Made of durable, BPA-free polypropylene"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics 2 Compartment Meal Prep Containers - BPA Free, Microwave/Dishwasher/Freezer Safe, 32 ounces, 20-Pack",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": null,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "9 x 5.91 x 6.1 inches",
+      "Item Weight": "2.12 pounds",
+      "Manufacturer": "Amazon Basics",
+      "Item model number": "P32-2-20",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 246631,
+        "Food Container Sets": 6058
+      },
+      "Date First Available": "December 3, 2019",
+      "Brand": "Amazon Basics",
+      "Color": "Black",
+      "Material": "Polypropylene",
+      "Capacity": "900 Milliliters",
+      "Recommended Uses For Product": "Meal Prep"
+    },
+    "parent_asin": "B07VG9MS5X",
+    "bought_together": null
+  }
+}

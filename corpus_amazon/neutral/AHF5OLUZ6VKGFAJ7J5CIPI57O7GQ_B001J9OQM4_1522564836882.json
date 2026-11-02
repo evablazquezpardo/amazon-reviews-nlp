@@ -1,0 +1,47 @@
+{
+  "id": "AHF5OLUZ6VKGFAJ7J5CIPI57O7GQ_B001J9OQM4_1522564836882",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Great product",
+  "asin": "B001J9OQM4",
+  "parent_asin": "B001J9OQM4",
+  "user_id": "AHF5OLUZ6VKGFAJ7J5CIPI57O7GQ",
+  "timestamp": 1522564836882,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Swiffer Sweeper Refills, 64 Ct (Old Version)",
+    "average_rating": 4.7,
+    "rating_number": 824,
+    "features": [
+      "Sweeper"
+    ],
+    "description": [
+      "Swiffer Refills, 64 Ct (Old Version)"
+    ],
+    "price": null,
+    "store": "Swiffer",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Sweepers & Accessories"
+    ],
+    "details": {
+      "Color": "Green",
+      "Brand": "Swiffer",
+      "Number of Items": "1",
+      "Style": "Unscented, 64 Ct",
+      "Pattern": "Solid",
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "6.13 x 5.6 x 9.32 inches; 7.52 Ounces",
+      "Item model number": "427792",
+      "Date First Available": "November 1, 2005",
+      "Manufacturer": "Procter & Gamble"
+    },
+    "parent_asin": "B001J9OQM4",
+    "bought_together": null
+  }
+}

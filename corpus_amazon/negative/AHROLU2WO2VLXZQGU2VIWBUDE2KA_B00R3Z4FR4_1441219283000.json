@@ -1,0 +1,62 @@
+{
+  "id": "AHROLU2WO2VLXZQGU2VIWBUDE2KA_B00R3Z4FR4_1441219283000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Cheaply made. Would not recommend",
+  "asin": "B00R3Z4FR4",
+  "parent_asin": "B00R3Z4FR4",
+  "user_id": "AHROLU2WO2VLXZQGU2VIWBUDE2KA",
+  "timestamp": 1441219283000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Multifunction Come-Apart Kitchen Shears",
+    "average_rating": 4.3,
+    "rating_number": 10344,
+    "features": [
+      "Multifunction kitchen shears come apart only when you want them to",
+      "Sharp blades make easy work of any cutting task",
+      "Ideal for cutting, scaling, peeling, removing caps, and cracking nuts",
+      "Ergonomic non-slip grip for enhanced safety",
+      "Hand wash only"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Multifunction Kitchen Shears",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": null,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Shears"
+    ],
+    "details": {
+      "Color": "Black",
+      "Material": "Stainless Steel",
+      "Brand": "Amazon Basics",
+      "Item Dimensions LxWxH": "8.27 x 3.23 x 0.48 inches",
+      "Style": "Classic",
+      "Item Weight": "3.36 ounces",
+      "Finish Type": "Non Stick",
+      "Hand Orientation": "Ambidextrous",
+      "Product Dimensions": "8.27 x 3.23 x 0.48 inches",
+      "Manufacturer": "Amazon Basics",
+      "Item model number": "0182",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 241316,
+        "Kitchen Shears": 515
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 1, 2015"
+    },
+    "parent_asin": "B00R3Z4FR4",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "AFSFXIYYZ5MNFJHEX3QHKWPK264A_B00UVYQWFW_1433873695000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not the right fit",
+  "text": "Not the right fit. It said that it fit my model, but it didn't. Too small of an opening.",
+  "asin": "B00005V9E4",
+  "parent_asin": "B00UVYQWFW",
+  "user_id": "AFSFXIYYZ5MNFJHEX3QHKWPK264A",
+  "timestamp": 1433873695000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Dirt Devil Type G Vacuum Bags, 10-Pack, 3010348001, White",
+    "average_rating": 4.7,
+    "rating_number": 3726,
+    "features": [
+      "Bags for Dirt Devil Hand Vac",
+      "Pack of 10",
+      "Model 3010348001"
+    ],
+    "description": [
+      "Royal / Dirt Devil Standard Paper Bags - 10 Pack - Dirt Devil Hand Vac - Type G* Part# 3-010348-001. Compatible models include: 103, 103WCM, 08100, 08100RED, 08150, 08230"
+    ],
+    "price": 11.26,
+    "store": "Dirt Devil",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Bags",
+      "Canister Bags"
+    ],
+    "details": {
+      "Product Dimensions": "11.3 x 5.1 x 1.4 inches",
+      "Item Weight": "3.2 ounces",
+      "Manufacturer": "Dirt Devil",
+      "Country of Origin": "China",
+      "Item model number": "3010348001",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 80135,
+        "Replacement Canister Vacuum Bags": 98
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "10",
+      "Batteries required": "No",
+      "Import": "Imported",
+      "Compatible Devices": "Vacuum Cleaner",
+      "Brand": "Dirt Devil",
+      "Material": "Paper",
+      "Special Feature": "Genuine Type G bags. Fits all hand vac models equipped with the paper bag adapter.",
+      "Color": "White"
+    },
+    "parent_asin": "B00UVYQWFW",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "AGEP2CC2QIJU5IHQZXCC7BE5JSDQ_B0738R2WSH_1570577789335",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Nice",
+  "text": "Nice. Liked the item - just what I needed.",
+  "asin": "B0738QZGBR",
+  "parent_asin": "B0738R2WSH",
+  "user_id": "AGEP2CC2QIJU5IHQZXCC7BE5JSDQ",
+  "timestamp": 1570577789335,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "GOLDY&WENDY Rosewood Circular Pedestal Display Stand (4.4\" Inside Diameter, 1 Pack)",
+    "average_rating": 4.6,
+    "rating_number": 305,
+    "features": [
+      "Rosewood Circular display stand",
+      "4.37\" Inside Diameter",
+      "Flat",
+      "Use it to display a jar, rock, vase, and more!",
+      "Rosewood base only,Display items is not included"
+    ],
+    "description": [
+      "SIZE",
+      ": 4.37\" Inside Diameter These round wooden display stands have a rich rosewood stain and a stylish look that will complement your favorite vase or lamp without distracting from it. Having been measured to the half inch, it will precisely fit whatever you choose to display upon it."
+    ],
+    "price": 23.99,
+    "store": "GOLDY&WENDY",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Display Stands",
+      "Pedestals"
+    ],
+    "details": {
+      "Product Dimensions": "4.72 x 4.72 x 1.18 inches",
+      "Item Weight": "0.5 Pounds",
+      "Manufacturer": "GOLDY&WENDY",
+      "Item model number": "5370-11.1",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 416782,
+        "Display Pedestals": 196
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Color": "5370",
+      "Material": "Wood",
+      "Brand": "GOLDY&WENDY",
+      "Item Dimensions LxWxH": "4.72 x 4.72 x 1.18 inches"
+    },
+    "parent_asin": "B0738R2WSH",
+    "bought_together": null
+  }
+}

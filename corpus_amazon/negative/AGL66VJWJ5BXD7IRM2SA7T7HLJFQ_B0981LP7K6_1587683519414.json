@@ -1,0 +1,56 @@
+{
+  "id": "AGL66VJWJ5BXD7IRM2SA7T7HLJFQ_B0981LP7K6_1587683519414",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Meh",
+  "text": "Meh. Not very good. This is way too much money for this. It would be appropriately priced at $10.00. This is something you would expect to get at Goodwill for just a dollar or two. Not good quality at all.",
+  "asin": "B07J9LLSNN",
+  "parent_asin": "B0981LP7K6",
+  "user_id": "AGL66VJWJ5BXD7IRM2SA7T7HLJFQ",
+  "timestamp": 1587683519414,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "MyGift Vintage Gray Wood Key and Mail Holder for Wall Rack with 6 Hooks and Decorative Mason Jar Vase",
+    "average_rating": 4.7,
+    "rating_number": 1133,
+    "features": [
+      "Wall mounted vintage grey wood organizer rack perfect for keeping mail sorted in your entryway, kitchen, or office",
+      "Vintage mason jar can be used for small plants or loose items such as coins",
+      "Includes 6 hooks for hanging keys, coats, leashes, and handbags",
+      "Easy to mount to wall surfaces with proper hardware (Mounting hardware not included)",
+      "Approximate Dimensions: 15.75 W x 4 D x 11 H; Mail Slot - 9.25 W x 2.5 D x 6 H; Jar - 5 H x 2.5 Diameter (in inches)"
+    ],
+    "description": [],
+    "price": 29.99,
+    "store": "MyGift",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Home Storage Hooks",
+      "Key Hooks"
+    ],
+    "details": {
+      "Color": "Vintage Gray",
+      "Brand": "MyGift",
+      "Material": "Wood",
+      "Style": "Country Rustic",
+      "Shape": "Rectangular",
+      "Item Weight": "2 pounds",
+      "Item Dimensions LxWxH": "15.74 x 11.02 x 3.93 inches",
+      "Number of Hooks": "6",
+      "Product Dimensions": "15.74 x 11.02 x 3.93 inches",
+      "Country of Origin": "China",
+      "Item model number": "HOM1856GRY",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 252877,
+        "Key Hooks": 240
+      },
+      "Date First Available": "July 25, 2019"
+    },
+    "parent_asin": "B0981LP7K6",
+    "bought_together": null
+  }
+}

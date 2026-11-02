@@ -1,0 +1,50 @@
+{
+  "id": "AEAUZK2OLWXD75AWJOCCGGCL3H2A_B0749GG22T_1562003144497",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Pretty design.",
+  "text": "Pretty design.. Only one problem--its hard to find liners that fit.  With a lot of searching you can find them.",
+  "asin": "B011R330B4",
+  "parent_asin": "B0749GG22T",
+  "user_id": "AEAUZK2OLWXD75AWJOCCGGCL3H2A",
+  "timestamp": 1562003144497,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "United Solutions SR0363 4 Gallon Black Chevron Wastebasket",
+    "average_rating": 4.1,
+    "rating_number": 113,
+    "features": [
+      "Trend forward, wide appeal design",
+      "Easy to clean",
+      "Available in multiple color options"
+    ],
+    "description": [
+      "United Solutions 4 gallon/16 quart Black plastic chevron pattern wastebasket presents a trendy solution to your bathroom, bedroom, and office needs. Easy to clean."
+    ],
+    "price": null,
+    "store": "United Solutions",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization"
+    ],
+    "details": {
+      "Product Dimensions": "11.75 x 9.38 x 11.75 inches",
+      "Item Weight": "16 ounces",
+      "Manufacturer": "United Solutions",
+      "Item model number": "SR0363",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Brand": "United Solutions",
+      "Capacity": "4 Gallons",
+      "Color": "Black",
+      "Opening Mechanism": "Open-Top",
+      "Material": "Plastic"
+    },
+    "parent_asin": "B0749GG22T",
+    "bought_together": null
+  }
+}

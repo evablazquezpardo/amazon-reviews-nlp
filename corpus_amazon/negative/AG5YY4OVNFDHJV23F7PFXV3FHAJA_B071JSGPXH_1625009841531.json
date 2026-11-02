@@ -1,0 +1,53 @@
+{
+  "id": "AG5YY4OVNFDHJV23F7PFXV3FHAJA_B071JSGPXH_1625009841531",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Came completely squished and ruined",
+  "text": "Came completely squished and ruined. Came crushed.",
+  "asin": "B071JSGPXH",
+  "parent_asin": "B071JSGPXH",
+  "user_id": "AG5YY4OVNFDHJV23F7PFXV3FHAJA",
+  "timestamp": 1625009841531,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "Purafilter 2000 Gold 21.5x23.25x1 Micro Allergen Performance Pleated Replacement AC/Furnace Air Filter, MERV 11, (Pack of 4)",
+    "average_rating": 4.4,
+    "rating_number": 98,
+    "features": [
+      "THE HIGHER THE MERV RATING, THE MORE PARTICLES TRAPPED – Merv 11 rated AC/Furnace filter. Tested and rated according to ASHRAE Standard 52.2",
+      "CREATE CLEANER INDOOR AIR AT YOUR HOME OR WORK - Captures up to 85% of common airborne contaminants such as dust, lint, dust mite debris, pollen (inanimate), pet dander, and smoke.",
+      "BETTER PERFORMANCE – This Purafilter Gold Series air filter is 30 times more efficient than ordinary fiberglass filters",
+      "EASY INSTALL – Simply remove your old filter, unpack the new one, insert the filter so the arrow on the side of the frame matches air flow direction, and lastly record the date to keep track of when to change",
+      "BUY WITH CONFIDENCE – Every Purafilter Gold Series air filter is designed and manufactured in the United States and built to last up to 90 days under normal operating conditions."
+    ],
+    "description": [],
+    "price": null,
+    "store": "PURAFILTER 2000",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Purifier Parts & Accessories"
+    ],
+    "details": {
+      "Product Dimensions": "23.25\"L x 21.5\"W x 1\"Th",
+      "Item Weight": "0.75 Pounds",
+      "Manufacturer": "Dupont",
+      "Item model number": "KG21.5X23.25X1A",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 782114,
+        "Home Air Purifier Parts & Accessories": 3705
+      },
+      "Batteries required": "No",
+      "Brand": "PURAFILTER 2000",
+      "Material": "Metal",
+      "MERV Rating": "11",
+      "Compatible Devices": "Furnace"
+    },
+    "parent_asin": "B071JSGPXH",
+    "bought_together": null
+  }
+}

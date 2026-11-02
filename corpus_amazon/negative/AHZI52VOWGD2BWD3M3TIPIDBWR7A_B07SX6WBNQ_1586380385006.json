@@ -1,0 +1,48 @@
+{
+  "id": "AHZI52VOWGD2BWD3M3TIPIDBWR7A_B07SX6WBNQ_1586380385006",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not good...",
+  "text": "Not good.... Overheats easy and then stopped working altogether in a couple months",
+  "asin": "B07SX6WBNQ",
+  "parent_asin": "B07SX6WBNQ",
+  "user_id": "AHZI52VOWGD2BWD3M3TIPIDBWR7A",
+  "timestamp": 1586380385006,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "All Electronics",
+    "title": "21.6V 5000mAh Runtime:30-60 Mins Battery Compatible with V6 DC58 DC59 DC61 DC62 Animal Pro V6 Absolute Slim SV03 SV04 SV05 SV07 SV09 595 650 770 880(Not Fit The Wall Hanger)",
+    "average_rating": 3.8,
+    "rating_number": 460,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Miady",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Replacement Batteries & Parts",
+      "Batteries"
+    ],
+    "details": {
+      "Package Dimensions": "8 x 4 x 1.8 inches",
+      "Item Weight": "1.54 pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1297877,
+        "Vacuum Replacement Batteries": 1047
+      },
+      "Date First Available": "July 31, 2019",
+      "Manufacturer": "Miady",
+      "Brand": "Miady",
+      "Battery Cell Composition": "Lithium Ion",
+      "Recommended Uses For Product": "Vacuum Cleaner",
+      "Unit Count": "1 Count",
+      "Voltage": "21.6 Volts"
+    },
+    "parent_asin": "B07SX6WBNQ",
+    "bought_together": null
+  }
+}

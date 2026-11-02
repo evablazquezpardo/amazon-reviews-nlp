@@ -1,0 +1,58 @@
+{
+  "id": "AHC4YDJ5WS3MDCNSKMJTOZRKZWPA_B000GDMG5S_1497275329001",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Just OK...",
+  "text": "Just OK.... It's somewhat flimsy and the paint job is odd. I repainted it and will eventually replace it, but for now it works...",
+  "asin": "B000GDMG5S",
+  "parent_asin": "B000GDMG5S",
+  "user_id": "AHC4YDJ5WS3MDCNSKMJTOZRKZWPA",
+  "timestamp": 1497275329001,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Deco 79 21634 Metal Fire Screen, 35 by 34\", Black",
+    "average_rating": 4.1,
+    "rating_number": 176,
+    "features": [
+      "Item color: brown, Green",
+      "Item finish: textured",
+      "This product is Made in China"
+    ],
+    "description": [
+      "21634 Features: -Material: Metal. -Made in the USA. Product Type: -Fireplace screen. Finish: -Brown/Green. Primary Material: -Metal. Dimensions: Overall Height - Top to Bottom: -35\". Overall Width - Side to Side: -34\". Overall Depth - Front to Back: -1\". Overall Product Weight: -13 lbs."
+    ],
+    "price": null,
+    "store": "Deco 79",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Bedroom Furniture",
+      "Room Dividers"
+    ],
+    "details": {
+      "Product Dimensions": "35 x 1 x 34 inches",
+      "Item Weight": "5 pounds",
+      "Manufacturer": "Deco 79",
+      "Item model number": "21634",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2729532,
+        "Room Dividers": 1396
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Volume": "0.02 Cubic Meters",
+      "Finish types": "Powder Coated",
+      "Care instructions": "Wipe Clean with a Damp Cloth",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Warranty Description": "No manufacturer warranty.",
+      "Batteries required": "No",
+      "Included Components": "Fireplace screens",
+      "Import": "Imported"
+    },
+    "parent_asin": "B000GDMG5S",
+    "bought_together": null
+  }
+}

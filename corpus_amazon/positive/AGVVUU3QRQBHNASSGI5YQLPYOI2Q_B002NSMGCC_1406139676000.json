@@ -1,0 +1,68 @@
+{
+  "id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q_B002NSMGCC_1406139676000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Perfect for my bathroom. Allows light inside shower but still keeps privacy.",
+  "asin": "B002NSMGCC",
+  "parent_asin": "B002NSMGCC",
+  "user_id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q",
+  "timestamp": 1406139676000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Carnation Home Fashions 72-inch by 72-Inch Vinyl Window Shower Curtain, White",
+    "average_rating": 4.4,
+    "rating_number": 326,
+    "features": [
+      "Vinyl",
+      "72-inch Vinyl Window Shower Curtain, [White] by Carnation Home Fashions SCWIN/72",
+      "Color:White",
+      "Size:: 72-inch x 72-inch"
+    ],
+    "description": [
+      "72-inch Vinyl Window Shower Curtain, [White] by Carnation Home Fashions SCWIN/72 Color:White Size:: 72-inch x 72-inch"
+    ],
+    "price": null,
+    "store": "Carnation Home Fashions",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Shower Curtains, Hooks & Liners",
+      "Shower Curtains"
+    ],
+    "details": {
+      "Brand": "Dadaseller",
+      "Color": "White",
+      "Material": "Polyester, Vinyl, Polyvinyl Chloride",
+      "Product Dimensions": "72\"L x 72\"W",
+      "Opacity": "Blackout",
+      "Room Type": "Bathroom",
+      "Style": "Modern",
+      "Pattern": "Solid",
+      "Theme": "Solid",
+      "Top Style": "Rod Pocket",
+      "Size": "72-inch x 72-inch",
+      "Weave Type": "Machine made",
+      "Item Weight": "2.3 pounds",
+      "Number of Items": "1",
+      "Lining Description": "Fabric",
+      "Package Weight": "1.75 Pounds",
+      "Manufacturer": "Imported",
+      "Item model number": "SCWIN/72",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1871954,
+        "Shower Curtains": 3103
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Vinyl",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B002NSMGCC",
+    "bought_together": null
+  }
+}

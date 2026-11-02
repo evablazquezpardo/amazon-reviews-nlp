@@ -1,0 +1,61 @@
+{
+  "id": "AGYTEAXMUXEFHXUSVVTKONKBFTVQ_B06ZY2TGCV_1586037820129",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Norwex",
+  "text": "Norwex. Freatbitem",
+  "asin": "B06ZY2TGCV",
+  "parent_asin": "B06ZY2TGCV",
+  "user_id": "AGYTEAXMUXEFHXUSVVTKONKBFTVQ",
+  "timestamp": 1586037820129,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Norwex Chenille Hand Towel Graphite Gray - BacLock",
+    "average_rating": 4.7,
+    "rating_number": 110,
+    "features": [
+      "Chenille"
+    ],
+    "description": [
+      "This isn’t your ordinary hand towel. The luxuriously soft, yet powerful Chenille Hand Towel is perfect for drying your hands and keeping antibody away, using our exclusive BacLock technology. This plush hand towel gently dries your skin and comes with a convenient hanger to attach to a towel bar or keep in countless other locations around your home, anytime or anywhere there may be wet, messy hands!"
+    ],
+    "price": null,
+    "store": "Norwex",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Hand Towels"
+    ],
+    "details": {
+      "Color": "Gray",
+      "Brand": "Norwex",
+      "Towel form type": "Hand Towel",
+      "Age Range (Description)": "All Ages",
+      "Material": "Microfiber",
+      "Number of Items": "1",
+      "Pattern": "Solid",
+      "Theme": "No Theme",
+      "Product Care Instructions": "Machine Wash",
+      "Unit Count": "1 Count",
+      "Fabric Type": "Chenille",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "5.6 ounces",
+      "Package Dimensions": "8.5 x 6.69 x 1.81 inches",
+      "Item model number": "43528-128143",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1226659,
+        "Hand Bath Towels": 1866
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B06ZY2TGCV",
+    "bought_together": null
+  }
+}

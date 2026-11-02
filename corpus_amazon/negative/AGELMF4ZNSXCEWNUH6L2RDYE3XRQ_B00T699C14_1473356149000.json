@@ -1,0 +1,58 @@
+{
+  "id": "AGELMF4ZNSXCEWNUH6L2RDYE3XRQ_B00T699C14_1473356149000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. This doesnt work with my food saver",
+  "asin": "B00T699C14",
+  "parent_asin": "B00T699C14",
+  "user_id": "AGELMF4ZNSXCEWNUH6L2RDYE3XRQ",
+  "timestamp": 1473356149000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "FoodSaver Accessory Hose for FM or GM FoodSaver Vacuum Sealers, Clear FAX12 000",
+    "average_rating": 4.0,
+    "rating_number": 1310,
+    "features": [
+      "Works with FM or GM manual Food Saver vacuum sealers with accessory port",
+      "Also works with Fresh Containers when paired with the Vacuum Zipper Bag Adapter (sold separately); Food Saver deli containers when paired with the Container Adapter (sold separately); Food Saver canisters; Food Saver jar sealers; and the Food Saver bottle stopper",
+      "Constructed of flexible neoprene rubber and featuring durable high-impact plastic ends",
+      "Package dimensions: 1.5inches L x 8.25inches W x 11.25inches H"
+    ],
+    "description": [
+      "Constructed of flexible neoprene rubber and featuring durable high-impact plastic ends, the FoodSaver Accessory Hose is compatible with FM or GM manual FoodSaver vacuum sealers with an accessory port."
+    ],
+    "price": 8.01,
+    "store": "FOODSAVER",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Specialty Appliances",
+      "Vacuum Sealers"
+    ],
+    "details": {
+      "Brand": "FOODSAVER",
+      "Material": "Plastic",
+      "Color": "Clear",
+      "Item Dimensions LxWxH": "1.5 x 8.25 x 11.25 inches",
+      "Item Weight": "0.05 Pounds",
+      "Power Source": "Adapter",
+      "Operation Mode": "Manual",
+      "Product Dimensions": "1.5 x 8.25 x 11.25 inches",
+      "Manufacturer": "FoodSaver",
+      "Item model number": "FAX12-000",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 109953,
+        "Vacuum Sealers": 418
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 28, 2009"
+    },
+    "parent_asin": "B00T699C14",
+    "bought_together": null
+  }
+}

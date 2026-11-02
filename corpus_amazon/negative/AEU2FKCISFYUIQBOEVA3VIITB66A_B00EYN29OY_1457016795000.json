@@ -1,0 +1,53 @@
+{
+  "id": "AEU2FKCISFYUIQBOEVA3VIITB66A_B00EYN29OY_1457016795000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. did not find it useful<br />could not really work it",
+  "asin": "B00ESI97YU",
+  "parent_asin": "B00EYN29OY",
+  "user_id": "AEU2FKCISFYUIQBOEVA3VIITB66A",
+  "timestamp": 1457016795000,
+  "helpful_vote": 4,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Grocery",
+    "title": "Wonderbag Non-Electric Portable Slow Cooker with Recipe Cookbook, Holiday Edition",
+    "average_rating": 4.5,
+    "rating_number": 19,
+    "features": [
+      "Eco-friendly slow cooking; No plugs, no fuss: Slow cooks your food, unplugged, by retaining the heat from an initial simmer on the stove",
+      "Stress free holidays. Perfect for the holidays when stove and counter space are at a premium. Keeps items cold or frozen too",
+      "Buy One, Donate One; For every Wonderbag purchased in North America, one is donated to a family in need in Africa; One Wonderbag per year saves 1.7 trees, 1000 liters of water, 1,248 hours not spent collecting firewood",
+      "Fits your home; Works with 2-9 quart pots with short handles and a lid; metal and cast iron work best",
+      "Electricity free and worry free; Keep your dish cooking for up to 8 hours without electricity, ready-to-serve when you are; No overcooking, no burning; Great for outdoor sports, tailgating, potlucks, BBQ's, camping, or entertaining - anywhere, anytime, any occasion"
+    ],
+    "description": [
+      "Wonder bag is a simple but revolutionary portable, non-electric slow cooker. Wonder bag's clever insulation allows food that has been brought to the boil to continue slow cooking in the bag for up to 12 hours. No plugs. No Fuss. And no electricity required, so it's worry-free. This eco-friendly slow cooker also saves energy while freeing up time spent cooking - making your life easier and transforming lives of women in Africa."
+    ],
+    "price": null,
+    "store": "Wonderbag",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances"
+    ],
+    "details": {
+      "Brand": "Wonderbag",
+      "Color": "Holiday Edition",
+      "Material": "Cast Iron, Metal",
+      "Capacity": "9 Quarts, 2 Quarts",
+      "Item Weight": "2.8 Pounds",
+      "Is Dishwasher Safe": "No",
+      "Voltage": "220 Volts",
+      "Controller Type": "Hand Control",
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "13.9 x 5.7 x 12.2 inches; 2.8 Pounds",
+      "Item model number": "USA3",
+      "Manufacturer": "Wonderbag"
+    },
+    "parent_asin": "B00EYN29OY",
+    "bought_together": null
+  }
+}

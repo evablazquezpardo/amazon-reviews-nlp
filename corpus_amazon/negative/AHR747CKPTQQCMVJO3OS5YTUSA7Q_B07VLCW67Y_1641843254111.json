@@ -1,0 +1,64 @@
+{
+  "id": "AHR747CKPTQQCMVJO3OS5YTUSA7Q_B07VLCW67Y_1641843254111",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Junk",
+  "text": "Junk. Junk",
+  "asin": "B07VLCW67Y",
+  "parent_asin": "B07VLCW67Y",
+  "user_id": "AHR747CKPTQQCMVJO3OS5YTUSA7Q",
+  "timestamp": 1641843254111,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Etna Products Etna Sofa Side Perfect for Your Night Stand, Bedside, Couch, Living Room, TV Trays-Expandable 2 Metal and Dark Brown Wood Top with Leaf Design C Shaped Snack Narrow End Table",
+    "average_rating": 3.3,
+    "rating_number": 434,
+    "features": [
+      "New Items"
+    ],
+    "description": [
+      "This perfectly sized table fits with any sofa or chair. This elegant table slides neatly up to your sofa or chair to provide the perfect place for a beverage, snack, or book. Features 2 expandable and versatile drop leaf sides. Some assembly required. No rush delivery, we can only ship in the contiguous USA (no PO boxes)."
+    ],
+    "price": null,
+    "store": "Etna Products",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "End Tables"
+    ],
+    "details": {
+      "Product Dimensions": "12\"D x 16.5\"W x 21\"H",
+      "Color": "Brown",
+      "Shape": "Semicircular",
+      "Brand": "Etna Products",
+      "Table design": "End Table",
+      "Special Feature": "Portable",
+      "Style": "Modern",
+      "Room Type": "Living Room",
+      "Top Material Type": "Wood",
+      "Finish Type": "Wood",
+      "Base Type": "Legs",
+      "Pattern": "Solid",
+      "Frame Material": "Wood",
+      "Model Name": "Sofa Side Table",
+      "Assembly Required": "Yes",
+      "Item Weight": "4.9 pounds",
+      "Furniture Finish": "Metal",
+      "Item model number": "5191",
+      "Is Discontinued By Manufacturer": "No",
+      "Weight": "5.5 Pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1170835,
+        "End Tables": 4103
+      },
+      "Date First Available": "July 24, 2019"
+    },
+    "parent_asin": "B07VLCW67Y",
+    "bought_together": null
+  }
+}

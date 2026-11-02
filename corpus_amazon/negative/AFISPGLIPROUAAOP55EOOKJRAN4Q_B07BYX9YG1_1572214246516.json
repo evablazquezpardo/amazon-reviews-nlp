@@ -1,0 +1,63 @@
+{
+  "id": "AFISPGLIPROUAAOP55EOOKJRAN4Q_B07BYX9YG1_1572214246516",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Review",
+  "text": "Review. Parts were defective upon delivery and had to combine to boxes to build finish product but in the end a good product.",
+  "asin": "B07CB26WCY",
+  "parent_asin": "B07BYX9YG1",
+  "user_id": "AFISPGLIPROUAAOP55EOOKJRAN4Q",
+  "timestamp": 1572214246516,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Joy Mangano Ultimate, Black Closet Rolling Rack",
+    "average_rating": 4.6,
+    "rating_number": 46,
+    "features": [
+      "Organize your clothes or provide an instant closet wherever you need one",
+      "Locking wheels",
+      "Easy assembly, no tools required",
+      "Includes detachable mesh basket",
+      "Easy to move with a lock that keeps it in place"
+    ],
+    "description": [
+      "Too many clothes and not enough space? This rolling rack is the ultimate, portable solution to keeping your wardrobe organized. It has a mesh basket for accessories and locking wheels for longer-term parking in your walk-in closet or guest room. And with no-tool assembly, you can easily put it together and immediately start tidying things up."
+    ],
+    "price": null,
+    "store": "Joy Mangano",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Garment Racks"
+    ],
+    "details": {
+      "Brand": "Joy Mangano",
+      "Color": "Black",
+      "Material": "Metal",
+      "Installation Type": "Free Standing",
+      "Special Feature": "Portable",
+      "Style": "Portable",
+      "Number of Shelves": "2",
+      "Furniture Finish": "Black",
+      "Assembly Required": "Yes",
+      "Maximum Weight Recommendation": "50 Pounds",
+      "Product Dimensions": "58 x 24 x 20 inches",
+      "Item Weight": "29.9 pounds",
+      "Manufacturer": "Ingenious Designs LLC",
+      "Item model number": "JDR050101",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2730545,
+        "Garment Racks": 2087
+      },
+      "Number of pieces": "1",
+      "Warranty Description": "1 year manufacturer.",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07BYX9YG1",
+    "bought_together": null
+  }
+}

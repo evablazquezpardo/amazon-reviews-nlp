@@ -1,0 +1,62 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B09F6VZT46_1607532286960",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Awesome product",
+  "text": "Awesome product. These are great and I use them everyday",
+  "asin": "B01M8KDJD0",
+  "parent_asin": "B09F6VZT46",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1607532286960,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Farberware 12-Piece Non-Stick Resin, Dishwasher-Safe Kitchen Knife Set with Custom-Fit Blade Covers, Razor-Sharp, Multicolor",
+    "average_rating": 4.7,
+    "rating_number": 7629,
+    "features": [
+      "Stick resistant: Each blade is crafted from stainless steel and features a stick resistant, resin coating that limits food from adhering to the knife; this allows for easier, more efficient cutting",
+      "Comfortable grip & balance: The ergonomically designed handles are designed for a comfortable grip; knives are perfectly balanced for precision while cutting",
+      "Perfect set for back to college: Best gift for new college students, grads, newlyweds, or anyone setting up a first time kitchen; A great set for those who know their way around a kitchen as it is or for newbie chefs just learning the ropes.",
+      "12 Piece value kitchen knife set: This set includes: 8 inch chef knife, 8 inch bread knife, 8 inch slicing knife, 5.5 inch serrated utility knife, and 3.5 inch paring knife; each knife includes a blade cover.",
+      "Easy to clean: This set is dishwasher safe, making clean up fast and easy, however hand washing is recommended to extend product life; limited lifetime warranty"
+    ],
+    "description": [
+      "This Farberware 12 Piece Resin Knife Set is a vibrant addition to your kitchen and includes all the essential knives for everyday food prep tasks. Knives feature a resin coating that keeps food from sticking to the blades, and the ergonomically designed handle provides comfort while cutting. Each knife includes a blade cover to keep blades safe and secure when in storage. 12 piece set includes: 8 inch Chef Knife with blade cover, 8 inch Slicing Knife with blade cover, 8 inch Bread Knife with blade cover, 7 inch Santoku Knife with blade cover, 5-1/2 inch Serrated Utility Knife with blade cover, and 3-1/2 inch Paring Knife with blade cover. Hand-wash with warm water and a mild detergent; rinse and dry immediately."
+    ],
+    "price": 25.09,
+    "store": "Farberware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Kitchen Knives & Accessories",
+      "Knife Sets"
+    ],
+    "details": {
+      "Blade Material": "Resin Coated",
+      "Brand": "Farberware",
+      "Color": "Multicolor Rainbow",
+      "Handle Material": "Resin,Stainless Steel",
+      "Blade Edge": "Serrated",
+      "Blade Length": "8 Inches",
+      "Item Weight": "1.71 pounds",
+      "Is Dishwasher Safe": "Yes",
+      "Number of Pieces": "1",
+      "Item Length": "7.99 Inches",
+      "Manufacturer": "Lifetime Brands Inc.",
+      "Country of Origin": "China",
+      "Item model number": "5183157",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 44904,
+        "Block Knife Sets": 222
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 19, 2016"
+    },
+    "parent_asin": "B09F6VZT46",
+    "bought_together": null
+  }
+}

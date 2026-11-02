@@ -1,0 +1,58 @@
+{
+  "id": "AGW7DNVEEOZ55KAPREK54O7DYLKA_B00N9D3610_1445145833000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Buyer beware.",
+  "text": "Buyer beware.. Fell apart during first wash. Elastic band came off.",
+  "asin": "B00N9D3610",
+  "parent_asin": "B00N9D3610",
+  "user_id": "AGW7DNVEEOZ55KAPREK54O7DYLKA",
+  "timestamp": 1445145833000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "1500 Series Premium Collection, 4pc Bed Sheets (Queen, Camel)",
+    "average_rating": 4.3,
+    "rating_number": 1104,
+    "features": [
+      "Made from 100% Imported Double Brushed Microfiber material providing Quality Comfort Comparable to a 1500 Thread Count Cotton Sheet without the hefty price tag. Designed to help you get a better nights sleep and wake up feeling refreshed and rejuvenated!",
+      "PERFECT FIT EVERYTIME GUARANTEED: Deep Pockets fits mattresses to 16'\"; with fully elasticized fitted sheet! Queen Size 4pc Set - Flat Sheet 102\"x90\", Fitted Sheet 80\"x60\", 2 Pillowcases 20\"x30\"',",
+      "LUXURY YOU CAN SEE AND FEEL: Create a welcoming environment and a restful feeling in the bedroom with this TOP QUALITY and AFFORDABLE Bedding Collection.",
+      "Quality Bedding Products are made with the HIGHEST QUALITY FABRIC",
+      "Machine washable"
+    ],
+    "description": [
+      "4pc Bed Sheets Deep Pocket. Ultimate blend of craftsmanship and elegance, our linens are designed to offer you a unique and sophisticated sleeping experience."
+    ],
+    "price": null,
+    "store": "HC COLLECTION",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Size": "Queen",
+      "Material": "Microfiber",
+      "Color": "Camel",
+      "Pattern": "Solid",
+      "Brand": "HC COLLECTION",
+      "Number of Pieces": "4",
+      "Special Feature": "Deep Pocket",
+      "Style": "Modern",
+      "Included Components": "Fitted She",
+      "Closure Type": "fitted sheet style",
+      "Thread Count": "1500",
+      "Product Care Instructions": "Machine Wash",
+      "Package Dimensions": "11.2 x 9.6 x 3.6 inches",
+      "Item Weight": "3.25 pounds",
+      "Manufacturer": "HC Collection",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00N9D3610",
+    "bought_together": null
+  }
+}

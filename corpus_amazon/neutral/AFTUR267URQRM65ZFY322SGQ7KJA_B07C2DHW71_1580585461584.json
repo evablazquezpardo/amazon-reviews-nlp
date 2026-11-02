@@ -1,0 +1,59 @@
+{
+  "id": "AFTUR267URQRM65ZFY322SGQ7KJA_B07C2DHW71_1580585461584",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Just Okay",
+  "text": "Just Okay. The box was pretty mangled upon delivery, the product is a cheap tv product which we expected but we had random items in the box that didn’t go with it, pretty odd.",
+  "asin": "B07C2DHW71",
+  "parent_asin": "B07C2DHW71",
+  "user_id": "AFTUR267URQRM65ZFY322SGQ7KJA",
+  "timestamp": 1580585461584,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "LI&HI Easy Eggwich Microwave Egg Cooker, Red and clear",
+    "average_rating": 4.4,
+    "rating_number": 4863,
+    "features": [
+      "Cooks Perfect Breakfast Sandwich Eggs in the Microwave in Just 1-Minute",
+      "Cooks Eggs and Meat at the Same Time",
+      "Healthier Option with No Butter or Oil Needed",
+      "Non-Stick, BPA Free",
+      "Dishwasher Safe"
+    ],
+    "description": [
+      "Cooks a perfectly round egg eggs fit English muffins biscuits bagels and Mortenson-stick and easy to clean. Features. Cooks perfect breakfast sandwich eggs in the microwave in just 1-minute. Cooks eggs and meat at the same time. Healthier option with no butter or oil needed. Non-stick BPA free. Dishwasher safe. Set of 2. Gourmet recipe guide included"
+    ],
+    "price": 7.48,
+    "store": "As Seen On TV",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Specialty Appliances",
+      "Egg Cookers"
+    ],
+    "details": {
+      "Color": "Red and clear",
+      "Material": "Plastic",
+      "Brand": "As Seen On TV",
+      "Item Weight": "0.4 Pounds",
+      "Capacity": "8 ounces",
+      "Is Electric": "True",
+      "Product Dimensions": "7.3\"L x 5.9\"W x 2.7\"H",
+      "Manufacturer": "As Seen on TV",
+      "Item model number": "TSR720",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 8981,
+        "Egg Cookers": 14
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 9, 2018",
+      "Item Dimensions LxWxH": "7.3 x 5.9 x 2.7 inches"
+    },
+    "parent_asin": "B07C2DHW71",
+    "bought_together": null
+  }
+}

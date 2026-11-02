@@ -1,0 +1,65 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B01N4BHQP2_1607532365933",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Would recommend",
+  "text": "Would recommend. Great idea and works good",
+  "asin": "B01I6UGZ3Q",
+  "parent_asin": "B01N4BHQP2",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1607532365933,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Joseph Joseph BladeBrush Knife and Cutlery Cleaner Brush Bristle Scrub Kitchen Washing Non-Slip, One Size, Green",
+    "average_rating": 4.5,
+    "rating_number": 14559,
+    "features": [
+      "Clean sharp blades safely",
+      "Unique, wrap-around design cleans both sides at once",
+      "Opposed bristles for effective cleaning",
+      "Textured handgrip",
+      "Wash by hand"
+    ],
+    "description": [
+      "Joseph Joseph BladeBrush Knife and Cutlery Cleaner Brush Bristle Scrub Kitchen Washing Non-Slip, One Size, Green"
+    ],
+    "price": 8.0,
+    "store": "Joseph Joseph",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Fruit & Vegetable Tools",
+      "Cleaning Brushes"
+    ],
+    "details": {
+      "Brand": "Joseph Joseph",
+      "Color": "Green",
+      "Handle Material": "Plastic",
+      "Product Dimensions": "3.15\"L x 3\"W x 2.05\"H",
+      "Material": "Plastic",
+      "Included Components": "Blade Brush",
+      "Number of Items": "1",
+      "Item Weight": "3.46 ounces",
+      "Manufacturer": "JOSEPH JOSEPH",
+      "Country of Origin": "China",
+      "Item model number": "85105",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 4794,
+        "Fruit & Vegetable Cleaning Brushes": 25
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Volume": "320 Milliliters",
+      "Care instructions": "Hand Wash",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B01N4BHQP2",
+    "bought_together": null
+  }
+}

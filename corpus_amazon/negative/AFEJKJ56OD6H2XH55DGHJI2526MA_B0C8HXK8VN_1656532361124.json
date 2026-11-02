@@ -1,0 +1,47 @@
+{
+  "id": "AFEJKJ56OD6H2XH55DGHJI2526MA_B0C8HXK8VN_1656532361124",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Faberware",
+  "text": "Faberware. Very disappointed, the cooling rack doesn’t fit like it shows in the picture, covers 3/4 maybe. 1 cupcake pan for 12 only. Feels and looks very cheaply made. Wouldn’t recommend.",
+  "asin": "B01N90FWOG",
+  "parent_asin": "B0C8HXK8VN",
+  "user_id": "AFEJKJ56OD6H2XH55DGHJI2526MA",
+  "timestamp": 1656532361124,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Farberware Nonstick Bakeware Set Includes Baking Cake Pans and Cookie Sheets, 4 Piece, Gray",
+    "average_rating": 4.7,
+    "rating_number": 2840,
+    "features": [
+      "Set includes an array of essential baking pans for cakes, cookies, muffins, cupcakes, and more",
+      "Solid-gauge steel bakeware construction resists warping and dinging for years of baking enjoyment",
+      "Rolled rims provide enhanced durability",
+      "Nonstick inside and out delivers great food release with quick cleanup",
+      "Oven safe to 450 degrees F",
+      "Quality Assurance",
+      "Included Components: 10-Inch X 15-Inch And 11-Inch X 17-Inch Cookie Pans, Two 8-Inch Round Cake Pans"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Farberware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking & Cookie Sheets"
+    ],
+    "details": {
+      "Material": "Steel",
+      "Brand": "Farberware",
+      "Color": "Gray",
+      "Is Dishwasher Safe": "Yes",
+      "Product Care Instructions": "Hand Wash Only"
+    },
+    "parent_asin": "B0C8HXK8VN",
+    "bought_together": null
+  }
+}

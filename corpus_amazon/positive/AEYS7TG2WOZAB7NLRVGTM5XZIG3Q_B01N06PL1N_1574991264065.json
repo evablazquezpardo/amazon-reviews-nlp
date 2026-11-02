@@ -1,0 +1,44 @@
+{
+  "id": "AEYS7TG2WOZAB7NLRVGTM5XZIG3Q_B01N06PL1N_1574991264065",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Favorite scent",
+  "text": "Favorite scent. This is a great scent. Bought all I could find and found these here.",
+  "asin": "B01N06PL1N",
+  "parent_asin": "B01N06PL1N",
+  "user_id": "AEYS7TG2WOZAB7NLRVGTM5XZIG3Q",
+  "timestamp": 1574991264065,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ScentSationals ''Rainy Day'' Wax Cubes by ScentSationals",
+    "average_rating": 3.9,
+    "rating_number": 37,
+    "features": [],
+    "description": [
+      "ScentSationals offers a diverse assortment of long-lasting, highly fragrant wax cubes. Each package contains 6 wax cubes. Warm one or two to fill your home with your favorite scent. Scents are easy to change, allowing you to enjoy a variety of scents in your home or office."
+    ],
+    "price": null,
+    "store": "Scentsationals",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Home Fragrance Accessories"
+    ],
+    "details": {
+      "Package Dimensions": "5.2 x 2.83 x 0.94 inches",
+      "Item Weight": "3.06 ounces",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 3045899,
+        "Home Fragrance Accessories": 4303
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B01N06PL1N",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "AEXLY6BCT5GUWOY47DBMXFSJQ5PQ_B06WGWRPV5_1614363404298",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Didn't fit at all.",
+  "text": "Didn't fit at all.. Did not fit at all.",
+  "asin": "B01K7XKN8I",
+  "parent_asin": "B06WGWRPV5",
+  "user_id": "AEXLY6BCT5GUWOY47DBMXFSJQ5PQ",
+  "timestamp": 1614363404298,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Instant Pot LID-3-SILICONE Silicone Lid, White",
+    "average_rating": 4.8,
+    "rating_number": 51451,
+    "features": [
+      "Creates an airtight and watertight seal on the Instant Pot stainless steel inner pot",
+      "Manufactured from the highest quality food safe silicone, passed FDA and LFGB tests for safety, including food safety",
+      "Dishwasher safe",
+      "Designed for Instant Pot 3 quart"
+    ],
+    "description": [
+      "The Instant Pot silicone cover may be used on the Instant Pot inner pot to create an airtight and water tight seal for storage in your refrigerator."
+    ],
+    "price": 10.95,
+    "store": "Instant Pot",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Lids"
+    ],
+    "details": {
+      "Material": "Silicone",
+      "Color": "White",
+      "Brand": "Instant Pot",
+      "Style": "Silicone Lid",
+      "Item Weight": "2.88 ounces",
+      "Shape": "Round",
+      "Number of Pieces": "1",
+      "Is Dishwasher Safe": "Yes",
+      "Closure Type": "Snap",
+      "Is Microwaveable": "Yes",
+      "Product Dimensions": "8\"L x 8\"W",
+      "Manufacturer": "Instant Pot",
+      "Country of Origin": "China",
+      "Item model number": "LID-3-SILICONE",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 1042,
+        "Stockpots": 2,
+        "Cookware & Bakeware Lids": 6
+      },
+      "Date First Available": "August 15, 2017",
+      "Item Dimensions LxWxH": "8 x 8 x 0.5 inches"
+    },
+    "parent_asin": "B06WGWRPV5",
+    "bought_together": null
+  }
+}

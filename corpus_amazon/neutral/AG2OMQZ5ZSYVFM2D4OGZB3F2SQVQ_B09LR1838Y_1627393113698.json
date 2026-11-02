@@ -1,0 +1,47 @@
+{
+  "id": "AG2OMQZ5ZSYVFM2D4OGZB3F2SQVQ_B09LR1838Y_1627393113698",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Okay",
+  "text": "Okay. I've taken a couple of these glasses out of the dishwasher.  They are cracked and chipped.<br /><br />I thought they were a good buy originally, but I'm down to six now.<br /><br />Pass it by.",
+  "asin": "B078FPTDY1",
+  "parent_asin": "B09LR1838Y",
+  "user_id": "AG2OMQZ5ZSYVFM2D4OGZB3F2SQVQ",
+  "timestamp": 1627393113698,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Libbey Province 24-Piece Tumbler and Rocks Glass Set",
+    "average_rating": 4.5,
+    "rating_number": 2396,
+    "features": [
+      "100% Glass",
+      "Tall, iconic glass shape defined by clean, modern lines with a light, elegant palm-feel",
+      "Expansive matching set perfect for large dinner parties",
+      "Includes 12, 15.2-ounce coolers/tumblers and 12, 11.1-ounce rocks glasses",
+      "Lead-free",
+      "Durable and dishwasher safe for quick, easy cleanup; to help preserve your products, please refer to the Libbey website for care and handling instructions"
+    ],
+    "description": [],
+    "price": 44.99,
+    "store": "Libbey",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Mixed Drinkware Sets"
+    ],
+    "details": {
+      "Brand": "Libbey",
+      "Material": "Glass",
+      "Color": "24-Piece",
+      "Capacity": "15.2 Ounces",
+      "Special Feature": "Durable"
+    },
+    "parent_asin": "B09LR1838Y",
+    "bought_together": null
+  }
+}

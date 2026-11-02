@@ -1,0 +1,47 @@
+{
+  "id": "AFYE3CAQGJ6N2KP7X7YG2BHDMI5A_B0023SOJYK_1524409487840",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. No forest smell just black smoke",
+  "asin": "B0023SOJYK",
+  "parent_asin": "B0023SOJYK",
+  "user_id": "AFYE3CAQGJ6N2KP7X7YG2BHDMI5A",
+  "timestamp": 1524409487840,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "All Beauty",
+    "title": "Hem Forest Agarbattis 6Hx",
+    "average_rating": 4.7,
+    "rating_number": 455,
+    "features": [
+      "Forest"
+    ],
+    "description": [],
+    "price": 6.31,
+    "store": "HEM",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Incense & Incense Holders",
+      "Incense"
+    ],
+    "details": {
+      "Brand": "HEM",
+      "Item Form": "Sticks",
+      "Material": "Wood",
+      "Scent": "Forest,Hem",
+      "Item Length": "9.13 Inches",
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "2.36 x 3.94 x 9.84 inches; 9.12 Ounces",
+      "Item model number": "8541862544",
+      "UPC": "787734435031",
+      "Manufacturer": "HEM"
+    },
+    "parent_asin": "B0023SOJYK",
+    "bought_together": null
+  }
+}

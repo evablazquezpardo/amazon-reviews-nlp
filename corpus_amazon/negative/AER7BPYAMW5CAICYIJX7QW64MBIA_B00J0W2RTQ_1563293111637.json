@@ -1,0 +1,47 @@
+{
+  "id": "AER7BPYAMW5CAICYIJX7QW64MBIA_B00J0W2RTQ_1563293111637",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Paper thin, arrived broken.",
+  "text": "Paper thin, arrived broken.. These are very pretty, but paper thin. Not recommended, unless you only admire the beauty and don't use them.",
+  "asin": "B00J0W2RTQ",
+  "parent_asin": "B00J0W2RTQ",
+  "user_id": "AER7BPYAMW5CAICYIJX7QW64MBIA",
+  "timestamp": 1563293111637,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mikasa Swirl Cobalt Highball Glass (Set of 4), 20 oz",
+    "average_rating": 4.2,
+    "rating_number": 69,
+    "features": [
+      "Mikala's swirl cobalt stemware adds a great touch of fun and color to these beautifully hand decorated stems; great for gifting and entertaining",
+      "Each piece features a hand applied swirl design",
+      "Beautiful fashion colors fade up the bowl of the glass",
+      "Makes a great gift",
+      "Colored glass, dishwasher safe"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Mikasa",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cocktail Drinkware",
+      "Highball Glasses"
+    ],
+    "details": {
+      "Brand": "Mikasa",
+      "Material": "Glass",
+      "Color": "Clear",
+      "Capacity": "20 Fluid Ounces",
+      "Special Feature": "Dishwasher Safe"
+    },
+    "parent_asin": "B00J0W2RTQ",
+    "bought_together": null
+  }
+}

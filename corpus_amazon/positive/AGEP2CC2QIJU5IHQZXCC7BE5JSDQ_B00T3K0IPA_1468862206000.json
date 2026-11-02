@@ -1,0 +1,60 @@
+{
+  "id": "AGEP2CC2QIJU5IHQZXCC7BE5JSDQ_B00T3K0IPA_1468862206000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. works very good.",
+  "asin": "B001B13702",
+  "parent_asin": "B00T3K0IPA",
+  "user_id": "AGEP2CC2QIJU5IHQZXCC7BE5JSDQ",
+  "timestamp": 1468862206000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "HIC Harold Import Co. Serrated Grapefruit Stainless Steel Single Spoon (1, A) 6447P-HIC",
+    "average_rating": 4.6,
+    "rating_number": 59,
+    "features": [
+      "A must have Kitchen Gadget",
+      "Manufactured in China",
+      "Grapefruit Spoon Ss'"
+    ],
+    "description": [
+      "HIC Harold Import Co. 6447P-HIC (1, A) Serrated Grapefruit Stainless Steel Single Spoon Home Decor Products"
+    ],
+    "price": null,
+    "store": "HIC Kitchen",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Fruit & Vegetable Tools",
+      "Grapefruit Utensils"
+    ],
+    "details": {
+      "Product Dimensions": "4 x 5 x 2 inches",
+      "Item Weight": "0.352 ounces",
+      "Manufacturer": "HIC",
+      "Item model number": "6447P-HIC",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 515335,
+        "Grapefruit Utensils": 74
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Dishwasher compatible": "Yes",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Included Components": "See description",
+      "Color": "Silver",
+      "Material": "Stainless Steel",
+      "Brand": "HIC Kitchen",
+      "Style": "Classic",
+      "Item Dimensions LxWxH": "4 x 5 x 2 inches"
+    },
+    "parent_asin": "B00T3K0IPA",
+    "bought_together": null
+  }
+}

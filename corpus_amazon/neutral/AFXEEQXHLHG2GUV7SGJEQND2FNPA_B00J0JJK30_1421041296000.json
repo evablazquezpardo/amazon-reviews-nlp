@@ -1,0 +1,59 @@
+{
+  "id": "AFXEEQXHLHG2GUV7SGJEQND2FNPA_B00J0JJK30_1421041296000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. it comes in a roll. and I could never get it to sit flat. it always curls down.",
+  "asin": "B00J0JJK30",
+  "parent_asin": "B00J0JJK30",
+  "user_id": "AFXEEQXHLHG2GUV7SGJEQND2FNPA",
+  "timestamp": 1421041296000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Simple Deluxe Slip-Resistant Bath Mat, Extra Long, Clear",
+    "average_rating": 4.2,
+    "rating_number": 309,
+    "features": [
+      "Vinyl",
+      "BPA-free, made of high-quality, allergen-free vinyl, machine washable",
+      "Provides 30% more coverage than the average bath mat",
+      "Cushioned and comfortable feel, suction cups on underside provide additional security",
+      "Works on almost any non-textured tub surface",
+      "39\" Long by 16\" wide"
+    ],
+    "description": [
+      "Our extra long bath mat provides maximum coverage in the tub and reliable slip protection on almost any non-textured tub surface."
+    ],
+    "price": null,
+    "store": "Simple Deluxe",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Bathtub Accessories",
+      "Bathtub Mats"
+    ],
+    "details": {
+      "Material": "Vinyl",
+      "Color": "One Clear",
+      "Size": "16\" x 39\"",
+      "Brand": "Simple Deluxe",
+      "Item Weight": "1.2 Pounds",
+      "Product Dimensions": "39\"L x 16\"W",
+      "Manufacturer": "Simple Deluxe",
+      "Item model number": "617037056940",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1566771,
+        "Bathtub Mats": 940
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Vinyl",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00J0JJK30",
+    "bought_together": null
+  }
+}

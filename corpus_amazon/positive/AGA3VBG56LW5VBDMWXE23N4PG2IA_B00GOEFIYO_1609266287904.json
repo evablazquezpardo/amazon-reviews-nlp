@@ -1,0 +1,37 @@
+{
+  "id": "AGA3VBG56LW5VBDMWXE23N4PG2IA_B00GOEFIYO_1609266287904",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Le Creuset",
+  "text": "Le Creuset. This was a gift for my sister who really wanted one and she loves it",
+  "asin": "B00GOEFIYO",
+  "parent_asin": "B00GOEFIYO",
+  "user_id": "AGA3VBG56LW5VBDMWXE23N4PG2IA",
+  "timestamp": 1609266287904,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Le Creuset Signature Round Dutch Oven LS2501-285HSS, 7.25 qt, Exclusive Color: Honey",
+    "average_rating": 4.7,
+    "rating_number": 19,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Le Creuset",
+    "categories": [],
+    "details": {
+      "Brand": "Le Creuset",
+      "Capacity": "6.86 Liters",
+      "Finish Type": "Enameled",
+      "Shape": "Round",
+      "Product Care Instructions": "Oven Safe",
+      "Is Dishwasher Safe": "Yes",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 1, 2013"
+    },
+    "parent_asin": "B00GOEFIYO",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "AHEXYBTBZX4UQB7R46QRACLUEGJQ_B00FAVFBUS_1478261325000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Pretty small.",
+  "text": "Pretty small.. It got runs on it first week. Pretty small.",
+  "asin": "B00FAVFBUS",
+  "parent_asin": "B00FAVFBUS",
+  "user_id": "AHEXYBTBZX4UQB7R46QRACLUEGJQ",
+  "timestamp": 1478261325000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rubber Backed Runner Rug, 22 x 60 inch, Red Floral, Non Slip, Kitchen Rugs and Mats",
+    "average_rating": 3.5,
+    "rating_number": 12,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Maxy Home",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Rugs, Pads & Protectors"
+    ],
+    "details": {
+      "Brand": "Maxy Home",
+      "Size": "22 x 60 in (5 ft Runner)",
+      "Material": "Specialty",
+      "Pile Height": "Low Pile",
+      "Construction Type": "Handmade",
+      "Back Material Type": "Rubber",
+      "Theme": "Floral",
+      "Is Stain Resistant": "Yes",
+      "Shape": "Rectangular",
+      "Room Type": "Kitchen",
+      "Product Dimensions": "60\"L x 22\"W",
+      "Rug Form Type": "Runner",
+      "Item Weight": "1.35 pounds",
+      "Item model number": "HA-5020-2X5",
+      "Weight": "2.2 Pounds",
+      "Date First Available": "August 26, 2014"
+    },
+    "parent_asin": "B00FAVFBUS",
+    "bought_together": null
+  }
+}

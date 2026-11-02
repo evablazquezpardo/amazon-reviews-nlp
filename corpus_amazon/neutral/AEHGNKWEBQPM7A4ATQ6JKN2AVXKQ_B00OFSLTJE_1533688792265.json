@@ -1,0 +1,64 @@
+{
+  "id": "AEHGNKWEBQPM7A4ATQ6JKN2AVXKQ_B00OFSLTJE_1533688792265",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Alot smaller than I thought",
+  "asin": "B00OFSLTJE",
+  "parent_asin": "B00OFSLTJE",
+  "user_id": "AEHGNKWEBQPM7A4ATQ6JKN2AVXKQ",
+  "timestamp": 1533688792265,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rubbermaid LunchBlox Lunch Bag, Small, Purple",
+    "average_rating": 4.3,
+    "rating_number": 168,
+    "features": [
+      "Packing lunch is easy with these sturdy, reusable bags specifically designed to work with Lunchbox containers (sold separately)",
+      "Lunchbox modular containers snap together in multiple configurations to efficiently use the space in your lunch box or bag",
+      "Mesh pockets inside and out hold drink bottles, utensils and napkins securely in place",
+      "The entire front zips open for easy access",
+      "Handle and adjustable shoulder strap make it easy for anyone to carry"
+    ],
+    "description": [
+      "Packing lunch is easy with these sturdy, reusable bags specifically designed to work with Lunchbox containers (sold separately). Lunchbox modular containers snap together in multiple configurations to efficiently use the space in your lunch box or bag. Mesh pockets inside and out hold drink bottles, utensils and napkins securely in place. The entire front zips open for easy access. Handle and adjustable shoulder strap make it easy for anyone to carry. Rubbermaid Lunchbox lunch bag, small, black (1873225)."
+    ],
+    "price": null,
+    "store": "Rubbermaid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Travel & To-Go Food Containers",
+      "Lunch Bags"
+    ],
+    "details": {
+      "Color": "Purple",
+      "Material": "Plastic",
+      "Brand": "Rubbermaid",
+      "Age Range (Description)": "Kid",
+      "Special Feature": "Adjustable Shoulder Strap",
+      "Theme": "Space",
+      "Number of Pieces": "1",
+      "Pattern": "Solid",
+      "Product Care Instructions": "Hand Wash",
+      "Closure Type": "Zipper",
+      "Style": "Adjustable",
+      "Shape": "Rectangular",
+      "Item Dimensions LxWxH": "5.38 x 8.75 x 5.88 inches",
+      "Unit Count": "1.00 Count",
+      "Number of Items": "1",
+      "Product Dimensions": "5.38 x 8.75 x 5.88 inches",
+      "Item Weight": "5.6 ounces",
+      "Manufacturer": "Rubel Bike Maps",
+      "Item model number": "1873225",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 7, 2014"
+    },
+    "parent_asin": "B00OFSLTJE",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "AEA37VTEVDMB4MQOCK7LNHHDTB5A_B01APP20YS_1602429310504",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "It's just ok.",
+  "text": "It's just ok.. The pan is very lightweight so I doubt it will last long but it's working alright for now.",
+  "asin": "B01APP20YS",
+  "parent_asin": "B01APP20YS",
+  "user_id": "AEA37VTEVDMB4MQOCK7LNHHDTB5A",
+  "timestamp": 1602429310504,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Calphalon 1932337 Classic Nonstick Everyday Chef Pan with Cover, 12\", Grey",
+    "average_rating": 4.5,
+    "rating_number": 349,
+    "features": [
+      "Dual-layer nonstick for easy food release, and quick cleanup",
+      "Durable hard-anodized aluminum construction",
+      "Cast stainless steel loop handles",
+      "Full Lifetime"
+    ],
+    "description": [
+      "The Calphalon classic nonstick 12-Inch everyday pan is made with dual-layer nonstick for extra-easy food release and cleanup, and constructed from durable hard-anodized aluminum for fast and even heating. With its versatile shape and size, This shallow nonstick pan is great for stovetop-to-oven and one-pot meals with beautiful stainless steel loop handles so it fits easily in the oven. Includes oven-safe tempered glass lid to help foods retain moisture when cooking."
+    ],
+    "price": null,
+    "store": "Calphalon",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Pots & Pans",
+      "Chef's Pans"
+    ],
+    "details": {
+      "Brand": "Calphalon",
+      "Material": "Aluminium, stainless steel and glass",
+      "Special Feature": "Oven Safe, Non Stick",
+      "Color": "Gray",
+      "Product Care Instructions": "Hand Wash Only",
+      "Handle Material": "Stainless Steel",
+      "Model Name": "Classic Nonstick Everyday Chef",
+      "Has Nonstick Coating": "Yes",
+      "Is Dishwasher Safe": "No",
+      "Manufacturer": "Calphalon",
+      "Item model number": "2095192",
+      "Best Sellers Rank": {},
+      "Date First Available": "January 16, 2016",
+      "Finish Type": "Non Stick, Anodized",
+      "Assembly Required": "No",
+      "Batteries Required?": "No",
+      "Included Components": "Pan, Cover",
+      "Capacity": "12 Inches",
+      "Number of Pieces": "1",
+      "Item Diameter": "12 Inches"
+    },
+    "parent_asin": "B01APP20YS",
+    "bought_together": null
+  }
+}

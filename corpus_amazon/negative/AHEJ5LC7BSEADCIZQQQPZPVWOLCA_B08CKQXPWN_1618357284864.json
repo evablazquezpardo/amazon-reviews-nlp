@@ -1,0 +1,41 @@
+{
+  "id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA_B08CKQXPWN_1618357284864",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Would not buy again",
+  "text": "Would not buy again. I don't know why they don't put the handles on the hole is so small you need a magnifying glass",
+  "asin": "B08CKQXPWN",
+  "parent_asin": "B08CKQXPWN",
+  "user_id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA",
+  "timestamp": 1618357284864,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "WEIMEILD Be Merry Sign Dancing Snowmen Home Decor Wood Sign Plaque 10\" x 5\" Hanging Wall Art, Decorative Funny Sign,Garden Sign(09-W122)",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "WEIMEILD",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Wall Pediments"
+    ],
+    "details": {
+      "Package Dimensions": "10 x 5.25 x 0.5 inches",
+      "Item Weight": "5.6 ounces",
+      "Brand": "WEIMEILD",
+      "Material": "Engineered Wood",
+      "Theme": "Funny",
+      "Mounting Type": "Wall Mount",
+      "Shape": "Rectangular"
+    },
+    "parent_asin": "B08CKQXPWN",
+    "bought_together": null
+  }
+}

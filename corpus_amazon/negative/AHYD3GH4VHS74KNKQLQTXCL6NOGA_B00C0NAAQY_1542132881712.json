@@ -1,0 +1,54 @@
+{
+  "id": "AHYD3GH4VHS74KNKQLQTXCL6NOGA_B00C0NAAQY_1542132881712",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Broken on arrival.",
+  "text": "Broken on arrival.. Broken in half on arrival.",
+  "asin": "B00C0NAAQY",
+  "parent_asin": "B00C0NAAQY",
+  "user_id": "AHYD3GH4VHS74KNKQLQTXCL6NOGA",
+  "timestamp": 1542132881712,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "Winco SS-821 Combination Sharpening Stone, 8-Inch by 2-Inch by 1-Inch,Medium,Black, Gray",
+    "average_rating": 4.2,
+    "rating_number": 30,
+    "features": [
+      "Top grade carbonization silicon",
+      "Fine/medium grain",
+      "Combination Sharpening Stone",
+      "Good quality product",
+      "Excellent for a variety of knives and tools"
+    ],
+    "description": [
+      "Top grade carbonization silicon. Fine/medium grain. Combination Sharpening Stone. Good quality product. Excellent for a variety of knives and tools."
+    ],
+    "price": 12.26,
+    "store": "Winco",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Knife Sharpeners"
+    ],
+    "details": {
+      "Material": "Silicone",
+      "Brand": "Winco",
+      "Color": "Black, Gray",
+      "Product Dimensions": "7.88 x 2 x 1 inches; 1 Pounds",
+      "Item Weight": "1 Pounds",
+      "Grit Type": "Medium,Fine",
+      "Item model number": "SS-821",
+      "Date First Available": "March 25, 2013",
+      "Manufacturer": "Winco USA",
+      "Country of Origin": "USA",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More"
+    },
+    "parent_asin": "B00C0NAAQY",
+    "bought_together": null
+  }
+}

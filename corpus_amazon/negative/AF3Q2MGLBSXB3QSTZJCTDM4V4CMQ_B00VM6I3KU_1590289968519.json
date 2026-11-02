@@ -1,0 +1,61 @@
+{
+  "id": "AF3Q2MGLBSXB3QSTZJCTDM4V4CMQ_B00VM6I3KU_1590289968519",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Horrible",
+  "text": "Horrible. Tried returning item but never got a response!! Quite working the first time I used it",
+  "asin": "B00IE0HA0G",
+  "parent_asin": "B00VM6I3KU",
+  "user_id": "AF3Q2MGLBSXB3QSTZJCTDM4V4CMQ",
+  "timestamp": 1590289968519,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Elite Cuisine EG-1220G 12-Inch Non-Stick Electric Skillet with Glass Lid, Black",
+    "average_rating": 4.2,
+    "rating_number": 288,
+    "features": [
+      "Removable and adjustable 450° F temperature control with temperature-ready light that keeps you apprised of the skillet's heating status",
+      "Extra-large 12\" x 12\" non-stick cooking surface with high side walls",
+      "Plastic cool-touch handles enable simple portability",
+      "Heavy construction cast aluminum base",
+      "Cool-touch handles and tempered glass lid"
+    ],
+    "description": [
+      "The Elite Gourmet 12” Electric Skillet fries, grills, roasts, stews, and more making it easy to cook your favorite food in just one appliance. With its smooth 12” x 12” non-stick cooking surface, clean-up is easy. With its quick and even heating up to 450° F with temperature control and temperature-ready light. Use it to cook anything from eggs and sausage, to hamburgers and steaks, even sauté your favorite vegetables. Features a tempered glass lid and cool-touch handles for safe and easy serving. Cook and serve directly out of the skillet! Designed for both style and function, the heavy durable cast aluminum base prevents any warping from high temperatures and the high side walls prevent food spillage. Serve directly out of skillet with thermostat removed!"
+    ],
+    "price": null,
+    "store": "Elite Gourmet",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Electric Skillets"
+    ],
+    "details": {
+      "Special Feature": "Temperature Control, Non Stick Coating, Cool Touch",
+      "Color": "Black",
+      "Material": "Aluminum",
+      "Brand": "Elite Gourmet",
+      "Wattage": "1300 watts",
+      "Item Weight": "5 Pounds",
+      "Included Components": "Elite Cuisine EG-1220G Maxi-Matic 12-Inch Non-Stick Electric Skillet with Glass Lid, Black",
+      "Style": "Adjustable,Cooking",
+      "Voltage": "120",
+      "Number of settings": "4",
+      "Product Dimensions": "16.5 x 4 x 12 inches",
+      "Manufacturer": "Maxi-Matic",
+      "Item model number": "EG-1220G",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 397573,
+        "Electric Skillets": 108
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 18, 2005"
+    },
+    "parent_asin": "B00VM6I3KU",
+    "bought_together": null
+  }
+}

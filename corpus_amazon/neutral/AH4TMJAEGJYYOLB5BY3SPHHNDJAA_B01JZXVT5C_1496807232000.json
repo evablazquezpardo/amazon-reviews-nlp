@@ -1,0 +1,54 @@
+{
+  "id": "AH4TMJAEGJYYOLB5BY3SPHHNDJAA_B01JZXVT5C_1496807232000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not bad",
+  "text": "Not bad. Much smaller than I expected.  Quality seems fine, just too small.",
+  "asin": "B004VWXHQW",
+  "parent_asin": "B01JZXVT5C",
+  "user_id": "AH4TMJAEGJYYOLB5BY3SPHHNDJAA",
+  "timestamp": 1496807232000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KitchenAid Gourmet Stainless Steel Asian Strainer, Red",
+    "average_rating": 4.5,
+    "rating_number": 127,
+    "features": [
+      "The specially designed woven wire basket is perfect for scooping food out of hot water and oil",
+      "An extra-wide opening helps to drain liquids quickly",
+      "The tools head is crafted of durable, rust-resistant stainless steel",
+      "The handle is non-slip ensuring a firm grip",
+      "Dishwasher safe; One year hassle-free replacement and lifetime limited warranty"
+    ],
+    "description": [
+      "KN010OHERA Features: -Gourmet collection. -Specially designed woven wire basket is perfect for scooping food out of hot water and oil. -Extra wide opening helps to drain liquids quickly. -Durable stainless steel head.. -The non-slip handle ensures a firm grip. -This strainer is completely dishwasher safe for easy cleanup. Item: -Food Strainer. Color: -Silver. Material: -Stainless Steel. Dimensions: Overall Height - Top to Bottom: -13.78\". Overall Width - Side to Side: -5.12\". Overall Depth - Front to Back: -3.54\". Overall Product Weight: -0.3 lbs."
+    ],
+    "price": null,
+    "store": "KitchenAid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Colanders & Food Strainers",
+      "Food Strainers"
+    ],
+    "details": {
+      "Material": "Stainless Steel",
+      "Color": "Red",
+      "Brand": "KitchenAid",
+      "Style": "Asian Strainer",
+      "Item Weight": "0.3 Pounds",
+      "Is Dishwasher Safe": "Yes",
+      "Product Dimensions": "3.54 x 5.12 x 13.78 inches",
+      "Manufacturer": "KitchenAid",
+      "Item model number": "KN010OHERA",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 19, 2012"
+    },
+    "parent_asin": "B01JZXVT5C",
+    "bought_together": null
+  }
+}

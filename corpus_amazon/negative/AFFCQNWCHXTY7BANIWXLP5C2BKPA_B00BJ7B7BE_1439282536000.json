@@ -1,0 +1,61 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B00BJ7B7BE_1439282536000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Easy to assemble but too rustic and it is cheap looking",
+  "text": "Easy to assemble but too rustic and it is cheap looking. Top peeling layer (like contact paper). Returned.",
+  "asin": "B00BJ7B7BE",
+  "parent_asin": "B00BJ7B7BE",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1439282536000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Safavieh American Homes Collection Susan Side Table, Dark Brown",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+      "The dark brown finish of this side table will create a perfect accent to your home",
+      "This table features a drawer measuring 21\" x 4\" and a shelf measuring 22.8\" x 15.6\"",
+      "Crafted of solid birch wood",
+      "Perfect for a living room, family room, den, library, or study",
+      "Assembly required, this table measures 26\" x 15\" x 30.4\""
+    ],
+    "description": [
+      "Classic and cozy, the dark brown birch wood of the Safavieh American Homes Collection Susan Side Table is perfectly paired with the contrasting diamond shaped inset on the drawer. Its fluted legs lend a classic stylistic element, perfect for the bedroom or an elegant home office. Assembly required, this table measures 26\" x 15\" x 30.4\"."
+    ],
+    "price": null,
+    "store": "Safavieh",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "End Tables"
+    ],
+    "details": {
+      "Product Dimensions": "26\"D x 15\"W x 30.4\"H",
+      "Color": "Dark Brown",
+      "Shape": "Rectangular",
+      "Brand": "Safavieh",
+      "Special Feature": "Storage",
+      "Style": "Traditional",
+      "Room Type": "Bedroom, Living Room, Home Office",
+      "Top Material Type": "Wood",
+      "Finish Type": "Brown",
+      "Base Type": "Legs",
+      "Frame Material": "Wood",
+      "Assembly Required": "Yes",
+      "Number of Drawers": "1",
+      "Item Weight": "20.9 pounds",
+      "Furniture Finish": "Birch",
+      "Item model number": "AMH4045A",
+      "Weight": "20.9 Pounds",
+      "Date First Available": "February 21, 2013"
+    },
+    "parent_asin": "B00BJ7B7BE",
+    "bought_together": null
+  }
+}

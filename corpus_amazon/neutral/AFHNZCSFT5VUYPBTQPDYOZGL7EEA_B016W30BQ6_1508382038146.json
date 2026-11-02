@@ -1,0 +1,52 @@
+{
+  "id": "AFHNZCSFT5VUYPBTQPDYOZGL7EEA_B016W30BQ6_1508382038146",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Nice pan, but no lid comes with product",
+  "text": "Nice pan, but no lid comes with product. Nice pans, but product descriptions includes comment about a glass lid.  However, there is no lid included with pans.  If they are included in the price, then the lid should be there.  However, if lids are not included, then comment about lid should be removed from the product description.",
+  "asin": "B016W30BQ6",
+  "parent_asin": "B016W30BQ6",
+  "user_id": "AFHNZCSFT5VUYPBTQPDYOZGL7EEA",
+  "timestamp": 1508382038146,
+  "helpful_vote": 20,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "GreenPan Rio 8 Inch and 10 Inch Ceramic Non-Stick Fry Pan Set, Turquoise -",
+    "average_rating": 4.3,
+    "rating_number": 261,
+    "features": [
+      "Thermolon ceramic non-stick: perfect frying results using less oil + easy cleaning",
+      "Manufactured without PFAS and PFOA",
+      "Quick and even heating: heavy gauge construction for reliable cooking results + easy to clean exterior",
+      "Stay-cool handle ergonomic comfortable grip; Glass lid for easy food monitoring",
+      "Dishwasher Safe; Limited lifetime warranty"
+    ],
+    "description": [
+      "The GreenPan Rio collection brings a touch of color to your kitchen. The Rio 8 Inch and 10 Inch Ceramic Non-Stick Fry Pan Set in Turquoise adds a subtle touch of elegance, complete with Thermolon healthy ceramic non-stick coating for ease. Rio offers you a tasteful mix of optimal heat distribution and 100% cooking and cleaning convenience. After all, GreenPan quality also extends to the details, from the stay cool Bakelite handle to the heat retaining base."
+    ],
+    "price": null,
+    "store": "GreenPan",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Pots & Pans",
+      "Woks & Stir-Fry Pans"
+    ],
+    "details": {
+      "Product Dimensions": "17.76 x 3.5 x 10.63 inches",
+      "Item Weight": "1.9 pounds",
+      "Manufacturer": "The Cookware Company",
+      "Item model number": "CW001419-002",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 387572,
+        "Woks & Stir-Fry Pans": 1149
+      },
+      "Date First Available": "October 14, 2015"
+    },
+    "parent_asin": "B016W30BQ6",
+    "bought_together": null
+  }
+}

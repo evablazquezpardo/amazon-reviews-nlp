@@ -1,0 +1,41 @@
+{
+  "id": "AEZHRMVXXEGT4LCKGDCWWCA6ME7Q_B00GJN3SN8_1525875045779",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. They never had a bud on them",
+  "asin": "B00GJN3SN8",
+  "parent_asin": "B00GJN3SN8",
+  "user_id": "AEZHRMVXXEGT4LCKGDCWWCA6ME7Q",
+  "timestamp": 1525875045779,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "5 Bulbs Mixed Calla Lily",
+    "average_rating": 3.3,
+    "rating_number": 70,
+    "features": [],
+    "description": [],
+    "price": 35.95,
+    "store": "Eden Brothers",
+    "categories": [],
+    "details": {
+      "Package Dimensions": "19.69 x 15.75 x 9.84 inches",
+      "Item Weight": "1 pounds",
+      "Indoor/Outdoor Usage": "Indoor",
+      "Brand": "Eden Brothers",
+      "Material Feature": "Certified Organic",
+      "Color": "White",
+      "Expected Blooming Period": "Winter, Spring",
+      "Sunlight Exposure": "Full Sun, Partial Shade",
+      "Unit Count": "1 Count",
+      "Expected Planting Period": "Fall",
+      "USDA Hardiness Zone": "11, 8, 9, 10",
+      "Soil Type": "Sandy Soil"
+    },
+    "parent_asin": "B00GJN3SN8",
+    "bought_together": null
+  }
+}

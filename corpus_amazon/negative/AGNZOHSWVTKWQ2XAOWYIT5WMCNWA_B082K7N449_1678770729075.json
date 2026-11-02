@@ -1,0 +1,63 @@
+{
+  "id": "AGNZOHSWVTKWQ2XAOWYIT5WMCNWA_B082K7N449_1678770729075",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "was sent someone else's garbage by amazon",
+  "text": "was sent someone else's garbage by amazon. done not screw on properly onto the lamp base",
+  "asin": "B082K7N449",
+  "parent_asin": "B082K7N449",
+  "user_id": "AGNZOHSWVTKWQ2XAOWYIT5WMCNWA",
+  "timestamp": 1678770729075,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Magic&shell Oil Lamp Burner No.2 Brass Kerosene Oil Lamp Burner",
+    "average_rating": 3.8,
+    "rating_number": 127,
+    "features": [
+      "Suitable for many lamp types, with wick and removable screw-in collar.",
+      "Available fuels: kerosene, diesel, vegetable fuels and other safe fuels (do not use gasoline, dangerous).",
+      "Made of high quality material, good function, fine workmanship and long service life.",
+      "Can be used for 2cm width wicks.",
+      "Comes with a threaded base with a diameter of 1-3 / 16 inches."
+    ],
+    "description": [
+      "Product description",
+      "Specification:",
+      "Product Name: Kerosene Oil Lamp Burner",
+      "Color: Coppery",
+      "Package Including:1PC Oil Lamp Burner",
+      "Features:",
+      "This is a new type of brass-coated fuel stove. It has a wick and a removable screw-in collar.",
+      "Good function and well made",
+      "Suitable for many lamps."
+    ],
+    "price": 8.98,
+    "store": "Magic&shell",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Oil Lamps & Accessories",
+      "Oil Lamps"
+    ],
+    "details": {
+      "Package Dimensions": "5.2 x 1.6 x 1.5 inches",
+      "Item Weight": "2.39 ounces",
+      "Manufacturer": "Magic&shell",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 807775,
+        "Oil Lamps": 437
+      },
+      "Finish types": "Oil",
+      "Batteries required": "No",
+      "Material": "Metal",
+      "Brand": "Magic&shell",
+      "Finish Type": "Oil",
+      "Style": "Brass"
+    },
+    "parent_asin": "B082K7N449",
+    "bought_together": null
+  }
+}

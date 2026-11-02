@@ -1,0 +1,60 @@
+{
+  "id": "AH3OG6QD6EDJGZRVCFKV4B66VWNQ_B00LU2HXRK_1498088304857",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Terrific, for the price and the quality, it works great.  love it.",
+  "asin": "B00LU2HXRK",
+  "parent_asin": "B00LU2HXRK",
+  "user_id": "AH3OG6QD6EDJGZRVCFKV4B66VWNQ",
+  "timestamp": 1498088304857,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "George Foreman 2-Serving Classic Plate Electric Grill and Panini Press, Black, GR136B",
+    "average_rating": 4.3,
+    "rating_number": 1229,
+    "features": [
+      "2 Servings - If you are tight on countertop space, this grill is your answer. It fits two servings of your grilled favorites, and it’s ideal for small apartments and couples",
+      "George Tough Nonstick Coating - There’s a lot to love about this nonstick coating. It’s durable, easy to clean, and removes the need for butter and oil",
+      "Fat-Removing Slope - It’s the sure sign of a George Foreman Grill. The sloped grilling surface helps remove up to 42% (from 1/4lb. uncooked 80/20 ground chuck) of fat from meats for lean, tasty meals",
+      "Drip Tray - The dishwasher-safe drip tray collects excess fat and grease so you don’t have to",
+      "Power Indicator Light - The power light turns on when you plug in the grill and shuts off when it’s preheated and ready to cook"
+    ],
+    "description": [
+      "It’s the kitchen appliance that changed the grilling game forever. The George Foreman 2-Serving Classic Plate Electric Grill and Panini Press delivers fast grilling and delicious results for steak, burgers, chicken, veggies, and more. The patented sloped surface helps remove fat during cooking, and the George Tough nonstick coating wipes clean after every use. The compact grill’s dual contact heating speeds up grilling to get food on the table in record time. What will you make on your George Foreman Grill?",
+      "*from 1/4lb. uncooked 80/20 ground chuck."
+    ],
+    "price": 76.99,
+    "store": "George Foreman",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Indoor Grills & Griddles",
+      "Electric Grills"
+    ],
+    "details": {
+      "Special Feature": "Non Stick Coating",
+      "Color": "Black",
+      "Material": "Plastic",
+      "Brand": "George Foreman",
+      "Product Dimensions": "4.75\"D x 9\"W x 9.5\"H",
+      "Wattage": "1500 watts",
+      "Item Weight": "0.01 Ounces",
+      "Style": "Advanced George Tough Coating",
+      "Manufacturer": "Applica Incorporated/DBA Black and Decker",
+      "Item model number": "GR136B",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 277159,
+        "Electric Contact Grills": 246
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 24, 2014"
+    },
+    "parent_asin": "B00LU2HXRK",
+    "bought_together": null
+  }
+}

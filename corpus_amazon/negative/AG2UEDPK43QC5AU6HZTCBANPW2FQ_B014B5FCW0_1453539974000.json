@@ -1,0 +1,64 @@
+{
+  "id": "AG2UEDPK43QC5AU6HZTCBANPW2FQ_B014B5FCW0_1453539974000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Black Fuzzies",
+  "text": "Black Fuzzies. This towel has been washed dozens of times and still leave black fuzzies every time it is used",
+  "asin": "B014B5FCW0",
+  "parent_asin": "B014B5FCW0",
+  "user_id": "AG2UEDPK43QC5AU6HZTCBANPW2FQ",
+  "timestamp": 1453539974000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Batman Beach Towel - Cotton",
+    "average_rating": 4.2,
+    "rating_number": 62,
+    "features": [
+      "Cotton",
+      "Imported",
+      "Batman plush beach towel",
+      "28 inches",
+      "100 percent cotton",
+      "Machine washable"
+    ],
+    "description": [
+      "This Batman to the Batcave beach towel sets the swim stage with heroic cool. In black."
+    ],
+    "price": null,
+    "store": "DC Comics",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Beach Towels"
+    ],
+    "details": {
+      "Color": "Black",
+      "Brand": "DC Comics",
+      "Towel form type": "Beach Towel",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Product Dimensions": "10.91 x 4.88 x 3.31 inches",
+      "Number of Items": "1",
+      "Pattern": "Print",
+      "Theme": "Character",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "Beach Towel",
+      "Unit Count": "1.0 Count",
+      "Fabric Type": "Cotton",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "1 pounds",
+      "Manufacturer": "Franco",
+      "Item model number": "5846340",
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B014B5FCW0",
+    "bought_together": null
+  }
+}

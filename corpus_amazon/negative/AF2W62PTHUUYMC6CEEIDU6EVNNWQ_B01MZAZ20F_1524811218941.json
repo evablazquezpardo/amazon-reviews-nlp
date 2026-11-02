@@ -1,0 +1,47 @@
+{
+  "id": "AF2W62PTHUUYMC6CEEIDU6EVNNWQ_B01MZAZ20F_1524811218941",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "awful sticky leaves red residue",
+  "text": "awful sticky leaves red residue. BEWARE!!!!!<br />It will turn stuff red",
+  "asin": "B01MZAZ20F",
+  "parent_asin": "B01MZAZ20F",
+  "user_id": "AF2W62PTHUUYMC6CEEIDU6EVNNWQ",
+  "timestamp": 1524811218941,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bath & Body Works Room Perfume Spray Watermelon Lemonade",
+    "average_rating": 4.3,
+    "rating_number": 37,
+    "features": [
+      "Instantly freshen your home with two quick bursts of fragrance and fill every room with its very own Eau de Parfum!",
+      "Exclusively developed by our team of home fragrance experts for long-lasting scent."
+    ],
+    "description": [
+      "Instantly freshen your home with two quick bursts of fragrance and fill every room with its very own Eau de Parfum! Exclusively developed by our team of home fragrance experts for long-lasting scent."
+    ],
+    "price": null,
+    "store": "Bath & Body Works",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Fragrant Room Sprays"
+    ],
+    "details": {
+      "Manufacturer": "Bath and Body Works",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2406001,
+        "Fragrant Room Sprays": 1186
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Perfume": "Watermelon Lemonade",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B01MZAZ20F",
+    "bought_together": null
+  }
+}

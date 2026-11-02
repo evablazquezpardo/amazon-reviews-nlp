@@ -1,0 +1,55 @@
+{
+  "id": "AGBK5OLCYDWUGR5VJYY2BM35UYIQ_B013KPL6LS_1545775748591",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Pretty junky",
+  "text": "Pretty junky. IT is was it is... not very good quality... but they work.. .for a minute",
+  "asin": "B013KPL6LS",
+  "parent_asin": "B013KPL6LS",
+  "user_id": "AGBK5OLCYDWUGR5VJYY2BM35UYIQ",
+  "timestamp": 1545775748591,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KingSeal Umbrella Parasol Cocktail Picks, Cupcake Toppers, 4 Inch, Assorted Colors - 1 pack of 144 each",
+    "average_rating": 4.6,
+    "rating_number": 1233,
+    "features": [
+      "Includes 144 picks in 1 pack",
+      "Comes in assorted colors and designs; ideal for luaus, tiki parties, and any summer or Hawaiian themed party",
+      "Also great as cupcake toppers, craft projects, or other festive occasions",
+      "Flexible and not prone to splintering; small ring holds the umbrella open",
+      "Made from natural bamboo wood; food safe"
+    ],
+    "description": [
+      "The parasol cocktail picks are 4\" in length. Each pack includes a variety of colors and designs, and each order consists of one pack of 144 umbrella picks."
+    ],
+    "price": 8.99,
+    "store": "KingSeal",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Bar Tools & Drinkware",
+      "Bar Tools",
+      "Cocktail Picks"
+    ],
+    "details": {
+      "Product Dimensions": "4 x 0.01 x 0.01 inches",
+      "Item Weight": "4.6 ounces",
+      "Manufacturer": "Wesco",
+      "Country of Origin": "China",
+      "Item model number": "77160/B",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 16150,
+        "Cocktail Picks": 78
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 7, 2015"
+    },
+    "parent_asin": "B013KPL6LS",
+    "bought_together": null
+  }
+}

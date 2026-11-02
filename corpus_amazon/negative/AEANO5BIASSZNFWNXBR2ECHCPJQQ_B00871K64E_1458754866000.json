@@ -1,0 +1,65 @@
+{
+  "id": "AEANO5BIASSZNFWNXBR2ECHCPJQQ_B00871K64E_1458754866000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. didn't work",
+  "asin": "B001LNNLAQ",
+  "parent_asin": "B00871K64E",
+  "user_id": "AEANO5BIASSZNFWNXBR2ECHCPJQQ",
+  "timestamp": 1458754866000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Iso-Cool Side Sleeper Polyester Pillow with Outlast Cover",
+    "average_rating": 4.1,
+    "rating_number": 685,
+    "features": [
+      "100% Cotton",
+      "Made in the USA and Imported",
+      "300 thread count cotton cover; 100-percent polyester fill",
+      "3-inch gusseted pillow with Outlast Adaptive Comfort Technology offers a cooler night's sleep",
+      "Pillow features a zippered cover accented with piped edging and embroidered logo",
+      "Side Sleeper measures 17 x 23 x 3 inches",
+      "Hypoallergenic and machine washable",
+      "Made in the USA and Imported",
+      "Isotonic, Iso-Cool, and RichLoft are registered Trademarks of Carpenter Co."
+    ],
+    "description": [
+      "The Iso-Cool polyester bed pillow has a 300 thread count, zippered cover with embroidery, corded edges, and Outlast Adaptive Comfort material for cooler sleeping. It is filled with luxurious RichLoft spiral spun polyester fiber and is completely adjustable for all sleeping positions. Cover is machine washable for easy care."
+    ],
+    "price": null,
+    "store": "SleepBetter",
+    "categories": [
+      "Home & Kitchen",
+      "Dorm Room HQ",
+      "Bedding & Bath",
+      "Pillows & Bedrests"
+    ],
+    "details": {
+      "Product Dimensions": "23 x 17 x 3 inches",
+      "Item Weight": "1.54 pounds",
+      "Manufacturer": "Carpenter Co.",
+      "Item model number": "031374521747",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1289459,
+        "Bed Pillows": 2156,
+        "Throw Pillow Covers": 16370
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "100% Cotton",
+      "Refill": "Polyester",
+      "Form Factor": "Sleeper",
+      "Care instructions": "Machine Wash",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Warranty Description": "15 years.",
+      "Batteries required": "No",
+      "Import": "Made in the USA and Imported"
+    },
+    "parent_asin": "B00871K64E",
+    "bought_together": null
+  }
+}

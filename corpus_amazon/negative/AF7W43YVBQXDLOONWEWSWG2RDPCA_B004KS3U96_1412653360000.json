@@ -1,0 +1,48 @@
+{
+  "id": "AF7W43YVBQXDLOONWEWSWG2RDPCA_B004KS3U96_1412653360000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "JUNK",
+  "text": "JUNK. Didn't last a year. How does something with no moving parts quit working that quickly unless it's junk. Will not buy another!",
+  "asin": "B004KS3U96",
+  "parent_asin": "B004KS3U96",
+  "user_id": "AF7W43YVBQXDLOONWEWSWG2RDPCA",
+  "timestamp": 1412653360000,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Hamilton Beach Electric Griddle, 200 Square, Black",
+    "average_rating": 3.5,
+    "rating_number": 14,
+    "features": [
+      "Perfect for Family Gatherings",
+      "Removable Dishwasher Safe Grease Tray",
+      "200 Square Inch Non-Stick Cooking Surface",
+      "Cool-Touch Handles; Adjustable Heat",
+      "Fully Immersible with Cord Removed"
+    ],
+    "description": [
+      "Hamilton Beach 38515- Electric Griddle. Perfect for Family Gatherings. Removable Dishwasher Safe Grease Tray. 200 Square Inch Non-Stick Cooking Surface. Cool-Touch Handles. Adjustable Heat. Fully Immersible with Cord Removed."
+    ],
+    "price": null,
+    "store": "Hamilton Beach",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Indoor Grills & Griddles",
+      "Electric Griddles"
+    ],
+    "details": {
+      "Product Dimensions": "4.88 x 25.75 x 14.23 inches",
+      "Item Weight": "7.48 pounds",
+      "Manufacturer": "Hamilton Beach",
+      "Item model number": "38515",
+      "Date First Available": "January 25, 2011"
+    },
+    "parent_asin": "B004KS3U96",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "AHYJTDU7WIZA4KLI24CYMYMNTVKQ_B07CNPX3XZ_1429184215000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. very thin and flimsy.",
+  "asin": "B004JRLKXQ",
+  "parent_asin": "B07CNPX3XZ",
+  "user_id": "AHYJTDU7WIZA4KLI24CYMYMNTVKQ",
+  "timestamp": 1429184215000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Fish Netting Assorted Colors Theme Party Decoration",
+    "average_rating": 3.3,
+    "rating_number": 10,
+    "features": [
+      "Includes 1 fish netting in package"
+    ],
+    "description": [
+      "Fish netting can be used may different ways to decorate your luau or nautical party. When you unravel and fully extend it, the assorted colors fish netting opens to be approximately four feet by twelve feet. The assorted fish netting is made of thick, dyed cotton thread, so it is easy to drape or stretch it out when decorating your room in a nautical look."
+    ],
+    "price": 9.95,
+    "store": "Beistle",
+    "categories": [
+      "Home & Kitchen",
+      "Event & Party Supplies"
+    ],
+    "details": {
+      "Product Dimensions": "11 x 5 x 0.25 inches",
+      "Item Weight": "0.2 ounces",
+      "Item model number": "50301-A",
+      "Manufacturer recommended age": "1 month - 12 years",
+      "Release date": "January 5, 2021",
+      "Manufacturer": "Beistle"
+    },
+    "parent_asin": "B07CNPX3XZ",
+    "bought_together": null
+  }
+}

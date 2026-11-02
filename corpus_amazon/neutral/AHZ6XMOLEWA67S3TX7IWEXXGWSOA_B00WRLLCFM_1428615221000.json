@@ -1,0 +1,45 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B00WRLLCFM_1428615221000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. These look like plastic, not realistic at all.",
+  "asin": "B00STS98LM",
+  "parent_asin": "B00WRLLCFM",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1428615221000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Set of 8 Decorative Life Size Faux Yellow Pears - Great for Decorating your Home, Creating a Store Display, and Photo Props - Realistically Colored and Sized Fruit - Measures 3\" x 3.5\"(Yellow Pears)",
+    "average_rating": 4.1,
+    "rating_number": 278,
+    "features": [
+      "Includes 8 Artificial Pears - Each Pear Measures Approximately 3\" x 3.5\"",
+      "Great for Decorating Dining Halls, Kitchen Tables, and Displays alike!",
+      "Bright and Realistic Colors, Size, and Shape! You Can Hardly Tell they aren't Real!",
+      "Super Lightweight Styrofoam Core Makes The Fruits Easy to Set up! Tooth Picks can Be Used to Hold them In Place for a long Time!",
+      "Each Pear Measures Approximately 3\" x 3.5\"Add some Feelings of Homely Warmth to a House Showing, or a Splash of Color on an Otherwise Boring Conference Table!"
+    ],
+    "description": [],
+    "price": 9.99,
+    "store": "Good Old Values",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Fruit"
+    ],
+    "details": {
+      "Brand": "Good Old Values",
+      "Color": "Pears",
+      "Material": "Synthetic",
+      "Specific Uses For Product": "Kitchen",
+      "Occasion": "Wedding"
+    },
+    "parent_asin": "B00WRLLCFM",
+    "bought_together": null
+  }
+}

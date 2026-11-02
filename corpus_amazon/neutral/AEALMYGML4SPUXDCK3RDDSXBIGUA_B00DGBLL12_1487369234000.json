@@ -1,0 +1,50 @@
+{
+  "id": "AEALMYGML4SPUXDCK3RDDSXBIGUA_B00DGBLL12_1487369234000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. works fine",
+  "asin": "B00DGBLL12",
+  "parent_asin": "B00DGBLL12",
+  "user_id": "AEALMYGML4SPUXDCK3RDDSXBIGUA",
+  "timestamp": 1487369234000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Crucial Vacuum Foam Filter Replacement Parts Compatible with Eureka Part # 38333 - Fits Eureka Mighty Mite MM Motor Foam Filter Fit Mighty Mite & Sanitaire Vacuums for Home, Office Use - Bulk (2 Pack)",
+    "average_rating": 4.2,
+    "rating_number": 86,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Cherioll",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Purifier Parts & Accessories"
+    ],
+    "details": {
+      "Package Dimensions": "6.8 x 6 x 0.6 inches",
+      "Item Weight": "0.32 ounces",
+      "Manufacturer": "Crucial Vacuum",
+      "Item model number": "FBA_38333",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2491883,
+        "Home Air Purifier Parts & Accessories": 7160
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "2",
+      "Batteries required": "No",
+      "Brand": "Crucial Vacuum",
+      "Material": "Foam",
+      "Compatible Devices": "Air Purifier, Air Cleaner",
+      "Reusability": "Reusable",
+      "Number of Pieces": "2"
+    },
+    "parent_asin": "B00DGBLL12",
+    "bought_together": null
+  }
+}

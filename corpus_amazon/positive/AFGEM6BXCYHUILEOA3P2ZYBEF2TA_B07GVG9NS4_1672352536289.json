@@ -1,0 +1,47 @@
+{
+  "id": "AFGEM6BXCYHUILEOA3P2ZYBEF2TA_B07GVG9NS4_1672352536289",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great",
+  "text": "Great. Love the low/high setting",
+  "asin": "B00FG3HF9A",
+  "parent_asin": "B07GVG9NS4",
+  "user_id": "AFGEM6BXCYHUILEOA3P2ZYBEF2TA",
+  "timestamp": 1672352536289,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Betty Crocker BC-2405C 3-Cup Chopper",
+    "average_rating": 4.3,
+    "rating_number": 752,
+    "features": [
+      "Press and Chop: When it comes to truly effective kitchen appliances, our BETTY CROCKER food chopper (7.87” x 6.89” x 5.04”) is the best. Simply press a button for pulse control and 2-speed settings.",
+      "3 Cup Capacity: Chop, mince, dice, and puree with our incredible food chopper electric. This 3 cup mini chopper (2.18 lbs.) ensures plenty of room for food preparation for parties and other events.",
+      "Stainless Steel Blades: This is considered one of the top kitchen accessories because it functions as an onion chopper, herb grinder, and much more. Enjoy heavy-duty stainless steel blades.",
+      "Hassle-Free Cleanup: Our veggie chopper is simple to use and doesn't require extensive cleanup. The bowl on this outstanding chopper electric is dishwasher safe, as are the lid and blades.",
+      "Easy to Store: This BETTY CROCKER compact electric food chopper easily fits into kitchen cabinets, storage containers, large drawers, pantries, and anywhere else convenient in your kitchen."
+    ],
+    "description": [],
+    "price": 23.44,
+    "store": "Betty Crocker",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Seasoning & Spice Tools",
+      "Choppers & Mincers",
+      "Choppers"
+    ],
+    "details": {
+      "Brand": "Betty Crocker",
+      "Special Feature": "Safety Lock",
+      "Product Dimensions": "7.87\"D x 5.04\"W x 6.89\"H",
+      "Color": "Metal",
+      "Wattage": "135 watts"
+    },
+    "parent_asin": "B07GVG9NS4",
+    "bought_together": null
+  }
+}

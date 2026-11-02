@@ -1,0 +1,56 @@
+{
+  "id": "AH4FX4XVP4I4QT37KDKERSY4HJVA_B08QR5KDD3_1622582491993",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Junk",
+  "text": "Junk. Doesn't work",
+  "asin": "B08QR5KDD3",
+  "parent_asin": "B08QR5KDD3",
+  "user_id": "AH4FX4XVP4I4QT37KDKERSY4HJVA",
+  "timestamp": 1622582491993,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "Sinocare Smart Food Scale,Digital Kitchen Scales Weight Grams and Ounces with Nutritional Analysis APP,Food Baking Scale for Weight Loss,Keto,Macro,Calorie",
+    "average_rating": 4.3,
+    "rating_number": 160,
+    "features": [
+      "⚖ Multi-functions: Do you know how much energy and nutrients a food you make can deliver to your body? Sinocare smart food scale will analyze food nutrients,calculate the calories of food and make records of your eating plans.Once the food lands on the food scale,that data is uploaded to your phone by our Sinofood APP.",
+      "⚖ High Accuracy: Sinocare digital kitchen scale are built with the highest precision of sensors and an LED display that's clear and easy to read, you can weigh your food and ingredients accurately. It can convert measurement in g/ml (water) / ml (milk) / fl.oz (water) / fl.oz (milk) / oz / lb : oz effectively. Refined accuracy 1g, up to a weight range of 5kg.Which is much larger than any other scales in the market.One click ‘Switch’ button to turn it on, one click ‘UNIT’ to change the units.",
+      "⚖ Easy Tare: Features tare and auto-zero functions for easy compatibility with other containers.You can measure water,milk, powder, flour in a bowl, mug, plate, or other containers. One click ‘TARE’ button and the screen displays ‘-18:8.8.8‘ to reset the weight to zero with the empty container on the food scale. All ingredients can be in the food scale, just hit the ‘TARE’ button and keep adding your ingredients.",
+      "⚖ Touch Button: Waterproof sensitive button with no sound, it will protect the button from unavoidable water stain and ensure its accuracy. (Note: After the display on the screen changes from'-1:8.8.8' to '0', or after the food is weighed, double-click the switch to trigger the shutdown. Click the switch button at'-1:8.8.8' will only trigger the 'TARE' function.)",
+      "⚖ Ultra Slim Design: (Product Dimensions: 7.87\" x 5\" x 0.63\"; Product Weight: 214g). Slim shape with the style, elegance and minimalism needed for your modern kitchen, cooking, baking and food preparation needs.Finished with hygienic stainless steel, easy for you to keep clean with a simple wipe.It’s so light that you can take it to anywhere."
+    ],
+    "description": [],
+    "price": null,
+    "store": "sinocare",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Measuring Tools & Scales",
+      "Scales",
+      "Digital Scales"
+    ],
+    "details": {
+      "Brand": "sinocare",
+      "Color": "Silver",
+      "Weight Limit": "5 Kilograms",
+      "Product Dimensions": "7.87\"L x 5\"W x 0.63\"H",
+      "Material": "Stainless Steel",
+      "Readout Accuracy": "1 Grams",
+      "Item Weight": "7.5 ounces",
+      "Manufacturer": "sinocare",
+      "Item model number": "US-SNC CFC",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 339454,
+        "Digital Kitchen Scales": 1019
+      },
+      "Date First Available": "December 16, 2020"
+    },
+    "parent_asin": "B08QR5KDD3",
+    "bought_together": null
+  }
+}

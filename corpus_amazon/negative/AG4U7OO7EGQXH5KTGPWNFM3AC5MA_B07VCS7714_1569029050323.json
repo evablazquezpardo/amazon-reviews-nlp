@@ -1,0 +1,47 @@
+{
+  "id": "AG4U7OO7EGQXH5KTGPWNFM3AC5MA_B07VCS7714_1569029050323",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Fake reviews",
+  "text": "Fake reviews. Warning: fake reviews",
+  "asin": "B07VCS7714",
+  "parent_asin": "B07VCS7714",
+  "user_id": "AG4U7OO7EGQXH5KTGPWNFM3AC5MA",
+  "timestamp": 1569029050323,
+  "helpful_vote": 2,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Gugusure Contour Memory Foam Pillow, Orthopedic Sleeping Pillows",
+    "average_rating": 4.0,
+    "rating_number": 263,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Gugusure",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Neck & Cervical Pillows"
+    ],
+    "details": {
+      "Brand": "Gugusure",
+      "Color": "White and Grey",
+      "Fill Material": "Memory Foam",
+      "Shape": "Wedge",
+      "Age Range (Description)": "Adult",
+      "Recommended Uses For Product": "Sleep Support",
+      "Item Firmness Description": "Soft",
+      "Product Care Instructions": "Machine Wash",
+      "Item Weight": "2.77 pounds",
+      "Variety": "Memory Foam Pillow,Memory Foam",
+      "Package Dimensions": "12.5 x 11.4 x 5.9 inches",
+      "Manufacturer": "Gugusure company",
+      "Date First Available": "April 30, 2021"
+    },
+    "parent_asin": "B07VCS7714",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B073SM9RC1_1530029701706",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Nice Warm Light",
+  "text": "Nice Warm Light. Stylish solar light that gives off nice warm light.  Good value.",
+  "asin": "B073SM9RC1",
+  "parent_asin": "B073SM9RC1",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1530029701706,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Patio Sense 62415 Wailea Garden Lantern, Multicolor",
+    "average_rating": 2.8,
+    "rating_number": 13,
+    "features": [
+      "Solar powered integrated LED panel",
+      "Perfect for patio, deck, solarium, or porch",
+      "Can be placed on Table or ground",
+      "Weather-resistant"
+    ],
+    "description": [
+      "The Wailea Garden Lantern in open-weave manmade rattan casts a gentle glow by night to brighten your outdoor space. Passively charging during the day via an integrated solar panel, the LED panel automatically illuminates after sunset for hours of enjoyment. Relax with the perfect mood lighting for casual outdoor entertaining."
+    ],
+    "price": null,
+    "store": "Patio Sense",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Candles & Holders",
+      "Candleholders",
+      "Decorative Candle Lanterns"
+    ],
+    "details": {
+      "Product Dimensions": "8 x 8 x 28 inches",
+      "Item Weight": "5 pounds",
+      "Manufacturer": "Patio Sense",
+      "Item model number": "62415",
+      "Is Discontinued By Manufacturer": "No",
+      "Light Source Type": "LED",
+      "Brand": "Patio Sense",
+      "Color": "Multicolor",
+      "Power Source": "Battery Powered",
+      "Material": "Rattan"
+    },
+    "parent_asin": "B073SM9RC1",
+    "bought_together": null
+  }
+}

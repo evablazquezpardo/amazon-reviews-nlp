@@ -1,0 +1,48 @@
+{
+  "id": "AEKB7DPBZAAB4GZFCWO24MFAVUZA_B07VPT43HT_1593067595033",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "A mi no me sirvió",
+  "text": "A mi no me sirvió. No me gusto mucho.",
+  "asin": "B07VPT43HT",
+  "parent_asin": "B07VPT43HT",
+  "user_id": "AEKB7DPBZAAB4GZFCWO24MFAVUZA",
+  "timestamp": 1593067595033,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Airmoon Space Saving Hangers, Clothes Grouper, Multifunctional Closet Organizer, Pack of 6 (Pink)…",
+    "average_rating": 3.5,
+    "rating_number": 77,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Airmoon",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Clothes Hangers",
+      "Standard Hangers"
+    ],
+    "details": {
+      "Package Dimensions": "13.4 x 4.6 x 2.8 inches",
+      "Item Weight": "1.17 pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2099974,
+        "Standard Hangers": 2349
+      },
+      "Number of pieces": "6",
+      "Batteries required": "No",
+      "Brand": "Airmoon",
+      "Material": "Plastic, Polypropylene (PP)",
+      "Special Feature": "Space Saving",
+      "Number of Pieces": "6",
+      "Number of Items": "6"
+    },
+    "parent_asin": "B07VPT43HT",
+    "bought_together": null
+  }
+}

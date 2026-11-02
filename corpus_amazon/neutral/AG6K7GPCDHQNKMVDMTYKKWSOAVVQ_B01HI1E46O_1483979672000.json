@@ -1,0 +1,40 @@
+{
+  "id": "AG6K7GPCDHQNKMVDMTYKKWSOAVVQ_B01HI1E46O_1483979672000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "run big",
+  "text": "run big. These sheets are nice. I just wish they fit better",
+  "asin": "B01HI1E46O",
+  "parent_asin": "B01HI1E46O",
+  "user_id": "AG6K7GPCDHQNKMVDMTYKKWSOAVVQ",
+  "timestamp": 1483979672000,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "HollyHOME 1500 Soft Hypoallergenic Brushed Microfiber Bed Sheet Set, 4 Pieces King Size Sheets, Grey",
+    "average_rating": 3.4,
+    "rating_number": 20,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "HollyHOME",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Package Dimensions": "12 x 9 x 3.8 inches",
+      "Item Weight": "3.34 pounds",
+      "Item model number": "HY-HHS04",
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "4",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B01HI1E46O",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "AGJSTXSEWFVQWVQINO6QKMNBUUNA_B07S2M4XT4_1665243780770",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Easy to clean!",
+  "text": "Easy to clean!. Works perfect in the fridge. Very sturdy, durable, easy to keep clean.",
+  "asin": "B07S3L7V98",
+  "parent_asin": "B07S2M4XT4",
+  "user_id": "AGJSTXSEWFVQWVQINO6QKMNBUUNA",
+  "timestamp": 1665243780770,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Handled Fridge Storage Bins, Set of 6",
+    "average_rating": 4.5,
+    "rating_number": 969,
+    "features": [
+      "6-pack of plastic bins for convenient, reliable storage or transportation of items",
+      "Front handle for easy removal from contained areas",
+      "Store goods, utensils, supplies, cleaning products, and more",
+      "Silicone insert, handle covering, and non-slip feet",
+      "Made of durable polypropylene plastic"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Handled Fridge Storage Bins, Set of 6",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": null,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "16.14 x 13.98 x 5.91 inches",
+      "Item Weight": "4.97 pounds",
+      "Manufacturer": "Amazon Basics",
+      "Item model number": "48397",
+      "Best Sellers Rank": {
+        "Our Brands": 10819,
+        "Food Container Sets": 5355
+      },
+      "Number of pieces": "6",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B07S2M4XT4",
+    "bought_together": null
+  }
+}

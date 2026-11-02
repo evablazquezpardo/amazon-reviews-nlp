@@ -1,0 +1,39 @@
+{
+  "id": "AELIV6UHVC6Z6VA4MIZ464WUHDPA_B07JHW6CJ1_1550152252337",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Cool",
+  "text": "Cool. All the same design, but they are nice corks.",
+  "asin": "B07JHW6CJ1",
+  "parent_asin": "B07JHW6CJ1",
+  "user_id": "AELIV6UHVC6Z6VA4MIZ464WUHDPA",
+  "timestamp": 1550152252337,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Tebery 9# Natural Wine Corks Premium Straight Cork 15/16\" x 1 3/4\" Bag of 100",
+    "average_rating": 4.1,
+    "rating_number": 69,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Tebery",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Home Brewing & Wine Making",
+      "Wine Making",
+      "Bottling & Corking"
+    ],
+    "details": {
+      "Package Dimensions": "9 x 7.8 x 3.2 inches",
+      "Item Weight": "1.15 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "November 15, 2018"
+    },
+    "parent_asin": "B07JHW6CJ1",
+    "bought_together": null
+  }
+}

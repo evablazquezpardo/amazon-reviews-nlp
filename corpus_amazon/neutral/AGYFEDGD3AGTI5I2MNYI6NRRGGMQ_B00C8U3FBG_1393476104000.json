@@ -1,0 +1,60 @@
+{
+  "id": "AGYFEDGD3AGTI5I2MNYI6NRRGGMQ_B00C8U3FBG_1393476104000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Bread Loaf Bags",
+  "text": "Bread Loaf Bags. They don't work as expected...  have lost a lot of loaves due to molding...  got something different and have lost a lot less...",
+  "asin": "B00C8U3FBG",
+  "parent_asin": "B00C8U3FBG",
+  "user_id": "AGYFEDGD3AGTI5I2MNYI6NRRGGMQ",
+  "timestamp": 1393476104000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Linear LD 100 Piece Bread Loaf Bags with Free Bread Ties",
+    "average_rating": 4.3,
+    "rating_number": 1733,
+    "features": [
+      "Meets fda requirements for use in food applications",
+      "Includes bread twist ties",
+      "Made from seamless tubing (ldpe)",
+      "15 inch clear bags (size: 6x3x15 inches)",
+      "100 prepackaged bags"
+    ],
+    "description": [
+      "Perfect for freshly baked bread!"
+    ],
+    "price": 6.29,
+    "store": "ChefLand",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Bread Boxes"
+    ],
+    "details": {
+      "Product Dimensions": "15\"W x 6\"H",
+      "Item Weight": "0.5 Pounds",
+      "Manufacturer": "oils2health",
+      "Item model number": "CV-100",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 54955,
+        "Bread Boxes": 145
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 7, 2013",
+      "Brand": "Linear LD",
+      "Material": "Polyethylene (PE)",
+      "Closure Type": "Twist Tie",
+      "Number of Items": "100",
+      "Shape": "Rectangular",
+      "Color": "Bread Ties",
+      "Number of Pieces": "100"
+    },
+    "parent_asin": "B00C8U3FBG",
+    "bought_together": null
+  }
+}

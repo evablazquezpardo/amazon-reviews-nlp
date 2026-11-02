@@ -1,0 +1,57 @@
+{
+  "id": "AG2UEDPK43QC5AU6HZTCBANPW2FQ_B00MBCLA2C_1474527405000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Cheap",
+  "text": "Cheap. Only a 30 second timer. Makes the exact same design everytime",
+  "asin": "B00MBCLA2C",
+  "parent_asin": "B00MBCLA2C",
+  "user_id": "AG2UEDPK43QC5AU6HZTCBANPW2FQ",
+  "timestamp": 1474527405000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Westminster WTM2363 Magnetic Sand Timer, One Size, Clear",
+    "average_rating": 4.2,
+    "rating_number": 1472,
+    "features": [
+      "Create unique sculptures using this magnetic hour glass.",
+      "Place it onto the copper coloured base stand and watch the iron filings fall from one end of the hour glass to the other.",
+      "The base contains a magnet so that as the filings drop they become magnetised",
+      "Addictive and a must for that crowded executive desk.",
+      "Each hour glass is securely packaged"
+    ],
+    "description": [
+      "Create Timeless Works of Art with Our Magnetic Sand Timer Create awesome magnetic sculptures with this hourglass-shaped desk ornament filled with magnetic filings. At approximately 5\" tall, it doesn't function as an accurate egg-timer, but it will never fail to entertain you as each time you flip it a new unique design will be created before your very eyes. For ages 14+."
+    ],
+    "price": 10.04,
+    "store": "Westminster",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Thermometers & Timers",
+      "Timers"
+    ],
+    "details": {
+      "Product Dimensions": "3.25 x 3.25 x 5.5 inches",
+      "Item Weight": "2.11 ounces",
+      "Manufacturer": "FT",
+      "Country of Origin": "USA",
+      "Item model number": "WTM2363",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 48303,
+        "Timers": 266
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Volume": "6.04 Fluid Ounces",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00MBCLA2C",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "AFVKZUOI6QJULLX6C4WI3LNAMNVQ_B000U69B1S_1531573536307",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Okay product",
+  "text": "Okay product. Doesn’t hold up well! The middle piece came off almost instantly",
+  "asin": "B000U69B1S",
+  "parent_asin": "B000U69B1S",
+  "user_id": "AFVKZUOI6QJULLX6C4WI3LNAMNVQ",
+  "timestamp": 1531573536307,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mastrad 12-Inch Stainless and Silicone Tongs, Blue",
+    "average_rating": 3.7,
+    "rating_number": 76,
+    "features": [
+      "Multi-purpose tongs are great for delicately and safely turning food",
+      "Silicone ends won't scratch pans",
+      "Silicone grips provide safety and comfort"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Mastrad",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cooking Utensils",
+      "Tongs"
+    ],
+    "details": {
+      "Material": "Silicone",
+      "Color": "Blue",
+      "Brand": "Mastrad",
+      "Style": "Serving Tongs",
+      "Item Dimensions LxWxH": "1.5 x 1.25 x 12 inches"
+    },
+    "parent_asin": "B000U69B1S",
+    "bought_together": null
+  }
+}

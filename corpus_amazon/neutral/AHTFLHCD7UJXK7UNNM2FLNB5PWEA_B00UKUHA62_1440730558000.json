@@ -1,0 +1,45 @@
+{
+  "id": "AHTFLHCD7UJXK7UNNM2FLNB5PWEA_B00UKUHA62_1440730558000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. good experience",
+  "asin": "B00UKUHA62",
+  "parent_asin": "B00UKUHA62",
+  "user_id": "AHTFLHCD7UJXK7UNNM2FLNB5PWEA",
+  "timestamp": 1440730558000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Single Fitted Sheet, Premium 1800 Series, Velvety Brushed Microfiber",
+    "average_rating": 4.1,
+    "rating_number": 6,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "CC&DD HOME FASHION",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Package Dimensions": "11.5 x 7.7 x 2.4 inches",
+      "Item Weight": "1.35 pounds",
+      "Item model number": "SFS-CH55-Q",
+      "Is Discontinued By Manufacturer": "No",
+      "Care instructions": "Machine Wash",
+      "Batteries required": "No",
+      "Included Components": "Fitted Sheet",
+      "Pattern": "Solid",
+      "Brand": "CC&DD HOME FASHION",
+      "Thread Count": "1800",
+      "Product Care Instructions": "Machine Wash"
+    },
+    "parent_asin": "B00UKUHA62",
+    "bought_together": null
+  }
+}

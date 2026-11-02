@@ -1,0 +1,50 @@
+{
+  "id": "AEI4YPQZG6TZOWHDFP7I22S4MQZQ_B096K2VHJ3_1665620933615",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Cute shoe, size down",
+  "text": "Cute shoe, size down. Shoes are off by a size, way too big.",
+  "asin": "B096K2VHJ3",
+  "parent_asin": "B096K2VHJ3",
+  "user_id": "AEI4YPQZG6TZOWHDFP7I22S4MQZQ",
+  "timestamp": 1665620933615,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Dirty Laundry by Chinese Laundry Women's NOYZ Oxford, Natural, 8",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+      "Made in the USA or Imported",
+      "Rubber sole",
+      "Heel measures approximately 6.5 centimeters",
+      "Lug Sole",
+      "Chunky Heel",
+      "Lace Up",
+      "Croco Embossed"
+    ],
+    "description": [
+      "Casual meets edgy with the NOYZ from Dirty Laundry. This style features a lug sole, lace up upper and squared off toe."
+    ],
+    "price": 64.43,
+    "store": "Dirty Laundry",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Laundry Bags"
+    ],
+    "details": {
+      "Package Dimensions": "12.6 x 8.82 x 4.49 inches; 2.91 Pounds",
+      "Item model number": "NOYZ GATOR",
+      "Department": "womens",
+      "Date First Available": "June 3, 2021",
+      "Manufacturer": "Dirty Laundry by Chinese Laundry",
+      "Country of Origin": "China"
+    },
+    "parent_asin": "B096K2VHJ3",
+    "bought_together": null
+  }
+}

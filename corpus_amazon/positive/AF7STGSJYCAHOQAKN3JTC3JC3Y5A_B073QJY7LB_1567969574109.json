@@ -1,0 +1,65 @@
+{
+  "id": "AF7STGSJYCAHOQAKN3JTC3JC3Y5A_B073QJY7LB_1567969574109",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love the look",
+  "text": "Love the look. Love the look just wish he came with a plastic liner that you could remove to dump.",
+  "asin": "B073QJY7LB",
+  "parent_asin": "B073QJY7LB",
+  "user_id": "AF7STGSJYCAHOQAKN3JTC3JC3Y5A",
+  "timestamp": 1567969574109,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Whitmor Waste Basket with Wood Handles",
+    "average_rating": 4.7,
+    "rating_number": 1083,
+    "features": [
+      "Whitmor's Storage / Waste Basket has wood handles for easy transport",
+      "Whitmor's baskets wipe clean with a damp cloth",
+      "Space-efficient design makes for a great waste or storage solution for every home",
+      "Attractive woven wastebasket gives a decorative, sophisticated look to your home",
+      "Durable and long-lasting finish",
+      "Sturdy frame protects basket's shape",
+      "Dimensions: 12.5 inches x 8.0 inches x 11.81 inches",
+      "Service & Guarantee: Whitmor stands by our products. If you have any problems, contact us for help"
+    ],
+    "description": [],
+    "price": 16.5,
+    "store": "Whitmor",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Trash, Recycling & Compost",
+      "Wastebaskets"
+    ],
+    "details": {
+      "Brand": "Whitmor",
+      "Capacity": "12 Liters",
+      "Color": "Brown",
+      "Opening Mechanism": "Open-Top",
+      "Material": "PE / Steel / Wood",
+      "Recommended Uses For Product": "Home",
+      "Shape": "Rectangular",
+      "Finish Type": "Unfinished",
+      "Item Weight": "1.4 Pounds",
+      "Product Dimensions": "12.5\"L x 11.81\"W x 8\"H",
+      "Manufacturer": "Whitmor",
+      "Country of Origin": "China",
+      "Item model number": "6316-8003",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 51659,
+        "Wastebaskets": 74
+      },
+      "Finish types": "Unfinished",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Included Components": "waste basket"
+    },
+    "parent_asin": "B073QJY7LB",
+    "bought_together": null
+  }
+}

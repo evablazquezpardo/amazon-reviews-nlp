@@ -1,0 +1,68 @@
+{
+  "id": "AFEDZ3V72UXPLF5SSZQAOSMHZQIA_B0000DHYZN_1416860483000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not good.",
+  "text": "Not good.. The pattern was off center",
+  "asin": "B0000DHYZN",
+  "parent_asin": "B0000DHYZN",
+  "user_id": "AFEDZ3V72UXPLF5SSZQAOSMHZQIA",
+  "timestamp": 1416860483000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lenox Holiday Nouveau Tablecloth, 70-Inch Round, Ivory",
+    "average_rating": 4.7,
+    "rating_number": 228,
+    "features": [
+      "Elegant and colorful Holiday Nouveau linens from Lenox",
+      "58 percent cotton and 42 percent polyester ivory jacquard damask",
+      "Pattern features lively holly leaves, flowing tartan bands, and gold ribbon",
+      "Collection includes tablecloths, runners, placemats, and napkins",
+      "Machine washable in cold water with like colors"
+    ],
+    "description": [
+      "Product description",
+      "Classic Lenox Holiday Nouveau pattern. 70\" Round machine care.",
+      "Amazon.com",
+      "The combination of jacquard damask fabric and classically colored accents make the Lenox Holiday Nouveau linen line a sophisticated way to dress the table for holiday festivities. Fashioned from a cotton-polyester blend, the line has a subtle sheen to its background, which features an ivory field set with tone-on-tone holly leaf patterns. Flowing tartan bands, strands of gold ribbon, and clusters of bright green holly with red berries add merriment and color to the look. The line is a beautiful accent to plain or gold-banded china and goes well with several of Lenox's holiday dinnerware patterns. Available in placemats, napkins, runners, and tablecloths of numerous shapes and sizes, Holiday Nouveau linens are machine-washable and safe in the dryer.",
+      "--Emily Bedard"
+    ],
+    "price": 49.99,
+    "store": "Lenox",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Tablecloths"
+    ],
+    "details": {
+      "Brand": "Lenox",
+      "Color": "Holiday Nouveau",
+      "Material": "Polyester",
+      "Product Dimensions": "14.2\"L x 12.4\"W",
+      "Shape": "Round",
+      "Pattern": "Plaid",
+      "Size": "70 Round",
+      "Number of Sets": "1",
+      "Product Care Instructions": "Machine Wash",
+      "Unit Count": "1 Count",
+      "Fabric Type": "Cotton54% / Polyester46%",
+      "Corner Style": "Rounded",
+      "Number of Items": "1",
+      "Item Weight": "1 pounds",
+      "Item model number": "47596044636",
+      "Is Discontinued By Manufacturer": "No",
+      "Weight": "1.5 Pounds",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 338737,
+        "Tablecloths": 7193
+      },
+      "Date First Available": "September 1, 2004"
+    },
+    "parent_asin": "B0000DHYZN",
+    "bought_together": null
+  }
+}

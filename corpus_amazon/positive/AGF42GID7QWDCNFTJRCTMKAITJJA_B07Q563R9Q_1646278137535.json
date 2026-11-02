@@ -1,0 +1,57 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B07Q563R9Q_1646278137535",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great Kitchen Gadget",
+  "text": "Great Kitchen Gadget. Does what it is supposed to do and the fact that it clips on the side it great",
+  "asin": "B001FB6IFY",
+  "parent_asin": "B07Q563R9Q",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1646278137535,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Polder THM-515 Candy/Jelly/Deep Fry Thermometer, Stainless Steel (Silver- Set of 2)",
+    "average_rating": 4.6,
+    "rating_number": 17670,
+    "features": [
+      "Easy-to-read large temperature zones printed on unit – 6 zones include Deep Fry, Thread, Soft Ball, Hard Ball, Soft Crack & Hard Crack stages",
+      "Rust-proof stainless steel solid construction, pot clip attachment holds thermometer in place, insulated handled does not retain heat",
+      "Temperature ranges in Celsius and Fahrenheit – 90°F to 400°F (30°C to 200°C)",
+      "Dishwasher safe, Great for candy making, melting chocolate, yogurts, creams sauces, jams, and more. Measures 14\" x 4\" x 1\".",
+      "For over 41 years, Polder believes in customer satisfaction and guarantees all of our products. If you are not satisfied, please contact our customer service for a replacement or refund"
+    ],
+    "description": [
+      "Polder has been offering everyday products with extraordinary design since its launch. The company was established in 1976, delivering better quality European-styled housewares to the U.S. market. Throughout the years, Polder has built an eclectic collection of core home categories, including kitchen timers and thermometers, laundry and ironing products, kitchen scales, and a variety of other storage solutions. Polder products are tested and certified for their consistent high quality by independent standards labs. This thermometer is a perfect example of the high standard product."
+    ],
+    "price": 17.49,
+    "store": "Polder",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Thermometers & Timers",
+      "Candy"
+    ],
+    "details": {
+      "Brand": "Polder",
+      "Color": "Silver- Set of 2",
+      "Age Range (Description)": "Adult",
+      "Outer Material": "Stainless Steel",
+      "Product Care Instructions": "Hand Wash Only",
+      "Unit Count": "1 Count",
+      "Item Length": "14 Inches",
+      "Upper Temperature Rating": "400 Degrees Fahrenheit",
+      "Reusability": "Reusable",
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "6.8 x 4.8 x 15.2 inches; 12.63 Ounces",
+      "Item model number": "SYNCHKG106796",
+      "Date First Available": "August 9, 2016",
+      "Manufacturer": "Polder"
+    },
+    "parent_asin": "B07Q563R9Q",
+    "bought_together": null
+  }
+}

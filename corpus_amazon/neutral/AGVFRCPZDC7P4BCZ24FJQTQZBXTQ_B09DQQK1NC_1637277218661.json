@@ -1,0 +1,60 @@
+{
+  "id": "AGVFRCPZDC7P4BCZ24FJQTQZBXTQ_B09DQQK1NC_1637277218661",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "kinda flimsy,  but OK",
+  "text": "kinda flimsy,  but OK. kinda flimsy,  but OK",
+  "asin": "B00RLDI5YW",
+  "parent_asin": "B09DQQK1NC",
+  "user_id": "AGVFRCPZDC7P4BCZ24FJQTQZBXTQ",
+  "timestamp": 1637277218661,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Chef Craft Easy to Read Plastic Measuring Cup Set, 10 Piece, orange",
+    "average_rating": 4.6,
+    "rating_number": 16007,
+    "features": [
+      "Includes 1/8 tsp, 1/4 tsp, 1/2 tsp, 1 tsp, 1/2 tbsp, 1 tbsp, 1/4 cup, 1/3 cup, 1/2 cup and 1 cup sizes",
+      "Made of durable plastic",
+      "Double molded plastic provides durability to the measurements",
+      "Lightweight design",
+      "Dishwasher safe",
+      "10-Piece Set",
+      "Double molded with colors for contrast and durability",
+      "Made of Durable Plastic",
+      "Lightweight Construction",
+      "Dishwasher safe"
+    ],
+    "description": [
+      "This set of Chef Craft Measuring Cups and Spoons is not only bright, but also affordable. They are made out of a durable plastic, making them lightweight and dishwasher safe. No more estimating guessing when it comes to baking, let the Chef Craft measuring cups and spoons help you in the kitchen giving you an accurate and precise measurement on all of your baking and cooking needs."
+    ],
+    "price": null,
+    "store": "Chef Craft",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Measuring Tools & Scales",
+      "Spoons"
+    ],
+    "details": {
+      "Item Weight": "4.48 Ounces",
+      "Manufacturer": "Chef Craft Corporation",
+      "Item model number": "42020",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 4219,
+        "Measuring Spoons": 14
+      },
+      "Date First Available": "December 29, 2014",
+      "Color": "Orange",
+      "Material": "Plastic",
+      "Brand": "Chef Craft",
+      "Number of Pieces": "1"
+    },
+    "parent_asin": "B09DQQK1NC",
+    "bought_together": null
+  }
+}

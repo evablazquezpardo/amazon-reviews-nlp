@@ -1,0 +1,74 @@
+{
+  "id": "AFA26DYXVLJYTYZ3KET77GE27N2A_B0C4B7GVGT_1511343671294",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not as fluffy as I expected",
+  "text": "Not as fluffy as I expected. They are a lot thinner than I expected them to be otherwise okay.",
+  "asin": "B00Q7JFDKK",
+  "parent_asin": "B0C4B7GVGT",
+  "user_id": "AFA26DYXVLJYTYZ3KET77GE27N2A",
+  "timestamp": 1511343671294,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics 6-Piece Fade Resistant Bath, Hand and Washcloth Towel Set - Cotton, Navy Blue",
+    "average_rating": 4.5,
+    "rating_number": 80776,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "6-piece towel set includes (2) 54 x 30-inch bath towels, (2) 26 x 16-inch hand towels, and (2) 12 x 12-inch washcloths",
+      "Made of soft, durable, absorbent cotton for lasting quality and comfort",
+      "Designed with a classic and simple pique border",
+      "Fade-resistant navy-blue color",
+      "Made in OEKO-TEX Standard 100 factory, an independent certification system that ensures textiles meet high safety and environmental standards."
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Fade-Resistant Towel Set, 6-Piece, Navy Blue",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 19.63,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Towel Sets"
+    ],
+    "details": {
+      "Color": "Navy Blue",
+      "Brand": "Amazon Basics",
+      "Towel form type": "Bath Towel",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Product Dimensions": "14.25 x 10.85 x 0.2 inches",
+      "Number of Items": "6",
+      "Style": "6-Piece Set",
+      "Pattern": "Solid",
+      "Special Feature": "Tear Resistant",
+      "Theme": "No Theme",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "Assorted 6 Piece Set",
+      "Unit Count": "1.0 Count",
+      "Fabric Type": "100% Cotton",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "3.1 pounds",
+      "Manufacturer": "Amazon Basics",
+      "Country of Origin": "India",
+      "Item model number": "ABFR- 6 Pc Set",
+      "Best Sellers Rank": {
+        "Our Brands": 367,
+        "Bath Towel Sets": 6
+      },
+      "Number of pieces": "6",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B0C4B7GVGT",
+    "bought_together": null
+  }
+}

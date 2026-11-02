@@ -1,0 +1,39 @@
+{
+  "id": "AEDTQ5BNJM7GIYAO7C7QPTXSEZKA_B07GVB3MR1_1548525448212",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Wrong item is being reviewed here",
+  "text": "Wrong item is being reviewed here. These are all reviews for magnets not for soil meters.",
+  "asin": "B07GVB3MR1",
+  "parent_asin": "B07GVB3MR1",
+  "user_id": "AEDTQ5BNJM7GIYAO7C7QPTXSEZKA",
+  "timestamp": 1548525448212,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "[2018 Upgraded] Soil Moisture Meter - 3 in 1 Soil Test Kit Gardening Tools PH, Light & Moisture, Plant Tester Home, Farm, Lawn, Indoor & Outdoor (No Battery Needed)",
+    "average_rating": 3.1,
+    "rating_number": 9,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Fomei",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Fruit & Vegetable Tools",
+      "Corers & Pitters"
+    ],
+    "details": {
+      "Package Dimensions": "12.87 x 3.86 x 2.01 inches",
+      "Item Weight": "3.03 ounces",
+      "Manufacturer": "Fomei",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B07GVB3MR1",
+    "bought_together": null
+  }
+}

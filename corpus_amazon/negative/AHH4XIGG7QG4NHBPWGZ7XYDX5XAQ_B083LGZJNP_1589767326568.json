@@ -1,0 +1,42 @@
+{
+  "id": "AHH4XIGG7QG4NHBPWGZ7XYDX5XAQ_B083LGZJNP_1589767326568",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Great item when it worked.",
+  "text": "Great item when it worked.. Item worked great for about one month, but then stopped.....",
+  "asin": "B083LGZJNP",
+  "parent_asin": "B083LGZJNP",
+  "user_id": "AHH4XIGG7QG4NHBPWGZ7XYDX5XAQ",
+  "timestamp": 1589767326568,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Automatic Soap Dispenser, Stainless Steel Touchless Auto Hand Soap Dispenser with Waterproof Base, Newest Infrared Motion Sensor Adjustable Switches, Suitable for Bathroom Kitchen【 Upgraded Version】",
+    "average_rating": 3.2,
+    "rating_number": 328,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Letsmeet",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Holders & Dispensers",
+      "Dispensers",
+      "Countertop Soap Dispensers"
+    ],
+    "details": {
+      "Package Dimensions": "7.87 x 3.9 x 3.5 inches",
+      "Item Weight": "13.1 ounces",
+      "Date First Available": "January 14, 2020",
+      "Material": "Stainless Steel",
+      "Brand": "Letsmeet",
+      "Number of Sets": "1"
+    },
+    "parent_asin": "B083LGZJNP",
+    "bought_together": null
+  }
+}

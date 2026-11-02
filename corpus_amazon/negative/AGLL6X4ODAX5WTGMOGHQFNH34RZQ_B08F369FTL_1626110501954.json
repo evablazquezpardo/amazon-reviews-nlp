@@ -1,0 +1,47 @@
+{
+  "id": "AGLL6X4ODAX5WTGMOGHQFNH34RZQ_B08F369FTL_1626110501954",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Junk",
+  "text": "Junk. This didn't work",
+  "asin": "B08F369FTL",
+  "parent_asin": "B08F369FTL",
+  "user_id": "AGLL6X4ODAX5WTGMOGHQFNH34RZQ",
+  "timestamp": 1626110501954,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Aveloki Manual Can Opener With Soft Grips Handle Handheld Smooth Edge Can Opener Food Grade Stainless Steel Cutting Can Opener For Seniors And Arthritis",
+    "average_rating": 4.4,
+    "rating_number": 245,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Aveloki",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Can Openers",
+      "Manual"
+    ],
+    "details": {
+      "Package Dimensions": "9 x 2.5 x 1.8 inches",
+      "Item Weight": "8.3 ounces",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 368647,
+        "Manual Can Openers": 682
+      },
+      "Date First Available": "August 15, 2020",
+      "Material": "Stainless Steel",
+      "Brand": "Aveloki",
+      "Size": "Small",
+      "Blade Material": "Stainless Steel",
+      "Operation Mode": "Manual"
+    },
+    "parent_asin": "B08F369FTL",
+    "bought_together": null
+  }
+}

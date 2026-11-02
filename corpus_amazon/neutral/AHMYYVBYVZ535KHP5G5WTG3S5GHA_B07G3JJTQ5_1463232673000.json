@@ -1,0 +1,57 @@
+{
+  "id": "AHMYYVBYVZ535KHP5G5WTG3S5GHA_B07G3JJTQ5_1463232673000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Much too small for what I was wanting.",
+  "asin": "B0000V09DC",
+  "parent_asin": "B07G3JJTQ5",
+  "user_id": "AHMYYVBYVZ535KHP5G5WTG3S5GHA",
+  "timestamp": 1463232673000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Umbra Mini Waste Can, 1-1/2 Gallon with Swing Lid (Gloss Black)",
+    "average_rating": 4.2,
+    "rating_number": 1940,
+    "features": [
+      "Compact, contemporary swing-top waste can designed for small spaces and under-cabinet use",
+      "Constructed of recycled polypropylene with a high-gloss finish",
+      "Removable, swing-top lid for easy use Size: 7-1/2-inch diameter by 12-1/2-inch high; 1-1/2 gallon (5 L) capacity",
+      "Design: Umbra Design Group"
+    ],
+    "description": [
+      "Designed to fit under a cabinet but attractive enough to sit in plain view, the Mini swing-top waste can from Umbra features a removable, swinging lid, durable recycled-polypropylene construction, and a sleek, high-gloss finish. Can measures 7-1/2-inch in diameter by 12-1/2-inch tall with a 1-1/2-gallon (5 L) capacity. Designed by Umbra Design Group- original, modern, casual, functional and affordable design for the home."
+    ],
+    "price": 25.38,
+    "store": "Umbra",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Trash, Recycling & Compost"
+    ],
+    "details": {
+      "Brand": "Umbra",
+      "Capacity": "1.5 Gallons",
+      "Color": "Gloss Black",
+      "Opening Mechanism": "Swing-Lid",
+      "Material": "Polypropylene",
+      "Finish Type": "Highgloss",
+      "Product Dimensions": "7.5\"L x 7.5\"W x 12.5\"H",
+      "Package Dimensions": "10.94 x 8.35 x 7.52 inches",
+      "Item Weight": "13.7 ounces",
+      "Manufacturer": "Umbra",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 228242,
+        "Wastebaskets": 268
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Finish types": "Highgloss",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07G3JJTQ5",
+    "bought_together": null
+  }
+}

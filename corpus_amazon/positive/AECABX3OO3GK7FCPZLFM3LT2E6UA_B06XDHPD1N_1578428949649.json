@@ -1,0 +1,57 @@
+{
+  "id": "AECABX3OO3GK7FCPZLFM3LT2E6UA_B06XDHPD1N_1578428949649",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Beautiful",
+  "text": "Beautiful. It’s absolutely beautiful!!",
+  "asin": "B06XDHPD1N",
+  "parent_asin": "B06XDHPD1N",
+  "user_id": "AECABX3OO3GK7FCPZLFM3LT2E6UA",
+  "timestamp": 1578428949649,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Country House Collection Red Farmhouse Berry Border 13 x 36 Cotton Embroidered Applique Table Runner",
+    "average_rating": 4.8,
+    "rating_number": 518,
+    "features": [
+      "Made of 100% jute and cotton material",
+      "Table runner measures approximately 13 x 36 inches",
+      "Rich texture and layers of workmanship gives this home accent rustic charm",
+      "Designed with applique and beautiful embroidery",
+      "Spot wash. Do not use bleach"
+    ],
+    "description": [
+      "The Country House Collection offers high quality burlap and wood inspirational home decorations. Each uniquely designed decoration brings joy and peace to your home. They make a heartfelt gift for the special people in your life."
+    ],
+    "price": 13.97,
+    "store": "The Country House Collection",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Table Runners"
+    ],
+    "details": {
+      "Product Dimensions": "1 x 36 x 13 inches",
+      "Item Weight": "5.6 ounces",
+      "Manufacturer": "The Country House Collection",
+      "Item model number": "0",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 154389,
+        "Table Runners": 2417
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Color": "Red Farmhouse Berry",
+      "Material": "Fabric",
+      "Size": "13x36",
+      "Brand": "The Country House Collection",
+      "Pattern": "Floral"
+    },
+    "parent_asin": "B06XDHPD1N",
+    "bought_together": null
+  }
+}

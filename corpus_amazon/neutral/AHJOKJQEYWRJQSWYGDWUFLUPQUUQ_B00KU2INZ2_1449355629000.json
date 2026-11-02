@@ -1,0 +1,59 @@
+{
+  "id": "AHJOKJQEYWRJQSWYGDWUFLUPQUUQ_B00KU2INZ2_1449355629000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Too Short",
+  "text": "Too Short. This thing is not long enough.  I kept it, but not really what I wanted.  I got a different one.",
+  "asin": "B0000CEOXO",
+  "parent_asin": "B00KU2INZ2",
+  "user_id": "AHJOKJQEYWRJQSWYGDWUFLUPQUUQ",
+  "timestamp": 1449355629000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Fiesta 8-Inch Spoon Rest, Ivory",
+    "average_rating": 4.7,
+    "rating_number": 514,
+    "features": [
+      "Made in the USA",
+      "Vitrified Ceramic body",
+      "Lead-Free glaze",
+      "Dishwasher, Microwave and Oven safe",
+      "5-year chip resistance warranty"
+    ],
+    "description": [
+      "Fiesta 8-Inch Spoon Rest manufactured by The Homer Laughlin China Company. America's largest domestic producer of dinnerware, and the sole manufacturer of all Fiesta dinnerware. All Fiesta pieces are Microwave safe, Oven-proof, Dishwasher safe, Freezerproof, Lead-Free, and Made in America with the implementation of many green practices. The very durable glaze is great for everyday use. Fiesta as a pattern has stood the test of time, and is typically passed down from one generation to the next. We have kept the pattern constant through the years so that you can count on us to be here when you decide to expand or change your collection. New pieces and colors are added every so often to keep things interesting. Currently, Fiesta is the most collected dinnerware in America."
+    ],
+    "price": null,
+    "store": "Homer Laughlin",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Chopstick & Cutlery Rests",
+      "Spoon Rests"
+    ],
+    "details": {
+      "Product Dimensions": "8.5 x 3.5 x 1 inches",
+      "Item Weight": "6.4 ounces",
+      "Manufacturer": "Homer Laughlin",
+      "Item model number": "439-330",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 110311,
+        "Spoon Rests": 329
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 3, 2006",
+      "Material": "Ceramic",
+      "Color": "Ivory",
+      "Brand": "Homer Laughlin",
+      "Item Dimensions LxWxH": "8.5 x 3.5 x 1 inches",
+      "Pattern": "Solid"
+    },
+    "parent_asin": "B00KU2INZ2",
+    "bought_together": null
+  }
+}

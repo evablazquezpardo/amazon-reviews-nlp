@@ -1,0 +1,54 @@
+{
+  "id": "AHRQPBQJJ2PJET5WBJIKNLAFHHSA_B0127D6B7I_1485418702000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Very small and difficult to secure",
+  "asin": "B000PBZHOS",
+  "parent_asin": "B0127D6B7I",
+  "user_id": "AHRQPBQJJ2PJET5WBJIKNLAFHHSA",
+  "timestamp": 1485418702000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Wilton Icing Bag Ties, 12-Count - Rubber Icing Bag Ties",
+    "average_rating": 4.7,
+    "rating_number": 4776,
+    "features": [
+      "Product is unique and carries its own natural characteristics",
+      "High quality product",
+      "Manufactured in United States"
+    ],
+    "description": [
+      "Each Product is unique and carries its own natural characteristics as this is a natural Product. High quality Product."
+    ],
+    "price": null,
+    "store": "Wilton",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Decorating Tools",
+      "Decorating & Pastry Bags"
+    ],
+    "details": {
+      "Product Dimensions": "1.25 x 1 x 0.25 inches",
+      "Item Weight": "0.634 ounces",
+      "Manufacturer": "Wilton",
+      "Item model number": "417-173",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 84381,
+        "Dessert & Candy Decorating & Pastry Bags": 288
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "12",
+      "Batteries required": "No",
+      "Import": "Made in USA"
+    },
+    "parent_asin": "B0127D6B7I",
+    "bought_together": null
+  }
+}

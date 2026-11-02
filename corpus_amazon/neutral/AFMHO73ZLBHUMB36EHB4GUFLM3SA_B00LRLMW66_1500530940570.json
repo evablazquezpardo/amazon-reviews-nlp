@@ -1,0 +1,66 @@
+{
+  "id": "AFMHO73ZLBHUMB36EHB4GUFLM3SA_B00LRLMW66_1500530940570",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "It's very nice quality but wrong color",
+  "text": "It's very nice quality but wrong color. BLue is in the description. It is green. It's very nice quality but wrong color.",
+  "asin": "B00KMXNXCW",
+  "parent_asin": "B00LRLMW66",
+  "user_id": "AFMHO73ZLBHUMB36EHB4GUFLM3SA",
+  "timestamp": 1500530940570,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "STAINMASTER TruSoft Luxurious Bath Rug, 17-By-24 Inch Sugar Plum",
+    "average_rating": 4.3,
+    "rating_number": 1066,
+    "features": [
+      "100% Nylon",
+      "Made in US",
+      "Soft to touch, constructed to absorb water and dry quickly.This toilet seat cover is for standard (round) toilet seats and the customer may not understand the difference",
+      "Rubber backing helps prevent the rug from sliding",
+      "Absorbs water and dries quickly",
+      "Luxuriously plush",
+      "Machine wash cold, gentle cycle, separately; use only non-chlorine bleach as needed; tumble dry low"
+    ],
+    "description": [
+      "Step up to the luxurious softness of TruSoft rugs from the makers of STAINMASTER. Designed with STAINMASTER fiber technology, these bath rugs absorb water and dry quickly, are easy to clean, and have a rubber backing to help prevent the rug from sliding. Also, wash after wash, the color resists fading. Choose from a selection of 8 different colors in bath mats sized 17-inches by 24-inches, 21-inches by 36-inches and 24-inches by 40-inches, contour rugs and standard toilet lids, with each rug made in the USA from 100% nylon pile. Compare our rugs to other bath rugs and feel just how unbelievably soft and plush we are."
+    ],
+    "price": null,
+    "store": "Stainmaster",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bath Rugs"
+    ],
+    "details": {
+      "Color": "Sugar Plum",
+      "Pattern": "Solid",
+      "Shape": "Rectangular",
+      "Material": "Nylon",
+      "Room Type": "Bathroom",
+      "Pile Height": "Low Pile",
+      "Product Dimensions": "24 x 17 x 1.09 inches",
+      "Rug Form Type": "Bath Mat",
+      "Style": "Contemporary",
+      "Brand": "Stainmaster",
+      "Size": "17-Inch By 24-Inch",
+      "Construction Type": "Handmade",
+      "Care instructions": "Machine Wash",
+      "Back Material Type": "Rubber",
+      "Number of pieces": "1",
+      "Item Weight": "1.45 pounds",
+      "Manufacturer": "STAINMASTER",
+      "Item model number": "11019",
+      "Fabric Type": "100% Nylon",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Included Components": "Bath Rug",
+      "Import": "Made in US"
+    },
+    "parent_asin": "B00LRLMW66",
+    "bought_together": null
+  }
+}

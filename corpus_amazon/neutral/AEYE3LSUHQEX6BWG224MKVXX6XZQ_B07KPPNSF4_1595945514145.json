@@ -1,0 +1,45 @@
+{
+  "id": "AEYE3LSUHQEX6BWG224MKVXX6XZQ_B07KPPNSF4_1595945514145",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok",
+  "text": "Ok. It didn't put out as much warm air as we needed. And it's noisy - replaced it with a smaller less expensive heater.",
+  "asin": "B07KPPNSF4",
+  "parent_asin": "B07KPPNSF4",
+  "user_id": "AEYE3LSUHQEX6BWG224MKVXX6XZQ",
+  "timestamp": 1595945514145,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Edenpure Efficient Home 1500W Classic Infrared Heater with Remote Control, Black",
+    "average_rating": 4.3,
+    "rating_number": 104,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "EdenPURE",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Space Heaters",
+      "Electric Space Heaters"
+    ],
+    "details": {
+      "Brand": "Edenpure",
+      "Special Feature": "Remote Control",
+      "Form Factor": "Cabinet",
+      "Heating Method": "Radiant, Convection",
+      "Recommended Uses For Product": "Home",
+      "Mounting Type": "Floor Mount",
+      "Room Type": "Living Room",
+      "Burner type": "Radiant",
+      "Heat Output": "1500 Watts",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 6, 2018"
+    },
+    "parent_asin": "B07KPPNSF4",
+    "bought_together": null
+  }
+}

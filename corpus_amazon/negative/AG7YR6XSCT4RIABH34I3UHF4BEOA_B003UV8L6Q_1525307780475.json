@@ -1,0 +1,63 @@
+{
+  "id": "AG7YR6XSCT4RIABH34I3UHF4BEOA_B003UV8L6Q_1525307780475",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Was broken all to pieces. Did not reorder",
+  "asin": "B003UV8L6Q",
+  "parent_asin": "B003UV8L6Q",
+  "user_id": "AG7YR6XSCT4RIABH34I3UHF4BEOA",
+  "timestamp": 1525307780475,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Hamilton Beach Portable 5-Quart Digital Programmable Slow Cooker with Lid Lock, Silver (33957)",
+    "average_rating": 4.6,
+    "rating_number": 627,
+    "features": [
+      "Clip-tight sealed lid for spill resistance",
+      "Use the clips on either side to seal the lid securely for travel",
+      "Dishwasher safe stoneware & lid",
+      "Full-grip handles make carrying heavy meals easier",
+      "2 choices for easy, automatic cooking"
+    ],
+    "description": [
+      "Hamilton Beach's 5 Qt Portable Slow Cooker offers convenience and ease for your next party. The oval shape is perfect for a 5lb chicken or 3lb roast."
+    ],
+    "price": null,
+    "store": "Hamilton Beach",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Slow Cookers"
+    ],
+    "details": {
+      "Brand": "Hamilton Beach",
+      "Color": "Silver",
+      "Material": "Stoneware",
+      "Capacity": "4.7 Liters",
+      "Wattage": "275 watts",
+      "Item Weight": "12.8 Pounds",
+      "Is Dishwasher Safe": "Yes",
+      "Voltage": "120 Volts",
+      "Shape": "Oval",
+      "Pattern": "Solid",
+      "Control Method": "Touch",
+      "Control Type": "Programmable",
+      "Product Dimensions": "12.3 x 16.7 x 11.2 inches",
+      "Manufacturer": "Hamilton Beach",
+      "Item model number": "33957",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 320948,
+        "Slow Cookers": 635
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 8, 2011"
+    },
+    "parent_asin": "B003UV8L6Q",
+    "bought_together": null
+  }
+}

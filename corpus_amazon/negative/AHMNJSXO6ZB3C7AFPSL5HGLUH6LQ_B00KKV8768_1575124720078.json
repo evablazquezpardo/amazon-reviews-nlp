@@ -1,0 +1,60 @@
+{
+  "id": "AHMNJSXO6ZB3C7AFPSL5HGLUH6LQ_B00KKV8768_1575124720078",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Jar won’t close faulty product",
+  "text": "Jar won’t close faulty product. The jar will not close properly wit this product",
+  "asin": "B00KKV8768",
+  "parent_asin": "B00KKV8768",
+  "user_id": "AHMNJSXO6ZB3C7AFPSL5HGLUH6LQ",
+  "timestamp": 1575124720078,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Loew-Cornell Transform Mason Ball Lid Inserts 4/Pkg, Silver Frog - Wide Mouth",
+    "average_rating": 4.6,
+    "rating_number": 597,
+    "features": [
+      "Easily transform wide mouth jars into flower vases and other decorative items",
+      "Replaces existing lid inserts",
+      "These are a great addition to the collection and make every step easy",
+      "Adds a splash of color to brighten up your kitchen",
+      "Made in China"
+    ],
+    "description": [
+      "Loew-Cornell Transform Mason Ball Lid Inserts 4/Pkg, Silver Frog - Wide Mouth"
+    ],
+    "price": null,
+    "store": "Loew-Cornell",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Canning",
+      "Lids"
+    ],
+    "details": {
+      "Color": "Silver",
+      "Brand": "Loew-Cornell",
+      "Item Dimensions LxWxH": "0.37 x 5 x 4.75 inches",
+      "Item Weight": "0.02 Pounds",
+      "Shape": "Round",
+      "Number of Pieces": "1",
+      "Is Dishwasher Safe": "Yes",
+      "Closure Type": "Lid",
+      "Product Dimensions": "0.37 x 5 x 4.75 inches",
+      "Manufacturer": "Loew-Cornell",
+      "Item model number": "439328",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 297550,
+        "Canning Lids": 1133
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 4, 2004"
+    },
+    "parent_asin": "B00KKV8768",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA_B08JQ297VD_1610245316683",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Poor quality for price",
+  "text": "Poor quality for price. Flimsy..poor quality",
+  "asin": "B08JQ297VD",
+  "parent_asin": "B08JQ297VD",
+  "user_id": "AE2TA5GQH4JI5RQ4W5H5PQOVYBGA",
+  "timestamp": 1610245316683,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Large Hanging Wall Sign, Rustic Wall Home Decor Sign Wooden Sign Hope Love Peace Large Vintage Hanging Sign for Living Room Bedroom Bathroom Kitchen Office Decoration",
+    "average_rating": 4.4,
+    "rating_number": 21,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Jetec",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Decorative Accessories",
+      "Decorative Signs & Plaques"
+    ],
+    "details": {
+      "Package Dimensions": "13.14 x 5.86 x 1.53 inches",
+      "Item Weight": "8.8 ounces",
+      "Brand": "Jetec",
+      "Material": "Wood",
+      "Theme": "Vintage",
+      "Mounting Type": "Wall Mount"
+    },
+    "parent_asin": "B08JQ297VD",
+    "bought_together": null
+  }
+}

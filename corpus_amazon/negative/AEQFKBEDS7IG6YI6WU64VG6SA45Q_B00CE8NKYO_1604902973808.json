@@ -1,0 +1,57 @@
+{
+  "id": "AEQFKBEDS7IG6YI6WU64VG6SA45Q_B00CE8NKYO_1604902973808",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not happy",
+  "text": "Not happy. Not a fan will be sending it back",
+  "asin": "B006C2CVP2",
+  "parent_asin": "B00CE8NKYO",
+  "user_id": "AEQFKBEDS7IG6YI6WU64VG6SA45Q",
+  "timestamp": 1604902973808,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lewis N. Clark Mood Neck Pillow (2 Pack, Blue)",
+    "average_rating": 3.7,
+    "rating_number": 12,
+    "features": [
+      "Made of nylon",
+      "3\" high",
+      "7\" wide",
+      "Constructed of stretchy smooth nylon and filled with thousands of tiny micro beads",
+      "U-shaped design"
+    ],
+    "description": [
+      "These silky soft, form-fitting pillow shift with body movements to provide continuous comfort and feel good support for the body and soul"
+    ],
+    "price": 31.99,
+    "store": "Lewis N. Clark",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Neck & Cervical Pillows"
+    ],
+    "details": {
+      "Brand": "Lewis N. Clark",
+      "Color": "Blue",
+      "Size": "2 Pack",
+      "Age Range (Description)": "Adult",
+      "Material": "Nylon",
+      "Item Firmness Description": "Soft",
+      "Product Care Instructions": "Hand Wash Only",
+      "Item Weight": "0.01 ounces",
+      "Variety": "Neck Pillow",
+      "Fabric Type": "Nylon",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 147019,
+        "Neck & Cervical Pillows": 224
+      },
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B00CE8NKYO",
+    "bought_together": null
+  }
+}

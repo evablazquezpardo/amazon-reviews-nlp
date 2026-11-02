@@ -1,0 +1,42 @@
+{
+  "id": "AHCDZ4OXU7U4AWYCAK2674R3NYVQ_B00A3T7E8Y_1440788194000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "OK",
+  "text": "OK. Scratches easily and I didn't like the fact that the strainer is built in.",
+  "asin": "B00A3T7E8Y",
+  "parent_asin": "B00A3T7E8Y",
+  "user_id": "AHCDZ4OXU7U4AWYCAK2674R3NYVQ",
+  "timestamp": 1440788194000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "1 X Plastic Cocktail Shaker, 14oz Clear 3 Piece set",
+    "average_rating": 3.0,
+    "rating_number": 21,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Bar & Wine Tools",
+      "Cocktail Shakers"
+    ],
+    "details": {
+      "Package Dimensions": "7.6 x 3.2 x 3.2 inches",
+      "Item Weight": "0.22 Pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 28, 2013",
+      "Color": "Clear",
+      "Material": "Plastic",
+      "Capacity Description": "14 ounce"
+    },
+    "parent_asin": "B00A3T7E8Y",
+    "bought_together": null
+  }
+}

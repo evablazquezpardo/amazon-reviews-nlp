@@ -1,0 +1,52 @@
+{
+  "id": "AEYS7TG2WOZAB7NLRVGTM5XZIG3Q_B0BT45PXZ3_1567955108648",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love this",
+  "text": "Love this. Only use this during the day. It’s great.",
+  "asin": "B079R4K1LZ",
+  "parent_asin": "B0BT45PXZ3",
+  "user_id": "AEYS7TG2WOZAB7NLRVGTM5XZIG3Q",
+  "timestamp": 1567955108648,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Pure Enrichment® PureZone™ Elite True HEPA Large Room Tower Air Purifier with Air Quality Monitor, 4 Stage Filtration and UV-C Light, Helps Destroy Bacteria, Smoke, Pollen & Dust (White)",
+    "average_rating": 4.7,
+    "rating_number": 3183,
+    "features": [
+      "SMART AIR PURIFIER: Featuring 4 stages of efficient filtration, our True HEPA Air Purifier cleans the air by eliminating 99.97% of smoke, pet dander, allergens, dust, and household odors. Stage 1: Activated carbon pre-filter; Stage 2: Medical-Grade true HEPA filter; Stage 3: UV-C light + Photocatalyst filter; Stage 4: Ionizer.",
+      "LARGE ROOM COVERAGE: With a clean air delivery rate (CADR) of 120 CFM, this sleek home air purifier refreshes large family rooms measuring 990 sq ft in 60 minutes, and bedrooms, offices, nurseries, and other spaces measuring 205 sq ft in 12.5 minutes.",
+      "BUILT-IN UV-C LIGHT: Increase sanitation and decrease stress at home by safely eliminating up to 99.9% of viruses and bacteria. (Staphylococcus albus (96.6%), Escherichia coli (99.3%), Aspergillus niger (99.6%), H1N1 (99.9%) independent testing)",
+      "ENERGY-EFFICIENT & EASY TO USE: PureZone Elite uses an air quality detection technology that automatically adjusts the three fan speed in real-time, keeping you informed with our color-coded light display. Our Energy Star rating uses less electricity while helping to protect the environment. There’s also a filter reset indicator that lets you know when it’s time to change the activated carbon pre-filter and medical-grade true HEPA filter.",
+      "5-YEAR WARRANTY: Pure Enrichment’s guaranteed 5-Year Warranty, 4-in-1 powerful air purifier, 2-in-1 filter, UV-C light bulb. Our customer support team provides daily quality service and peace of mind to millions worldwide all from a brand you can trust."
+    ],
+    "description": [],
+    "price": 149.99,
+    "store": "Pure Enrichment",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Purifiers",
+      "HEPA Air Purifiers"
+    ],
+    "details": {
+      "Color": "White",
+      "Brand": "Pure Enrichment",
+      "Product Dimensions": "6.97 x 7 x 25 inches; 9.3 Pounds",
+      "Floor Area": "190 Square Feet",
+      "Noise Level": "60.2 dB",
+      "Power Source AC": "",
+      "": "Filter Type Pre-Filter",
+      "Control Method Touch": "",
+      "Is Discontinued By Manufacturer": "No",
+      "Item model number": "PEAIRTWR",
+      "Date First Available": "February 11, 2018",
+      "Manufacturer": "Pure Enrichment"
+    },
+    "parent_asin": "B0BT45PXZ3",
+    "bought_together": null
+  }
+}

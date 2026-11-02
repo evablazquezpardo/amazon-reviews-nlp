@@ -1,0 +1,51 @@
+{
+  "id": "AHT2NP62KHFFALXILR7ZIQ2VFM7A_B08ZJZP6S7_1619383886601",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "A must have",
+  "text": "A must have. Love love love this. Definitely worth the price",
+  "asin": "B08ZJZP6S7",
+  "parent_asin": "B08ZJZP6S7",
+  "user_id": "AHT2NP62KHFFALXILR7ZIQ2VFM7A",
+  "timestamp": 1619383886601,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ronco 5-Tray Dehydrator, Food Preserver Quiet Operation, for Beef, Turkey, Chicken, Fish Jerky, Fruits, Vegetables, Classic White (Renewed)",
+    "average_rating": 3.9,
+    "rating_number": 11,
+    "features": [],
+    "description": [
+      "This pre-owned or refurbished product has been professionally inspected and tested to work and look like new. How a product becomes part of Amazon Renewed, your destination for pre-owned, refurbished products: A customer buys a new product and returns it or trades it in for a newer or different model. That product is inspected and tested to work and look like new by Amazon-qualified suppliers. Then, the product is sold as an Amazon Renewed product on Amazon. If not satisfied with the purchase, renewed products are eligible for replacement or refund under the Amazon Renewed Guarantee."
+    ],
+    "price": null,
+    "store": "Amazon Renewed",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Specialty Appliances",
+      "Dehydrators"
+    ],
+    "details": {
+      "Brand": "Ronco",
+      "Material": "Plastic",
+      "Color": "White",
+      "Wattage": "500 watts",
+      "Material Feature": "Food Safe",
+      "Number of Trays": "5",
+      "Package Dimensions": "14.8 x 14.13 x 12.11 inches",
+      "Item Weight": "6.59 pounds",
+      "Manufacturer": "Ronco",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 651009,
+        "Dehydrators": 599
+      },
+      "Date First Available": "March 19, 2021"
+    },
+    "parent_asin": "B08ZJZP6S7",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "AFOMMZPFMNVCAC6VYYGQPJSRZFTQ_B010GGTS0A_1494896001000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. I bought these knives several years ago and liked them. New ones are too light.",
+  "asin": "B010GGTS0A",
+  "parent_asin": "B010GGTS0A",
+  "user_id": "AFOMMZPFMNVCAC6VYYGQPJSRZFTQ",
+  "timestamp": 1494896001000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ikea Steak Knife Set of 12 Stainless Steel",
+    "average_rating": 4.0,
+    "rating_number": 14,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "IKEA",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Flatware Sets",
+      "Steak Sets"
+    ],
+    "details": {
+      "Blade Material": "Stainless Steel",
+      "Brand": "IKEA",
+      "Color": "Black",
+      "Handle Material": "Stainless,Abs,Plastic,Steel",
+      "Blade Edge": "Serrated",
+      "Blade Color": "Silver",
+      "Number of Pieces": "12",
+      "Package Dimensions": "9 x 4.9 x 2.4 inches",
+      "Item Weight": "1.5 pounds",
+      "Item model number": "snitta",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 26, 2015"
+    },
+    "parent_asin": "B010GGTS0A",
+    "bought_together": null
+  }
+}

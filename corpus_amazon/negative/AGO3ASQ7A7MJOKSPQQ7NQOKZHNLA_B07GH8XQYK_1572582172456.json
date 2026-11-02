@@ -1,0 +1,56 @@
+{
+  "id": "AGO3ASQ7A7MJOKSPQQ7NQOKZHNLA_B07GH8XQYK_1572582172456",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Returned",
+  "text": "Returned. Item returned . My error it was the wrong size.",
+  "asin": "B07GH8XQYK",
+  "parent_asin": "B07GH8XQYK",
+  "user_id": "AGO3ASQ7A7MJOKSPQQ7NQOKZHNLA",
+  "timestamp": 1572582172456,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Comfort Crazy Microfiber Body Pillow Cover - Hidden Zipper Enclosure. Wide Pillowcase Opening. Soft. Durable, Long Lasting Construction. White",
+    "average_rating": 4.6,
+    "rating_number": 482,
+    "features": [
+      "Microfiber,100 % Polyester"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Comfort Crazy",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Body Pillows"
+    ],
+    "details": {
+      "Brand": "Comfort Crazy",
+      "Size": "Standard",
+      "Closure Type": "Zipper",
+      "Special Feature": "Durable",
+      "Product Care Instructions": "Machine Wash",
+      "Style": "Classic",
+      "Theme": "No Theme",
+      "Pattern": "Solid",
+      "Number of Items": "1",
+      "Fabric Type": "Microfiber,100 % Polyester",
+      "Number of Sets": "1",
+      "Number of Pieces": "2",
+      "Package Dimensions": "9.4 x 7.2 x 0.9 inches",
+      "Item Weight": "8 ounces",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1178495,
+        "Body Pillows": 299
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07GH8XQYK",
+    "bought_together": null
+  }
+}

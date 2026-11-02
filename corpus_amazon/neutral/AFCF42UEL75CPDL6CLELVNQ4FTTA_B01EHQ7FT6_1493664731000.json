@@ -1,0 +1,58 @@
+{
+  "id": "AFCF42UEL75CPDL6CLELVNQ4FTTA_B01EHQ7FT6_1493664731000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Doesn't hold very much for each bar",
+  "asin": "B01EHQ7FT6",
+  "parent_asin": "B01EHQ7FT6",
+  "user_id": "AFCF42UEL75CPDL6CLELVNQ4FTTA",
+  "timestamp": 1493664731000,
+  "helpful_vote": 6,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lekue Stackable 4 Pieces Popsicle Mould, One Size, Multicolour",
+    "average_rating": 4.4,
+    "rating_number": 6282,
+    "features": [
+      "Silicone mold",
+      "Tight lid to close the mold",
+      "Stick with Lekue logo for a better grip"
+    ],
+    "description": [
+      "The Lekue ice cream maker will allow you to create frozen desserts from natural ingredients such as fruits, juices and cocktails. An original shape and a comfortable form will create great ice cream, perfect for hot days. The product is ideal for allergy sufferers due to the possibility of making a dessert without lactose. The mold is made of 100% of the highest quality silicone which is platinum silicone. BPA free product. Full product recycling."
+    ],
+    "price": 17.95,
+    "store": "Lekue",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Specialty Tools & Gadgets",
+      "Ice Pop Molds"
+    ],
+    "details": {
+      "Brand": "Lekue",
+      "Color": "Multicolour",
+      "Material": "Silicone",
+      "Item Dimensions LxWxH": "3.85 x 4.52 x 2.75 inches",
+      "Item Weight": "0.18 Kilograms",
+      "Number of Pieces": "4",
+      "Material Type Free": "Bpa Free",
+      "Product Dimensions": "3.85 x 4.52 x 2.75 inches",
+      "Manufacturer": "Lékué",
+      "Country of Origin": "Spain",
+      "Item model number": "3400221S01U150",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 12055,
+        "Ice Pop Molds": 78
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 19, 2016"
+    },
+    "parent_asin": "B01EHQ7FT6",
+    "bought_together": null
+  }
+}

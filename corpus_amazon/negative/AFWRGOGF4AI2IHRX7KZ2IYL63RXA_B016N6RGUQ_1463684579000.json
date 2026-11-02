@@ -1,0 +1,34 @@
+{
+  "id": "AFWRGOGF4AI2IHRX7KZ2IYL63RXA_B016N6RGUQ_1463684579000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Purchases 2 trees, both arrived dry and brittle.. both didnt make it.. very dissapointing",
+  "asin": "B016N6RGUQ",
+  "parent_asin": "B016N6RGUQ",
+  "user_id": "AFWRGOGF4AI2IHRX7KZ2IYL63RXA",
+  "timestamp": 1463684579000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "MOORPARK APRICOT TREE - 2 Year Old 4/5 Feet Tall",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Bob Wells Nursery",
+    "categories": [],
+    "details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Brand": "Bob Wells Nursery",
+      "Unit Count": "1.0 Count",
+      "USDA Hardiness Zone": "4, 5, 6, 7, 8",
+      "Moisture Needs": "Moderate Watering"
+    },
+    "parent_asin": "B016N6RGUQ",
+    "bought_together": null
+  }
+}

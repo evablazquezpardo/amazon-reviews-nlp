@@ -1,0 +1,59 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B0037E3W6U_1439282843000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Chaos",
+  "text": "Chaos. Order came but was promised to another customer...long story.",
+  "asin": "B0037E3W6U",
+  "parent_asin": "B0037E3W6U",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1439282843000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "SureFit Twill Supreme 2-Piece Sofa Slipcover, White",
+    "average_rating": 3.0,
+    "rating_number": 107,
+    "features": [
+      "Relaxed Fit - Woven for a slightly loose and casual look with adjustability features that can be tucked or tied for a more tailored profile.",
+      "Zippered cushion cover",
+      "Designed to fit furniture with square or box cushions.",
+      "Adjustable arm height - set arm then adjust wrap around skirt with hem even with the floor.",
+      "Pleated back corners - remain open for larger overstuffed arms or fabric can be positioned forward and tucked into shoulder of furniture.",
+      "Elastic tabs - at back corners open and close to adjust to fit your furniture base circumference and omit the need for ties.",
+      "Side ruffles -are not attached to the side of the furniture cover to allow the arm height to adjust.",
+      "Front ruffle - rolls underneath the seat cushion mimicking the upholstery of the furniture."
+    ],
+    "description": [
+      "This relaxed fit sofa slip cover is woven for a slightly loose and casual look with adjustability features that can be tucked or tied for a more tailored profile. It is designed to fit furniture with square or box cushions. The arm to arm guidelines for this slip cover are 74 inches – 96-inches, the arm width is 11-inches, arm height is 27-inches and this slipcover fits a seat depth up to 23-inches. The variable features are adjustable arm height, pleated corners, elastic tabs, side ruffles and front ruffles."
+    ],
+    "price": null,
+    "store": "SureFit",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Slipcovers",
+      "Sofa Slipcovers"
+    ],
+    "details": {
+      "Product Dimensions": "36\"D x 89\"W x 22\"H",
+      "Color": "White",
+      "Recommended Uses For Product": "Sofa",
+      "Special Feature": "Adjustable",
+      "Style": "Twill Supreme",
+      "Pattern": "Solid",
+      "Closure Type": "Elastic,Zippered",
+      "Number of Items": "2",
+      "Item Weight": "5.6 pounds",
+      "Brand": "SureFit",
+      "Manufacturer": "Surefit",
+      "Item model number": "107927275A",
+      "Assembly required": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B0037E3W6U",
+    "bought_together": null
+  }
+}

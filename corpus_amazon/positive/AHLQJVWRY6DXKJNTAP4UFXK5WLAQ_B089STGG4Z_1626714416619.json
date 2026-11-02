@@ -1,0 +1,49 @@
+{
+  "id": "AHLQJVWRY6DXKJNTAP4UFXK5WLAQ_B089STGG4Z_1626714416619",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Nice hand mixer.",
+  "text": "Nice hand mixer.. The Russell Hobbs retro hand mixer is a great mixer. It feels substantial in my hand and has good power and I love the ease of use.  I love the retro look and the red color.",
+  "asin": "B07PNKBW43",
+  "parent_asin": "B089STGG4Z",
+  "user_id": "AHLQJVWRY6DXKJNTAP4UFXK5WLAQ",
+  "timestamp": 1626714416619,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "All Beauty",
+    "title": "Russell Hobbs MX3100RDR Retro Style Hand Mixer, 4 Speeds + Turbo Boost, Red",
+    "average_rating": 4.4,
+    "rating_number": 1071,
+    "features": [
+      "4 Speeds + Turbo Boost: Start with slow speed to avoid spatters, then increase as needed. Turbo boost setting is perfect for thick dough and batter.",
+      "Retro Style Design: Enjoy the simplicity of times past. The retro styling and durable construction offer an authentically vintage feel to go along with the hand mixer’s premier performance.",
+      "275 Watts: The powerful motor quickly and thoroughly mixes dough, batter, and more.",
+      "Ergonomic Soft Touch Handle: The comfortable grip makes mixing simple without straining your hand or wrist.",
+      "Attachments: In addition to traditional beaters, this set includes two dough hooks and a whisk attachment."
+    ],
+    "description": [],
+    "price": 34.23,
+    "store": "Russell Hobbs",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Mixers",
+      "Hand Mixers"
+    ],
+    "details": {
+      "Brand": "Russell Hobbs",
+      "Color": "Red",
+      "Special Feature": "Turbo Boost",
+      "Voltage": "120 Volts",
+      "Wattage": "275 watts",
+      "Controls Type": "Push Button",
+      "Model Name": "Retro Style",
+      "Is Dishwasher Safe": "No"
+    },
+    "parent_asin": "B089STGG4Z",
+    "bought_together": null
+  }
+}

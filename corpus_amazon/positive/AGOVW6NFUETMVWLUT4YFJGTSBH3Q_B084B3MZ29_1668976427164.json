@@ -1,0 +1,59 @@
+{
+  "id": "AGOVW6NFUETMVWLUT4YFJGTSBH3Q_B084B3MZ29_1668976427164",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Very good, I love it!",
+  "text": "Very good, I love it!. It’s comfortable and have enough support. Highly recommended!",
+  "asin": "B086LP3QRR",
+  "parent_asin": "B084B3MZ29",
+  "user_id": "AGOVW6NFUETMVWLUT4YFJGTSBH3Q",
+  "timestamp": 1668976427164,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics Cooling Gel-Infused, Medium-Firm Memory Foam Mattress, CertiPUR-US Certified - Queen Size, 12 Inch, White/Gray",
+    "average_rating": 4.4,
+    "rating_number": 5124,
+    "features": [
+      "Set Up: Simply take your mattress out of the box and enjoy watching it decompress. Jumping, walking, and sleeping on your mattress can speed up the process."
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics Cooling Gel-Infused, Medium-Firm Memory Foam Mattress, CertiPUR-US Certified - Queen Size, 12 Inch",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 342.77,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Bedroom Furniture",
+      "Mattresses & Box Springs",
+      "Mattresses"
+    ],
+    "details": {
+      "Item Weight": "66.6 Pounds",
+      "Product Dimensions": "80\"L x 60\"W x 12\"Th",
+      "Country of Origin": "USA",
+      "Item model number": "G-MAT-0940A-QN-WHT",
+      "Best Sellers Rank": {
+        "Our Brands": 1554,
+        "Mattresses": 60
+      },
+      "Date First Available": "July 5, 2019",
+      "Size": "Queen",
+      "Item Firmness Description": "Medium",
+      "Fill Material": "Memory Foam",
+      "Brand": "Amazon Basics",
+      "Color": "White/Gray",
+      "Age Range (Description)": "Adult",
+      "Model Name": "G-MAT-0940A-QN-WHT",
+      "Construction Type": "Memory Foam"
+    },
+    "parent_asin": "B084B3MZ29",
+    "bought_together": null
+  }
+}

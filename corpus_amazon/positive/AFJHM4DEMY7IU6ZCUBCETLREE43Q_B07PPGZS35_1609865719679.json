@@ -1,0 +1,66 @@
+{
+  "id": "AFJHM4DEMY7IU6ZCUBCETLREE43Q_B07PPGZS35_1609865719679",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Christmas Gift",
+  "text": "Christmas Gift. This was a Christmas gift for someone else, so I have not used it.",
+  "asin": "B00XNZ2JWQ",
+  "parent_asin": "B07PPGZS35",
+  "user_id": "AFJHM4DEMY7IU6ZCUBCETLREE43Q",
+  "timestamp": 1609865719679,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Staub Cast Iron 10-inch Pure Grill - Graphite Grey, Made in France",
+    "average_rating": 4.7,
+    "rating_number": 210,
+    "features": [
+      "Made in France",
+      "Oven Safe up to 500F",
+      "Smooth enamel bottom works on all stovetops",
+      "Each piece is one of a kind",
+      "Rough texture results in exceptional browning",
+      "Requires no seasoning",
+      "Dishwasher safe."
+    ],
+    "description": [
+      "For centuries, cooks have taken advantage of the natural heat retention and redistribution properties of cast iron. Staub builds on this tradition with our enameled cast iron cookware. Black matte enamel inside and cooking surface creates a culinary advantage for better browning, braising, and roasting. Colorful enamel outside adds flare to your kitchen and table. Safe for use on all types of heat sources, including gas, electric, and induction, and oven safe up to 500F. Chip resistant and dishwasher safe. Made in France."
+    ],
+    "price": 139.95,
+    "store": "STAUB",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Pots & Pans",
+      "Grill Pans"
+    ],
+    "details": {
+      "Brand": "STAUB",
+      "Material": "Cast Iron",
+      "Special Feature": "Oven Safe, Electric Stovetop Compatible",
+      "Color": "Graphite Gray",
+      "Product Care Instructions": "Dishwasher Safe",
+      "Model Name": "Staub",
+      "Has Nonstick Coating": "No",
+      "Is Dishwasher Safe": "Yes",
+      "Manufacturer": "Staub",
+      "Item model number": "1203018",
+      "Best Sellers Rank": {},
+      "Is Discontinued by Manufacturer": "No",
+      "Date First Available": "March 5, 2015",
+      "Assembly Required": "No",
+      "Batteries Required?": "No",
+      "Import Designation": "Imported",
+      "Capacity": "1 Liters",
+      "Maximum Temperature": "900 Degrees Fahrenheit",
+      "Item Weight": "6.08 Pounds",
+      "Number of Pieces": "1",
+      "Item Diameter": "10 Inches"
+    },
+    "parent_asin": "B07PPGZS35",
+    "bought_together": null
+  }
+}

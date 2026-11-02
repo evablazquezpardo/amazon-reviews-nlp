@@ -1,0 +1,52 @@
+{
+  "id": "AG2BJOE43JDTA64QMYS6WLUS37WA_B00I9WG0P0_1432427805000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Four Stars",
+  "text": "Four Stars. It makes fantastic margaritas!",
+  "asin": "B00I9WG0P0",
+  "parent_asin": "B00I9WG0P0",
+  "user_id": "AG2BJOE43JDTA64QMYS6WLUS37WA",
+  "timestamp": 1432427805000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Margaritaville DM1595-000-000 Key West Frozen Concoction Maker with Jumbo Jar and Travel Bag",
+    "average_rating": 3.9,
+    "rating_number": 105,
+    "features": [
+      "Restaurant quality frozen drinks at home",
+      "Shaves ice and blends with your favorite ingredients for great frozen drinks",
+      "Automatic setting takes all the guesswork out of smoothly blended frozen drinks",
+      "54 ounce jumbo jar with double wall insulation lets you serve your guests faster and keeps the drinks colder, longer",
+      "Bonus Travel bag is a heavy duty canvas bag, padded to protect the frozen concoction maker with handles to carry it anywhere you want to go"
+    ],
+    "description": [
+      "Key West Frozen Concoction Maker, shaves ice and blends with your favorite ingredients for restaurant quality drinks. Includes extra large (54 ounce) double wall insulated jar and rugged canvas travel bag with padding and handles. The machine has an automatic setting that knows how much ice to shave and how long to blend to make great frozen drinks. Plus, if you want to customize the drinks a little further there are manual controls to shave more ice or blend a little longer. No one does frozen drinks like the Key West Frozen Concoction Maker."
+    ],
+    "price": null,
+    "store": "Margaritaville",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Blenders",
+      "Countertop Blenders"
+    ],
+    "details": {
+      "Product Dimensions": "15.7 x 15.6 x 19.7 inches",
+      "Item Weight": "21 pounds",
+      "Manufacturer": "Jarden Consumer Solutions",
+      "Item model number": "DM1595-000-000",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 876173,
+        "Countertop Blenders": 1393
+      },
+      "Date First Available": "April 20, 2013"
+    },
+    "parent_asin": "B00I9WG0P0",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "AGQJNKMSO6GLDEMFBKFK7OPIZP7Q_B09QPNBNP8_1652646831663",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Stopped working",
+  "text": "Stopped working. Disappointed",
+  "asin": "B09QPNBNP8",
+  "parent_asin": "B09QPNBNP8",
+  "user_id": "AGQJNKMSO6GLDEMFBKFK7OPIZP7Q",
+  "timestamp": 1652646831663,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Humidifiers for Bedroom Large Room - Smart 8L Top Fill Cool Mist Humidifiers for Home, Nursery, Baby, Plant with Essential Oil Diffuser, Ultrasonic Air Humidifier with Adjustable 360° Rotation Nozzle",
+    "average_rating": 3.7,
+    "rating_number": 272,
+    "features": [
+      "8L Large Humidifier: 8L large tank filled with water can run for more than 30 hours without frequent refilling. The maximum mist level is 260ml/h and can cover 430 ft², while the smaller size makes the humidifier suitable for large room, bedroom, baby room, desk, etc., so you can enjoy the rich mist.",
+      "Smart Humidity Sensor: The air humidifier configured a smart humidity sensor. When the sensor detects the ambient humidity reaches the preset value (error ±5%), the humidifier will stop spraying. Otherwise, it will continue to spray. Note that you can set the preset humidity value from 40% to 90%.",
+      "Smart Cool Mist Humidifiers: Air humidifier in addition to operation through the control panel, can also be controlled with the KFC Smart App to unlock more functions. It is also compatible with Alexa and Google voice assistant, so you can use the voice control function to control the humidifier remotely and feel the cool mist from the humidifiers for home.",
+      "Ultrasonic Humidifier: Ultrasonic technology turns the water into a fine mist and disperses it into the air, which can quickly humidify the room. This technology also controls noise <35dB. Make the humidifier suitable for baby, plant, etc. to create a quiet environment and quickly humidify.",
+      "Top Fill Humidifier & 360°Nozzle: The top filling design makes it extra convenient to fill and clean the humidifier. 360° nozzle can be rotated at will to customize the direction for the mist. In addition, the top of the humidifier is designed with an essential oil box that can be dropped into the essential oil to turn it into a diffuser humidifier and enjoy the fragrant environment."
+    ],
+    "description": [],
+    "price": 79.99,
+    "store": "KFC",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Humidifiers"
+    ],
+    "details": {
+      "Brand": "KFC",
+      "Floor Area": "430 Square Feet",
+      "Operation Mode": "Ultrasonic",
+      "Room Type": "Baby,Bedroom,Nursery",
+      "Package Dimensions": "13.88 x 10.68 x 10.56 inches",
+      "Item Weight": "5.29 pounds",
+      "Country of Origin": "China",
+      "Item model number": "WB-JS2101",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1015504,
+        "Humidifiers": 1077
+      },
+      "Date First Available": "January 19, 2022",
+      "Capacity 260 Milliliters": "",
+      "": "Control Method App, Voice",
+      "Power Source Corded Electric": ""
+    },
+    "parent_asin": "B09QPNBNP8",
+    "bought_together": null
+  }
+}

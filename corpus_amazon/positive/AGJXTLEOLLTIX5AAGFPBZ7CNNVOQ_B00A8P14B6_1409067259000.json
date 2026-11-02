@@ -1,0 +1,54 @@
+{
+  "id": "AGJXTLEOLLTIX5AAGFPBZ7CNNVOQ_B00A8P14B6_1409067259000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Use for replace bulb some not working to change it work smile ...",
+  "asin": "B00A8P14B6",
+  "parent_asin": "B00A8P14B6",
+  "user_id": "AGJXTLEOLLTIX5AAGFPBZ7CNNVOQ",
+  "timestamp": 1409067259000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "10 Pack 2.5v Clear Replacement Christmas Light Bulbs",
+    "average_rating": 3.6,
+    "rating_number": 41,
+    "features": [
+      "Generic baseless bulbs perfect for replacing old bulbs",
+      "Each pack comes with 10 glass light bulbs",
+      "2.5v/0.17amp clear light bulbs with round base",
+      "Fits virtually all mini Christmas light strings that use rounded base bulbs",
+      "Bulbs with Balsam Hill specific bases are sold separately"
+    ],
+    "description": [
+      "These generic replacement baseless bulbs by Balsam Hill are ideal for replacing broken or burnt out bulbs while keeping the same light bulb base style to ensure a perfect fit with your existing light strings. This model features 10 clear lights with a round bulb base. Be sure to order bulbs with the base style (round or slotted) that match your existing bulbs. If you are replacing bulbs in a Balsam Hill product, we recommend instead purchasing bulbs with the correct Balsam Hill plastic base, rather than baseless bulbs, to make replacing burnt out bulbs easier."
+    ],
+    "price": null,
+    "store": "Balsam Hill",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Seasonal Lighting",
+      "Indoor String Lights"
+    ],
+    "details": {
+      "Brand": "Balsam Hill",
+      "Light Type": "Incandescent",
+      "Wattage": "10 watts",
+      "Voltage": "2.5 Volts",
+      "Unit Count": "10 bulbs",
+      "Number of Items": "10",
+      "Shape": "Round",
+      "Material": "Glass",
+      "Connectivity Technology": "Normal bulb",
+      "Controller Type": "Push Button",
+      "Package Dimensions": "3.8 x 3 x 0.3 inches",
+      "Item Weight": "0.8 ounces"
+    },
+    "parent_asin": "B00A8P14B6",
+    "bought_together": null
+  }
+}

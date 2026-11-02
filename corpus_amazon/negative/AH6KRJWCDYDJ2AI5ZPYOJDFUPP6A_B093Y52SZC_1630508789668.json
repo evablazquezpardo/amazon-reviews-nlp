@@ -1,0 +1,39 @@
+{
+  "id": "AH6KRJWCDYDJ2AI5ZPYOJDFUPP6A_B093Y52SZC_1630508789668",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Like water!",
+  "text": "Like water!. This was not as the product was advertised. Thinner than any polish I have ever used. Did not come close ti hype.",
+  "asin": "B093XYVD42",
+  "parent_asin": "B093Y52SZC",
+  "user_id": "AH6KRJWCDYDJ2AI5ZPYOJDFUPP6A",
+  "timestamp": 1630508789668,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Artificial Orange",
+    "average_rating": 4.2,
+    "rating_number": 67,
+    "features": [],
+    "description": [
+      "There's nothing artificial about our love for this bright orange coral creme. Drink up the sun and get ready to start the perfect day."
+    ],
+    "price": 7.25,
+    "store": "Orly",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Flowers"
+    ],
+    "details": {
+      "Product Dimensions": "1.97 x 1.97 x 3.94 inches; 2.4 Ounces",
+      "Item model number": "2000101",
+      "UPC": "096200015647"
+    },
+    "parent_asin": "B093Y52SZC",
+    "bought_together": null
+  }
+}

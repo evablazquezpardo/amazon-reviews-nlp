@@ -1,0 +1,45 @@
+{
+  "id": "AEWJXW46LKSW22FWTGRYTLNE7TGA_B015AV2R90_1543584916353",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Good price for the product",
+  "text": "Good price for the product. Great product for the price. Better than other brands bought here. Would buy again.",
+  "asin": "B015AV2R90",
+  "parent_asin": "B015AV2R90",
+  "user_id": "AEWJXW46LKSW22FWTGRYTLNE7TGA",
+  "timestamp": 1543584916353,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Magnificent Memory Foam Bath Mat, 2 Pack, 17 x 24 Bathroom Rugs, Non Slip Ultra Absorbent, Grey",
+    "average_rating": 4.6,
+    "rating_number": 685,
+    "features": [
+      "Polyester",
+      "LUXURY BATH MAT PACK OF 2 - Give your feet a cloud-like feel straight out of the shower while having these soft and comfortable bath mats placed in your bathroom; it comes in a pack of 2 which allows you to utilize one or both of these at a time to keep your toes warm",
+      "HIGH-QUALITY FORMATION - The 100% polyester coral fleece and 35D, 1.2CM, PU memory foam material delivers the best of experience that you can value for long; the solid outer border and Styrene Butadiene Rubber backing with embossing further enhances the quality and appeal of the mat",
+      "HIGH ABSORBENCY & NON-SLIP BACKING - The high absorbency property followed by non-slip backing keeps the mat dry and stationed without skidding/shifting when it comes in contact with your feet; please ensure that the bath mat is placed on a dry floor to prevent slipping",
+      "MULTIPURPOSE - The bath mat improves the overall appeal of your bathroom by coordinating nicely with the surrounding as well as with other products like towel etc.; the placement of the mat is not only limited to the shower area, but you can also place it in front of the sink or elsewhere",
+      "MACHINE FRIENDLY - Cleaning is not a great concern anymore as these can be machine washed in cold water using a mild detergent and tumble dried on low heat setting; the mats are sure to maintain their color even after going through multiple wash and dry cycles"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Magnificent",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bath Rugs"
+    ],
+    "details": {
+      "Brand": "Magnificent",
+      "Size": "17 x 24 Inch",
+      "Material": "Memory Foam",
+      "Pile Height": "Low Pile",
+      "Construction Type": "Machine Made"
+    },
+    "parent_asin": "B015AV2R90",
+    "bought_together": null
+  }
+}

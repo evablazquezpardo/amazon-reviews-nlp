@@ -1,0 +1,39 @@
+{
+  "id": "AHSXXZHYMXDRVKC643TJZYQ7XGYA_B071Y74KCV_1506643894213",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Nice but tiny",
+  "text": "Nice but tiny. Seems to be okay so far, except that it's the size of a dinner plate... So really it's only for your head!!!",
+  "asin": "B071Y74KCV",
+  "parent_asin": "B071Y74KCV",
+  "user_id": "AHSXXZHYMXDRVKC643TJZYQ7XGYA",
+  "timestamp": 1506643894213,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Basong Durable Waterproof Bath Pillow Bathtub Headrest Rest Pillow with Suction Cup",
+    "average_rating": 2.9,
+    "rating_number": 21,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Basong",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Neck & Cervical Pillows"
+    ],
+    "details": {
+      "Package Dimensions": "5.91 x 5.2 x 0.71 inches",
+      "Item Weight": "0.634 ounces",
+      "Is Discontinued By Manufacturer": "Yes",
+      "Care instructions": "Hand Wash Only",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B071Y74KCV",
+    "bought_together": null
+  }
+}

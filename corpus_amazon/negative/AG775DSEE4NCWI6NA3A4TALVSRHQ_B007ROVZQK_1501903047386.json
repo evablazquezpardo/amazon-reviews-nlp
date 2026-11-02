@@ -1,0 +1,42 @@
+{
+  "id": "AG775DSEE4NCWI6NA3A4TALVSRHQ_B007ROVZQK_1501903047386",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Coco",
+  "text": "Coco. Them were pretty cheap to me. I threw them away.",
+  "asin": "B007ROVZQK",
+  "parent_asin": "B007ROVZQK",
+  "user_id": "AG775DSEE4NCWI6NA3A4TALVSRHQ",
+  "timestamp": 1501903047386,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "24\" Coco Fiber Tree Rings, Set of 2, Mulch Mat Tree Root Protection",
+    "average_rating": 3.8,
+    "rating_number": 14,
+    "features": [
+      "NO MORE MULCH: If you're not diligent about replenishing bark mulch, it can start to look messy and after just one season. These coco tree mats are permeable to water, air, and plant nutrients and are the perfect replacement for bark mulch around your trees",
+      "LIGHTWEIGHT & EASY: The coir tree rings are lightweight and very easy to work with. It simply slips around a tree trunk and the center hole is easily enlarged if needed to customize to your tree",
+      "TREE PROTECTION: These thick mulch mats are made of tightly woven coconut fibers and durable natural latex, making it more effective than loose bark mulch for several seasons",
+      "LONG-LASTING: These rings last three years or more!",
+      "DIFFERENT SIZES: This Coco Fiber Mulch Tree Ring comes in a set of 2 and is 24\" in diameter. Available in 3 other sizes (26\" 48\" or 60\")"
+    ],
+    "description": [
+      "If you're not diligent about replenishing bark mulch, it can start to look messy after just one season. These thick mulch mats are made of tightly woven coconut fibers and durable natural latex, and last for several seasons. They reduce string-trimming chores too, because you can mow right over them."
+    ],
+    "price": 24.95,
+    "store": "Gardener's Supply Company",
+    "categories": [],
+    "details": {
+      "Manufacturer": "Gardener's Supply Company",
+      "Brand": "Gardener's Supply Company",
+      "Material Feature": "Natural",
+      "Product Care Instructions": "water",
+      "Moisture Needs": "Moderate Watering"
+    },
+    "parent_asin": "B007ROVZQK",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "AGMGNTI5Y7GXQCGZYA2PJQRWI3SA_B0BTNF912R_1426465458000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Very poor quality finish!",
+  "text": "Very poor quality finish!. Very poorly coated.....looks like it was painted instead of being a coated finish.......",
+  "asin": "B00005LD47",
+  "parent_asin": "B0BTNF912R",
+  "user_id": "AGMGNTI5Y7GXQCGZYA2PJQRWI3SA",
+  "timestamp": 1426465458000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KitchenAid Coated Flat Beater, White, 3.5 Qt",
+    "average_rating": 4.6,
+    "rating_number": 11234,
+    "features": [
+      "Designed, engineered, and tested by KitchenAid",
+      "Fits Models: KSM3311 and KSM3316",
+      "Nylon-Coated",
+      "Dishwasher Safe"
+    ],
+    "description": [
+      "The nylon-coated flat beater is perfect for quickly and thoroughly mashing potatoes, mixing cake batter and cookie dough and so much more. The flat beater is top-rack dishwasher safe. Fits models KSM3311 and KSM3316."
+    ],
+    "price": 24.98,
+    "store": "KitchenAid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking Tools & Accessories",
+      "Beaters"
+    ],
+    "details": {
+      "Product Dimensions": "1.3 x 4.5 x 5 inches",
+      "Item Weight": "3.98 ounces",
+      "Manufacturer": "KitchenAid",
+      "Country of Origin": "USA",
+      "Item model number": "KSM35CFB",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 4974,
+        "Baking Beaters": 1,
+        "Mixer Parts & Accessories": 7,
+        "Household Stand Mixers": 8
+      },
+      "Date First Available": "July 25, 2016"
+    },
+    "parent_asin": "B0BTNF912R",
+    "bought_together": null
+  }
+}

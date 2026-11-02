@@ -1,0 +1,59 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B0000AZWAL_1484262230000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Replacements for my existing set.",
+  "asin": "B0000AZWAL",
+  "parent_asin": "B0000AZWAL",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1484262230000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Oneida Golden Juilliard Teaspoon",
+    "average_rating": 5.0,
+    "rating_number": 11,
+    "features": [
+      "Patterns for a Lifetime Program",
+      "Lifetime Warranty",
+      "Premium quality 18/10 stainless steel",
+      "24K gold electroplate accent",
+      "Dishwasher safe"
+    ],
+    "description": [
+      "This teaspoon is perfect for cereal, dessert, coffee, ice cream & fruits. (These are the smaller of the spoons in your 5-piece place setting)"
+    ],
+    "price": null,
+    "store": "Oneida",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Spoons",
+      "Teaspoons"
+    ],
+    "details": {
+      "Product Dimensions": "6 x 1.25 x 0.25 inches",
+      "Item Weight": "1.12 ounces",
+      "Manufacturer": "Oneida",
+      "Item model number": "2231STSA",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 830735,
+        "Teaspoons": 1372
+      },
+      "Is Discontinued By Manufacturer": "Yes",
+      "Date First Available": "February 9, 2004",
+      "Color": "18/10 Stainless Steel",
+      "Material": "Stainless Steel",
+      "Brand": "Oneida",
+      "Style": "Modern",
+      "Item Dimensions LxWxH": "6 x 1.25 x 0.25 inches"
+    },
+    "parent_asin": "B0000AZWAL",
+    "bought_together": null
+  }
+}

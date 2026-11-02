@@ -1,0 +1,65 @@
+{
+  "id": "AF57ANFOM7CC3AXSFNHH4HGXCTFQ_B072P11H8L_1574614958843",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok",
+  "text": "Ok. Temperature control could be better",
+  "asin": "B072P11H8L",
+  "parent_asin": "B072P11H8L",
+  "user_id": "AF57ANFOM7CC3AXSFNHH4HGXCTFQ",
+  "timestamp": 1574614958843,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Basics 2 Slice, Extra-Wide Slot Toaster with 6 Shade Settings, Black & Silver",
+    "average_rating": 4.4,
+    "rating_number": 30141,
+    "features": [
+      "2-slice toaster for toasting one or two slices of bread at a time; 6 shade settings accommodate individual preferences",
+      "Extra-wide slots for bagels and thicker slices; each slot measures 5-1/4 inches long by 1-1/4 inches wide",
+      "Bagel setting for toasting just the cut side; Frozen setting for defrosting bread; Cancel function ends the session at any time",
+      "Extra-lift lever for safely removing smaller pieces; 37-inch power cord (when routed out the back); cord wrap; removable crumb tray (located in the back)",
+      "Buttons illuminate to indicate selected settings"
+    ],
+    "description": [
+      "Product Description",
+      "Amazon Basics 2 Slice, Extra-Wide Slot Toaster with 6 Shade Settings, Black",
+      "From the Manufacturer",
+      "Amazon Basics"
+    ],
+    "price": 24.48,
+    "store": "Amazon Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Ovens & Toasters",
+      "Toasters"
+    ],
+    "details": {
+      "Brand": "Amazon Basics",
+      "Color": "Black & Silver",
+      "Product Dimensions": "4\"D x 1\"W x 1\"H",
+      "Specific Uses For Product": "Bread",
+      "Wattage": "900 watts",
+      "Number of Slices": "2",
+      "Special Feature": "Cancel Function",
+      "Item Weight": "2.17 pounds",
+      "Voltage": "110 Volts",
+      "Number of settings": "6",
+      "Number of Programs": "3",
+      "Manufacturer": "Amazon Basics",
+      "Country of Origin": "China",
+      "Item model number": "KT-3680",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 179,
+        "Toasters": 2
+      },
+      "Date First Available": "December 20, 2017"
+    },
+    "parent_asin": "B072P11H8L",
+    "bought_together": null
+  }
+}

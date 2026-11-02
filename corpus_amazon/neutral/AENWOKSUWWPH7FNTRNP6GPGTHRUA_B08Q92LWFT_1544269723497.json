@@ -1,0 +1,60 @@
+{
+  "id": "AENWOKSUWWPH7FNTRNP6GPGTHRUA_B08Q92LWFT_1544269723497",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Meh",
+  "text": "Meh. Pretty tiny . . .  Would have liked Santa a little bigger.",
+  "asin": "B00SBPBUOQ",
+  "parent_asin": "B08Q92LWFT",
+  "user_id": "AENWOKSUWWPH7FNTRNP6GPGTHRUA",
+  "timestamp": 1544269723497,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kurt Adler 10-Light Burgundy and Brown Santa Treetop, 10-Inch",
+    "average_rating": 4.3,
+    "rating_number": 1258,
+    "features": [
+      "Santa treetop",
+      "Measures 10 inches tall",
+      "Burgundy and brown design",
+      "Pre-lit with 10 clear lights",
+      "The perfect finishing touch to your Christmas tree"
+    ],
+    "description": [
+      "Complete the lighting and decor of your Christmas tree with Kurt Adler's 10-inch 10-light burgundy and brown Santa treetop. This beautiful 12\" treetop featured Santa Claus in a long burgundy coat and hat trimmed in brown faux fur. He is lit from within by 10 lights for a festive glow."
+    ],
+    "price": 19.99,
+    "store": "Kurt S. Adler",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Tree Toppers"
+    ],
+    "details": {
+      "Color": "Multicolor",
+      "Brand": "Kurt S. Adler",
+      "Style": "Treetop",
+      "Size": "10-Inch",
+      "Occasion": "Christmas",
+      "Batteries Required?": "No",
+      "Theme": "Christmas",
+      "Product Dimensions": "6.7\"D x 6.7\"W x 10\"H",
+      "Item Weight": "9.6 ounces",
+      "Manufacturer": "Kurt S. Adler",
+      "Country of Origin": "China",
+      "Item model number": "UL1090",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 621924,
+        "Christmas Tree Toppers": 122
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "1"
+    },
+    "parent_asin": "B08Q92LWFT",
+    "bought_together": null
+  }
+}

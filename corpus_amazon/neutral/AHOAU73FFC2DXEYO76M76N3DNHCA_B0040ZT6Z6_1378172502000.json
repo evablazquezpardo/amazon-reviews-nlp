@@ -1,0 +1,56 @@
+{
+  "id": "AHOAU73FFC2DXEYO76M76N3DNHCA_B0040ZT6Z6_1378172502000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Available at the dollar store",
+  "text": "Available at the dollar store. These are $1 each at the dollar store, FYI. Based on the picture, I think they're the same thing.  Why spend 7 times as much?",
+  "asin": "B0040ZT6Z6",
+  "parent_asin": "B0040ZT6Z6",
+  "user_id": "AHOAU73FFC2DXEYO76M76N3DNHCA",
+  "timestamp": 1378172502000,
+  "helpful_vote": 1,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "16oz Coca Cola Genuine Glass",
+    "average_rating": 3.3,
+    "rating_number": 31,
+    "features": [],
+    "description": [
+      "16 OZ, Coca Cola Glass, Genuine Contour Style With The Script Coca Cola Logo & Green Recycled Glass Look."
+    ],
+    "price": null,
+    "store": "Libbey",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware"
+    ],
+    "details": {
+      "Brand": "Libbey",
+      "Material": "Glass",
+      "Capacity": "1 Pounds",
+      "Theme": "logo",
+      "Shape": "Round",
+      "Pattern": "Solid",
+      "Product Care Instructions": "Hand Wash Only",
+      "Age Range (Description)": "Adult",
+      "Unit Count": "16.0 Ounce",
+      "Item Weight": "0.01 ounces",
+      "Number of Items": "16",
+      "Product Dimensions": "6.2 x 3.6 x 3.6 inches",
+      "Manufacturer": "Libbey Glass",
+      "Item model number": "2216CC",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 902782,
+        "Glassware & Drinkware": 161227
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 3, 2009"
+    },
+    "parent_asin": "B0040ZT6Z6",
+    "bought_together": null
+  }
+}

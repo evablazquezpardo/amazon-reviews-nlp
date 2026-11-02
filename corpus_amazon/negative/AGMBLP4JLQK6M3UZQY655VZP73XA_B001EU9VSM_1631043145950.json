@@ -1,0 +1,68 @@
+{
+  "id": "AGMBLP4JLQK6M3UZQY655VZP73XA_B001EU9VSM_1631043145950",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Died after a week",
+  "text": "Died after a week. Worked great for about a week. Now, it’s dead. Waste of money.",
+  "asin": "B001EU9VSM",
+  "parent_asin": "B001EU9VSM",
+  "user_id": "AGMBLP4JLQK6M3UZQY655VZP73XA",
+  "timestamp": 1631043145950,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BLACK+DECKER 32oz Citrus Juicer, Adjustable Pulp Control with Pulp Basket, White, CJ625",
+    "average_rating": 4.4,
+    "rating_number": 21067,
+    "features": [
+      "Auto-reversing juicing cones provide maximum juice extraction",
+      "Adjustable Pulp Control with Pulp Basket - Pulp collects in the removable basket so you can throw it out or use it in other recipes",
+      "Easy-to-Read Measurement - Markings on the clear juice container makes juicing for recipes easy",
+      "Drip-Free Pour Spout - The container doubles as a pitcher, complete with handle and spout",
+      "Clear-View Juice Container - The durable plastic container is clear so you can easily see the yield of each piece of citrus."
+    ],
+    "description": [
+      "The BLACK+DECKER Citrus Juicer features two self-reversing cones that squeeze every drop of juice from your favorite citrus! The small cone squeezes more juice from small fruits like oranges, lemons and limes, while the large cone is perfect for grapefruit. Adjustable pulp control lets you get the amount of pulp you want and built-in cord storage keeps the cord neat and out of the way. All parts are dishwasher-safe for fast and easy cleanup! Included Components: (1) Juicer, (1) Storage Cover"
+    ],
+    "price": 25.99,
+    "store": "BLACK+DECKER",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Juicers",
+      "Citrus Juicers"
+    ],
+    "details": {
+      "Brand": "BLACK+DECKER",
+      "Color": "White",
+      "Special Feature": "Auto-Reversing",
+      "Product Dimensions": "6.4\"D x 6.4\"W x 8.9\"H",
+      "Material": "Plastic",
+      "Finish Type": "black",
+      "Recommended Uses For Product": "Orange",
+      "Product Care Instructions": "1",
+      "Capacity": "2 Pounds",
+      "Maximum Power": "900 Watts",
+      "Wattage": "150 watts",
+      "Item Weight": "2.12 pounds",
+      "Power Source": "Corded Electric",
+      "Blade Material": "Stainless Steel",
+      "Is Dishwasher Safe": "Yes",
+      "Department": "Home",
+      "Manufacturer": "Spectrum Brands",
+      "Country of Origin": "China",
+      "Item model number": "CJ625",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 1814,
+        "Citrus Juicers": 1
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 23, 2008"
+    },
+    "parent_asin": "B001EU9VSM",
+    "bought_together": null
+  }
+}

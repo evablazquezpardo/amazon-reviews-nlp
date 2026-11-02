@@ -1,0 +1,63 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B001V9L9MC_1414670920000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not so soft",
+  "text": "Not so soft. They may be all cotton but they're rough to touch.  Two washings so far.",
+  "asin": "B001V9L9MC",
+  "parent_asin": "B001V9L9MC",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1414670920000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amazon Brand – Pinzon Lightweight Cotton Flannel Sheet Set - King, White",
+    "average_rating": 3.7,
+    "rating_number": 15,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "King sheet set includes a flat sheet, fitted sheet, and 2 king pillowcases",
+      "Lightweight 160-gram 100% cotton flannel; comes pre-washed and lightly brushed for softness",
+      "Flat sheet measures 105-by-105-inches; Fitted Sheet measures 76-by-80-inches; 2 King Pillowcases measure: 20-by-41-inches",
+      "Solid color ensures effortless mixing and matching",
+      "Machine washable and dryable for easy care. Made in Portugal."
+    ],
+    "description": [
+      "An Amazon Brand."
+    ],
+    "price": null,
+    "store": "Pinzon",
+    "categories": [
+      "Home & Kitchen",
+      "Pinzon by Amazon",
+      "Pinzon Bedding",
+      "Bedding Collections",
+      "Flannel Bedding",
+      "Flannel Sheet Sets"
+    ],
+    "details": {
+      "Size": "King",
+      "Material": "Cotton",
+      "Color": "White",
+      "Pattern": "Solid",
+      "Brand": "Pinzon",
+      "Number of pieces": "3",
+      "Special Feature": "Lightweight",
+      "Included Components": "Flat She, Fitted Sheet",
+      "Closure Type": "Zipper",
+      "Thread Count": "160",
+      "Care instructions": "Machine Wash",
+      "Package Dimensions": "14.2 x 10.6 x 5.7 inches",
+      "Item Weight": "6.6 pounds",
+      "Manufacturer": "Pinzon",
+      "Item model number": "bx",
+      "Fabric Type": "100% Cotton",
+      "Import": "Imported"
+    },
+    "parent_asin": "B001V9L9MC",
+    "bought_together": null
+  }
+}

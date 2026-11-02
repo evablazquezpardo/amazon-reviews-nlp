@@ -1,0 +1,59 @@
+{
+  "id": "AFKVV256MLQAVNB6TW7EJDZLYH7A_B0872J5BV4_1646171271172",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "OK, not the best",
+  "text": "OK, not the best. A new 5-lb. bag of flour won't fit in this, at least 1/3 of the bag has to be empty for it to fit. Also the lid is quite flimsy to begin with, and doesn't fit well when you try to snap it closed. And even then, a bit of jostling & it comes unsnapped. ~ sigh ~ I think I'll try to find another one.",
+  "asin": "B01MRIC7A6",
+  "parent_asin": "B0872J5BV4",
+  "user_id": "AFKVV256MLQAVNB6TW7EJDZLYH7A",
+  "timestamp": 1646171271172,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Miles Kimball Sugar Keeper Plastic Storage Container",
+    "average_rating": 4.3,
+    "rating_number": 433,
+    "features": [
+      "Made with easy-care plastic",
+      "5\" long x 4\" wide x 7 7/8\" high",
+      "Stores a 5-pound bag of sugar or other baking staples",
+      "snap-tight lid keeps sugar fresh and recipe-ready",
+      "Dishwasher safe"
+    ],
+    "description": [
+      "This generous see-through sugar keeper stores a 5 pound bag of baking staples; hinged, snap-tight lids keep them fresh and recipe-ready. Place unused portion (still in the bag) inside the sugar holder, or pour balance directly into this dishwasher-safe, plastic sugar container. Sugar storage container measures 5\" long x 4\" wide x 7 7/8\" high."
+    ],
+    "price": 19.98,
+    "store": "Miles Kimball",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "5\"L x 4\"W x 7.88\"H",
+      "Item Weight": "0.49 Pounds",
+      "Manufacturer": "Miles Kimball",
+      "Item model number": "311769-0000079019",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 363700,
+        "Food Container Sets": 8415
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 21, 2013",
+      "Capacity": "5 Pounds",
+      "Number of Sets": "1",
+      "Brand": "Miles Kimball",
+      "Color": "translucent",
+      "Material": "Plastic"
+    },
+    "parent_asin": "B0872J5BV4",
+    "bought_together": null
+  }
+}

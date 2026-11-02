@@ -1,0 +1,63 @@
+{
+  "id": "AER3KQQTR7T3N6ZIOUMB4VDALL2Q_B00UJMXZEC_1474670033000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Meh",
+  "text": "Meh. These are not very great quality and white thread was used wich is exposed throughout.",
+  "asin": "B00UJMXZEC",
+  "parent_asin": "B00UJMXZEC",
+  "user_id": "AER3KQQTR7T3N6ZIOUMB4VDALL2Q",
+  "timestamp": 1474670033000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "LoganBvld 2 Pack - 17\"x 24\" Microfiber Memory Foam Bath Mat with Anti-Skid Bottom (Wine)",
+    "average_rating": 3.5,
+    "rating_number": 187,
+    "features": [
+      "Microfiber",
+      "Soft, Water Absorbent, Microfiber Material",
+      "Memory Foam Core",
+      "Anti-Slip Bottom",
+      "Fast Drying",
+      "Machine Washable"
+    ],
+    "description": [
+      "Matching set of two memory foam mats; Extra thick, plush design; Soft, brushed microfiber surface; Thick foam core dries quickly; SBR non-skid backing; Dimensions: 24” (L) x 17” (W) x 0.6” (H) (each mat)"
+    ],
+    "price": null,
+    "store": "LoganBvld",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bath Rugs"
+    ],
+    "details": {
+      "Brand": "LoganBvld",
+      "Material": "Memory Foam",
+      "Item Weight": "0.56 Pounds",
+      "Pile Height": "Low Pile",
+      "Construction Type": "memory foam",
+      "Back Material Type": "Microfiber",
+      "Color": "Wine",
+      "Is Stain Resistant": "No",
+      "Product Care Instructions": "Machine Wash",
+      "Pattern": "Solid",
+      "Shape": "Rectangular",
+      "Special Feature": "Non Slip",
+      "Room Type": "Bathroom",
+      "Product Dimensions": "24\"L x 17\"W",
+      "Rug Form Type": "Bath Mat",
+      "Style": "Memory Foam",
+      "Age Range (Description)": "Adult",
+      "Manufacturer": "LoganBvld",
+      "Item model number": "MFBM-006",
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Microfiber"
+    },
+    "parent_asin": "B00UJMXZEC",
+    "bought_together": null
+  }
+}

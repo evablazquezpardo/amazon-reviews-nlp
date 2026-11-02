@@ -1,0 +1,59 @@
+{
+  "id": "AGG3XT3YLZ3JGYSUPNAL36PJ3HAA_B0B6Q9Z6Q7_1670447008302",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Power",
+  "text": "Power. Not much power, I'm disappointed, sorry.",
+  "asin": "B0B6Q9Z6Q7",
+  "parent_asin": "B0B6Q9Z6Q7",
+  "user_id": "AGG3XT3YLZ3JGYSUPNAL36PJ3HAA",
+  "timestamp": 1670447008302,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BLACK+DECKER Dustbuster QuickClean Handheld Vacuum, Cordless, Lightweight & Portable, Ergonomic Design, Red",
+    "average_rating": 3.9,
+    "rating_number": 26,
+    "features": [
+      "LIGHTWEIGHT, PORTABLE DESIGN: makes this convenient to use for quick cleans",
+      "KNOW WHEN IT'S TIME TO EMPTY: Translucent, bagless dirt bowl lets you see the dirt level",
+      "KNOW WHEN IT'S FULLY CHARGED: thanks to the charging indicator light",
+      "MULTI-SURFACE USE: Removes hair, dirt, and debris from carpets, car interiors, furniture, and high-traffic areas.",
+      "CORDLESS CLEANING – Powered by a lithium ion battery, this handheld vacuum is ideal for larger jobs requiring quick cleanup."
+    ],
+    "description": [
+      "For fast pick-ups of dry dirt and debris, the lightweight dustbuster QuickClean Cordless Hand Vacuum is easy to use and a breeze to clean. Its bagless dirt bowl is translucent, so you’ll know when it’s time to empty. Plus, the charging indicator light shows you when it’s charging and fully charged, so you’ll always be ready for your next clean-up."
+    ],
+    "price": null,
+    "store": "BLACK+DECKER",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuums",
+      "Handheld Vacuums"
+    ],
+    "details": {
+      "Brand": "BLACK+DECKER",
+      "Special Feature": "Portable, Lightweight, Bagless",
+      "Included Components": "Battery",
+      "Is Cordless?": "Yes",
+      "Capacity": "0.6 Liters",
+      "Form Factor": "Handheld",
+      "Noise Level": "78 dB",
+      "Package Dimensions": "15.75 x 5.4 x 4.4 inches",
+      "Item Weight": "2 pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1236216,
+        "Handheld Vacuums": 1142
+      },
+      "Batteries required": "No",
+      "Surface Recommendation Carpet": "",
+      "": "Wattage 120 watts",
+      "Voltage 22.2 Volts": ""
+    },
+    "parent_asin": "B0B6Q9Z6Q7",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "AGAD75CFX6HECINK2AMZG65EZWAQ_B079QD5Q1K_1459723973000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Compartments seem small.",
+  "asin": "B011SY4P9I",
+  "parent_asin": "B079QD5Q1K",
+  "user_id": "AGAD75CFX6HECINK2AMZG65EZWAQ",
+  "timestamp": 1459723973000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Meal Prep Haven Stackable Reusable 3 Compartment Food Containers with Lids, Set of 7",
+    "average_rating": 4.1,
+    "rating_number": 2843,
+    "features": [
+      "Recipientes de plástico de grado de alimentos seguros para su reutilización – Nuestra son última intervensión de BPA y seguro para microondas, congelar, refrigerar y el uso en el lavaplatos (rejilla superior) de nuevo una y otra vez."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Meal Prep Haven",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "9.84\"L x 5.91\"W x 4.33\"H",
+      "Item Weight": "0.68 Pounds",
+      "Manufacturer": "Meal Prep Haven",
+      "Item model number": "MP-7D3C",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 137658,
+        "Food Container Sets": 3974
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 16, 2015",
+      "Capacity": "2 Pounds",
+      "Number of Sets": "7",
+      "Brand": "Meal Prep Haven",
+      "Color": "Black",
+      "Material": "Polypropylene"
+    },
+    "parent_asin": "B079QD5Q1K",
+    "bought_together": null
+  }
+}

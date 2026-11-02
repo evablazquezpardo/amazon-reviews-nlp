@@ -1,0 +1,69 @@
+{
+  "id": "AG2NA34LO2SM6CKTQGNQ532ULCSQ_B004EHN63S_1532192475741",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Yuck",
+  "text": "Yuck. Stinks",
+  "asin": "B004EHN63S",
+  "parent_asin": "B004EHN63S",
+  "user_id": "AG2NA34LO2SM6CKTQGNQ532ULCSQ",
+  "timestamp": 1532192475741,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Yankee Candle Large Jar Candle Leather 22 oz Packaging May Vary",
+    "average_rating": 3.3,
+    "rating_number": 34,
+    "features": [
+      "Single Wick, Large Jar, 22 oz",
+      "Luxurious, rich aroma of the finest leather",
+      "Retired Scent",
+      "Burn time: 110 - 150 hours",
+      "Packaging/label designs may vary"
+    ],
+    "description": [
+      "The luxurious, rich aroma of fine leather."
+    ],
+    "price": null,
+    "store": "Yankee Candle",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Candles & Holders",
+      "Candles",
+      "Jar Candles"
+    ],
+    "details": {
+      "Brand": "Yankee Candle",
+      "Color": "Red",
+      "Item Weight": "22 Ounces",
+      "Number of Items": "1",
+      "Scent": "Scented",
+      "Operating Time": "150 Hours",
+      "Are Batteries Included": "No",
+      "Specific Uses For Product": "Scent",
+      "Shape": "Round",
+      "Material": "Leather",
+      "Seasons": "All Season",
+      "Style": "Classic",
+      "Wick Quantity": "1",
+      "Package Information": "Jar",
+      "Size": "22 ounce",
+      "Unit Count": "1.0 Count",
+      "Product Dimensions": "4 x 7 x 4 inches",
+      "Manufacturer": "Yankee Candle Company",
+      "Item model number": "34562",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2634356,
+        "Jar Candles": 11297
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Import": "Made in USA"
+    },
+    "parent_asin": "B004EHN63S",
+    "bought_together": null
+  }
+}

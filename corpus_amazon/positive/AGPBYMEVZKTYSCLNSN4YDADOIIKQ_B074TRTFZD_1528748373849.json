@@ -1,0 +1,55 @@
+{
+  "id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ_B074TRTFZD_1528748373849",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Love it's beautiful !",
+  "asin": "B00023DLJC",
+  "parent_asin": "B074TRTFZD",
+  "user_id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ",
+  "timestamp": 1528748373849,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Royal Albert Old Country Roses 9-Piece Tea Set, Multi",
+    "average_rating": 4.7,
+    "rating_number": 1485,
+    "features": [
+      "Part of the Old Country Roses Collection by Royal Albert, the best-selling dinnerware pattern in the world. The Collection is decorated with Old Country Roses' signature motif of burgundy, pink and yellow roses, accented with lustrous gold banding. Complete the set, or combine with other Royal Albert Collections for a unique look"
+    ],
+    "description": [
+      "The best-selling dinnerware pattern in the world, the Old Country Roses pattern is practically synonymous with the name Royal Albert and a long-standing testament to timeless style and elegant craftsmanship. This 9-Piece Tea Set features 4 Teacups, 4 Tea Saucers and Regal Trays; all decorated with the Old Country Roses' signature motif of burgundy, pink and yellow roses, accented with lustrous gold banding."
+    ],
+    "price": 244.0,
+    "store": "Royal Albert",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cups, Mugs, & Saucers",
+      "Cup & Saucer Sets"
+    ],
+    "details": {
+      "Product Dimensions": "12.1\"D x 13.4\"W x 9.4\"H",
+      "Item Weight": "3.8 pounds",
+      "Manufacturer": "Royal Albert",
+      "Item model number": "IOLCOR20102",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 72874,
+        "Cup & Saucer Sets": 111
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 23, 2007",
+      "Material": "Bone China",
+      "Color": "Multicolor",
+      "Brand": "Royal Albert",
+      "Capacity": "6.5 Fluid Ounces",
+      "Is Dishwasher Safe": "No"
+    },
+    "parent_asin": "B074TRTFZD",
+    "bought_together": null
+  }
+}

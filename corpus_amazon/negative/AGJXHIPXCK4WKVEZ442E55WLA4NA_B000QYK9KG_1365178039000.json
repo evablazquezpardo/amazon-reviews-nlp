@@ -1,0 +1,58 @@
+{
+  "id": "AGJXHIPXCK4WKVEZ442E55WLA4NA_B000QYK9KG_1365178039000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "bad product",
+  "text": "bad product. very thin with sharp edges. Seller was good tho, said I could return for a refund, but it wasn't worth the money to do it, they were very cheap. (I should have known) I do not recommend.",
+  "asin": "B000QYK9KG",
+  "parent_asin": "B000QYK9KG",
+  "user_id": "AGJXHIPXCK4WKVEZ442E55WLA4NA",
+  "timestamp": 1365178039000,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Stainless Chinese Soup Spoons, 12 pc #ISO9001",
+    "average_rating": 4.6,
+    "rating_number": 105,
+    "features": [
+      "Stainless Steel, made in Thailand",
+      "12 spoons in this box",
+      "For sipping soup or decoratively serving appetizers",
+      "Dishwasher safe",
+      "Award winning Seagull brand"
+    ],
+    "description": [
+      "Stainless steel Chinese style soup spoons for sipping soup or serving bite sized appetizers in! This is a box of 12 spoons, all dishwasher safe and measuring 5 inches long."
+    ],
+    "price": 8.97,
+    "store": "Sea Gull Lighting",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Spoons",
+      "Soup Spoons"
+    ],
+    "details": {
+      "Package Dimensions": "5.8 x 2 x 1.7 inches",
+      "Item Weight": "1.54 Pounds",
+      "Manufacturer": "Seagull",
+      "Item model number": "ISO9001",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 167832,
+        "Soup Spoons": 249
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 18, 2007",
+      "Color": "Stainless Steel",
+      "Material": "Steel",
+      "Brand": "Sea Gull Lighting",
+      "Style": "Chinese"
+    },
+    "parent_asin": "B000QYK9KG",
+    "bought_together": null
+  }
+}

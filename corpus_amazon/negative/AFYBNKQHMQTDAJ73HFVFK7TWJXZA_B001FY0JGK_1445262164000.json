@@ -1,0 +1,60 @@
+{
+  "id": "AFYBNKQHMQTDAJ73HFVFK7TWJXZA_B001FY0JGK_1445262164000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Didn't fit mine.",
+  "text": "Didn't fit mine.. Didn't fit our model. Bad research on my part I guess.",
+  "asin": "B001FY0JGK",
+  "parent_asin": "B001FY0JGK",
+  "user_id": "AFYBNKQHMQTDAJ73HFVFK7TWJXZA",
+  "timestamp": 1445262164000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Univen 47948 Mixer Beaters for Sunbeam Mixmaster Mixers. Only fits Models Listed in Description. Please read description and see pictures.",
+    "average_rating": 4.2,
+    "rating_number": 621,
+    "features": [
+      "Not universal, does not fit all models! See pictures, model numbers and measurements BEFORE ordering",
+      "Fits Sunbeam Mixmaster mixer model or service numbers 2372, 2382, 2484, 2485",
+      "Fits Sunbeam Mixmaster mixer model or service numbers 2486, 2503, 2506, 2518, 2519",
+      "Model or service number is located where you plug in the beaters",
+      "These beaters are 8\" (23.32cm) in length"
+    ],
+    "description": [
+      "Record Player Portable Bluetooth LP Belt-Drive 7-Speed Turntable with Built in Stereo Speakers, Vintage Style Vinyl Record Player (vintage style-brown)"
+    ],
+    "price": 12.99,
+    "store": "Univen",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliance Parts & Accessories",
+      "Mixer Parts & Accessories"
+    ],
+    "details": {
+      "Brand": "Univen",
+      "Color": "Silver",
+      "Material": "Stainless Steel",
+      "Number of Speeds": "7",
+      "Special Feature": "Adjustable Speed Control",
+      "Controls Type": "push Button",
+      "Model Name": "47948",
+      "Is Dishwasher Safe": "No",
+      "Package Dimensions": "8.43 x 3.54 x 1.81 inches",
+      "Item Weight": "10.2 ounces",
+      "Manufacturer": "WOCKODER",
+      "Item model number": "47948",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 444574,
+        "Mixer Parts & Accessories": 278
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 9, 2012"
+    },
+    "parent_asin": "B001FY0JGK",
+    "bought_together": null
+  }
+}

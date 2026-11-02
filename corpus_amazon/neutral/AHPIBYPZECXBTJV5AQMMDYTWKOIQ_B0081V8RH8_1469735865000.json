@@ -1,0 +1,62 @@
+{
+  "id": "AHPIBYPZECXBTJV5AQMMDYTWKOIQ_B0081V8RH8_1469735865000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "OK",
+  "text": "OK. Just like the original.",
+  "asin": "B0000DDXRZ",
+  "parent_asin": "B0081V8RH8",
+  "user_id": "AHPIBYPZECXBTJV5AQMMDYTWKOIQ",
+  "timestamp": 1469735865000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cuisinart DLC865AGTX Work Bowl with Handle 11-c.",
+    "average_rating": 4.2,
+    "rating_number": 1099,
+    "features": [
+      "We know that sometimes with the old machines multiple parts will need to be replaced to fit together. We always advise our buyers to confirm with the manufacturer which parts fit their machine before purchasing.",
+      "Extra Work Bowls",
+      "Shatter-proof plastic, heat- and cold-resistant"
+    ],
+    "description": [
+      "11-cup gray tint lexan heavy-duty plastic bowl w/ handle. For use with Custom 2 model #s DLC-8S and DFP-11",
+      "Deluxe 2 model #s DLC-8S amd DFP-11 . Please note: if your product consists of BPA free parts 'Cuisinart DLC865AGTX Work Bowl' will not be compatible with your product. You would require to purchase DLC-865AGTXT BPA Free Work bowl with Handle for your product."
+    ],
+    "price": null,
+    "store": "Cuisinart",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliance Parts & Accessories",
+      "Food Processor Parts & Accessories"
+    ],
+    "details": {
+      "Bowl Material": "Plastic",
+      "Number of Pieces": "1",
+      "Brand": "Cuisinart",
+      "Color": "Gray",
+      "Shape": "Round",
+      "Capacity": "11 Ounces",
+      "Pattern": "Solid",
+      "Seasons": "All Seasons",
+      "Is Dishwasher Safe": "No",
+      "Is Microwaveable": "No",
+      "Material": "Plastic",
+      "Product Dimensions": "9.5 x 6.6 x 5.1 inches",
+      "Item Weight": "12.8 ounces",
+      "Manufacturer": "Cuisinart",
+      "Item model number": "DLC-865AGTX-1",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 144957,
+        "Food Processor Parts & Accessories": 19
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 5, 2003"
+    },
+    "parent_asin": "B0081V8RH8",
+    "bought_together": null
+  }
+}

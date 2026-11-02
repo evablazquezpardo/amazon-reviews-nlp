@@ -1,0 +1,57 @@
+{
+  "id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA_B004K9EGKW_1641809643234",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great product",
+  "text": "Great product. Great product",
+  "asin": "B004K9EGKW",
+  "parent_asin": "B004K9EGKW",
+  "user_id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA",
+  "timestamp": 1641809643234,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "The Older I Get Everyone Can Tin Sign 16 by 12.5 inch 1 count",
+    "average_rating": 4.6,
+    "rating_number": 73,
+    "features": [
+      "Professional Quality Tin Metal Sign",
+      "Fine Quality Graphic on Tin",
+      "Pre Drilled Holes For Hanging",
+      "Usually ships in one business day",
+      "Made in the USA"
+    ],
+    "description": [
+      "The Older I Get Tin Metal SignMeasures: 12.5\" x 16\"Usually ships in one business dayNostalgic, vintage, retro and sports signs. Our signs are perfect for decorating your home, garage, office, shop, hunting lodge, cabin, rec room, bar or man cave with and make great gifts."
+    ],
+    "price": null,
+    "store": "Desperate Enterprises",
+    "categories": [
+      "Home & Kitchen",
+      "Wall Art",
+      "Posters & Prints"
+    ],
+    "details": {
+      "Product Dimensions": "16 x 12.5 x 0.01 inches",
+      "Item Weight": "12 ounces",
+      "Manufacturer": "Desperate Enterprises Inc",
+      "Batteries": "1 AA batteries required.",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2079460,
+        "Posters & Prints": 111831
+      },
+      "Volume": "1 Liters",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Brand": "Desperate Enterprises",
+      "Material": "Tin",
+      "Theme": "Vintage",
+      "Mounting Type": "Wall Mount",
+      "Item Dimensions LxWxH": "16 x 12.5 x 0.01 inches"
+    },
+    "parent_asin": "B004K9EGKW",
+    "bought_together": null
+  }
+}

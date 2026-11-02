@@ -1,0 +1,40 @@
+{
+  "id": "AF6AK5OVE22L55JHPJZITX5SFAUQ_B00WWMOXTS_1573587753509",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Did not like the material",
+  "text": "Did not like the material. Did not like the material",
+  "asin": "B00WWMOXTS",
+  "parent_asin": "B00WWMOXTS",
+  "user_id": "AF6AK5OVE22L55JHPJZITX5SFAUQ",
+  "timestamp": 1573587753509,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "CafePress Vintage Painting of The Hunt Pillow Case Standard Size Pillow Case, Pillow Cover, Unique Pillow Slip",
+    "average_rating": 4.5,
+    "rating_number": 5,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "CafePress",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Decorative Pillows, Inserts & Covers",
+      "Throw Pillow Covers"
+    ],
+    "details": {
+      "Care instructions": "Machine Wash",
+      "Brand": "CafePress",
+      "Product Care Instructions": "Machine Wash",
+      "Occasion": "Sleep",
+      "Closure Type": "Zipper",
+      "Recommended Uses For Product": "Home"
+    },
+    "parent_asin": "B00WWMOXTS",
+    "bought_together": null
+  }
+}

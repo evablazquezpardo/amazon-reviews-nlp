@@ -1,0 +1,52 @@
+{
+  "id": "AGNFVXK3OGIKFCQUASZC7OMH2RZA_B01LFDXQI8_1415355116000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Expected a nice soft mushy pillow but it is a very firm ...",
+  "text": "Expected a nice soft mushy pillow but it is a very firm .... Expected a nice soft mushy pillow but it is a very firm pillow and not what I wanted at all.",
+  "asin": "B00L4HW56K",
+  "parent_asin": "B01LFDXQI8",
+  "user_id": "AGNFVXK3OGIKFCQUASZC7OMH2RZA",
+  "timestamp": 1415355116000,
+  "helpful_vote": 8,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cloudz Pool & Beach Microbead Travel Pillow - Bright Pink",
+    "average_rating": 4.2,
+    "rating_number": 330,
+    "features": [],
+    "description": [
+      "Clöudz Soft & Cozy Microbead Pool and Beach Pillow. Includes Super Soft Moisture Absorbing Terry Fabric, an Elastic Strap to attach to your Chair, and a Removable Washable Cover for Easy Cleaning. Great for Home or On the Go!"
+    ],
+    "price": 16.45,
+    "store": "Cloudz",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Travel Pillows"
+    ],
+    "details": {
+      "Brand": "Cloudz",
+      "Special Feature": "Washable, Removable Cover",
+      "Color": "Bright Pink",
+      "Age Range (Description)": "Adult",
+      "Item Dimensions LxWxH": "14 x 9 x 5 inches",
+      "Variety": "Travel Pillow",
+      "Fabric Type": "Shell: 50% Cotton / 50% Polyurethane",
+      "Product Dimensions": "14 x 9 x 5 inches",
+      "Item Weight": "8.8 ounces",
+      "Manufacturer": "Cloudz",
+      "Country of Origin": "China",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 95928,
+        "Travel Pillows": 136
+      },
+      "Date First Available": "June 15, 2022"
+    },
+    "parent_asin": "B01LFDXQI8",
+    "bought_together": null
+  }
+}

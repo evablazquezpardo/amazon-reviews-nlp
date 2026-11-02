@@ -1,0 +1,72 @@
+{
+  "id": "AHVTWOG75477YM2X3IPZV42UMNNA_B07DLSQFX9_1618550362286",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Didn’t buy used",
+  "text": "Didn’t buy used. It smelled like smoke",
+  "asin": "B011KZGEBW",
+  "parent_asin": "B07DLSQFX9",
+  "user_id": "AHVTWOG75477YM2X3IPZV42UMNNA",
+  "timestamp": 1618550362286,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Beautyrest Ogee Printed Plush Electric Blanket for Cold Weather, Fast Heating, Auto Shut Off, Virtually Zero EMF, Multi Heat Setting, UL Certified, Machine Washable, Teal Oversized Throw 60x70",
+    "average_rating": 4.2,
+    "rating_number": 4318,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Evenly spaced heating elements deliver even heat distribution throughout. 100% UL certified and engineered to emit VIRTUALLY NO EMF radiation. Your safety is of utmost importance to us.",
+      "Luxuriously ogee printed, cozy plush fabric offers extra warmth for the cold winter; delivers heat ranging from 85 - 105℉ (temperature range will vary based on current ambient room temperature).",
+      "Features 3 Heat settings to help you find the perfect temperature. And 2 hours auto shut off for added safety.",
+      "1 Heated Throw: Oversized Throw (60 inx70 in); power cord 6ft; controller cord 3ft",
+      "Conveniently machine washable, simply unplug it and toss it into the wash. Confidently backed by 5 year warranty. DO NOT LEAVE CONTROLLER COVERED WHEN IN USED TO AVOID OVERHEATING."
+    ],
+    "description": [
+      "Our heated throw utilizes state of the art Secure Comfort heated technology that adjusts the temperature of your throw based on overall temperature, spot temperatures and the ambient temperature of your room, ensuring a consistent flow of warmth. This unique technology also emits virtually no EMF emissions, so you can snuggle up with confidence. This throw is oversized, nearly a foot larger in the length and width compared to standard heated throws. The ultra soft microlight plush fabric creates a cozy, comfortable throw.It features 3 heat settings and 2 hour auto shut off. This throw is machine washable for easy care and OEKO-TEX certified, meaning it does not contain any harmful substances or chemicals to ensure quality comfort and wellness. Includes manufacturer’s 5-year warranty."
+    ],
+    "price": 57.75,
+    "store": "Beautyrest",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Throws"
+    ],
+    "details": {
+      "Material": "Polyester",
+      "Color": "Teal",
+      "Brand": "Beautyrest",
+      "Special Feature": "Washable",
+      "Style": "Casual",
+      "Blanket Form": "Throw Blanket",
+      "Age Range (Description)": "Adult",
+      "Product Dimensions": "70 x 60 x 0.25 inches",
+      "Pattern": "Ogee",
+      "Recommended Uses For Product": "Home",
+      "Care instructions": "Machine Wash",
+      "Size": "60 x 70 in",
+      "Fabric Type": "100% Polyester",
+      "Number of Items": "1",
+      "Thickness": "0.25 Inches",
+      "Included Components": "Blanket",
+      "Item Weight": "3.83 pounds",
+      "Manufacturer": "Beautyrest",
+      "Country of Origin": "China",
+      "Item model number": "BR54-0778",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 151757,
+        "Electric Throws": 4,
+        "Bed Throws": 802
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B07DLSQFX9",
+    "bought_together": null
+  }
+}

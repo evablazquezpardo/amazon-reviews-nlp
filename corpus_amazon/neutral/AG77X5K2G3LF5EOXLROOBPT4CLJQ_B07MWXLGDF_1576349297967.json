@@ -1,0 +1,44 @@
+{
+  "id": "AG77X5K2G3LF5EOXLROOBPT4CLJQ_B07MWXLGDF_1576349297967",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ripped",
+  "text": "Ripped. Ripped in several places",
+  "asin": "B07MWXLGDF",
+  "parent_asin": "B07MWXLGDF",
+  "user_id": "AG77X5K2G3LF5EOXLROOBPT4CLJQ",
+  "timestamp": 1576349297967,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Valery Madelyn 48 inch Pre-lit Woodland Christmas Tree Skirt Decorations with LED Lights, 3D Reindeer and Faux Fur Trim, Themed with Christmas Ornaments (Not Included)",
+    "average_rating": 4.3,
+    "rating_number": 107,
+    "features": [
+      "Faux Fur"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Valery Madelyn",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Tree Skirts"
+    ],
+    "details": {
+      "Package Dimensions": "12.9 x 11 x 3.9 inches",
+      "Item Weight": "1.2 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Faux Fur",
+      "Batteries required": "No",
+      "Material": "Faux Fur, Fabric",
+      "Brand": "Valery Madelyn",
+      "Closure Type": "Hook And Loop",
+      "Shape": "Round"
+    },
+    "parent_asin": "B07MWXLGDF",
+    "bought_together": null
+  }
+}

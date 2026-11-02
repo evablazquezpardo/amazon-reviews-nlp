@@ -1,0 +1,44 @@
+{
+  "id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA_B01IITZNWE_1616141236376",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Worth it",
+  "text": "Worth it. Good size",
+  "asin": "B01IITZNWE",
+  "parent_asin": "B01IITZNWE",
+  "user_id": "AHT3NNPRGAN65K6ESCJNKI7TPWPA",
+  "timestamp": 1616141236376,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Desperate Enterprises Your Diet Tin Sign, 16\" W x 12.5\" H",
+    "average_rating": 5.0,
+    "rating_number": 6,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Poster Revolution",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Decorative Accessories",
+      "Decorative Signs & Plaques"
+    ],
+    "details": {
+      "Product Dimensions": "12.7 x 0.2 x 16.6 inches",
+      "Item Weight": "12 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Brand": "Poster Revolution",
+      "Material": "Tin",
+      "Mounting Type": "Wall Mount",
+      "Item Dimensions LxWxH": "12.7 x 0.2 x 16.6 inches",
+      "Pre-printed": "Letter"
+    },
+    "parent_asin": "B01IITZNWE",
+    "bought_together": null
+  }
+}

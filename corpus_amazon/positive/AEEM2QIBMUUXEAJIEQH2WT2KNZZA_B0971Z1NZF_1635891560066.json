@@ -1,0 +1,61 @@
+{
+  "id": "AEEM2QIBMUUXEAJIEQH2WT2KNZZA_B0971Z1NZF_1635891560066",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great product",
+  "text": "Great product. We’ll made. Great product. Easy to assemble.",
+  "asin": "B08DL8NHV2",
+  "parent_asin": "B0971Z1NZF",
+  "user_id": "AEEM2QIBMUUXEAJIEQH2WT2KNZZA",
+  "timestamp": 1635891560066,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "J.K. Adams Ash Wood Modular Stackable Wine Rack Storage Holder with Natural pins, 40 Bottle",
+    "average_rating": 4.6,
+    "rating_number": 228,
+    "features": [
+      "MADE IN VERMONT, USA from sustainably grown and harvested North American hardwoods",
+      "MODULAR CONSTRUCTION allows rack to be built in many style configurations - see included assembly instructions",
+      "Made of Ash wood / driftwood with a teak oil finish",
+      "CARE AND USE. Wipe the parts with a damp cloth and dry thoroughly"
+    ],
+    "description": [
+      "Our Ash Modular Wine Racks are a classic, simple and stylish way to store your ever changing wine collection. Our racks give you the flexibility to build a wine rack that will fit in any space no matter how big or small. Each rack is infinitely expandable and comes with extra joining pins to allow for room to grow with your next Modular Wine Rack. JK Adams customers believe the kitchen is the heart of their home. They love to share artfully prepared and presented food with friends and family. JK Adams crafts beautifully-designed food preparation and serving tools that provide confidence in the kitchen and pride in presentation. Made in Vermont. Make your cooking and entertaining stylish, easy and fun with JK Adams."
+    ],
+    "price": 105.51,
+    "store": "J.K. Adams",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Wine Racks & Cabinets",
+      "Freestanding Wine Racks & Cabinets"
+    ],
+    "details": {
+      "Product Dimensions": "11\"D x 16\"W x 7\"H",
+      "Item Weight": "13 Pounds",
+      "Manufacturer": "JK Adams",
+      "Country of Origin": "USA",
+      "Item model number": "COOP-40-N",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 58964,
+        "Freestanding Wine Racks & Cabinets": 104
+      },
+      "Date First Available": "July 24, 2020",
+      "Brand": "J.K. Adams",
+      "Color": "Ash",
+      "Size": "40 Bottle",
+      "Material": "Wood",
+      "Style": "Cooper",
+      "Product Care Instructions": "Hand Wash",
+      "Bottle Count": "40",
+      "Assembly Required": "Yes"
+    },
+    "parent_asin": "B0971Z1NZF",
+    "bought_together": null
+  }
+}

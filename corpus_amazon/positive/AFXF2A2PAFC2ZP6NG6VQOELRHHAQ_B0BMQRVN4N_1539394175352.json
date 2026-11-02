@@ -1,0 +1,61 @@
+{
+  "id": "AFXF2A2PAFC2ZP6NG6VQOELRHHAQ_B0BMQRVN4N_1539394175352",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Great deal!",
+  "text": "Great deal!. Great deal!",
+  "asin": "B01EIZSF6I",
+  "parent_asin": "B0BMQRVN4N",
+  "user_id": "AFXF2A2PAFC2ZP6NG6VQOELRHHAQ",
+  "timestamp": 1539394175352,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Farberware Countertop Microwave Oven 1.1 Cu. Ft. 1000-Watts with LED Lighting, Child Lock, Easy Clean Interior, Black Stainless Steel",
+    "average_rating": 4.5,
+    "rating_number": 13540,
+    "features": [
+      "CONVENIENT MICROWAVE: Prepare quick and easy meals in a snap with our powerful microwave. It packs 1000 of output power and features a range of settings for press-and-go speed.",
+      "POWERFUL SETTINGS: This microwave has ten power levels with multi-stage cooking. You can fully customize your cooking with six one-touch options, including popcorn, potato, and pizza. Defrost by weight or by time settings to make quick work of any task.",
+      "PERFECT SIZE: Measuring 1.1 cu ft, this microwave is the ideal small-space solution that offers full-sized cooking in a compact space. It features an easy-to-clean interior and exterior and is perfect for the home or office.",
+      "ALL YOU NEED: This microwave has a clear LED display with a kitchen timer and clock that lets you easily keep track of time. Easy-to-view interior lighting lets you keep an eye on your dish, and a child safety lock adds additional security.",
+      "FARBERWARE: From weeknight favorites to family feasts they'll never forget, Farberware helps today's families craft the meals that make memories and bring everyone together."
+    ],
+    "description": [
+      "This microwave oven is the ideal size for office break rooms or home kitchens. One-touch cooking programs let you cook six of the most popular food items with the touch of a button. Choose from ten power levels up to 1000. The large digital screen has a clock feature and can display a countdown timer in addition to the remaining cook time. The memory function lets you customize and save your favorite settings, and the large door has an easy-grip handle and child-safety lock."
+    ],
+    "price": 139.99,
+    "store": "Farberware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Microwave Ovens",
+      "Countertop Microwave Ovens"
+    ],
+    "details": {
+      "Product Dimensions": "16.93\"D x 20.2\"W x 12.03\"H",
+      "Item Weight": "34.6 pounds",
+      "Manufacturer": "Farberware",
+      "Item model number": "Farberware",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 1970,
+        "Countertop Microwave Ovens": 7
+      },
+      "Date First Available": "November 27, 2019",
+      "Brand": "Farberware",
+      "Color": "Black Stainless",
+      "Capacity": "1.1 Cubic Feet",
+      "Special Feature": "Express cooking",
+      "Recommended Uses For Product": "Residential",
+      "Installation Type": "Countertop",
+      "Wattage": "1000 watts",
+      "Material": "Stainless Steel",
+      "Included Components": "12.5 inch turntable"
+    },
+    "parent_asin": "B0BMQRVN4N",
+    "bought_together": null
+  }
+}

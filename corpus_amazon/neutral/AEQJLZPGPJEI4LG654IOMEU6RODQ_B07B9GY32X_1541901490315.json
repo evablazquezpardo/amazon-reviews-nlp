@@ -1,0 +1,41 @@
+{
+  "id": "AEQJLZPGPJEI4LG654IOMEU6RODQ_B07B9GY32X_1541901490315",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Too glitzy",
+  "text": "Too glitzy. Too shinny. A little glitzy",
+  "asin": "B07B9GY32X",
+  "parent_asin": "B07B9GY32X",
+  "user_id": "AEQJLZPGPJEI4LG654IOMEU6RODQ",
+  "timestamp": 1541901490315,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Martha Stewart Collection Harvest 2-Pc. Taper Holder Set,",
+    "average_rating": 4.5,
+    "rating_number": 6,
+    "features": [],
+    "description": [
+      "Martha Stewart Harvest Collection 2-pc Turkey Taper Holder set. Sizes: 3.7in x 2.8in x 3.7in and 3.7in x 2.8in x 4in."
+    ],
+    "price": null,
+    "store": "MARTHA STEWART",
+    "categories": [],
+    "details": {
+      "Brand": "MARTHA STEWART",
+      "Product Dimensions": "3.7\"L x 2.8\"W x 4\"H",
+      "Finish Type": "Painted",
+      "Item Weight": "1 Pounds",
+      "Number of Pieces": "2",
+      "Theme": "Holidays",
+      "Item Diameter": "4 Inches",
+      "Mounting Type": "Tabletop",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 7, 2018"
+    },
+    "parent_asin": "B07B9GY32X",
+    "bought_together": null
+  }
+}

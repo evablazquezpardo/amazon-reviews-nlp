@@ -1,0 +1,44 @@
+{
+  "id": "AGWDA3EUN5GY7GIBS3FDBZQ77OJA_B073W72BG3_1419973607000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Item was a gift. It was well received.",
+  "asin": "B0000CFTQT",
+  "parent_asin": "B073W72BG3",
+  "user_id": "AGWDA3EUN5GY7GIBS3FDBZQ77OJA",
+  "timestamp": 1419973607000,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mrs. Anderson’s Baking 7406 Harold Import Co Crust",
+    "average_rating": 4.4,
+    "rating_number": 76,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Mrs. Anderson's Baking",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Pie, Tart & Quiche Pans",
+      "Pie Pans"
+    ],
+    "details": {
+      "Product Dimensions": "11.5 x 11.5 x 0.25 inches",
+      "Item Weight": "27.22 Grams",
+      "Item model number": "7406/2",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 11, 2017",
+      "Brand": "Mrs. Anderson's Baking",
+      "Item Dimensions LxWxH": "11.5 x 11.5 x 0.25 inches",
+      "Operation Mode": "Manual",
+      "Is Dishwasher Safe": "No"
+    },
+    "parent_asin": "B073W72BG3",
+    "bought_together": null
+  }
+}

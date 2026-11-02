@@ -1,0 +1,52 @@
+{
+  "id": "AGL66VJWJ5BXD7IRM2SA7T7HLJFQ_B0BG9T7FFG_1527527922221",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Fragile",
+  "text": "Fragile. Our original belt lasted 6 years, this belt only lasted 4 months and broke in half.",
+  "asin": "B008MNW5P0",
+  "parent_asin": "B0BG9T7FFG",
+  "user_id": "AGL66VJWJ5BXD7IRM2SA7T7HLJFQ",
+  "timestamp": 1527527922221,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kirby 301291S Brush Belt-Knurled 1100cs, 1100",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "This is an O.E.M. authorized part",
+      "Fits various Kirby models",
+      "OEM Part Number 301291S",
+      "This is a Kirby replacement part",
+      "Part Number 301291S",
+      "This is an O.E.M. part"
+    ],
+    "description": [
+      "This is an O.E.M. authorized part. Fits various Kirby models. OEM Part Number 301291S. Made in United States."
+    ],
+    "price": 1025.0,
+    "store": "Kirby",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Replacement Batteries & Parts",
+      "Belts"
+    ],
+    "details": {
+      "Brand": "Kirby",
+      "Item Dimensions LxWxH": "1 x 1 x 1 inches",
+      "Compatible Devices": "Motorcycle",
+      "Item Weight": "1 Pounds",
+      "Product Dimensions": "1 x 1 x 1 inches; 1 Pounds",
+      "Item model number": "301291S",
+      "Date First Available": "May 11, 2016",
+      "Manufacturer": "Kirby"
+    },
+    "parent_asin": "B0BG9T7FFG",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "AHSWBB6FZBEA7W7PMSO4L5SC7ERQ_B00ZZEGLY0_1511202680123",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "don't buy it",
+  "text": "don't buy it. only lasted about two months",
+  "asin": "B00ZZEGLY0",
+  "parent_asin": "B00ZZEGLY0",
+  "user_id": "AHSWBB6FZBEA7W7PMSO4L5SC7ERQ",
+  "timestamp": 1511202680123,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "LE® 23ft LED Solar Rope Lights, Waterproof, 50 LEDs, 1.2 V, Blue, Portable, with Light Sensor, Outdoor Rope Lights, Ideal for Christmas, Wedding, Party",
+    "average_rating": 3.7,
+    "rating_number": 71,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Seasonal Lighting",
+      "Rope Lights"
+    ],
+    "details": {
+      "Package Dimensions": "6.4 x 6.1 x 3.3 inches",
+      "Item Weight": "14.4 ounces",
+      "Item model number": "Lig-2608",
+      "Batteries": "1 Product Specific batteries required.",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B00ZZEGLY0",
+    "bought_together": null
+  }
+}

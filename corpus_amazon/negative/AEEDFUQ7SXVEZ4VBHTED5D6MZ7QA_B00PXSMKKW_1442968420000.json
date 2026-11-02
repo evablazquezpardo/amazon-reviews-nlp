@@ -1,0 +1,46 @@
+{
+  "id": "AEEDFUQ7SXVEZ4VBHTED5D6MZ7QA_B00PXSMKKW_1442968420000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Look really cheap",
+  "asin": "B00PXSMKKW",
+  "parent_asin": "B00PXSMKKW",
+  "user_id": "AEEDFUQ7SXVEZ4VBHTED5D6MZ7QA",
+  "timestamp": 1442968420000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "1 Piece Simulation Butterfly Orchid Artificial Flower Plant Home Decoration White",
+    "average_rating": 3.7,
+    "rating_number": 75,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Flowers"
+    ],
+    "details": {
+      "Plant or Animal Product Type": "Orchid",
+      "Color": "White",
+      "Material": "Vinyl",
+      "Specific Uses For Product": "Home Decor",
+      "Number of Items": "1",
+      "Item Weight": "1.41 ounces",
+      "Item Package Quantity": "1",
+      "Unit Count": "1.0 Count",
+      "Product Dimensions": "2.13 x 7.87 x 8.9 inches",
+      "Item model number": "DBP1",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00PXSMKKW",
+    "bought_together": null
+  }
+}

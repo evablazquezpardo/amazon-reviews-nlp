@@ -1,0 +1,49 @@
+{
+  "id": "AG7FS5EQU2WOSBFNQGDY3VP25LVA_B005UNCLMW_1393566848000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "It works ok",
+  "text": "It works ok. I say it works ok, it make one big stuffed hamburger. And I do mean BIG. It will be fun trying new stuffing of it!",
+  "asin": "B005UNCLMW",
+  "parent_asin": "B005UNCLMW",
+  "user_id": "AG7FS5EQU2WOSBFNQGDY3VP25LVA",
+  "timestamp": 1393566848000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Charcoal Companion CC5119 Stuff-a-Burger Press",
+    "average_rating": 4.1,
+    "rating_number": 97,
+    "features": [
+      "Stuff burgers with fillings by your design",
+      "Made of durable plastic that is dishwasher safe",
+      "Easy to use desgin",
+      "Makes a functional yet quirky gift for any griller or cook"
+    ],
+    "description": [
+      "Designed to hold an impressive 3/4-pound of ground meat, the Stuff-A-Burger Press can be filled with an infinite variety of flavor combinations. Try it with garted cheese, grilled onions or mushrooms."
+    ],
+    "price": null,
+    "store": "Charcoal Companion",
+    "categories": [
+      "Home & Kitchen",
+      "Breakfast, Lunch, Dinner, Dessert",
+      "Lunch"
+    ],
+    "details": {
+      "Product Dimensions": "4.72 x 5.28 x 2.76 inches",
+      "Item Weight": "5.8 ounces",
+      "Manufacturer": "Charcoal Companion",
+      "Item model number": "CC5119",
+      "Best Sellers Rank": {
+        "Patio, Lawn & Garden": 539100,
+        "Outdoor Cooking Tools & Accessories": 18979
+      },
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B005UNCLMW",
+    "bought_together": null
+  }
+}

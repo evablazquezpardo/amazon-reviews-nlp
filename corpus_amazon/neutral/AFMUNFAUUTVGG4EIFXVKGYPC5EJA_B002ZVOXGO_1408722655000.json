@@ -1,0 +1,53 @@
+{
+  "id": "AFMUNFAUUTVGG4EIFXVKGYPC5EJA_B002ZVOXGO_1408722655000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Filters are a little expensive for the paper and plastic they are made of.",
+  "asin": "B002ZVOXGO",
+  "parent_asin": "B002ZVOXGO",
+  "user_id": "AFMUNFAUUTVGG4EIFXVKGYPC5EJA",
+  "timestamp": 1408722655000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bestway Type V Filter Cartridges",
+    "average_rating": 4.2,
+    "rating_number": 155,
+    "features": [
+      "Genuine Bestway Flowclear #58168 replacement filter cartridge",
+      "Fits Bestway Flowclear 330 gallon per hour Model 58144 and 58144US filter pumps",
+      "Measures 3.1\" (8.0cm) high x 3.3\" (8.3cm) diameter",
+      "Sold in twin pack only",
+      "DOES NOT FIT Model 58145 Bestway Flowclear filter pump"
+    ],
+    "description": [
+      "From the Manufacturer",
+      "This is the genuine model 58168 replacement filter by Bestway, and will work for your Flowclear 330GPH filter pump. This cartridge filter measures 3.1\" (8cm) high x 3.3\" (8.3cm) in diameter, and are sold in packages of two. Please be advised that this filter cartridge does NOT fit Bestway 58145 Flowclear filter pump model."
+    ],
+    "price": null,
+    "store": "Bestway",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Purifier Parts & Accessories"
+    ],
+    "details": {
+      "Product Dimensions": "3.27 x 3.27 x 6.3 inches",
+      "Item Weight": "0.96 ounces",
+      "Manufacturer": "Bestway",
+      "Item model number": "58168",
+      "Best Sellers Rank": {
+        "Patio, Lawn & Garden": 326349,
+        "Home Air Purifier Parts & Accessories": 4946,
+        "Gardening & Lawn Care": 113687
+      },
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B002ZVOXGO",
+    "bought_together": null
+  }
+}

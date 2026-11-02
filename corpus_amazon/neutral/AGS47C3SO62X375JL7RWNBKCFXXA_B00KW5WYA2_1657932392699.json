@@ -1,0 +1,55 @@
+{
+  "id": "AGS47C3SO62X375JL7RWNBKCFXXA_B00KW5WYA2_1657932392699",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Served the purpose",
+  "text": "Served the purpose. But we're much thinner and flimsyer than the last ones we had",
+  "asin": "B00KW5WYA2",
+  "parent_asin": "B00KW5WYA2",
+  "user_id": "AGS47C3SO62X375JL7RWNBKCFXXA",
+  "timestamp": 1657932392699,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "CounterArt Octagonal Acrylic Placemat, Set of 4",
+    "average_rating": 3.8,
+    "rating_number": 55,
+    "features": [
+      "Clear acrylic body is durable and see-through",
+      "Unique octagonal shape works on a formal or casual table",
+      "Allows visibility to your beautiful tablecloth while protecting it from spills",
+      "Easy clean up- simply wipe with damp cloth",
+      "Packed in a set of 4-Each placemat measures 17-1/8 by 11-1/4"
+    ],
+    "description": [
+      "These CounterArt octagonal placemats are a unique and interesting shape, great for use on any table. The clear, hard acrylic body allows for visibility of your beautiful tablecloth through the mat, while protecting the fabric from spills and stains. These versatile placemats may be used on a dressed up table or in a casual setting. Easy to clean- simply wipe with a damp cloth. These mats measure 17-1/8 by 11/1/4 and come packed in a set of four."
+    ],
+    "price": 25.99,
+    "store": "Counterart",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Place Mats"
+    ],
+    "details": {
+      "Product Dimensions": "11.25 x 11.25 x 0.25 inches",
+      "Item Weight": "3.2 ounces",
+      "Manufacturer": "CounterArt",
+      "Item model number": "41501",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 473059,
+        "Place Mats": 6086
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Care instructions": "Damp Cloth",
+      "Assembly required": "No",
+      "Number of pieces": "4",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00KW5WYA2",
+    "bought_together": null
+  }
+}

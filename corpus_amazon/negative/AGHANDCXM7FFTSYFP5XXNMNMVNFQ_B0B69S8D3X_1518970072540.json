@@ -1,0 +1,64 @@
+{
+  "id": "AGHANDCXM7FFTSYFP5XXNMNMVNFQ_B0B69S8D3X_1518970072540",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Very flimsy",
+  "asin": "B00JV1CV1A",
+  "parent_asin": "B0B69S8D3X",
+  "user_id": "AGHANDCXM7FFTSYFP5XXNMNMVNFQ",
+  "timestamp": 1518970072540,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "reCAP Zero Waste Kit for Mason Jars - BLACK | Made in the USA | Leak-proof | No-break material",
+    "average_rating": 4.3,
+    "rating_number": 491,
+    "features": [
+      "MADE IN USA: reCAP is a small, woman-owned business that makes its products in Erie, Pennsylvania.",
+      "UNRIVALED QUALITY: reCAP Mason Jars lids are a leader in Mason jar accessories for their durability (made of no-break plastic), value, and design. They are leak-proof and stain-resistant.",
+      "ECO-FRIENDLY: reCAP Mason Jars lids are reusable and, made of smart plastic, can eliminate single-use plastics.",
+      "STANDARDIZED SIZE: These Pour Caps and Drinking Lids fit regular and wide-mouth Mason jars such as Atlas, Ball, Bernardin, Golden Harvest, Kerr, Legacy, Orchard Road, and Quattro Stagioni.",
+      "MULTI-PURPOSE: This reCAP Mason Jars Set has nearly endless uses. Turn your Mason jar into a water bottle on the go with our fold-out carry loop. A great storage container for dry goods or liquid. Organize your kitchen, bath, home, or office."
+    ],
+    "description": [],
+    "price": 30.0,
+    "store": "reCAP",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Canning",
+      "Jars"
+    ],
+    "details": {
+      "Material": "Plastic",
+      "Color": "Black",
+      "Brand": "reCAP",
+      "Style": "Jar",
+      "Number of Pieces": "1",
+      "Is Dishwasher Safe": "Yes",
+      "Is Microwaveable": "Yes",
+      "Manufacturer": "reCAP",
+      "Part Number": "reFIVE-BLCK",
+      "Item Weight": "10.2 ounces",
+      "Package Dimensions": "8.78 x 4.37 x 4.33 inches",
+      "Country of Origin": "USA",
+      "Item model number": "reFIVE-BLCK",
+      "Size": "5 Piece",
+      "Included Components": "Mason Jar lids",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 96120,
+        "Canning Lids": 452,
+        "Canning Jars": 913
+      },
+      "Date First Available": "January 20, 2022"
+    },
+    "parent_asin": "B0B69S8D3X",
+    "bought_together": null
+  }
+}

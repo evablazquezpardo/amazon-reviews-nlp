@@ -1,0 +1,57 @@
+{
+  "id": "AF3GHL7OXSMBHL2WASZUJ3SURYSA_B0030T1U8E_1544389804162",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Dish",
+  "text": "Dish. Gasket broken after short time.",
+  "asin": "B0030T1U8E",
+  "parent_asin": "B0030T1U8E",
+  "user_id": "AF3GHL7OXSMBHL2WASZUJ3SURYSA",
+  "timestamp": 1544389804162,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Pyrex No Leak Lids 4 Cup Round Baking Dish with Plastic Lid",
+    "average_rating": 4.0,
+    "rating_number": 105,
+    "features": [
+      "Leak proof and airtight seal",
+      "Vent for microwaving",
+      "Ovensafe glass for baking",
+      "Elastomer seal around plastic lid"
+    ],
+    "description": [
+      "Pyrex No Leak Lids 4 Cup Round Baking Dish with Plastic Lid"
+    ],
+    "price": null,
+    "store": "Pyrex",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Bakers & Casseroles",
+      "Bakers"
+    ],
+    "details": {
+      "Material": "Glass",
+      "Brand": "Pyrex",
+      "Shape": "Round",
+      "Special Feature": "Oven Safe, Nonstick",
+      "Capacity": "6 Inches, 4 Cups",
+      "Occasion": "Wedding, Christmas, Birthday, Valentine's Day",
+      "Included Components": "Cake Dish",
+      "Number of Pieces": "4",
+      "Item Weight": "1 pounds",
+      "Is Dishwasher Safe": "Yes",
+      "Product Dimensions": "6 x 6 x 2.88 inches",
+      "Manufacturer": "Pyrex",
+      "Item model number": "1088826",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 1, 2009"
+    },
+    "parent_asin": "B0030T1U8E",
+    "bought_together": null
+  }
+}

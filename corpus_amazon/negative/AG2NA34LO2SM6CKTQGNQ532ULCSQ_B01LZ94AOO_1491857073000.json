@@ -1,0 +1,49 @@
+{
+  "id": "AG2NA34LO2SM6CKTQGNQ532ULCSQ_B01LZ94AOO_1491857073000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Small. Doesn't even stand upright correctly. Keep shopping ...",
+  "text": "Small. Doesn't even stand upright correctly. Keep shopping .... Small.  Doesn't even stand upright correctly.  Keep shopping around.",
+  "asin": "B01LZ94AOO",
+  "parent_asin": "B01LZ94AOO",
+  "user_id": "AG2NA34LO2SM6CKTQGNQ532ULCSQ",
+  "timestamp": 1491857073000,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bintopia 2 Tone Hamper, Red/Blue Trim",
+    "average_rating": 3.8,
+    "rating_number": 3,
+    "features": [
+      "Assembled dimensions 15.51 x 18.5\"\"h",
+      "Durable and light weight",
+      "Handles for easy portability",
+      "Use as hamper or additional storage",
+      "Lightweight hamper/tote"
+    ],
+    "description": [
+      "2 tone hamper - red/blue trim. Assembled dimensions 15.51 x 18.5\"\"h. Durable and light weight. Handles for easy portability."
+    ],
+    "price": null,
+    "store": "Bintopia",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Laundry Hampers"
+    ],
+    "details": {
+      "Product Dimensions": "15.51 x 15.51 x 18.5 inches",
+      "Item Weight": "1.41 pounds",
+      "Manufacturer": "Bintopia",
+      "Item model number": "88811",
+      "Assembly required": "Yes",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B01LZ94AOO",
+    "bought_together": null
+  }
+}

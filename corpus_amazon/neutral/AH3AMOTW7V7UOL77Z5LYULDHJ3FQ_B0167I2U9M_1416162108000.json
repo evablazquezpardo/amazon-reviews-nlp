@@ -1,0 +1,61 @@
+{
+  "id": "AH3AMOTW7V7UOL77Z5LYULDHJ3FQ_B0167I2U9M_1416162108000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. It's ok",
+  "asin": "B00GTSFUKW",
+  "parent_asin": "B0167I2U9M",
+  "user_id": "AH3AMOTW7V7UOL77Z5LYULDHJ3FQ",
+  "timestamp": 1416162108000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Denise Striped 3 Piece Bath Rub Set, Tub, Contour, Lid Lilac",
+    "average_rating": 3.4,
+    "rating_number": 62,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Denise Striped 3 Piece Bath Rub Set, Tub, Contour, Lid - Lilac"
+    ],
+    "description": [
+      "Denise Striped 3 Piece Bath Rub Set, Tub, Contour, Lid - Lilac"
+    ],
+    "price": 21.24,
+    "store": "Kashi Home",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bath Rugs"
+    ],
+    "details": {
+      "Brand": "Kashi Home",
+      "Size": "1.00 x 18.00 x 30.00 inches",
+      "Material": "Polyester, Polyester Blend",
+      "Back Material Type": "Rubber",
+      "Color": "Lilac",
+      "Theme": "Striped",
+      "Is Stain Resistant": "No",
+      "Pattern": "Striped",
+      "Shape": "Rectangular",
+      "Room Type": "Bathroom",
+      "Product Dimensions": "30\"L x 18\"W",
+      "Style": "Art Deco",
+      "Age Range (Description)": "Adult",
+      "Number of Pieces": "1",
+      "Item Weight": "2.85 pounds",
+      "Manufacturer": "Kashi",
+      "Item model number": "RS019379",
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "100% Polyester",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B0167I2U9M",
+    "bought_together": null
+  }
+}

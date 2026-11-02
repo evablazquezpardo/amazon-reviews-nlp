@@ -1,0 +1,40 @@
+{
+  "id": "AEJDETWITK2KGACH7FUBMY33PPSQ_B01GF1D20C_1501472097355",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Works",
+  "text": "Works. Great price works!",
+  "asin": "B01GF1D20C",
+  "parent_asin": "B01GF1D20C",
+  "user_id": "AEJDETWITK2KGACH7FUBMY33PPSQ",
+  "timestamp": 1501472097355,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "MopAway Bath Mat, Non Toxic (Latex & PVC Free) with High Strength Suction Cups 16 x 27",
+    "average_rating": 4.1,
+    "rating_number": 13,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "MopAway",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Bathtub Accessories",
+      "Bathtub Mats"
+    ],
+    "details": {
+      "Package Dimensions": "15.7 x 2.7 x 1.2 inches",
+      "Item Weight": "1.75 pounds",
+      "Item model number": "MP-BTMT1628",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 28, 2016"
+    },
+    "parent_asin": "B01GF1D20C",
+    "bought_together": null
+  }
+}

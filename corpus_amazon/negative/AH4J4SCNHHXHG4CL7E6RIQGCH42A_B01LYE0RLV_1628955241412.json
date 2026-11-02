@@ -1,0 +1,54 @@
+{
+  "id": "AH4J4SCNHHXHG4CL7E6RIQGCH42A_B01LYE0RLV_1628955241412",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not so sure this is calibrated properly",
+  "text": "Not so sure this is calibrated properly. I guess the next time I buy an oven thermometer it better have a calibration certificate because I don't really trust this one",
+  "asin": "B01LYE0RLV",
+  "parent_asin": "B01LYE0RLV",
+  "user_id": "AH4J4SCNHHXHG4CL7E6RIQGCH42A",
+  "timestamp": 1628955241412,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "Taylor 3506 TruTemp Series Oven/Grill Analog Dial Thermometer with Dual-Scale",
+    "average_rating": 4.4,
+    "rating_number": 2857,
+    "features": [
+      "Dials size (inch short): 2.25",
+      "Division (degree c): 5",
+      "Division (): 5",
+      "Oven thermometer"
+    ],
+    "description": [
+      "TRUTH Bimetal oven thermometer features a compact dual-scale dial with a brightly colored guide to make reading easier and a durable stainless steel casing and glass lens. Built-in hanger and stand works in any oven. Leave in oven to monitor temperatures. Hand wash only. Get more reliable, consistent results."
+    ],
+    "price": 7.85,
+    "store": "Taylor",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Thermometers & Timers",
+      "Oven Thermometers"
+    ],
+    "details": {
+      "Brand": "Taylor",
+      "Age Range (Description)": "Adult",
+      "Outer Material": "Stainless Steel",
+      "Display Type": "Analog",
+      "Unit Count": "1.0 Count",
+      "Item Length": "2.25 Inches",
+      "Response Time": "500 Milliseconds",
+      "Reusability": "Reusable",
+      "Is Discontinued By Manufacturer": "No",
+      "Item model number": "3506",
+      "Date First Available": "October 3, 2016",
+      "Manufacturer": "Cole-Parmer"
+    },
+    "parent_asin": "B01LYE0RLV",
+    "bought_together": null
+  }
+}

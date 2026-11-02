@@ -1,0 +1,44 @@
+{
+  "id": "AGTJAM6NFSYTR5KB6DQNHZ3ZIFFQ_B07MF8BFHZ_1569169123284",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not so good",
+  "text": "Not so good. Doesn't work on any carpet or rug very little suction",
+  "asin": "B07MF8BFHZ",
+  "parent_asin": "B07MF8BFHZ",
+  "user_id": "AGTJAM6NFSYTR5KB6DQNHZ3ZIFFQ",
+  "timestamp": 1569169123284,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Teepao Mop Vacuum Cleaner Robot, Robotic Auto Home Cleaning for Clean Carpet Hardwood Floor/Self Activation- HEPA Pet Hair and Allergies Friendly",
+    "average_rating": 2.6,
+    "rating_number": 50,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuums",
+      "Robotic Vacuums"
+    ],
+    "details": {
+      "Special Feature": "HEPA",
+      "Capacity": "0.4 Liters",
+      "Power Source": "Battery Powered",
+      "Are Batteries Included": "No",
+      "Form Factor": "Robotic",
+      "Package Dimensions": "15.2 x 12.13 x 3.62 inches",
+      "Item Weight": "2.28 pounds",
+      "Date First Available": "March 15, 2019",
+      "Surface Recommendation Hardwood,Carpet,Floor": "",
+      "": "Battery Cell Composition Lithium"
+    },
+    "parent_asin": "B07MF8BFHZ",
+    "bought_together": null
+  }
+}

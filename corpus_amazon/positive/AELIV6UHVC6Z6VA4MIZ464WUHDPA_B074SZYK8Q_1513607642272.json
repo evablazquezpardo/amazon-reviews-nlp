@@ -1,0 +1,61 @@
+{
+  "id": "AELIV6UHVC6Z6VA4MIZ464WUHDPA_B074SZYK8Q_1513607642272",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love it",
+  "text": "Love it. Love this pan...",
+  "asin": "B074SZYK8Q",
+  "parent_asin": "B074SZYK8Q",
+  "user_id": "AELIV6UHVC6Z6VA4MIZ464WUHDPA",
+  "timestamp": 1513607642272,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Starfrit Electric Skillet, One Size, Black",
+    "average_rating": 4.5,
+    "rating_number": 56,
+    "features": [
+      "Cast-aluminum body is 25% thicker than most leading brands",
+      "Roc. Tec Patented technology which ensures that the skillet will heat evenly, effortlessly release food, and never warp",
+      "Tempered glass lid so you can keep an eye on your food",
+      "Bakelite handles stay cool to the touch"
+    ],
+    "description": [
+      "The Rock XL electric skillet, 15\" X 12\", Mfg# 024401-002-0000, Cast Aluminum with easy to clean Rock. Tec non-stick surface with extra-thick base. Removable controller, tempered glass lid, cool-touch handles."
+    ],
+    "price": null,
+    "store": "Starfrit",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Pots & Pans",
+      "Skillets"
+    ],
+    "details": {
+      "Special Feature": "Electric Stovetop Compatible",
+      "Color": "Black",
+      "Material": "Alloy Steel",
+      "Brand": "Starfrit",
+      "Product Dimensions": "20.28\"D x 7.28\"W x 12.4\"H",
+      "Wattage": "1500 watts",
+      "Item Weight": "8.2 Pounds",
+      "Included Components": "Electric Skillet",
+      "Style": "Non-stick,Electric",
+      "Voltage": "120 Volts",
+      "Number of settings": "6",
+      "Manufacturer": "Starfrit",
+      "Item model number": "024401-002-0000",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 357093,
+        "Skillets": 1235
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 22, 2017"
+    },
+    "parent_asin": "B074SZYK8Q",
+    "bought_together": null
+  }
+}

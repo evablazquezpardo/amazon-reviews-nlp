@@ -1,0 +1,39 @@
+{
+  "id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q_B07MVV6FQF_1567028916243",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Does what it's made to do.",
+  "text": "Does what it's made to do.. It peels veggies.",
+  "asin": "B07MVV6FQF",
+  "parent_asin": "B07MVV6FQF",
+  "user_id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q",
+  "timestamp": 1567028916243,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Antrader Stainless Steel Vegetable Peeler - Ideal for Apples, Carrots and Potatoes - 6 Inches",
+    "average_rating": 3.6,
+    "rating_number": 222,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Antrader",
+    "categories": [],
+    "details": {
+      "Brand": "Antrader",
+      "Blade Material": "Stainless Steel",
+      "Operation Mode": "Manual",
+      "Material": "stainless_steel",
+      "Style": "Classic",
+      "Number of Blades": "1",
+      "Package Dimensions": "6 x 1.1 x 0.3 inches",
+      "Item Weight": "0.81 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 11, 2020"
+    },
+    "parent_asin": "B07MVV6FQF",
+    "bought_together": null
+  }
+}

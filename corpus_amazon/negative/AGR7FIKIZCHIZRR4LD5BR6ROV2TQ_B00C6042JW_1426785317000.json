@@ -1,0 +1,59 @@
+{
+  "id": "AGR7FIKIZCHIZRR4LD5BR6ROV2TQ_B00C6042JW_1426785317000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Item was returned. Impossible to assemble.",
+  "text": "Item was returned. Impossible to assemble.. Item was returned. Impossible to assemble.",
+  "asin": "B00C6042JW",
+  "parent_asin": "B00C6042JW",
+  "user_id": "AGR7FIKIZCHIZRR4LD5BR6ROV2TQ",
+  "timestamp": 1426785317000,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lifter Hamper Spring Loaded Laundry Hamper, Black",
+    "average_rating": 3.5,
+    "rating_number": 107,
+    "features": [
+      "Holds 2-3 loads of laundry",
+      "Easy to move around the house with built-in wheels",
+      "No more bending over to pick up your clothes",
+      "The Lifter Hamper is a bungee spring loaded laundry hamper",
+      "Available in an assortment of colors"
+    ],
+    "description": [
+      "The Lifter Hamper is not your ordinary laundry hamper. This innovative laundry hamper's patented Lifter Liner allows it to drop down with the weight of the laundry and rise to the top as laundry is removed . The handle and wheels also make is easy to move from one room to another room, making that back breaking chore easy to do. The Lifter Hamper is stylish and comes in an assortment of colors with it's removable outer shell. Once you've tried the lifter hamper you'll never want to go back to your old laundry hamper."
+    ],
+    "price": null,
+    "store": "Lifter Hamper",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Laundry Hampers"
+    ],
+    "details": {
+      "Product Dimensions": "34\"L x 16\"W x 26\"H",
+      "Brand": "Lifter Hamper",
+      "Color": "Black",
+      "Style": "Handle",
+      "Special Feature": "Removable",
+      "Shape": "Rectangular",
+      "Included Components": "Handle",
+      "Number of Pieces": "1",
+      "Number of Compartments": "1",
+      "Mounting Type": "Floor Mount",
+      "Item Weight": "3.5 pounds",
+      "Manufacturer": "Empee Solutions",
+      "Item model number": "LH1002",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "Yes",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B00C6042JW",
+    "bought_together": null
+  }
+}

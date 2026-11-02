@@ -1,0 +1,34 @@
+{
+  "id": "AER7BPYAMW5CAICYIJX7QW64MBIA_B01EAH7AVU_1482654565000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Ouch!",
+  "text": "Ouch!. I think I could almost feel the springs, you get what you pay for. Terrible mattress and pain to return.",
+  "asin": "B01EAH7AVU",
+  "parent_asin": "B01EAH7AVU",
+  "user_id": "AER7BPYAMW5CAICYIJX7QW64MBIA",
+  "timestamp": 1482654565000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Spinal Solution 9\" Pillowtop Fully Assembled Orthopedic Mattress and Box Spring, Queen",
+    "average_rating": 3.7,
+    "rating_number": 49,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Spinal Solution",
+    "categories": [],
+    "details": {
+      "Item Weight": "80 pounds",
+      "Product Dimensions": "79 x 59 x 18 inches",
+      "Item model number": "440G-5/0-2",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 27, 2017"
+    },
+    "parent_asin": "B01EAH7AVU",
+    "bought_together": null
+  }
+}

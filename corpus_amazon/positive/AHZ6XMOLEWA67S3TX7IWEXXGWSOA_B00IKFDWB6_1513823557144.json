@@ -1,0 +1,62 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B00IKFDWB6_1513823557144",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Beautiful fabric and design.",
+  "asin": "B00IKFDWB6",
+  "parent_asin": "B00IKFDWB6",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1513823557144,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Avanti Linens Eternity Fingertip Towel, 11 by 18-Inch, Black",
+    "average_rating": 4.5,
+    "rating_number": 63,
+    "features": [
+      "Cotton",
+      "Avanti Linens",
+      "100% Cotton",
+      "Model Number: 36984",
+      "Black"
+    ],
+    "description": [
+      "These nicely decorated towels are made in America by Avanti Linens. Each towel is come with washing instructions."
+    ],
+    "price": null,
+    "store": "Avanti Linens",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Bath Towels"
+    ],
+    "details": {
+      "Color": "Black",
+      "Brand": "Avanti Linens",
+      "Towel form type": "Fingertip Towel",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Product Dimensions": "18\"L x 11\"W",
+      "Number of Items": "1",
+      "Pattern": "Solid",
+      "Theme": "Floral",
+      "Product Care Instructions": "Machine Wash",
+      "Shape": "Rectangular",
+      "Size": "Fingertip",
+      "Unit Count": "1.0 Count",
+      "Fabric Type": "Cotton",
+      "Item Weight": "3.2 ounces",
+      "Manufacturer": "Avanti Linens",
+      "Item model number": "36984",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00IKFDWB6",
+    "bought_together": null
+  }
+}

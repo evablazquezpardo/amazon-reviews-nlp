@@ -1,0 +1,43 @@
+{
+  "id": "AFGNIWCBLQT2QIXXKIW7Q6VREZRQ_B01N4MRSU2_1629139433705",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Doesn't work",
+  "text": "Doesn't work. This leaks and it does not chop the food like it's supposed to. Returned!",
+  "asin": "B01N4MRSU2",
+  "parent_asin": "B01N4MRSU2",
+  "user_id": "AFGNIWCBLQT2QIXXKIW7Q6VREZRQ",
+  "timestamp": 1629139433705,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cross Blade Spare Replacement Part for Magic Bullet Blender, Juicer and Mixer (Model MB1001)",
+    "average_rating": 4.4,
+    "rating_number": 5252,
+    "features": [],
+    "description": [],
+    "price": 7.49,
+    "store": "Plixio",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliance Parts & Accessories",
+      "Blender Replacement Parts"
+    ],
+    "details": {
+      "Package Dimensions": "4.09 x 3.7 x 3.11 inches",
+      "Item Weight": "3.3 ounces",
+      "Item model number": "KG1014",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 51326,
+        "Blender Replacement Parts": 67
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 10, 2017"
+    },
+    "parent_asin": "B01N4MRSU2",
+    "bought_together": null
+  }
+}

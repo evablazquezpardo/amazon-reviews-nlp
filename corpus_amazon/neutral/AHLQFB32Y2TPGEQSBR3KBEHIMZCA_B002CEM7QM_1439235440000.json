@@ -1,0 +1,53 @@
+{
+  "id": "AHLQFB32Y2TPGEQSBR3KBEHIMZCA_B002CEM7QM_1439235440000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Looks great, works not so great.",
+  "text": "Looks great, works not so great.. Actually pretty hard to use.  You have to get the teeth positioned perfectly to open a beer.  Looks super awesome, but not the easiest to actually use.",
+  "asin": "B002CEM7QM",
+  "parent_asin": "B002CEM7QM",
+  "user_id": "AHLQFB32Y2TPGEQSBR3KBEHIMZCA",
+  "timestamp": 1439235440000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Toys & Games",
+    "title": "Brothers Star Trek: USS Enterprise Bottle Opener",
+    "average_rating": 4.6,
+    "rating_number": 865,
+    "features": [
+      "Brothers Star Trek: USS Enterprise Bottle Opener"
+    ],
+    "description": [
+      "Sit back, put your Spock ears on and watch some classic episodes or the new Star Trek film — and what goes better with Star Trek than a nice, cold beer. Fear not, Trekkies, with the release of the USS Enterprise Bottle Opener, now you can open those chilled beers in true Trek style."
+    ],
+    "price": null,
+    "store": "STAR TREK",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Bar & Wine Tools",
+      "Corkscrews & Openers",
+      "Bottle Openers"
+    ],
+    "details": {
+      "Product Dimensions": "5\"L x 3\"W",
+      "Item Weight": "0.33 Pounds",
+      "Item model number": "APR091585",
+      "Manufacturer recommended age": "14 - 18 years",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 341940,
+        "Bottle Openers": 2759
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Manufacturer": "Diamond Comic Distributors",
+      "Brand": "Star Trek",
+      "Item Dimensions LxWxH": "5 x 3 x 1 inches",
+      "Is Customizable": "No"
+    },
+    "parent_asin": "B002CEM7QM",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B00O1O67D0_1425787023000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. These grippers keep the bedsheets nice and tight.  No more wrinkles.",
+  "asin": "B00O1O67D0",
+  "parent_asin": "B00O1O67D0",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1425787023000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "The Nyche Designs Bed Sheet Grippers Keep Sheets Snug (Set of 4)",
+    "average_rating": 3.5,
+    "rating_number": 161,
+    "features": [
+      "Keeps the bed sheet in place and snug",
+      "Lock together the piping/seam and sheet/bedskirt",
+      "Once they are on, they don't get off easily",
+      "Hard plastic, non-bendable"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Nyche Designs",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bedding Accessories",
+      "Sheet Fasteners"
+    ],
+    "details": {
+      "Product Dimensions": "3.4 x 2.7 x 0.8 inches",
+      "Item Weight": "1.6 ounces",
+      "Manufacturer": "Nyche Designs",
+      "Item model number": "8541803495",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Size": "3 inches long",
+      "Color": "Brown",
+      "Material": "Plastic",
+      "Brand": "The Nyche Designs"
+    },
+    "parent_asin": "B00O1O67D0",
+    "bought_together": null
+  }
+}

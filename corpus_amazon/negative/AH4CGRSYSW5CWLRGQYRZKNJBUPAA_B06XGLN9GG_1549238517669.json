@@ -1,0 +1,54 @@
+{
+  "id": "AH4CGRSYSW5CWLRGQYRZKNJBUPAA_B06XGLN9GG_1549238517669",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Need to return",
+  "text": "Need to return. The coffee did not infuse well at all. Disappointed.",
+  "asin": "B06XGLN9GG",
+  "parent_asin": "B06XGLN9GG",
+  "user_id": "AH4CGRSYSW5CWLRGQYRZKNJBUPAA",
+  "timestamp": 1549238517669,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Osaka, Cold Brew Coffee Maker - 1.5 Liter Tritan Carafe with Stainless Steel Mesh Filter Fushimi Inari Taisha (Grey)",
+    "average_rating": 3.8,
+    "rating_number": 63,
+    "features": [
+      "LOOKS LIKE GLASS, BUT SHATTERPROOF - The pitcher is made from BPA-free Eastman Tritan copolyester it will not break, nick, crack or warp even after using it hundreds of times.",
+      "EASY POUR SEAL LID - The lid keeps an airtight seal with or without the filter, keeping your cold-brew coffee extract fresh for up to 2 WEEKS! The specially designed spout makes for an easy pour.",
+      "STAINLESS STEEL MESH FILTER - The filter is made of high grade 300 micron stain­less steel mesh which produces a clear and exceptional coffee.",
+      "LARGE CAPACITY - Brews up to 1.5 liters of coffee at a time. That is about 10 (5oz.) cups of coffee in a single brew.",
+      "QUALITY GUARANTEED - Create a delicious coffee like a pro, with our detailed instructions and tips. For any defects in the materials or craftsmanship of any Osaka product, please contact our customer service team and we will be glad to assist you."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Osaka",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Cold Brew Coffee Makers"
+    ],
+    "details": {
+      "Brand": "Osaka",
+      "Capacity": "1.5 Liters",
+      "Color": "Grey",
+      "Material": "Stainless Steel",
+      "Filter Type": "Reusable",
+      "Included Components": "Filter, Carafe",
+      "Operation Mode": "Manual",
+      "Package Type": "Standard Packaging",
+      "Product Dimensions": "12.99 x 4.8 x 4.8 inches",
+      "Item Weight": "14.4 ounces",
+      "Manufacturer": "Osaka",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 7, 2017"
+    },
+    "parent_asin": "B06XGLN9GG",
+    "bought_together": null
+  }
+}

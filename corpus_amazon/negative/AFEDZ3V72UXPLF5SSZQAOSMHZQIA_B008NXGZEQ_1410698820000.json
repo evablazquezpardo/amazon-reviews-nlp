@@ -1,0 +1,58 @@
+{
+  "id": "AFEDZ3V72UXPLF5SSZQAOSMHZQIA_B008NXGZEQ_1410698820000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Ok.",
+  "asin": "B008NXGZEQ",
+  "parent_asin": "B008NXGZEQ",
+  "user_id": "AFEDZ3V72UXPLF5SSZQAOSMHZQIA",
+  "timestamp": 1410698820000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Metro Design Vanessa Mirror",
+    "average_rating": 2.0,
+    "rating_number": 3,
+    "features": [
+      "Made of High Quality Materials for Durability",
+      "Attached Hooks for Easy Hanging",
+      "Looks Great With any Decor"
+    ],
+    "description": [
+      "Bring a modern look to your decor with this striking mirror from Metro Design. Its glass center is surrounded by a metal border; warm orange highlights and a distressed finish lend the piece an industrial touch that will make it an instant focal point for your dining room, living room or bedroom. This mirror also makes for a fun and functional housewarming gift. Measures 35\"H x 35\"W x 2.6\"DMade of High Quality Materials for Durability Attached Hooks for Easy Hanging Looks Great With any Decor"
+    ],
+    "price": null,
+    "store": "Metro Design",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Mirrors",
+      "Wall-Mounted Mirrors"
+    ],
+    "details": {
+      "Brand": "Metro Design",
+      "Room Type": "Dining Room",
+      "Shape": "Sunburst",
+      "Frame Material": "Metal",
+      "Style": "Modern",
+      "Mounting Type": "Wall Mount",
+      "Finish Type": "Metal",
+      "Color": "Orange",
+      "Theme": "Industrial,Modern",
+      "Number of Pieces": "1",
+      "Number of Items": "1",
+      "Material": "Copper",
+      "Frame Type": "Framed",
+      "Item Weight": "15 pounds",
+      "Assembly Required": "No",
+      "Package Dimensions": "38.4 x 36.9 x 4.1 inches",
+      "Manufacturer": "Metro Design",
+      "Date First Available": "September 4, 2012"
+    },
+    "parent_asin": "B008NXGZEQ",
+    "bought_together": null
+  }
+}

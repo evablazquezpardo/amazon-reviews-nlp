@@ -1,0 +1,46 @@
+{
+  "id": "AH6ZNRRCEEWR6P34CNLQ2LRLUU3Q_B08M9G8W9G_1627857971257",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Worth it!",
+  "text": "Worth it!. Great!!! Love this.",
+  "asin": "B08M9JVT5Z",
+  "parent_asin": "B08M9G8W9G",
+  "user_id": "AH6ZNRRCEEWR6P34CNLQ2LRLUU3Q",
+  "timestamp": 1627857971257,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "NativeSkins Faux Taxidermy Ram Sheep Head Golden Horns Wall Mount Hanging Décor Resin Art Boho Sculpture (Silver with Gold)",
+    "average_rating": 4.6,
+    "rating_number": 64,
+    "features": [
+      "Destined to Delight; Make your favorite wall your canvas with our bohemian-inspired, cruelty-free animal head wall decor in gold relief destined to become the conversation piece you've desired.",
+      "A Room Redefined; Hand-painted with art gallery precision, our golden horned ram is the perfect Aries gift wall décor and is big on style but lightweight and simple to mount in three quick steps.",
+      "Universal Theme; Designed to be a match no matter what your current theme is, our faux animal wall sculpture emerges from your wall, adding a third dimension to your otherwise flat décor.",
+      "Dare to Define; In your home or office, we hope our resin wall art will provide a touch of allure and inspiration that pushes the envelope of traditional home decorating.",
+      "A Touch of the Wild; Reconnect with the natural world within the walls of your home or office with an artistic rendering of one of nature's most splendid creatures."
+    ],
+    "description": [],
+    "price": 74.99,
+    "store": "NativeSkins",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Sculptures",
+      "Wall Sculptures"
+    ],
+    "details": {
+      "Product Dimensions": "8.7\"L x 8.3\"W",
+      "Number of Items": "1",
+      "Orientation": "Portrait",
+      "Shape": "Sculpted",
+      "Theme": "Animal,Boho"
+    },
+    "parent_asin": "B08M9G8W9G",
+    "bought_together": null
+  }
+}

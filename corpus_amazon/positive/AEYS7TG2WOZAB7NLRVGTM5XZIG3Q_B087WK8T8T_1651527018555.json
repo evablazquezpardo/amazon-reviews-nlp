@@ -1,0 +1,39 @@
+{
+  "id": "AEYS7TG2WOZAB7NLRVGTM5XZIG3Q_B087WK8T8T_1651527018555",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love them",
+  "text": "Love them. Great snack",
+  "asin": "B087WK8T8T",
+  "parent_asin": "B087WK8T8T",
+  "user_id": "AEYS7TG2WOZAB7NLRVGTM5XZIG3Q",
+  "timestamp": 1651527018555,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Grocery",
+    "title": "Kirkland Signature Praline Pecans 2.5lb",
+    "average_rating": 4.6,
+    "rating_number": 8115,
+    "features": [],
+    "description": [
+      "Kirkland Fancy Pecans with Sweet Praline Coating."
+    ],
+    "price": null,
+    "store": "Kirkland Signature",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Conditioner Parts & Accessories",
+      "Motors"
+    ],
+    "details": {
+      "Package Dimensions": "6.77 x 5 x 4.49 inches; 2.5 Pounds",
+      "Manufacturer": "Kirkland Signature"
+    },
+    "parent_asin": "B087WK8T8T",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "AEI4R3EMV5BGPUMLO6C33OAVQJUQ_B000KL6VWK_1569429812576",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Don’t waste your money",
+  "text": "Don’t waste your money. This heater is a waste of time and money. My job only allows these so I figured that I’d try it out - wrong answer. Wish I could get my money back.",
+  "asin": "B000KL6VWK",
+  "parent_asin": "B000KL6VWK",
+  "user_id": "AEI4R3EMV5BGPUMLO6C33OAVQJUQ",
+  "timestamp": 1569429812576,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "QMark Radiant Under Desk Heater 202SL",
+    "average_rating": 4.1,
+    "rating_number": 40,
+    "features": [
+      "Perfect for personal warmth and to put under a desk for subtle heat",
+      "Mounts easily to the inside of a desk or stands anywhere on its own feet",
+      "Doesn't dry out the air or stir up air particles",
+      "Safe to touch and includes and automatic tip-over switch"
+    ],
+    "description": [
+      "Easily mounts to to the inside of a desk or can stand on its own feet. Doesn't dry out the air, char particles, or stir up dust or pollen - great for allergy sufferers."
+    ],
+    "price": 168.97,
+    "store": "Qmark",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality"
+    ],
+    "details": {
+      "Brand": "Qmark",
+      "Color": "White",
+      "Power Source": "Corded Electric",
+      "Heating Method": "Radiant",
+      "Mounting Type": "Floor Mount",
+      "Burner type": "Radiant",
+      "Item Weight": "0.01 ounces",
+      "Product Dimensions": "27 x 16.5 x 2.1 inches",
+      "Manufacturer": "QMark",
+      "Item model number": "QC-60020",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1501938,
+        "Heating, Cooling & Air Quality": 26674
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B000KL6VWK",
+    "bought_together": null
+  }
+}

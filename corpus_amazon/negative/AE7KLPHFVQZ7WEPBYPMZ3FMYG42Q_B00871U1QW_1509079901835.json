@@ -1,0 +1,59 @@
+{
+  "id": "AE7KLPHFVQZ7WEPBYPMZ3FMYG42Q_B00871U1QW_1509079901835",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Cheaply made",
+  "asin": "B000QRAODK",
+  "parent_asin": "B00871U1QW",
+  "user_id": "AE7KLPHFVQZ7WEPBYPMZ3FMYG42Q",
+  "timestamp": 1509079901835,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Carnation Home Fashions 5-Piece Plastic Bath Accessory Set, Sage",
+    "average_rating": 3.9,
+    "rating_number": 1175,
+    "features": [
+      "Model Number: Pbs-42",
+      "Country Of Origin: China",
+      "Package Weight: 2.25 Pounds",
+      "Package Dimensions: 8.0\" L X 8.0\" W X 10.0\" H"
+    ],
+    "description": [
+      "5 piece plastic bath accessory set in sage includes: wastebasket, tumbler, lotion pump, soap dish and toothbrush holder"
+    ],
+    "price": null,
+    "store": "Carnation Home Fashions",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Bathroom Accessory Sets"
+    ],
+    "details": {
+      "Product Dimensions": "8 x 8 x 10 inches",
+      "Item Weight": "1 pounds",
+      "Manufacturer": "Carnation Home Fashions, Inc.",
+      "Item model number": "PBS-42",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1368454,
+        "Bathroom Accessory Sets": 1596
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Finish types": "Plastic",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Included Components": "Dispenser",
+      "Material": "Plastic",
+      "Color": "Sage",
+      "Brand": "Carnation Home Fashions",
+      "Style": "Modern"
+    },
+    "parent_asin": "B00871U1QW",
+    "bought_together": null
+  }
+}

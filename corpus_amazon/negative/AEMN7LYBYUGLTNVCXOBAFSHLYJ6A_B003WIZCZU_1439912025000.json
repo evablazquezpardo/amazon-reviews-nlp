@@ -1,0 +1,57 @@
+{
+  "id": "AEMN7LYBYUGLTNVCXOBAFSHLYJ6A_B003WIZCZU_1439912025000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Didn't work. Kept time but never &#34;dinged&#34;. Oops! My mistake. You have to wind it past 30 minutes to make it operate properly. Should be five stars.",
+  "asin": "B0000BYCO5",
+  "parent_asin": "B003WIZCZU",
+  "user_id": "AEMN7LYBYUGLTNVCXOBAFSHLYJ6A",
+  "timestamp": 1439912025000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Browne 60 Minute Long Ring Timer",
+    "average_rating": 4.0,
+    "rating_number": 1290,
+    "features": [
+      "Timer provides an insistent ring that will last up to 18 seconds",
+      "One hour timing capacity",
+      "Measures 2-3/4-inch diameter"
+    ],
+    "description": [
+      "With a one hour timing capacity, this timer is an ideal tool to have in the kitchen as it alerts cooks when food has cooked for the appointed period of time."
+    ],
+    "price": 19.93,
+    "store": "Lux",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Thermometers & Timers",
+      "Timers"
+    ],
+    "details": {
+      "Color": "White",
+      "Brand": "LUX",
+      "Material": "Plastic",
+      "Product Dimensions": "4.5\"D x 8.35\"W x 3.1\"H",
+      "Item Weight": "5.6 Ounces",
+      "Number of settings": "11",
+      "Human Interface Input": "Buttons",
+      "Department": "Unisex-Adult",
+      "Manufacturer": "Browne Foodservice",
+      "Item model number": "1929",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 151590,
+        "Timers": 649
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 17, 2007"
+    },
+    "parent_asin": "B003WIZCZU",
+    "bought_together": null
+  }
+}

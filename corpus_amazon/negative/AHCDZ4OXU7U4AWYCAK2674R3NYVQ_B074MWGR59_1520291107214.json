@@ -1,0 +1,49 @@
+{
+  "id": "AHCDZ4OXU7U4AWYCAK2674R3NYVQ_B074MWGR59_1520291107214",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Too hard to set",
+  "text": "Too hard to set. Too hard to set. I gave it away.",
+  "asin": "B074MWGR59",
+  "parent_asin": "B074MWGR59",
+  "user_id": "AHCDZ4OXU7U4AWYCAK2674R3NYVQ",
+  "timestamp": 1520291107214,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "TINGAU Wake Up Light, Sunrise Simulation Alarm Clock Portable Dimmable Bedside Lamp with 5 Nature Sounds, USB Rechargeable, Touch Control Color Change RGB LED Night Light for Bedroom",
+    "average_rating": 3.5,
+    "rating_number": 38,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "TINGAU",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Clocks",
+      "Alarm Clocks"
+    ],
+    "details": {
+      "Brand": "TINGAU",
+      "Special Feature": "Dimmable, Rechargeable",
+      "Light Source Type": "LED",
+      "Material": "Polycarbonate",
+      "Lamp Type": "Night Light",
+      "Room Type": "Bedroom",
+      "Power Source": "Corded Electric",
+      "Shape": "Round",
+      "Switch Type": "Touch",
+      "Theme": "Nature",
+      "Connectivity Technology": "USB",
+      "Product Dimensions": "9.4 x 4.9 x 4.9 inches",
+      "Item Weight": "1.2 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B074MWGR59",
+    "bought_together": null
+  }
+}

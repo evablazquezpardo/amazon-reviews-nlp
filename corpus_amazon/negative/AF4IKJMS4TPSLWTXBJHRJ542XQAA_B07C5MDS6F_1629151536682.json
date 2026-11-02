@@ -1,0 +1,53 @@
+{
+  "id": "AF4IKJMS4TPSLWTXBJHRJ542XQAA_B07C5MDS6F_1629151536682",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Broken",
+  "text": "Broken. Does not work at all.",
+  "asin": "B07C5MDS6F",
+  "parent_asin": "B07C5MDS6F",
+  "user_id": "AF4IKJMS4TPSLWTXBJHRJ542XQAA",
+  "timestamp": 1629151536682,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "INSONJOHY Kids Night Lights Bedside Lamp 7 Colors Change Remote Control 3D Night Light Kids Optical Illusion Lamps Kids Lamp As a Gift Ideas Girls Wife Women(Butterfly)",
+    "average_rating": 4.5,
+    "rating_number": 392,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "INSONJOHY",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Kids' Room Décor",
+      "Lamps & Lighting"
+    ],
+    "details": {
+      "Brand": "INSONJOHY",
+      "Product Dimensions": "3.46\"D x 5.71\"W x 6.65\"H",
+      "Special Feature": "Color Changing",
+      "Light Source Type": "LED",
+      "Material": "Glass, Acrylic",
+      "Room Type": "Bedroom",
+      "Shade Color": "Multicolor",
+      "Shade Material": "Acrylic",
+      "Shape": "Round",
+      "Controller Type": "Remote Control",
+      "Switch Type": "Remote",
+      "Number of Light Sources": "10",
+      "Included Components": "Remote Control",
+      "Wattage": "3 watts",
+      "Item Weight": "5.1 ounces",
+      "Item model number": "43237-2",
+      "Batteries": "3 AA batteries required.",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07C5MDS6F",
+    "bought_together": null
+  }
+}

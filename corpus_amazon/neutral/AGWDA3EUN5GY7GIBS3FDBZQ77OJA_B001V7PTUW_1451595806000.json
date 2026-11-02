@@ -1,0 +1,49 @@
+{
+  "id": "AGWDA3EUN5GY7GIBS3FDBZQ77OJA_B001V7PTUW_1451595806000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Not nearly as nice as others I have bought for the same price at bed bath and beyond.",
+  "asin": "B001V7PTUW",
+  "parent_asin": "B001V7PTUW",
+  "user_id": "AGWDA3EUN5GY7GIBS3FDBZQ77OJA",
+  "timestamp": 1451595806000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Welspun Christy Renaissance 25 by 42-Inch Large Rug, White",
+    "average_rating": 4.0,
+    "rating_number": 3,
+    "features": [
+      "100-Percent Cotton",
+      "Available in 4-size",
+      "Coordinates with Christy Renaissance bath towels"
+    ],
+    "description": [
+      "Color-coordinated to match the Christy Renaissance towel, made of 100-percent soft luxury cotton and crafted in old world methods of rug-making. Hand-carved by skilled artisans to create sculpted design. Skid-resistant backing for safety."
+    ],
+    "price": null,
+    "store": "Welspun",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bath Rugs"
+    ],
+    "details": {
+      "Brand": "Welspun",
+      "Size": "25 by 42-Inch",
+      "Material": "Cotton",
+      "Color": "White",
+      "Shape": "Rectangular",
+      "Product Dimensions": "42\"L x 25\"W",
+      "Item Weight": "2.6 pounds",
+      "Item model number": "RENA-BTRG-LR-03",
+      "Weight": "2.6 Pounds",
+      "Date First Available": "March 15, 2009"
+    },
+    "parent_asin": "B001V7PTUW",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "AFOR7SF4ZQMHF6RXCI7SM4347L6A_B00GT478ME_1512768624077",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Doesn’t Even Heat Up",
+  "text": "Doesn’t Even Heat Up. So disappointed. Bought this received it plugged it in and it doesn’t heat up. Not even a little bit.",
+  "asin": "B00GL085QE",
+  "parent_asin": "B00GT478ME",
+  "user_id": "AFOR7SF4ZQMHF6RXCI7SM4347L6A",
+  "timestamp": 1512768624077,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sunbeam Velvet Plush Heated Throw Beige Cream",
+    "average_rating": 4.5,
+    "rating_number": 1058,
+    "features": [
+      "100% Polyester",
+      "Beige Cream Colored 50\" x 60\"",
+      "Machine Wash & Dry",
+      "3 Heat Settings 3 Hour Auto Off"
+    ],
+    "description": [],
+    "price": 59.95,
+    "store": "Sunbeam",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Throws"
+    ],
+    "details": {
+      "Material": "Velvet",
+      "Color": "Beige Cream",
+      "Brand": "Sunbeam",
+      "Special Feature": "Lightweight",
+      "Style": "Modern",
+      "Blanket Form": "Quilt",
+      "Age Range (Description)": "Adult",
+      "Product Dimensions": "60\"L x 50\"W",
+      "Theme": "Plain",
+      "Pattern": "Solid",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "50\" x 60\"",
+      "Fabric Type": "100% Polyester",
+      "Unit Count": "1.0 Count",
+      "Item Weight": "3.5 pounds",
+      "Manufacturer": "Sunbeam",
+      "Item model number": "657680",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 827960,
+        "Bed Throws": 6261
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00GT478ME",
+    "bought_together": null
+  }
+}

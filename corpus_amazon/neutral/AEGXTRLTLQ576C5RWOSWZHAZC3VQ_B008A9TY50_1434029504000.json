@@ -1,0 +1,63 @@
+{
+  "id": "AEGXTRLTLQ576C5RWOSWZHAZC3VQ_B008A9TY50_1434029504000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Basic coffee maker",
+  "text": "Basic coffee maker. It works and its simple, make a good cup of coffee. I had one with a clock and auto turn off. I guess this will do for now.",
+  "asin": "B0041847R4",
+  "parent_asin": "B008A9TY50",
+  "user_id": "AEGXTRLTLQ576C5RWOSWZHAZC3VQ",
+  "timestamp": 1434029504000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mr. Coffee CG13-RB 12-Cup Switch Coffeemaker, Black",
+    "average_rating": 4.2,
+    "rating_number": 1729,
+    "features": [
+      "Grab-A-Cup Auto Pause stops cycle if you need a cup before brewing is finished",
+      "Dual water window allows visibility as you fill—no more overflows",
+      "Indicator light lets you know when your coffee maker is on or off",
+      "Removable filter basket for quick and easy cleanup",
+      "Use the cord storage to store excess cord and to keep your counter neat"
+    ],
+    "description": [
+      "The classic functionality of Mr. Coffee's Simple Brew 12-Cup Coffee Maker helps you make rich-tasting, expertly brewed coffee without stress or mess. Should you need a cup before the brew cycle is finished, Grab-A-Cup Auto Pause is a lifesaver. It stops brewing so you can pour freely, and then finishes the brewing cycle after you place the carafe back in position. It also features a removable basket filter that lifts out for quick and easy filling and cleaning. Whether you want a single cup or 12, this no-fuss automatic coffee maker will deliver the goods, time after time."
+    ],
+    "price": null,
+    "store": "Mr. Coffee",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Coffee Machines"
+    ],
+    "details": {
+      "Brand": "Mr. Coffee",
+      "Color": "Black",
+      "Special Feature": "Manual, Permanent Filter",
+      "Filter Type": "Reusable",
+      "Model Name": "FBA_CG13-NP",
+      "Human Interface Input": "Buttons",
+      "Package Type": "Standard Packaging",
+      "Product Dimensions": "11.7 x 9.3 x 13.9 inches",
+      "Item Weight": "2.64 pounds",
+      "Manufacturer": "Mr. Coffee",
+      "Item model number": "CG13-RB",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 897320,
+        "Coffee Machines": 885
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 16, 2003",
+      "Capacity 12 Cups": "",
+      "": "Wattage 900 watts",
+      "Item Weight 2.64 Pounds": ""
+    },
+    "parent_asin": "B008A9TY50",
+    "bought_together": null
+  }
+}

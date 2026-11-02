@@ -1,0 +1,65 @@
+{
+  "id": "AHTH75HJJ5QPIP3ZDF2XNIBE3CWA_B0BQY9SRJV_1645393521024",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great clock for price",
+  "text": "Great clock for price. Worked great easy to read",
+  "asin": "B09MVX6T5F",
+  "parent_asin": "B0BQY9SRJV",
+  "user_id": "AHTH75HJJ5QPIP3ZDF2XNIBE3CWA",
+  "timestamp": 1645393521024,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "meross LED Digital Alarm Clock, Adjustable Brightness, Desk Clock with Easy to Read Large Numbers",
+    "average_rating": 4.2,
+    "rating_number": 233,
+    "features": [
+      "12/24Hr：This alarm clock supports 12 hour and 24-hour time display. Press \"DOWN\" to switch 12H/24H mode.",
+      "Adjustable Brightness：lf you find the LED too bright during the night even adjusted to low level by “UP” button,you can long press the LIGHT button to turn off the LED or unplug the power cable and make the clock work in power saving mode.",
+      "Easy to Read：The Digital alarm clock for bedrooms has big LED numbers, and display brightness can be easily adjusted for personal preference.",
+      "Battery Powered：This clock will automatically work in power saving mode when powered only by 3 AAA batteries（not included).And the LED will turn off automatically 15s after your last operation and can be awake by a slight tap, snap, or clap.",
+      "AC Powered：If you want the LED to stay on, please plug in the power cable(3.28feet) and power it with a 5V/1A USB/AC adapter（not included).To keep the time and avoid setting all parameters again after unplug the power cable,please install batteries."
+    ],
+    "description": [],
+    "price": 12.99,
+    "store": "meross",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Clocks",
+      "Alarm Clocks"
+    ],
+    "details": {
+      "Brand": "Meross",
+      "Color": "Black",
+      "Display Type": "Digital",
+      "Style": "MC400",
+      "Product Dimensions": "6.3\"W x 2.4\"H",
+      "Power Source": "Corded Electric",
+      "Age Range (Description)": "Adult",
+      "Shape": "Rectangular",
+      "Frame Material": "Acrylonitrile Butadiene Styrene",
+      "Are Batteries Included": "No",
+      "Mounting Type": "Tabletop",
+      "Alarm Clock": "Yes",
+      "Number of Items": "1",
+      "Operation Mode": "Electrical",
+      "Item Weight": "5.6 ounces",
+      "Manufacturer": "meross",
+      "Country of Origin": "China",
+      "Item model number": "MC400-1",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 640296,
+        "Alarm Clocks": 1222
+      },
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Included Components": "Power cable"
+    },
+    "parent_asin": "B0BQY9SRJV",
+    "bought_together": null
+  }
+}

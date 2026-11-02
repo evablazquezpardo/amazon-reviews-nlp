@@ -1,0 +1,61 @@
+{
+  "id": "AFJHM4DEMY7IU6ZCUBCETLREE43Q_B08DJTM4KY_1597179307810",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great product.",
+  "text": "Great product.. Extremely easy to use and very well designed.  A quality product.",
+  "asin": "B01CSVZNWI",
+  "parent_asin": "B08DJTM4KY",
+  "user_id": "AFJHM4DEMY7IU6ZCUBCETLREE43Q",
+  "timestamp": 1597179307810,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "\"Peugeot Paris Chef u'Select Stainless Steel 18cm - 7\"\" Pepper Mill\" (32470)",
+    "average_rating": 4.4,
+    "rating_number": 1644,
+    "features": [
+      "Made in France. Brushed stainless steel finish. Peugeot Mills are partially filled with pepper at the factory in France as part of final assembly and testing",
+      "The pepper mechanism is equipped with a helix-shaped double row of teeth that guide and hold the peppercorns for a perfect grind. It has a patented treatment that protects the steel from corrosion while maintaining its sharpness and wear resistance",
+      "Releases maximum flavor and aroma by first cracking each peppercorn before it is ground",
+      "Grinds evenly from powder fine to very coarse thanks to the u's elect adjustment ring that offers six pre-defined settings and more in between",
+      "Lifetime limited guarantee on the mechanism and 5 years on the exterior of the mill"
+    ],
+    "description": [
+      "Peugeot’s history begins in the 19th century with the manufacturing of items such as pepper and coffee grinders. More than 160 years later, Peugeot grinders still set the standard in the kitchens of the greatest chefs."
+    ],
+    "price": 49.99,
+    "store": "Peugeot",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Salt & Pepper",
+      "Pepper Mills"
+    ],
+    "details": {
+      "Material": "Stainless Steel",
+      "Color": "Stainless Steel",
+      "Item Dimensions LxWxH": "3.15 x 3.15 x 7.09 inches",
+      "Brand": "Peugeot",
+      "Item Weight": "91 Grams",
+      "Operation Mode": "Manual",
+      "Is Dishwasher Safe": "Yes",
+      "Product Dimensions": "3.15 x 3.15 x 7.09 inches",
+      "Manufacturer": "Peugeot",
+      "Country of Origin": "France",
+      "Item model number": "32470",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 20898,
+        "Salt Mills": 5,
+        "Pepper Mills": 31
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 27, 2016"
+    },
+    "parent_asin": "B08DJTM4KY",
+    "bought_together": null
+  }
+}

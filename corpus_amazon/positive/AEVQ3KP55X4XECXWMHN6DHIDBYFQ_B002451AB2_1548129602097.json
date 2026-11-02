@@ -1,0 +1,63 @@
+{
+  "id": "AEVQ3KP55X4XECXWMHN6DHIDBYFQ_B002451AB2_1548129602097",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Nice item",
+  "text": "Nice item. Can't wait to use it",
+  "asin": "B002451AB2",
+  "parent_asin": "B002451AB2",
+  "user_id": "AEVQ3KP55X4XECXWMHN6DHIDBYFQ",
+  "timestamp": 1548129602097,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "MSC International Joie MSC Simply Slice Strawberry Slicer, A, Red",
+    "average_rating": 4.4,
+    "rating_number": 2803,
+    "features": [
+      "Creates perfectly even strawberry slices",
+      "Equipped with 7 blades for slicing",
+      "Blades are constructed of sturdy stainless steel",
+      "Ideal for cakes, pies and garnishes",
+      "Not dishwasher safe; hand wash recommended"
+    ],
+    "description": [
+      "Dress up the simplest dessert with slices of fresh strawberry. This red strawberry shaped slicer has seven stainless steel blades and will effortlessly slice strawberries into perfectly even slices. Great for pies, cakes, salads and garnishes. Cutting area on slicer: 2-1/4 x 1-3/4. Not dishwasher safe."
+    ],
+    "price": 12.0,
+    "store": "HIC Kitchen",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Graters, Peelers & Slicers",
+      "Mandolines & Slicers",
+      "Mandolines"
+    ],
+    "details": {
+      "Brand": "HIC Kitchen",
+      "Product Dimensions": "3.5\"L x 2.7\"W x 0.75\"H",
+      "Material": "Plastic",
+      "Color": "Red",
+      "Special Feature": "Multipurpose",
+      "Recommended Uses For Product": "Strawberry",
+      "Product Care Instructions": "Hand Wash Only",
+      "Blade Material": "Stainless Steel",
+      "Item Weight": "2.4 ounces",
+      "Blade Shape": "Round",
+      "Operation Mode": "Manual",
+      "Manufacturer": "Harold Import Company, Inc.",
+      "Item model number": "88233",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 78283,
+        "Mandolines": 81
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 4, 2007"
+    },
+    "parent_asin": "B002451AB2",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "AEVVJHZUPI4AHZZX7PC4LTCKWSKA_B000KILLY6_1491592159000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Pleased",
+  "text": "Pleased. Good quality. Easy to grip handle. The extra wires are a good idea.",
+  "asin": "B000KILLY6",
+  "parent_asin": "B000KILLY6",
+  "user_id": "AEVVJHZUPI4AHZZX7PC4LTCKWSKA",
+  "timestamp": 1491592159000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OXO Good Grips Cheese Slicer with Replaceable Wires",
+    "average_rating": 4.3,
+    "rating_number": 2066,
+    "features": [
+      "Tension wheel lets you tighten wire when loose",
+      "Easy wire replacement with one additional stainless steel wire included",
+      "Cuts thick or thin cheese slices",
+      "Sturdy, die-cast zinc construction",
+      "Soft, comfortable handle"
+    ],
+    "description": [],
+    "price": 17.95,
+    "store": "OXO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cheese Tools",
+      "Cheese Slicers"
+    ],
+    "details": {},
+    "parent_asin": "B000KILLY6",
+    "bought_together": null
+  }
+}

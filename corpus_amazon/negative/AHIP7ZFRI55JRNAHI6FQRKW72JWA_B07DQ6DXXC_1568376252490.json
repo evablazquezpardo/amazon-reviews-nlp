@@ -1,0 +1,44 @@
+{
+  "id": "AHIP7ZFRI55JRNAHI6FQRKW72JWA_B07DQ6DXXC_1568376252490",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not a good product",
+  "text": "Not a good product. Not a good product",
+  "asin": "B07DQ6DXXC",
+  "parent_asin": "B07DQ6DXXC",
+  "user_id": "AHIP7ZFRI55JRNAHI6FQRKW72JWA",
+  "timestamp": 1568376252490,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Ontel Arctic Air Personal Space Cooler Replacement Filter Authentic OEM, Black, 1 Count (Pack of 1) (AAF-MO6)",
+    "average_rating": 4.4,
+    "rating_number": 361,
+    "features": [
+      "ARCTIC AIR CONDITIONER FILTER: Compatible with the Arctic Air Ultra Evaporative Air Cooler. Keep your ac cooler clean and longer-lasting with this air filter replacement filter made of sponge material to trap dust & other air impurities.",
+      "REPLACEMENT AIR FILTER: True Shield replacement filter ensures durability while keeping your personal space cool. Soak in water and place in freezer for ultra-cold experience. BPA-free filter is good with hard water.",
+      "FILTER FOR AC: The replacement humidifier filter for the tabletop air purifier cooler takes hot & dry air to make it cool, moist & comfortable. Perfect for allergies! Replace every 3-6 months.",
+      "AS SEEN ON TV: Ontel Products are composed of many individual brands each serving customers in different ways. Try a variety of products from some of our brands like Pillow Pets, Miracle Socks, Iron Gym, Miracle Bamboo Cushion, Dream Tents, & more.",
+      "INNOVATIVE WITH ONTEL: Since 1994, we’ve been developing, marketing, & distributing some of the most innovative consumer products on the market. From toys, to fitness equipment & household items, we love bringing new ideas into the world."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Ontel",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Purifier Parts & Accessories"
+    ],
+    "details": {
+      "Brand": "Ontel",
+      "Material": "See packaging",
+      "Compatible Devices": "Air Purifier, Air Conditioner",
+      "Item Weight": "0.13 Pounds"
+    },
+    "parent_asin": "B07DQ6DXXC",
+    "bought_together": null
+  }
+}

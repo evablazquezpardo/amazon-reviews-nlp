@@ -1,0 +1,57 @@
+{
+  "id": "AFGLFLHKZQI35Z7UIJWNUCTFSGXQ_B08X3Y6MWF_1630615319131",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "It works",
+  "text": "It works. This works. It cuts eggs, which is what it is supposed to do. However, it is very flimsy. The construction and materials of this are a bit sub-standard. I don't expect this to last very long. I don't recommend this.",
+  "asin": "B08X3Y6MWF",
+  "parent_asin": "B08X3Y6MWF",
+  "user_id": "AFGLFLHKZQI35Z7UIJWNUCTFSGXQ",
+  "timestamp": 1630615319131,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Royal Feast® Egg Slicer for Hard Boiled Eggs- Heavy Duty Molded Plastic- Stainless Steel Cutting Wires- Dishwasher Safe",
+    "average_rating": 3.2,
+    "rating_number": 15,
+    "features": [
+      "Heavy Duty Dual Purpose 2 in 1 Function",
+      "Stainless Steel Cutting Wires",
+      "Dishwasher Safe",
+      "Easy to Clean"
+    ],
+    "description": [
+      "This 2-in-1 dual purpose egg slicer features heavy duty molded plastic construction. Its stainless steel cutting wires make even clean cuts during each use. It is also dishwasher safe, making it the perfect addition to any kitchen."
+    ],
+    "price": null,
+    "store": "Royal Feast",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Graters, Peelers & Slicers",
+      "Mandolines & Slicers",
+      "Egg Slicers"
+    ],
+    "details": {
+      "Product Dimensions": "7 x 3.5 x 1.5 inches",
+      "Item Weight": "5 ounces",
+      "Manufacturer": "Royal Feast",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 752447,
+        "Egg Slicers": 484
+      },
+      "Date First Available": "February 21, 2021",
+      "Brand": "Royal Feast",
+      "Material": "Plastic",
+      "Product Care Instructions": "Dishwasher Safe",
+      "Blade Material": "Stainless Steel",
+      "Blade Shape": "Round",
+      "Operation Mode": "Manual"
+    },
+    "parent_asin": "B08X3Y6MWF",
+    "bought_together": null
+  }
+}

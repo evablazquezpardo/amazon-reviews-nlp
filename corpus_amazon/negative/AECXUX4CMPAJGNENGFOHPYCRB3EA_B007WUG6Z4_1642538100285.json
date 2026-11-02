@@ -1,0 +1,46 @@
+{
+  "id": "AECXUX4CMPAJGNENGFOHPYCRB3EA_B007WUG6Z4_1642538100285",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Doesn't fit",
+  "text": "Doesn't fit. This product was supposed to fit my vacuum cleaner. It did not",
+  "asin": "B007WUG6Z4",
+  "parent_asin": "B007WUG6Z4",
+  "user_id": "AECXUX4CMPAJGNENGFOHPYCRB3EA",
+  "timestamp": 1642538100285,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Hoover Genuine T-Series Exhaust HEPA Filter",
+    "average_rating": 4.4,
+    "rating_number": 910,
+    "features": [
+      "Hoover Genuine Filter",
+      "1 pack",
+      "Fits all Hoover T Series models",
+      "HEPA FILTRATION Traps 99 97 percent of Dust and Pollen Down to 0 3 Microns",
+      "Just tap over trash can to clean do not rinse"
+    ],
+    "description": [],
+    "price": 11.99,
+    "store": "Hoover",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Filters",
+      "Central Vacuum Filters"
+    ],
+    "details": {
+      "Brand": "Hoover",
+      "Material": "Polypropylene",
+      "Compatible Devices": "HOOVER",
+      "Product Dimensions": "6\"L x 3\"W x 7\"H",
+      "Duration": "3"
+    },
+    "parent_asin": "B007WUG6Z4",
+    "bought_together": null
+  }
+}

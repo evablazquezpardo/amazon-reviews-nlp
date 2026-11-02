@@ -1,0 +1,58 @@
+{
+  "id": "AF5HODO2N7XJR4PFLI7JPPHWKMMA_B09SBKL8XW_1625751775955",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Ok",
+  "text": "Ok. Ok",
+  "asin": "B0047GSHOE",
+  "parent_asin": "B09SBKL8XW",
+  "user_id": "AF5HODO2N7XJR4PFLI7JPPHWKMMA",
+  "timestamp": 1625751775955,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "airBOSS Closet Dehumidifier, For Storage Closets and Small Spaces, Fights Mildew and Odors",
+    "average_rating": 4.2,
+    "rating_number": 554,
+    "features": [
+      "DEHUMIDIFIER FOR CLOSETS & STORAGE: Remove excess moisture from the air with fragrance-free drying crystals to help protect your belongings against dampness, rust & musty odors often trapped in closets & other small, enclosed or poorly ventilated spaces.",
+      "DEHUMIDIFIER FOR A SMALL SPACE: Keep out the damp with airBOSS dehumidifiers for small places prone to mildew or moisture. From kitchens, bathrooms, closets, basements and storage spaces, keep your belongings dry with our small, non-electric dehumidifier.",
+      "CLEANING SUPPLIES FOR A CLEANER HOME: Does it feel that no matter how you scrub, spray & mop, your home or bathroom will never be as clean & odor-free as you'd like? From activated charcoal deodorizers to toilet bowl cleaners, we're here to help clean.",
+      "WILLERT HOME PRODUCTS: Willert Home Products began in 1946 with a single moth repellant product. Still owned & operated by the Willert family, we make over 100 home cleaning supplies & pest control items, including Ty-D-Bol, Bowl Fresh, airBOSS & Enoz.",
+      "PUT AIRBOSS IN CHARGE: Let airBOSS keep humidity and odors at bay, in closets, attics, and storage spaces. Try airBOSS if you've had success with deodorizer and dehumidifier products like DampRId, Ever Bamboo, Arm & Hammer, Bright Air, Renuzit, or Glade."
+    ],
+    "description": [
+      "airBOSS Closet Dehumidifier efficiently removes excess moisture in enclosed spaces with low ventilation. Powerful drying crystals gradually pull moisture from the air and protect against dampness, rust, and musty odors in closets and other enclosed areas"
+    ],
+    "price": 9.93,
+    "store": "airBOSS",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Dehumidifiers"
+    ],
+    "details": {
+      "Brand": "AirBOSS",
+      "Color": "Grey",
+      "Capacity": "6.7 Ounces",
+      "Included Components": "No",
+      "Item Weight": "6.7 Ounces",
+      "Material": "Bamboo",
+      "Model Name": "FBA_755",
+      "Operation Mode": "Continuous",
+      "Product Dimensions": "3.88 x 4 x 5.75 inches",
+      "Manufacturer": "AIRBOSS",
+      "Item model number": "755",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 288147,
+        "Dehumidifiers": 353
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 16, 2010"
+    },
+    "parent_asin": "B09SBKL8XW",
+    "bought_together": null
+  }
+}

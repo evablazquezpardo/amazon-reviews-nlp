@@ -1,0 +1,44 @@
+{
+  "id": "AG7YR6XSCT4RIABH34I3UHF4BEOA_B01ARJ7SBM_1523907775892",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Did not work",
+  "asin": "B01ARJ7SBM",
+  "parent_asin": "B01ARJ7SBM",
+  "user_id": "AG7YR6XSCT4RIABH34I3UHF4BEOA",
+  "timestamp": 1523907775892,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ComfiLife Orthopedic Knee and Leg Pillow for Side Sleepers Sleeping - 100% Memory Foam for Back Pain, Hip Pain Relief",
+    "average_rating": 4.2,
+    "rating_number": 30150,
+    "features": [
+      "Sciatica, Back & Hip Pain Relief at Night - Ergonomically designed knee pillow fits comfortably between your knees and provides maximum support and comfort at night that helps relieve sciatica pain and pressure on the lower back. ComfiLife knee pillow is designed to help relieve back pain at night however it may not work for all conditions or completely eliminate all symptoms or pain. It may take a few days for your body to get adjusted to using a knee pillow at night and see results",
+      "High-Density Memory Foam - Made with quality durable cut memory foam to provide long lasting comfort for hours, superior to other pillows it won't go flat over time",
+      "Ergonomic Design - Ergonomic contoured design keeps your legs, hip and spine in ideal alignment while sleeping and improves circulation. Product Dimensions: 9.8 x 7.9 x 6.3 inches",
+      "Breathable Easy Clean Cover - Breathable zippered cover ensures the pillow does not get warm and is machine washable for easy cleaning"
+    ],
+    "description": [],
+    "price": 21.95,
+    "store": "ComfiLife",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Specialty Medical Pillows"
+    ],
+    "details": {
+      "Brand": "ComfiLife",
+      "Special Feature": "Removable cover, portable, Adjustable",
+      "Color": "White",
+      "Size": "Standard",
+      "Fill Material": "Memory Foam"
+    },
+    "parent_asin": "B01ARJ7SBM",
+    "bought_together": null
+  }
+}

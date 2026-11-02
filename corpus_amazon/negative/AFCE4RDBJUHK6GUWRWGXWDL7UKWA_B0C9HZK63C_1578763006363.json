@@ -1,0 +1,51 @@
+{
+  "id": "AFCE4RDBJUHK6GUWRWGXWDL7UKWA_B0C9HZK63C_1578763006363",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Arrived with boken handle.",
+  "text": "Arrived with boken handle.. Arrived with a broken, unusable handle.  Handles had to go straight to the trash.",
+  "asin": "B005FYF3OY",
+  "parent_asin": "B0C9HZK63C",
+  "user_id": "AFCE4RDBJUHK6GUWRWGXWDL7UKWA",
+  "timestamp": 1578763006363,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Presto 07061 22-inch Electric Griddle With Removable Handles, Black, 22-inch",
+    "average_rating": 4.7,
+    "rating_number": 30156,
+    "features": [
+      "Premium nonstick surface provides stick-free cooking and easy cleaning. Slide-out drip tray removes and cleans easily.",
+      "Control Master heat control maintains the desired cooking temperature automatically. Heavy cast aluminum base is virtually warp-proof.",
+      "Griddle is fully immersible with the heat control removed.",
+      "Simply open latch clips to detach handles from griddle base. No tools needed.",
+      "With handles removed, base stores in most standard 18-inch kitchen cabinets.Cooking area: 231 square inch"
+    ],
+    "description": [],
+    "price": 59.99,
+    "store": "Presto",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Indoor Grills & Griddles",
+      "Electric Griddles"
+    ],
+    "details": {
+      "Special Feature": "Manual",
+      "Color": "Black",
+      "Material": "Aluminum",
+      "Brand": "Presto",
+      "Product Dimensions": "11.5\"D x 26.25\"W x 2.5\"H",
+      "Wattage": "1500 watts",
+      "Item Weight": "6.5 Pounds",
+      "Included Components": "1-Slide-Out Drip Tray, Presto 07061 22-Inch Electric Griddle",
+      "Style": "Electric Griddle",
+      "Voltage": "120 Volts"
+    },
+    "parent_asin": "B0C9HZK63C",
+    "bought_together": null
+  }
+}

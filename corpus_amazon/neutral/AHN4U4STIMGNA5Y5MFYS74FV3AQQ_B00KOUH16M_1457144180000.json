@@ -1,0 +1,45 @@
+{
+  "id": "AHN4U4STIMGNA5Y5MFYS74FV3AQQ_B00KOUH16M_1457144180000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Still on the fence",
+  "text": "Still on the fence. Works good for some things but not so good for others.",
+  "asin": "B00KOUH16M",
+  "parent_asin": "B00KOUH16M",
+  "user_id": "AHN4U4STIMGNA5Y5MFYS74FV3AQQ",
+  "timestamp": 1457144180000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kitchen Elite V Blade Mandoline Slicer-Deluxe Heavy Duty Stainless Steel",
+    "average_rating": 3.8,
+    "rating_number": 231,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "MEKBOK",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Graters, Peelers & Slicers",
+      "Mandolines & Slicers",
+      "Mandolines"
+    ],
+    "details": {
+      "Product Dimensions": "5.2 x 1.8 x 16.4 inches",
+      "Item Weight": "2.3 Pounds",
+      "Manufacturer": "MEKBOK",
+      "Item model number": "COMINHKPR94803",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 31, 2014",
+      "Brand": "MEKBOK",
+      "Material": "Stainless Steel",
+      "Operation Mode": "Manual"
+    },
+    "parent_asin": "B00KOUH16M",
+    "bought_together": null
+  }
+}

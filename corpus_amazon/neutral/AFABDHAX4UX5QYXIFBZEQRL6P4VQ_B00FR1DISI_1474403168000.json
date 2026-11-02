@@ -1,0 +1,53 @@
+{
+  "id": "AFABDHAX4UX5QYXIFBZEQRL6P4VQ_B00FR1DISI_1474403168000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. These are very small and in being small do not hold up clothes very well.",
+  "asin": "B00FR1DISI",
+  "parent_asin": "B00FR1DISI",
+  "user_id": "AFABDHAX4UX5QYXIFBZEQRL6P4VQ",
+  "timestamp": 1474403168000,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "TopOne 40 Piece Wood Craft Clothespins with Spring, Pink",
+    "average_rating": 3.5,
+    "rating_number": 53,
+    "features": [
+      "They are made from hardwood and large enough that they won't break apart easily",
+      "Use them to make magnets, clipboards, scrap booking projects, table markers, name cards, and more",
+      "Smooth wood design won't snag garments",
+      "Packaging merchandises neatly, on peg hooks or shelf"
+    ],
+    "description": [
+      "Material: wood, length:2.9\", width:0.4\". Heigth:0.6\". Pink wood clip with duck. They are made from hardwood and large enough that they won't break apart easily."
+    ],
+    "price": null,
+    "store": "TOPONE",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Clothes Pins"
+    ],
+    "details": {
+      "Color": "40 Pcs",
+      "Material": "Hardwood",
+      "Brand": "TOPONE",
+      "Style": "Craft",
+      "Item Dimensions LxWxH": "4.8 x 3 x 0.7 inches",
+      "Item Weight": "0.6 Pounds",
+      "Number of Pieces": "40",
+      "Product Dimensions": "4.8 x 3 x 0.7 inches",
+      "Manufacturer": "EJMUSIC",
+      "Item model number": "MU-WLTK-VP4Q",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00FR1DISI",
+    "bought_together": null
+  }
+}

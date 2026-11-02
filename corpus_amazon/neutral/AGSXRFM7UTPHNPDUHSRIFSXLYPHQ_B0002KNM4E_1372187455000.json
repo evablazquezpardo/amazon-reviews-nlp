@@ -1,0 +1,50 @@
+{
+  "id": "AGSXRFM7UTPHNPDUHSRIFSXLYPHQ_B0002KNM4E_1372187455000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Confusion",
+  "text": "Confusion. I confused the price of this item with another item in my original review. It's a good stand, but not worth the price. I would give it a 5 if it weren't for the price.",
+  "asin": "B0002KNM4E",
+  "parent_asin": "B0002KNM4E",
+  "user_id": "AGSXRFM7UTPHNPDUHSRIFSXLYPHQ",
+  "timestamp": 1372187455000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Coaster Home Furnishings Sunburst 3-Shelf Telephone Stand, Black",
+    "average_rating": 4.3,
+    "rating_number": 276,
+    "features": [
+      "Set includes: One (1) telephone stand",
+      "Materials: Metal",
+      "Finish Color: Black",
+      "Assembly Required: No",
+      "Sunburst design",
+      "Can be used as a telephone stand"
+    ],
+    "description": [
+      "Dress up your family room or kitchen with this accent table. Top shelf is great for landline phones or charging your modern smartphone. Two more shelves look great with a small fern or the latest shopping catalogs. Table is completely finished in black. Starburst design adds a summery disposition."
+    ],
+    "price": null,
+    "store": "Coaster Home Furnishings",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Display Stands"
+    ],
+    "details": {
+      "Item Weight": "7.48 pounds",
+      "Product Dimensions": "16 x 12 x 35.5 inches",
+      "Item model number": "CO-2429",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembled Height": "35 inches",
+      "Assembled Width": "12 inches",
+      "Date First Available": "April 14, 2004"
+    },
+    "parent_asin": "B0002KNM4E",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "AFDERNB6BIR3U2DOR3S2KX7KJJXQ_B07RZKC4TB_1643865200292",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not what I expected",
+  "text": "Not what I expected. It looks like a roll of white caviar. It’s very strange",
+  "asin": "B07RZKC4TB",
+  "parent_asin": "B07RZKC4TB",
+  "user_id": "AFDERNB6BIR3U2DOR3S2KX7KJJXQ",
+  "timestamp": 1643865200292,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "1Yard Rhinestone Ribbon, 30mm Crystal crystal Mesh Wrap Roll for Prom Dresses Belt Applique Hair Clip Collar Wedding Party Decoration (Transparent white)",
+    "average_rating": 3.6,
+    "rating_number": 7,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "HEEPDD",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "3.94 x 1.97 x 1.97 inches",
+      "Item Weight": "0.05 Kilograms",
+      "Date First Available": "May 20, 2019",
+      "Material": "Rhinestone",
+      "Brand": "HEEPDD",
+      "Item Dimensions LxWxH": "3.94 x 1.97 x 1.97 inches",
+      "Occasion": "Wedding",
+      "Fabric Type": "Mesh"
+    },
+    "parent_asin": "B07RZKC4TB",
+    "bought_together": null
+  }
+}

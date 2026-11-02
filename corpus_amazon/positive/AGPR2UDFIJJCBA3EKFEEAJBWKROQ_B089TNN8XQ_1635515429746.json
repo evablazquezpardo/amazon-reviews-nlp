@@ -1,0 +1,43 @@
+{
+  "id": "AGPR2UDFIJJCBA3EKFEEAJBWKROQ_B089TNN8XQ_1635515429746",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Nice to have all the pet hair cleaned up",
+  "text": "Nice to have all the pet hair cleaned up. Works great with Alexa. Does the baseboards completely",
+  "asin": "B089TNN8XQ",
+  "parent_asin": "B089TNN8XQ",
+  "user_id": "AGPR2UDFIJJCBA3EKFEEAJBWKROQ",
+  "timestamp": 1635515429746,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "iRobot Roomba 675 Robot Vacuum-Wi-Fi Connectivity, Compatible with Alexa, Good for Pet Hair, Carpets, Hard Floors, Self-Charging (Renewed)",
+    "average_rating": 4.2,
+    "rating_number": 1051,
+    "features": [
+      "iRobot Roomba Restored 675",
+      "Home Base Charging Station",
+      "Line Cord"
+    ],
+    "description": [],
+    "price": 149.99,
+    "store": "Amazon Renewed",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuums",
+      "Robotic Vacuums"
+    ],
+    "details": {
+      "Brand": "IRobot",
+      "Model Name": "R675R99",
+      "Surface Recommendation": "Carpets,Hard Floors",
+      "Product Dimensions": "13.4\"L x 13.4\"W x 3.54\"H",
+      "Controller Type": "Vera, Amazon_alexa"
+    },
+    "parent_asin": "B089TNN8XQ",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "AHATA6X6MYTC3VNBFJ3WIYVK257A_B07P25W35J_1573189370897",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Nice mattress. Price is too high",
+  "text": "Nice mattress. Price is too high. This is a nice mattress, but I don't think it's a good value.<br /><br />It's nice that the pump is included.  It inflates quickly.",
+  "asin": "B07P25W35J",
+  "parent_asin": "B07P25W35J",
+  "user_id": "AHATA6X6MYTC3VNBFJ3WIYVK257A",
+  "timestamp": 1573189370897,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "missyee Air Mattress (Camping Twin)",
+    "average_rating": 4.2,
+    "rating_number": 27,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "missyee",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Air Mattresses & Accessories",
+      "Air Mattresses"
+    ],
+    "details": {
+      "Manufacturer": "Missyee",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07P25W35J",
+    "bought_together": null
+  }
+}

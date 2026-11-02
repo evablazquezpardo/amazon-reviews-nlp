@@ -1,0 +1,45 @@
+{
+  "id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ_B00BA0J8FM_1501441750430",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Smile",
+  "text": "Smile. Great look , so bright and cheery.",
+  "asin": "B00BA0J8FM",
+  "parent_asin": "B00BA0J8FM",
+  "user_id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ",
+  "timestamp": 1501441750430,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "VHC Brands 9458 Buffalo Red Check Tier Lined Set of 2 L36xW36",
+    "average_rating": 5.0,
+    "rating_number": 6,
+    "features": [
+      "Cotton",
+      "Single fabric",
+      "Machine stitched",
+      "Large scale red and White checks",
+      "Straight edge",
+      "Lined with White Cotton"
+    ],
+    "description": [],
+    "price": null,
+    "store": "VHC Brands",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "36 x 36 x 1 inches",
+      "Item Weight": "12.8 ounces",
+      "Item model number": "9458",
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Cotton",
+      "Refill": "cotton",
+      "Assembly required": "No",
+      "Number of pieces": "2",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00BA0J8FM",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "AFCG4PXZWKCP6XTTC4AQU2OCYAYQ_B08ZSDRNVX_1643328492269",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "It was damaged",
+  "text": "It was damaged. Part was missing.",
+  "asin": "B08DR21TC9",
+  "parent_asin": "B08ZSDRNVX",
+  "user_id": "AFCG4PXZWKCP6XTTC4AQU2OCYAYQ",
+  "timestamp": 1643328492269,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "DQ DQ HOME DECOR 14-inch Wooden Nutcrackers Christmas Decoration Figures Home Décor (Fireman)",
+    "average_rating": 4.7,
+    "rating_number": 128,
+    "features": [
+      "Measures approximately 14-inch in height. Perfect size to fit into your home in any places like tables, shelves, counter tops and more.",
+      "Handcrafted of hand-painted wood, beautifully detailed and decorated with care.",
+      "Fit in any decor theme with its unique design.",
+      "A fun and festive addition to your holiday decor or nutcrackers collection.",
+      "Brighten up the look of any room and bring festive holiday cheer to your home."
+    ],
+    "description": [
+      "DQ Home Decor",
+      "started business since 2014, focused on Seasonal Décor, Home Décor, Garden Decor and Accent Furniture. We have over 5 years experience serving the US and other international markets. Our mission is to create decors that will bring Love, Joy and Happiness to you and your family and friends. This wooden nutcracker will brighten up the look of any room and bring festive holiday cheer to your home.",
+      "A perfect nutcracker decor to celebrate your Christmas holiday, fit in any decor theme or area of the house. A wonderful gift to others like the service members or their family, add a festive touch to your holiday decor for Home. Crafted of beautifully hand-painted wood with adorable design. A fun and festive addition to your Christmas nutcracker collection.",
+      "Fireman equipped with all the right gear. Perfect addition to your Christmas nutcracker collection."
+    ],
+    "price": null,
+    "store": "DQ DQ HOME DECOR",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Nutcrackers"
+    ],
+    "details": {
+      "Theme": "Holiday,Wood",
+      "Brand": "DQ DQ HOME DECOR",
+      "Color": "14in Fireman",
+      "Material": "Wood",
+      "Occasion": "Christmas",
+      "Room Type": "Garden",
+      "Number of Pieces": "1",
+      "Number of Items": "1",
+      "Collection Name": "Nutcracker",
+      "Pattern": "Fireman",
+      "Shape": "Novelty",
+      "Manufacturer": "DQ HOME DECOR",
+      "Product Dimensions": "4.25 x 3.25 x 14 inches",
+      "Item Weight": "2 pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1098800,
+        "Christmas Nutcrackers": 325
+      },
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B08ZSDRNVX",
+    "bought_together": null
+  }
+}

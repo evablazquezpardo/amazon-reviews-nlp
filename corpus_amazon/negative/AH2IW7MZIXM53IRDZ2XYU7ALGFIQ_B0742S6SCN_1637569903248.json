@@ -1,0 +1,58 @@
+{
+  "id": "AH2IW7MZIXM53IRDZ2XYU7ALGFIQ_B0742S6SCN_1637569903248",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Flimsy",
+  "text": "Flimsy. Arrived bent. Very thin metal. I shaped back to round.",
+  "asin": "B0742YNDTN",
+  "parent_asin": "B0742S6SCN",
+  "user_id": "AH2IW7MZIXM53IRDZ2XYU7ALGFIQ",
+  "timestamp": 1637569903248,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Homeford Galvanized Metal Bucket with Chalkboard Label, Silver (5-1/2-Inch)",
+    "average_rating": 4.1,
+    "rating_number": 33,
+    "features": [
+      "Galvanized Metal Buckets with Chalkboard Label",
+      "Small Bucket: Height 4\" x Width 4.25\"",
+      "Medium Bucket: Height 5.5\" x Width 5.75\"",
+      "Large Bucket: Height 7\" x Width 4.25\"",
+      "Perfect container for party favors, sweet treats or use to display fresh flowers and green plants."
+    ],
+    "description": [
+      "Dimensions: 5.5\"H x 5.75\"W x 5.75\"L. This galvanized metal bucket is perfect container for party favors, sweet treats or use to display fresh flowers and green plants. Great centerpiece for weddings, baby shower and other special occasions."
+    ],
+    "price": 13.95,
+    "store": "Homeford",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Memo Boards",
+      "Decorative Chalkboards"
+    ],
+    "details": {
+      "Product Dimensions": "12 x 8 x 6 inches",
+      "Item Weight": "5 ounces",
+      "Manufacturer": "Homeford",
+      "Item model number": "FPF0000000220383",
+      "Best Sellers Rank": {
+        "Office Products": 89789,
+        "Decorative Chalkboards": 56,
+        "Chalkboards": 392
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 24, 2015",
+      "Brand": "Homeford",
+      "Color": "Silver",
+      "Material": "Metal",
+      "Shape": "Round"
+    },
+    "parent_asin": "B0742S6SCN",
+    "bought_together": null
+  }
+}

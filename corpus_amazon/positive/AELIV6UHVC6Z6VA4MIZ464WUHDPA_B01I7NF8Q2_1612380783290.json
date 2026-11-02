@@ -1,0 +1,52 @@
+{
+  "id": "AELIV6UHVC6Z6VA4MIZ464WUHDPA_B01I7NF8Q2_1612380783290",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "It's Nice",
+  "text": "It's Nice. Bought to hang on my living room wall to go with my rustic western decor. Looks nice.",
+  "asin": "B01I7NF8Q2",
+  "parent_asin": "B01I7NF8Q2",
+  "user_id": "AELIV6UHVC6Z6VA4MIZ464WUHDPA",
+  "timestamp": 1612380783290,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Western Wood Wagon Wheel Wall Decor",
+    "average_rating": 4.6,
+    "rating_number": 370,
+    "features": [
+      "Made of wood",
+      "Western theme",
+      "Elegant wall decor",
+      "24\""
+    ],
+    "description": [
+      "Wood wagon wheel Wall decor"
+    ],
+    "price": 42.79,
+    "store": "Decor",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Sculptures",
+      "Wall Sculptures"
+    ],
+    "details": {
+      "Package Dimensions": "24.02 x 24.02 x 1.34 inches",
+      "Item Weight": "2.38 pounds",
+      "Manufacturer": "Decor",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 906682,
+        "Wall Sculptures": 4743
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B01I7NF8Q2",
+    "bought_together": null
+  }
+}

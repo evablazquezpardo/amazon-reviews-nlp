@@ -1,0 +1,36 @@
+{
+  "id": "AFEDZ3V72UXPLF5SSZQAOSMHZQIA_B0017WU5MI_1483376941000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Good buy",
+  "text": "Good buy. Ok",
+  "asin": "B0017WU5MI",
+  "parent_asin": "B0017WU5MI",
+  "user_id": "AFEDZ3V72UXPLF5SSZQAOSMHZQIA",
+  "timestamp": 1483376941000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "an Island Girl Large Rainbow Abalone Seashell",
+    "average_rating": 4.5,
+    "rating_number": 1008,
+    "features": [
+      "Beautiful Bright Rainbow Abalone Shell",
+      "Perfect addition to your Beach House Decor",
+      "100 Percent Natural Seashell",
+      "Measures 5 inches or Larger - Size Varies"
+    ],
+    "description": [],
+    "price": 10.95,
+    "store": "An Island Girl",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products"
+    ],
+    "details": {},
+    "parent_asin": "B0017WU5MI",
+    "bought_together": null
+  }
+}

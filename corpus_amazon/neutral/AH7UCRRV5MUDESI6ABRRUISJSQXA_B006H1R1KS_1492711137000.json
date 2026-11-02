@@ -1,0 +1,48 @@
+{
+  "id": "AH7UCRRV5MUDESI6ABRRUISJSQXA_B006H1R1KS_1492711137000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "May need some DIY creativity",
+  "text": "May need some DIY creativity. It would be a fantastic product but it keeps slipping no matter what I put on it. Maybe tape it to better stabilize it?",
+  "asin": "B006H1R1KS",
+  "parent_asin": "B006H1R1KS",
+  "user_id": "AH7UCRRV5MUDESI6ABRRUISJSQXA",
+  "timestamp": 1492711137000,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ZPC Zenith Products Corporation Zenna Home 8665SWP, Over-The-Faucet Shelf, White/Chrome",
+    "average_rating": 3.0,
+    "rating_number": 237,
+    "features": [
+      "Three shelf organizer fits perfectly over bathroom faucet",
+      "White plastic trays are removable for easy cleaning",
+      "Great for organizing small vanities",
+      "Sturdy, rust resistant chrome wire frame",
+      "Measures 22-inch wide by 8-inch high by 6-inch deep"
+    ],
+    "description": [
+      "Zenith bathwares lead the way in innovation, functionality, style and value. Zenith provides shower organization in a wide range of designs to meet all your bathroom needs. The Stretch and Store is an innovative new way to organize a multitude of items."
+    ],
+    "price": null,
+    "store": "Zenna Home",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories"
+    ],
+    "details": {
+      "Product Dimensions": "6 x 22 x 8 inches",
+      "Item Weight": "1.5 pounds",
+      "Manufacturer": "Zenith Products",
+      "Item model number": "8665SWP",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B006H1R1KS",
+    "bought_together": null
+  }
+}

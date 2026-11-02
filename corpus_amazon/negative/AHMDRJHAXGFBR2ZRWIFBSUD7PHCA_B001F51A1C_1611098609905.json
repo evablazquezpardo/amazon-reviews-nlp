@@ -1,0 +1,50 @@
+{
+  "id": "AHMDRJHAXGFBR2ZRWIFBSUD7PHCA_B001F51A1C_1611098609905",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Don't waste the money",
+  "text": "Don't waste the money. This is absolutely horrible! It's cheaply made, it's flimsy, it's not sturdy at all, and as you can tell from the picture it keeps falling down.",
+  "asin": "B001F51A1C",
+  "parent_asin": "B001F51A1C",
+  "user_id": "AHMDRJHAXGFBR2ZRWIFBSUD7PHCA",
+  "timestamp": 1611098609905,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Honey-Can-Do Adjustable Height Rolling Metal Clothes Rack GAR-01122 Chrome 30 lbs",
+    "average_rating": 3.7,
+    "rating_number": 6470,
+    "features": [
+      "Chrome",
+      "Imported",
+      "Chrome",
+      "Imported",
+      "Outfit plan or expand closet capacity with this versatile clothes rack",
+      "Compact form expands vertically with room enough for lengthy coats and gowns",
+      "Set on rolling casters with two that lock for stability",
+      "Sturdy steel construction resists rust",
+      "Shoe shelf great for storing seasonal footwear or layout complete looks",
+      "Dimensions: 17”L x 34\"W x 40”H; width extends to 52” and height to 67”"
+    ],
+    "description": [],
+    "price": 21.28,
+    "store": "Honey-Can-Do",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Garment Racks"
+    ],
+    "details": {
+      "Brand": "Honey-Can-Do",
+      "Color": "Chrome",
+      "Material": "Metal",
+      "Recommended Uses For Product": "Shoes",
+      "Product Dimensions": "17\"D x 33\"W x 66\"H"
+    },
+    "parent_asin": "B001F51A1C",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "AEWRZLS7FBAX3BXANLXDKVV33CCA_B01N80OITF_1528953819961",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Its my cat blanket now. Its just a bit too small.",
+  "asin": "B01N80OITF",
+  "parent_asin": "B01N80OITF",
+  "user_id": "AEWRZLS7FBAX3BXANLXDKVV33CCA",
+  "timestamp": 1528953819961,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Exclusivo Mezcla Boho Stripe Quilted Throw Blanket, Luxury Reversible Quilt Blanket, 50X60 Inch, Machine Washable and Dryable",
+    "average_rating": 4.6,
+    "rating_number": 1297,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Exclusivo Mezcla",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Throws"
+    ],
+    "details": {
+      "Brand": "Exclusivo Mezcla",
+      "Special Feature": "Reversible, Lightweight",
+      "Style": "Pattern 4",
+      "Blanket Form": "Quilt",
+      "Product Dimensions": "60\"L x 50\"W",
+      "Theme": "Stripe",
+      "Pattern": "Striped, Floral, Geometric",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "Throw (50 in x 60 in)",
+      "Fabric Type": "Polyester,cotton",
+      "Included Components": "Quilt",
+      "Item Weight": "1.74 pounds",
+      "Item model number": "COMINHKPR144075",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 790911,
+        "Bed Throws": 6284
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 7, 2017"
+    },
+    "parent_asin": "B01N80OITF",
+    "bought_together": null
+  }
+}

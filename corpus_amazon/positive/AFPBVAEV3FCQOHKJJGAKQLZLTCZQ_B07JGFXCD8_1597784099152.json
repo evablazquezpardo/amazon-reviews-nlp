@@ -1,0 +1,53 @@
+{
+  "id": "AFPBVAEV3FCQOHKJJGAKQLZLTCZQ_B07JGFXCD8_1597784099152",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great value!",
+  "text": "Great value!. Just as described.  Couldn’t find it anywhere else.",
+  "asin": "B07JGFXCD8",
+  "parent_asin": "B07JGFXCD8",
+  "user_id": "AFPBVAEV3FCQOHKJJGAKQLZLTCZQ",
+  "timestamp": 1597784099152,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "Chapel Lane Paraffin Lamp Oil - Quart",
+    "average_rating": 4.6,
+    "rating_number": 250,
+    "features": [
+      "CLEAN. No smoke or soot.",
+      "ODORLESS. No unpleasant kerosene odor.",
+      "ECONOMICAL. Gives over 200 hours of natural flame.",
+      "COLORLESS. Won't stain or harm linens or surfaces.",
+      "SAFE. High ignition point makes it hard to light when not on wick."
+    ],
+    "description": [],
+    "price": null,
+    "store": "ICOBES",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Oil Lamps & Accessories",
+      "Oil Lamps"
+    ],
+    "details": {
+      "Color": "Red",
+      "Finish Type": "Natural",
+      "Power Source": "Corded Electric",
+      "Brand": "ICOBES",
+      "Style": "Modern",
+      "Are Batteries Included": "No",
+      "Item Weight": "1.8 pounds",
+      "Package Dimensions": "8.6 x 3.3 x 3.3 inches; 1.8 Pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Finish types": "Natural",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Date First Available": "October 15, 2018"
+    },
+    "parent_asin": "B07JGFXCD8",
+    "bought_together": null
+  }
+}

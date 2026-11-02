@@ -1,0 +1,50 @@
+{
+  "id": "AHTVQZZNC6IVALR2CU2JCAG7FZIA_B00I50QAP6_1511419268878",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Too hard",
+  "asin": "B00BF1WV5U",
+  "parent_asin": "B00I50QAP6",
+  "user_id": "AHTVQZZNC6IVALR2CU2JCAG7FZIA",
+  "timestamp": 1511419268878,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Dreamsweet 12\" US Made Memory Foam Petite Bolster Roll Round Pillow w/Removable Cover - Beige",
+    "average_rating": 3.4,
+    "rating_number": 18,
+    "features": [
+      "Velour",
+      "Machine Wash",
+      "Petite Design for Easy Carrying",
+      "US Made CertiPUR-US memory foam with one solid piece construction",
+      "High-Density Cooling Gel Infused Memory Foam Ensures Ample and Cushy Support",
+      "Multi-functional, good for various applications"
+    ],
+    "description": [],
+    "price": 18.35,
+    "store": "Dreamsweet",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Bed Pillows"
+    ],
+    "details": {
+      "Fill Material": "Memory Foam",
+      "Pillow Type": "Bed Pillow",
+      "Color": "Beige",
+      "Size": "12\" x 5\" (diameter)",
+      "Brand": "Dreamsweet",
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "12 x 5 x 5 inches; 10 Ounces",
+      "Date First Available": "January 30, 2014",
+      "Manufacturer": "Dreamsweet Bedding Products"
+    },
+    "parent_asin": "B00I50QAP6",
+    "bought_together": null
+  }
+}

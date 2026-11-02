@@ -1,0 +1,36 @@
+{
+  "id": "AE2CJPQPEGCIDJKZZRYDSVRV46SA_B0148477Y0_1492282057000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Junk",
+  "text": "Junk. Junk it twisted out of shape after one use....Real junk",
+  "asin": "B0148477Y0",
+  "parent_asin": "B0148477Y0",
+  "user_id": "AE2CJPQPEGCIDJKZZRYDSVRV46SA",
+  "timestamp": 1492282057000,
+  "helpful_vote": 4,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KF653 Multipurpose Foldable Microwave Oven Steam Rack Double Layer Dish Tray for Kitchen, Space and Time Saving",
+    "average_rating": 3.6,
+    "rating_number": 33,
+    "features": [],
+    "description": [],
+    "price": 9.99,
+    "store": "Just Life",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "11.89 x 7.01 x 1.61 inches",
+      "Item Weight": "0.02 Pounds",
+      "Item model number": "KF653",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 21, 2015",
+      "Brand": "Just Life",
+      "Special Feature": "Foldable, Rust Resistant"
+    },
+    "parent_asin": "B0148477Y0",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B09WL7X148_1608128280484",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "As expected",
+  "text": "As expected. As expected",
+  "asin": "B07PZY8KLC",
+  "parent_asin": "B09WL7X148",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1608128280484,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Tiki 1218071 Brand 32 oz. Clean Burn BiteFighter Fuel Torch Oil, 32 ounce",
+    "average_rating": 4.6,
+    "rating_number": 2580,
+    "features": [
+      "Clean Burning and Mosquito Repellant: Keep away uninvited guests with this clean-burning torch fuel that provides superior mosquito repellency with far less soot & smoke than traditional torch fuels",
+      "Easy Pour: A cleaner alternative to petroleum-based torch fuels, this torch fuel is 85 percent plant based and can be used with all TIKI Brand torches & table torches",
+      "Personal Paradise: We can help you create an outdoor paradise with our easy-to-use, long lasting TIKI products, designed in a wide variety of styles to suit any yard, garden, lawn, patio, or porch",
+      "Stylish Innovation: We continue to innovate outdoor lighting with stylish designs and products like our mosquito repellent torch fuels, adjustable flame Table Torches and Citronella candle buckets",
+      "Best of the Backyard: For over 60 years we've made outdoor torches to illuminate your yard or garden along with candles, wicks, stakes, stands, torch fuel and other accessories to light your landscape"
+    ],
+    "description": [
+      "TIKI® Brand Clean Burn™ BiteFighter® Torch Fuel is the ultimate torch fuel offering proven mosquito repellency with dramatically less soot and smoke than traditional torch fuels. A cleaner alternative to petroleum-based torch fuels, this torch fuel is 85% plant based. Stay outside longer with family and friends, but keep away uninvited guests who buzz and bite. Ideal for use with all TIKI® Brand torches and table torches."
+    ],
+    "price": 13.99,
+    "store": "TIKI",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking Tools & Accessories",
+      "Cooking Torches"
+    ],
+    "details": {
+      "Product Dimensions": "4 x 2.5 x 8.75 inches",
+      "Item Weight": "1.92 Pounds",
+      "Manufacturer": "TIKI Brand",
+      "Country of Origin": "USA",
+      "Item model number": "1218071",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 4128,
+        "Cooking Torches": 11
+      },
+      "Color": "Null",
+      "Brand": "TIKI",
+      "Item Dimensions LxWxH": "4 x 2.5 x 8.75 inches",
+      "Material": "Plastic"
+    },
+    "parent_asin": "B09WL7X148",
+    "bought_together": null
+  }
+}

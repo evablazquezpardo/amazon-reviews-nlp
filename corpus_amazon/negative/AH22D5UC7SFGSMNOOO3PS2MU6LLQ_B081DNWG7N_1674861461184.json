@@ -1,0 +1,68 @@
+{
+  "id": "AH22D5UC7SFGSMNOOO3PS2MU6LLQ_B081DNWG7N_1674861461184",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "I’m not happy",
+  "text": "I’m not happy. Water just pours right through the bottom",
+  "asin": "B081DNWG7N",
+  "parent_asin": "B081DNWG7N",
+  "user_id": "AH22D5UC7SFGSMNOOO3PS2MU6LLQ",
+  "timestamp": 1674861461184,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mr. Coffee Coffee Maker, Programmable Coffee Machine with Auto Pause and Glass Carafe, 5 Cups, Black",
+    "average_rating": 4.3,
+    "rating_number": 7634,
+    "features": [
+      "Please refer to user guide or user manual or user guide (provided below in PDF) before first use",
+      "Compact design that fits nicely into small spaces",
+      "Brew later feature allows you to set your coffeemaker ahead and wake up to fresh brewed coffee",
+      "Ergonomic carafe designed for easy pouring and handling with ounces markings for better measuring"
+    ],
+    "description": [
+      "Enjoy great coffee simply made with the Mr. Coffee® 5-Cup Programmable Coffee Maker. It makes up to 25 oz. of coffee, just right for two 12 oz. cups, and the compact design fits nicely into small spaces. The updated, ergonomic carafe design with ounce markings takes the guesswork out of measuring. Brew Now or Later options to allow you to set brewing ahead of time and wake up to freshly brewed coffee, and Grab-A-Cup Auto Pause allows you to stop the brewing cycle to pour a cup, then continue brewing until complete. After 2 hours, the coffee maker will automatically shut off. All you need to do is sit back, sip, and enjoy! Also includes a water filtration system and a reusable nylon filter."
+    ],
+    "price": 52.6,
+    "store": "Mr. Coffee",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Coffee Machines"
+    ],
+    "details": {
+      "Brand": "Mr. Coffee",
+      "Color": "Black",
+      "Product Dimensions": "7.1\"D x 9.65\"W x 10.63\"H",
+      "Special Feature": "Automatic Shut-Off, Programmable, Water Filter",
+      "Coffee Maker Type": "Drip Coffee Machine",
+      "Filter Type": "Reusable",
+      "Style": "Classic",
+      "Included Components": "Coffeemaker",
+      "Operation Mode": "Fully Automatic",
+      "Voltage": "120",
+      "Model Name": "Cup Programmable",
+      "Number of Items": "1",
+      "Human Interface Input": "Buttons",
+      "Package Type": "Standard Packaging",
+      "Item Weight": "1.6 ounces",
+      "Manufacturer": "Mr. Coffee",
+      "Country of Origin": "China",
+      "Item model number": "2191951",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 30036,
+        "Coffee Machines": 73
+      },
+      "Date First Available": "March 1, 2020",
+      "Capacity 5 Cups": "",
+      "": "Wattage 650 watts",
+      "Item Weight 0.1 Pounds": ""
+    },
+    "parent_asin": "B081DNWG7N",
+    "bought_together": null
+  }
+}

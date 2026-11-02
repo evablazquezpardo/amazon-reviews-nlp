@@ -1,0 +1,59 @@
+{
+  "id": "AESVCDVRKAJHKVMWADOBNFV45XKQ_B0BS9F13GT_1654446078036",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "unsafe to use",
+  "text": "unsafe to use. while on it burned a hole in it",
+  "asin": "B08M8XY9TF",
+  "parent_asin": "B0BS9F13GT",
+  "user_id": "AESVCDVRKAJHKVMWADOBNFV45XKQ",
+  "timestamp": 1654446078036,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "GOQO TOMO Electric Heated Blanket 50\" x 60\" Throw Wrap with 12 Heating Levels for Home Office Use Pink Tie dye",
+    "average_rating": 4.4,
+    "rating_number": 684,
+    "features": [
+      "Super Soft & Cozy: Soft Dense Flannel Surface and Soft Sherpa inner provides you with the ultimate soft experience. The inner lining sherpa fabric features efficient heat penetration and preservation, helping you to relieve tense muscles and cold stiff body",
+      "12 Heating Levels: the electric blanket will quickly heat to the required temperature within a few seconds, user-friendly to customize the temperature you need",
+      "The extra-large 50\"x60\" size blanket can cover and wrap your whole body, which is very suitable for nap on the sofa or lunch break",
+      "The colorful colors of spring bring you a visual feast. This blanket will grant you ultimate enjoyment from touch to vision",
+      "The 8 levels of timer settings function provides you with safety and energy-saving protection, ETL certificated, machine washable, easy to maintain"
+    ],
+    "description": [],
+    "price": 59.99,
+    "store": "GOQO TOMO",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Electric Blankets"
+    ],
+    "details": {
+      "Material": "Polyester",
+      "Color": "Pink Tie-dye",
+      "Brand": "GOQO TOMO",
+      "Special Feature": "Customizable",
+      "Style": "Modern",
+      "Blanket Form": "Throw Blanket",
+      "Age Range (Description)": "Adult",
+      "Product Dimensions": "60 x 50 x 0.04 inches",
+      "Pattern": "Tie Dye",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "50*60\"",
+      "Fabric Type": "Flannel,sherpa",
+      "Item Weight": "3.99 pounds",
+      "Manufacturer": "GOQOTOMO",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 106560,
+        "Electric Blankets": 65
+      },
+      "Date First Available": "October 30, 2020"
+    },
+    "parent_asin": "B0BS9F13GT",
+    "bought_together": null
+  }
+}

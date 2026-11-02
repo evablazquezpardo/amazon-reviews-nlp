@@ -1,0 +1,51 @@
+{
+  "id": "AH4FT75HQYRS36JB6KL2JJNWSP2Q_B003BVMI0U_1513629174787",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Stinks",
+  "text": "Stinks. This is really small, maybe it will fit my toaster!!!<br />Forget about it.",
+  "asin": "B003BVMI0U",
+  "parent_asin": "B003BVMI0U",
+  "user_id": "AH4FT75HQYRS36JB6KL2JJNWSP2Q",
+  "timestamp": 1513629174787,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Carol Wright Gifts Quilted Air Conditioner Cover,White Size SM",
+    "average_rating": 3.7,
+    "rating_number": 80,
+    "features": [],
+    "description": [
+      "Now you don't have to remove your heavy air conditioner in the winter. Simply conceal it with this attractive, quilted cover that eliminates dust, dirt and cold drafts while preventing heat loss. Made of machine-washable polyester and cotton with elasticized edges for a neat, tailored fit. Available in sizes: Small(14\"Hx20\"Wx33/4\"D), Medium(17\"Hx24\"Wx33/4\"D) or Large(20\"Hx28\"Wx33/4\"D)"
+    ],
+    "price": null,
+    "store": "Carol Wright Gifts",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Parts & Accessories",
+      "Air Conditioner Parts & Accessories",
+      "Accessories"
+    ],
+    "details": {
+      "Item Weight": "0.01 Ounces",
+      "Item model number": "1",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1904122,
+        "Air Conditioner Accessories": 3080
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Brand": "Carol Wright Gifts",
+      "Special Feature": "Air Conditioner Cover",
+      "Product Dimensions": "14\"D x 20\"W x 4\"H",
+      "Energy Star": "4 Star",
+      "Color": "White",
+      "Controller Type": "Remote Control"
+    },
+    "parent_asin": "B003BVMI0U",
+    "bought_together": null
+  }
+}

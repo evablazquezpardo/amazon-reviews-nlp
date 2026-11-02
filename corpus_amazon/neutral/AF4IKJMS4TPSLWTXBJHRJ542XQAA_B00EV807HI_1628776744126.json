@@ -1,0 +1,58 @@
+{
+  "id": "AF4IKJMS4TPSLWTXBJHRJ542XQAA_B00EV807HI_1628776744126",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok",
+  "text": "Ok. Easy to use but hard to clean. I can't use more then once after I washed it and it says 50 uses.",
+  "asin": "B00EV807HI",
+  "parent_asin": "B00EV807HI",
+  "user_id": "AF4IKJMS4TPSLWTXBJHRJ542XQAA",
+  "timestamp": 1628776744126,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Toastabags - Grilled Chee Size 2ct Toastabags - Grilled Cheese 2ct",
+    "average_rating": 3.9,
+    "rating_number": 1769,
+    "features": [
+      "Reusable up to 50 times each toaster bag",
+      "Make perfect grilled cheese without all the mess",
+      "Can cook without butter for a healthier option if preferred",
+      "Dishwasher proof",
+      "Quick and Easy! So easy anyone can use them. Perfect for kids and adults."
+    ],
+    "description": [
+      "A patented product means this is a unique and brilliant solution to a very messy problem. So easy to use that even kids can use them"
+    ],
+    "price": 5.26,
+    "store": "Toastabags",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Toaster Oven Cookware"
+    ],
+    "details": {
+      "Brand": "Toastabags",
+      "Color": "Gold",
+      "Material": "Stainless Steel",
+      "Product Dimensions": "6.7\"D x 8.25\"W x 0.01\"H",
+      "Specific Uses For Product": "Bread",
+      "Special Feature": "Microwave Safe, Dishwasher Safe",
+      "Style": "Classic",
+      "Item Weight": "1.12 ounces",
+      "Manufacturer": "Planit Products,Ltd",
+      "Item model number": "TBUSA2",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 65636,
+        "Toaster Oven Cookware": 27
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 29, 2013"
+    },
+    "parent_asin": "B00EV807HI",
+    "bought_together": null
+  }
+}

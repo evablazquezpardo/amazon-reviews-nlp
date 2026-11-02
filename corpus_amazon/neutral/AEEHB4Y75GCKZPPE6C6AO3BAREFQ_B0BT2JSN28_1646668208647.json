@@ -1,0 +1,53 @@
+{
+  "id": "AEEHB4Y75GCKZPPE6C6AO3BAREFQ_B0BT2JSN28_1646668208647",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Good Product",
+  "text": "Good Product. After about a mount the tester battery started to leak, I contacted the company and I received a replacement.  All is good",
+  "asin": "B083KZZGBH",
+  "parent_asin": "B0BT2JSN28",
+  "user_id": "AEEHB4Y75GCKZPPE6C6AO3BAREFQ",
+  "timestamp": 1646668208647,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ZeroWater 8-Cup Round 5-Stage Water Filter Pitcher 0 TDS for Improved Tap Water Taste - NSF Certified to Reduce Lead, Chromium, and PFOA/PFOS",
+    "average_rating": 4.4,
+    "rating_number": 5925,
+    "features": [
+      "Filtered Water Pitcher: The 8 Cup Round 5-stage Ready-Pour Water Filter Pitcher is great for your counter, bar or in compact refrigerators. Change filter when included meter reads 006.",
+      "5-Stage Filtration: Removes virtually all total dissolved solids (TDS) for the purest tasting water; Total Dissolved Solids are organic and inorganic materials, such as metals, minerals, salts, and ions dissolved in water.",
+      "NSF certified and BPA free: The Only Pour Through Filter Certified by NSF to Reduce Lead, Chromium and PFOA/PFOS; All material is BPA free",
+      "Including: 8-cup Water Pitcher, 1 ZeroWater 5-Stage Filter with Ion Exchange Technology and a Free TDS Meter",
+      "Eco-Friendly: Save up to 150 single-use plastic bottles per filter or up to 900 bottles a year while enjoying the purest tasting water"
+    ],
+    "description": [
+      "ZeroWater's® 8 Cup Round Water Filtration Pitcher is both stylish and functional. The round space saving design fits perfectly on your counter, bar or in compact refrigerators. The curved comfort grip handle makes for an easy pour."
+    ],
+    "price": 29.99,
+    "store": "ZeroWater",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Water Coolers & Filters",
+      "Pitcher Water Filters"
+    ],
+    "details": {
+      "Material Plastic": "",
+      "": "Purification Method Ion Exchange",
+      "Included Components Water pitcher with filter and water quality meter": "",
+      "Brand": "ZeroWater",
+      "Color": "Clear",
+      "Product Dimensions": "10.2 x 10.25 x 10.3 inches; 2.93 Pounds",
+      "Package Information": "Plastic",
+      "Model Name": "8 Cup Round Water Filter Pitcher",
+      "Item model number": "ZR-0810G-N",
+      "Date First Available": "January 7, 2020",
+      "Manufacturer": "ZeroWater"
+    },
+    "parent_asin": "B0BT2JSN28",
+    "bought_together": null
+  }
+}

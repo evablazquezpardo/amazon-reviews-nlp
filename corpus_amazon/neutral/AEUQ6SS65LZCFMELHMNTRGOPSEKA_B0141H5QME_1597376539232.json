@@ -1,0 +1,62 @@
+{
+  "id": "AEUQ6SS65LZCFMELHMNTRGOPSEKA_B0141H5QME_1597376539232",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Size and color are as expected.",
+  "text": "Size and color are as expected.. I just bought this.  The size I really like. But it is thinner than I had expected.  It doesn't seem dursble. But I won't know for a few months.",
+  "asin": "B0141H5QME",
+  "parent_asin": "B0141H5QME",
+  "user_id": "AEUQ6SS65LZCFMELHMNTRGOPSEKA",
+  "timestamp": 1597376539232,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Uniflame Sage PP Hearth Rug",
+    "average_rating": 4.2,
+    "rating_number": 246,
+    "features": [
+      "Flame-resistant nylon",
+      "Anti-slip latex backing",
+      "Stain resistant and anti-static",
+      "Protects floor from embers and sparks"
+    ],
+    "description": [
+      "Protection to floors from harmful heat, sparks and ember. Anti-slip latex backing. Stain resistant and anti-static. Made from flame-resistant nylon."
+    ],
+    "price": null,
+    "store": "Uniflame",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Rugs, Pads & Protectors",
+      "Area Rugs"
+    ],
+    "details": {
+      "Brand": "Uniflame",
+      "Material": "Nylon",
+      "Pile Height": "Low Pile",
+      "Construction Type": "Handmade",
+      "Back Material Type": "Rubber",
+      "Color": "Sage",
+      "Is Stain Resistant": "Yes",
+      "Pattern": "Hearts",
+      "Shape": "Rectangular",
+      "Special Feature": "Resistant",
+      "Product Dimensions": "44\"L x 22\"W",
+      "Style": "Modern",
+      "Warranty Type": "manufacturer",
+      "Item Weight": "2.44 pounds",
+      "Item model number": "R-3040",
+      "Is Discontinued By Manufacturer": "No",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1396170,
+        "Area Rugs": 12030
+      },
+      "Date First Available": "August 17, 2015"
+    },
+    "parent_asin": "B0141H5QME",
+    "bought_together": null
+  }
+}

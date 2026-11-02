@@ -1,0 +1,66 @@
+{
+  "id": "AE63QWJX2YH2MYOW5UE7WO3DEGTA_B071R252SZ_1480198774000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Piece of Junk",
+  "text": "Piece of Junk. It's four o'clock in the afternoon and the clock says it's 1:30 in the morning. I followed all the instructions and it can't seem to get itself set to the correct time. I have other clocks like this and have absolutely no problem getting them set up.",
+  "asin": "B00J2EE7ZY",
+  "parent_asin": "B071R252SZ",
+  "user_id": "AE63QWJX2YH2MYOW5UE7WO3DEGTA",
+  "timestamp": 1480198774000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "MARATHON Atomic Travel Alarm Clock with Auto Night Light, Black - 12 or 24-Hour Time, Six Time Zones, Indoor Temperature, Date - One AAA Battery Included",
+    "average_rating": 4.1,
+    "rating_number": 3692,
+    "features": [
+      "SELF-SETTING, SELF-ADJUSTING CLOCK - Insert the battery provided & the Marathon Travel Atomic Alarm Clock will synchronize to the correct time using radio frequencies broadcast from NIST’s Colorado Atomic Clock (only functions in North America).",
+      "AUTOMATIC BACKLIGHT - This clock uses a built-in light sensor to detect if the clock has been placed in a dark environment. The backlight can also be manually operated.",
+      "INFORMATIVE DISPLAY - The easy-to-ready display includes the time in 12- or 24-hour format, the indoor room temperature in Celcius or Farenheit, and the month, date & day in English, French, German, Italian & Spanish.",
+      "LOUD ALARM - Easy to set up and use, the alarm is loud & clear.",
+      "FAMILY OWNED & OPERATED - Marathon has been manufacturing precision timing instruments since 1941. Today, they continue their legacy, combining modern design sensibility with Swiss engineering & craftsmanship to ensure the highest quality products."
+    ],
+    "description": [],
+    "price": 18.95,
+    "store": "MARATHON",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Clocks",
+      "Alarm Clocks"
+    ],
+    "details": {
+      "Brand": "MARATHON",
+      "Color": "Black",
+      "Display Type": "Digital",
+      "Style": "Modern",
+      "Special Feature": "Atomic",
+      "Product Dimensions": "2.75\"W x 3\"H",
+      "Power Source": "Battery Powered",
+      "Age Range (Description)": "Adult",
+      "Shape": "Rectangular",
+      "Theme": "Mountain",
+      "Frame Material": "Plastic",
+      "Are Batteries Included": "Yes",
+      "Mounting Type": "Tabletop",
+      "Item Weight": "4.2 ounces",
+      "Number of Batteries": "2 AAA batteries required. (included)",
+      "Alarm Clock": "Yes",
+      "Operation Mode": "Atomic",
+      "Item model number": "CL030036BK",
+      "Batteries": "2 AAA batteries required. (included)",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 89005,
+        "Alarm Clocks": 260
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Warranty Description": "2 year manufacturer.",
+      "Batteries required": "Yes"
+    },
+    "parent_asin": "B071R252SZ",
+    "bought_together": null
+  }
+}

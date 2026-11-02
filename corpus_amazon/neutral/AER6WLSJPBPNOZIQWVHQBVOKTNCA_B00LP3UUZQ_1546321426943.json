@@ -1,0 +1,55 @@
+{
+  "id": "AER6WLSJPBPNOZIQWVHQBVOKTNCA_B00LP3UUZQ_1546321426943",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Not really cushy enough.",
+  "text": "Not really cushy enough.. Not really cushy enough.",
+  "asin": "B00LP3UUZQ",
+  "parent_asin": "B00LP3UUZQ",
+  "user_id": "AER6WLSJPBPNOZIQWVHQBVOKTNCA",
+  "timestamp": 1546321426943,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Collections Etc Quilted Memory Foam Cushioned Chair Pads with Ties - Set of 2, Burgundy",
+    "average_rating": 3.9,
+    "rating_number": 127,
+    "features": [
+      "Polyester"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Collections Etc",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Chair Pads"
+    ],
+    "details": {
+      "Fill Material": "Memory Foam",
+      "Color": "Red",
+      "Brand": "Collections Etc",
+      "Shape": "Square",
+      "Special Feature": "Washable",
+      "Pattern": "Plain",
+      "Number of Items": "2",
+      "Product Dimensions": "15\"L x 15\"W",
+      "Product Care Instructions": "Hand Wash Only",
+      "Style": "Modern",
+      "Item Firmness Description": "Plush",
+      "Item Weight": "8.8 ounces",
+      "Unit Count": "2.0 Count",
+      "Fabric Type": "Polyester",
+      "Item model number": "MSR1190",
+      "Is Discontinued By Manufacturer": "No",
+      "Refill": "Memory Foam",
+      "Number of pieces": "2",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00LP3UUZQ",
+    "bought_together": null
+  }
+}

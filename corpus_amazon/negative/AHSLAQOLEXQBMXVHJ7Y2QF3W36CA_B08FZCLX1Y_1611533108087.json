@@ -1,0 +1,44 @@
+{
+  "id": "AHSLAQOLEXQBMXVHJ7Y2QF3W36CA_B08FZCLX1Y_1611533108087",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not good",
+  "text": "Not good. Battery didn't work right out of the box.  Never held a charge.",
+  "asin": "B08FZCLX1Y",
+  "parent_asin": "B08FZCLX1Y",
+  "user_id": "AHSLAQOLEXQBMXVHJ7Y2QF3W36CA",
+  "timestamp": 1611533108087,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "All Electronics",
+    "title": "18V 4.0AH Lithium Ion Replacement Battery for Hoover Linx Battery BH50000 302723001 BH50015 BH50010 BH50020 Cordless Stick Vacuum",
+    "average_rating": 3.1,
+    "rating_number": 112,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Fancy Buying",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Replacement Batteries & Parts",
+      "Batteries"
+    ],
+    "details": {
+      "Package Dimensions": "5.91 x 3.39 x 1.57 inches",
+      "Item Weight": "12.7 ounces",
+      "Date First Available": "August 16, 2020",
+      "Manufacturer": "DONGGUAN TENWAY POWER CO.,LTD",
+      "Brand": "Fanc",
+      "Battery Cell Composition": "Lithium Ion",
+      "Recommended Uses For Product": "Vacuum Cleaner",
+      "Voltage": "18 Volts",
+      "Reusability": "Rechargeable"
+    },
+    "parent_asin": "B08FZCLX1Y",
+    "bought_together": null
+  }
+}

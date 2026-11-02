@@ -1,0 +1,65 @@
+{
+  "id": "AHPRWGBEWXGO4AQUO52WWD23RZAA_B00OW16ZR0_1587602708822",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Ice gets stuck under blades",
+  "text": "Ice gets stuck under blades. Large chunks of ice get stuck under blades. I had to keep removing pitcher to free up trapped ice with butter knife",
+  "asin": "B009NIRA1M",
+  "parent_asin": "B00OW16ZR0",
+  "user_id": "AHPRWGBEWXGO4AQUO52WWD23RZAA",
+  "timestamp": 1587602708822,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BLACK+DECKER Countertop Blender with 5-Cup Glass Jar, 10-Speed Settings, Black, BL2010BG",
+    "average_rating": 4.4,
+    "rating_number": 8200,
+    "features": [
+      "10 Speed Settings with Pulse - Find the right consistency for everything you make with a range of blending speeds",
+      "5-Cup Glass Jar - Easy to handle with a PerfectPour spout that eliminates drips and spills",
+      "Dishwasher-Safe Parts - Every removable part is safe to clean in the dishwasher, further simplifying the juice-making process",
+      "550 Watts of Blending Power! - The blender reaches 550 watts of power at peak performance*, and 350 watts of power for continuous use"
+    ],
+    "description": [
+      "The BLACK+DECKER 10-Speed Blender is a kitchen classic. With 10 speeds and a pulse control, operation is simple and efficient. The durable glass 5-cup (40-oz.) jar is easy to pour from and holds several servings of your favorite soups, smoothies, frozen mixers, and more! Plus, cleanup is a breeze thanks to the dishwasher-safe removable parts. *Peak performance refers to the maximum power recorded for 100ms during blending"
+    ],
+    "price": 27.2,
+    "store": "BLACK+DECKER",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Blenders",
+      "Countertop Blenders"
+    ],
+    "details": {
+      "Brand": "BLACK+DECKER",
+      "Color": "Black",
+      "Capacity": "48 Fluid Ounces",
+      "Product Dimensions": "8.5\"D x 9.92\"W x 13.5\"H",
+      "Material": "Glass",
+      "Included Components": "BL2010BG",
+      "Style": "Glass Jar",
+      "Recommended Uses For Product": "Blending, Pulse",
+      "Power Source": "Corded Electric",
+      "Wattage": "550 watts",
+      "Number of Speeds": "10",
+      "Item Weight": "7 pounds",
+      "Is Dishwasher Safe": "Yes",
+      "Blade Material": "Stainless Steel",
+      "Manufacturer": "BLACK+DECKER",
+      "Country of Origin": "China",
+      "Item model number": "BL2010BG",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 574,
+        "Countertop Blenders": 7
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 25, 2014"
+    },
+    "parent_asin": "B00OW16ZR0",
+    "bought_together": null
+  }
+}

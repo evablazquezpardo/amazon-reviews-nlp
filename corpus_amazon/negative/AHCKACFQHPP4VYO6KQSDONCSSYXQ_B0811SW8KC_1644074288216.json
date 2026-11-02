@@ -1,0 +1,36 @@
+{
+  "id": "AHCKACFQHPP4VYO6KQSDONCSSYXQ_B0811SW8KC_1644074288216",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not The Item",
+  "text": "Not The Item. This item is not what I expected",
+  "asin": "B0811SW8KC",
+  "parent_asin": "B0811SW8KC",
+  "user_id": "AHCKACFQHPP4VYO6KQSDONCSSYXQ",
+  "timestamp": 1644074288216,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "GOMYIE beega",
+    "average_rating": 4.1,
+    "rating_number": 167,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "beega",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Tool & Gadget Sets"
+    ],
+    "details": {
+      "Department": "Womens",
+      "Date First Available": "December 17, 2020"
+    },
+    "parent_asin": "B0811SW8KC",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "AELNHBVAXQODFM6C3QRQRTGND5LQ_B00IWOJS9A_1408460817000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "The price is reasonable, but it still smells a ...",
+  "text": "The price is reasonable, but it still smells a .... The price is reasonable, but it still smells a little bit plastic after using it for over half an month.",
+  "asin": "B00IWOJS9A",
+  "parent_asin": "B00IWOJS9A",
+  "user_id": "AELNHBVAXQODFM6C3QRQRTGND5LQ",
+  "timestamp": 1408460817000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Proctor Silex 022333922408 (K2070YA) Electric Kettle, For Tea & Coffee, 1 Liter, White",
+    "average_rating": 4.3,
+    "rating_number": 3150,
+    "features": [
+      "Detachable cord for easy pouring",
+      "Faster than a microwave; safer than a stovetop kettle",
+      "Automatic shutoff",
+      "Dual water windows",
+      "Boil-dry protection"
+    ],
+    "description": [
+      "Tea. Hot chocolate. Instant soup. If you have a taste for it, Proctor Silex Kettles can have it ready in minutes. The powerful rapid-boil system provides fast heat-up from any standard outlet and the auto shutoff function helps keep kettles from boiling dry."
+    ],
+    "price": null,
+    "store": "Proctor Silex",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Kettles & Tea Machines",
+      "Electric Kettles"
+    ],
+    "details": {
+      "Brand": "Proctor Silex",
+      "Color": "White",
+      "Package Information": "Kettle",
+      "Included Components": "022333922408",
+      "Model Name": "022333922408",
+      "Item Weight": "1.7 pounds",
+      "Product Dimensions": "7.8 x 4.49 x 8.66 inches",
+      "Manufacturer": "Hamilton Beach",
+      "Item model number": "K2070YA",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "March 4, 2014",
+      "Capacity 1 Liters": "",
+      "": "Material Plastic"
+    },
+    "parent_asin": "B00IWOJS9A",
+    "bought_together": null
+  }
+}

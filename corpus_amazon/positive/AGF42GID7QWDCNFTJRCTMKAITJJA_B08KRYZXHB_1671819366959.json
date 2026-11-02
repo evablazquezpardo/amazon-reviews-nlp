@@ -1,0 +1,61 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B08KRYZXHB_1671819366959",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Amazing Product",
+  "text": "Amazing Product. No more worrying about my fingers....this is absolutely amazing",
+  "asin": "B07XZYXYK9",
+  "parent_asin": "B08KRYZXHB",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1671819366959,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "DASH Safe Slice Mandoline for Vegetables, Meal Prep & More with Thickness Adjuster, Black",
+    "average_rating": 4.5,
+    "rating_number": 19761,
+    "features": [
+      "Safer: Designed to keep hands and fingers away from blades, for an easier, safer way to slice The spring-loaded handle pops up, so simply push down to slice in seconds (so easy even your kids can use it)",
+      "Versatile: Slice, julienne, matchstick, dice, and more for easy meal prep, with 30 different preset cuts for varying thicknesses (1-8mm) Thickness adjuster allows for custom control giving you perfect stews, soups, salads, vegetables, even homemade potato chips",
+      "Easy Clean: Compact design folds down for easy storage The included brush eliminates buildup on the blades, and food catch container keeps countertops clean",
+      "Perfect Gift: The perfect wedding or new home gift Its small size takes up little counter or cupboard space, and is a great addition to anyone’s kitchen (add to your registry now!)",
+      "Includes: Backed by a 1-year manufacturer warranty (2 yr with Feel Good Rewards Registration), the Safe Slice Mandolin comes with food catch container, cleaning brush, recipe guide and recipe database access"
+    ],
+    "description": [
+      "The DASH safe slice mandolin offers a safer way to cut like a Pro. The unique design prevents your Hands from ever going near the built-in blades, making this mandolin the safest option for an Expert slice. With 30+ slicing options, The mandolin cuts perfectly-even slices from 1-8mm in thickness while also offering julienne, matchstick and dicing options. Complete with a recipe guide with dishes including coleslaw or potato chips, The safe slice mandolin makes food prep quick and easy. Easy to assemble."
+    ],
+    "price": 49.99,
+    "store": "DASH",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Seasoning & Spice Tools",
+      "Choppers & Mincers",
+      "Choppers"
+    ],
+    "details": {
+      "Brand": "DASH",
+      "Color": "Black",
+      "Special Feature": "Easy Clean, Adjustable",
+      "Recommended Uses For Product": "Vegetable",
+      "Product Care Instructions": "Hand Wash Only",
+      "Blade Shape": "V Shape",
+      "Operation Mode": "Manual",
+      "Product Dimensions": "4.7 x 14 x 1.4 inches",
+      "Item Weight": "2.18 pounds",
+      "Manufacturer": "StoreBound",
+      "Item model number": "DSM100RMBK04",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 3646,
+        "Mandolines": 10,
+        "Seasoning & Spice Choppers": 38
+      },
+      "Date First Available": "March 10, 2021"
+    },
+    "parent_asin": "B08KRYZXHB",
+    "bought_together": null
+  }
+}

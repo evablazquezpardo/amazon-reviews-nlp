@@ -1,0 +1,52 @@
+{
+  "id": "AFCFBEO27D2UDMYDVHZP2G7YSVPA_B081T739HK_1660969575614",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "This is junk",
+  "text": "This is junk. The small dresser is unusable junk. The draws do not work. It does not open or close. Why does Amazon allow this. This seller is getting $200 and mailing out junk to customers.",
+  "asin": "B081T739HK",
+  "parent_asin": "B081T739HK",
+  "user_id": "AFCFBEO27D2UDMYDVHZP2G7YSVPA",
+  "timestamp": 1660969575614,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Baxton Studio Gabrielle White-Finished 3-Drawer Wood Dresser",
+    "average_rating": 3.7,
+    "rating_number": 5,
+    "features": [
+      "With its floral embellishments, the Gabrielle cabinet is a charming addition to any bedroom. Constructed from wood, this cabinet features three spacious drawers. Its classic white finish highlights the stunning attention to detail in the inset paneling on the drawers, as well as the enchanting floral molding on the bottom. Decorative brass metal handles and cabriole legs add a delightful French-inspired look. The Gabrielle cabinet is made in China and will arrive fully assembled",
+      "Constructed from MDF wood and fir wood",
+      "White finish",
+      "Three (3) drawers",
+      "Decorative brass metal handles"
+    ],
+    "description": [
+      "Traditional French Provincial storage cabinet Constructed from MDF wood and fir wood White finish Three (3) drawers Decorative brass metal handles Fully assembled Dimensions: 31.5\" high x 31.5\" Wide x 13.78\" deep; Drawer dimensions: 5.91\" high x 25.59\" Wide x 11.81\" deep; Legs: 9.84\" high; Weight: 39.68"
+    ],
+    "price": null,
+    "store": "Baxton Studio",
+    "categories": [],
+    "details": {
+      "Brand": "Baxton Studio",
+      "Material": "Engineered Wood",
+      "Finish Type": "Polished",
+      "Product Dimensions": "13.78\"D x 31.5\"W x 31.5\"H",
+      "Number of Drawers": "3",
+      "Color": "White",
+      "Style": "French",
+      "Mounting Type": "Freestanding",
+      "Room Type": "Bedroom",
+      "Furniture Finish": "White Finish",
+      "Product Care Instructions": "Wipe with Dry Cloth",
+      "Item Weight": "39.7 pounds",
+      "Size": "31.5 x 13.78 x 31.5",
+      "Manufacturer": "Baxton Studio",
+      "Date First Available": "November 21, 2019"
+    },
+    "parent_asin": "B081T739HK",
+    "bought_together": null
+  }
+}

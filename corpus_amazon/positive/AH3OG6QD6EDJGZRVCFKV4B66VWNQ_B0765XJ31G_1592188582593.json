@@ -1,0 +1,62 @@
+{
+  "id": "AH3OG6QD6EDJGZRVCFKV4B66VWNQ_B0765XJ31G_1592188582593",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Gift",
+  "text": "Gift. My Iowa friends are thrilled, I knew that I bought a great product because I have one also. My friends are farmers and told me that was one item they did not have, looked at it but never purchased one. They used it and love the quality and the heating dept. A large family comes on the weekends and she does not have to make pancakes on a frying pan anymore. She likes her bacon and sausage, and the eggs come off perfectly.  This is what I can report.",
+  "asin": "B0765XJ31G",
+  "parent_asin": "B0765XJ31G",
+  "user_id": "AH3OG6QD6EDJGZRVCFKV4B66VWNQ",
+  "timestamp": 1592188582593,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BLACK+DECKER Family-Sized Electric Griddle with Warming Tray & Drip Tray, GD2051B",
+    "average_rating": 4.7,
+    "rating_number": 4016,
+    "features": [
+      "Extra-Large Capacity - Cook for the whole family! The 8-serving cooking area offers griddle surface for all your breakfast favorites.",
+      "Non-Stick Cooking Surface - The durable non-stick cooking surface allows for easy cooking and fast cleanup.",
+      "Click & Lock Thermostat - The removable probe features an adjustable temperature knob, providing the ideal heat for every cooking task. Wattage Output: 1500 watts",
+      "Built-In Warming Tray - The slide-out warming tray lets you have everything hot and ready for serving. Just move cooked foods into the tray while you prepare the rest on the griddle surface.",
+      "Removable Drip Tray - Excess grease and fat drain into the removable tray for easy disposal."
+    ],
+    "description": [
+      "The BLACK+DECKER Family-Sized Electric Griddle combines fast and even heating with variable temperature controls, making it easy to create all your breakfast favorites—from bacon and eggs to pancakes and hash browns. This updated griddle comes with a built-in warming tray that lets you store cooked foods while you complete the meal. Everything comes out together at the perfect temperature. Plus, the large non-stick surface and slide-out drip tray make cleanup a breeze."
+    ],
+    "price": 55.57,
+    "store": "BLACK+DECKER",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Indoor Grills & Griddles",
+      "Electric Griddles"
+    ],
+    "details": {
+      "Product Dimensions": "13\"D x 22\"W x 3.5\"H",
+      "Item Weight": "4.96 Pounds",
+      "Department": "Unisex-Adult",
+      "Manufacturer": "Spectrum Brands",
+      "Item model number": "GD2051B",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 30042,
+        "Electric Griddles": 31
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 4, 2017",
+      "Special Feature": "Manual",
+      "Color": "Black",
+      "Material": "Plastic",
+      "Brand": "BLACK+DECKER",
+      "Wattage": "1500 watts",
+      "Included Components": "GD2051B",
+      "Style": "Griddle with Warming Tray",
+      "Voltage": "110 Volts"
+    },
+    "parent_asin": "B0765XJ31G",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "AEO36FGBLWAVC5G7DSVKRL3V22VQ_B001BB7SIO_1417480401000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. it was ok",
+  "asin": "B001BB7SIO",
+  "parent_asin": "B001BB7SIO",
+  "user_id": "AEO36FGBLWAVC5G7DSVKRL3V22VQ",
+  "timestamp": 1417480401000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "All Electronics",
+    "title": "My Life Digital Photo Album, Pink",
+    "average_rating": 1.5,
+    "rating_number": 2,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Brookstone",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Photo Albums, Frames & Accessories",
+      "Photo Albums",
+      "Bookshelf Albums"
+    ],
+    "details": {
+      "Package Dimensions": "8.5 x 6.3 x 3.7 inches",
+      "Item Weight": "15.2 ounces",
+      "Date First Available": "May 5, 2003",
+      "Manufacturer": "Brookstone"
+    },
+    "parent_asin": "B001BB7SIO",
+    "bought_together": null
+  }
+}

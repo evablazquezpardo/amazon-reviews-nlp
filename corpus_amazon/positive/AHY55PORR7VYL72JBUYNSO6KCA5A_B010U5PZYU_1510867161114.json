@@ -1,0 +1,57 @@
+{
+  "id": "AHY55PORR7VYL72JBUYNSO6KCA5A_B010U5PZYU_1510867161114",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Recommend",
+  "text": "Recommend. Well worth the $13 I paid. Sturdy and nice looking",
+  "asin": "B010U5PZYU",
+  "parent_asin": "B010U5PZYU",
+  "user_id": "AHY55PORR7VYL72JBUYNSO6KCA5A",
+  "timestamp": 1510867161114,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sea Current Clear Glass Pitcher with Lid, 1.9 Quart",
+    "average_rating": 4.0,
+    "rating_number": 123,
+    "features": [
+      "Made of high quality, thick durable glass that retains temperature longer",
+      "A beautiful and functional addition to any table setting",
+      "Tightly sealed with red lid, spill-resistant pour spout",
+      "Dishwasher safe, comfortable for everyday use",
+      "Capacity: 61.75 oz, Dimensions: 4.5\"Dia (top) x 9\"H"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Red Co.",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Serveware",
+      "Beverage Serveware",
+      "Jugs"
+    ],
+    "details": {
+      "Brand": "Red Co.",
+      "Material": "Glass",
+      "Color": "Sea Current",
+      "Capacity": "1.9 Quarts",
+      "Special Feature": "Durable",
+      "Style": "Casual",
+      "Shape": "Round",
+      "Item Weight": "3 pounds",
+      "With Lid": "Yes",
+      "Product Dimensions": "9.5 x 6 x 6 inches",
+      "Manufacturer": "Red Co.",
+      "Item model number": "34755",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 3, 2015"
+    },
+    "parent_asin": "B010U5PZYU",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "AGMNH2YR562FZLUYSIA5RSGSYAPQ_B004KI108Y_1578657641716",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Plain and simple!",
+  "text": "Plain and simple!. Exactly what I was looking for!",
+  "asin": "B004KI108Y",
+  "parent_asin": "B004KI108Y",
+  "user_id": "AGMNH2YR562FZLUYSIA5RSGSYAPQ",
+  "timestamp": 1578657641716,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "American Metalcraft SPP326 Ceramic Sugar Packet Holder, 3.5\" L x 2.5\" W, White",
+    "average_rating": 4.6,
+    "rating_number": 225,
+    "features": [
+      "Perfect for holding sugar, tea, or sweetener packets",
+      "Made of ceramic for classic, professional appearance",
+      "Simple, white design works with any table setting",
+      "Easy to wash and clean",
+      "Measures 3.5” L x 2.5” W x 2” H"
+    ],
+    "description": [
+      "Serve coffee in style with American Metalcraft’s ceramic sugar packet holder. With its simple and timeless look, this holder is perfect for offering sugar, tea, or sweetener packets to the table. The classic, white design makes any table setting look professional and is a must-have for any home or restaurant with lots of coffee drinkers! Each order contains one ceramic sugar packet holder measuring 3.5” L x 2.5” W x 2” H. With 70 years of service, American Metalcraft is a leader in the foodservice industry for trend-focused and unique products."
+    ],
+    "price": 9.56,
+    "store": "American METALCRAFT, Inc.",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Cream & Sugar",
+      "Sugar Packet Holders"
+    ],
+    "details": {
+      "Bowl Material": "Ceramic",
+      "Number of Pieces": "1",
+      "Brand": "American METALCRAFT, Inc.",
+      "Color": "White",
+      "Style": "Classic",
+      "Shape": "Rectangular",
+      "Capacity": "3.5 Liters",
+      "Pattern": "Solid",
+      "Seasons": "All Seasons",
+      "Is Dishwasher Safe": "Yes",
+      "Is Microwaveable": "No",
+      "Material": "Ceramic",
+      "Product Dimensions": "3.5\"W x 2\"H",
+      "Item Weight": "7.2 ounces",
+      "Manufacturer": "AMERICAN METALCRAFT, INC.",
+      "Country of Origin": "China",
+      "Item model number": "SPP326",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 213347,
+        "Sugar Packet Holders": 49
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 5, 2009"
+    },
+    "parent_asin": "B004KI108Y",
+    "bought_together": null
+  }
+}

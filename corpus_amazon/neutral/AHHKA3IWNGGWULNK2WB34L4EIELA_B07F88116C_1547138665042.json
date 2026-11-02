@@ -1,0 +1,47 @@
+{
+  "id": "AHHKA3IWNGGWULNK2WB34L4EIELA_B07F88116C_1547138665042",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "keeps me very warm",
+  "text": "keeps me very warm. I love this .. the only bad thing is sheds.",
+  "asin": "B07F88116C",
+  "parent_asin": "B07F88116C",
+  "user_id": "AHHKA3IWNGGWULNK2WB34L4EIELA",
+  "timestamp": 1547138665042,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "JML Fleece Blanket, Plush Blankets King Size(90\"x102\") - Anti-Static, Super Soft Warm, Lightweight Cozy All Season Use Flannel Bed Blanket, Grey",
+    "average_rating": 3.4,
+    "rating_number": 4,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "JML",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Throws"
+    ],
+    "details": {
+      "Color": "Grey",
+      "Brand": "JML",
+      "Special Feature": "Lightweight",
+      "Style": "Modern",
+      "Product Dimensions": "102\"L x 90\"W",
+      "Theme": "Grey",
+      "Pattern": "Solid",
+      "Fabric Type": "Flannel,fleece",
+      "Fabric Warmth Description": "Lightweight",
+      "Package Dimensions": "13.6 x 10.5 x 6.2 inches",
+      "Item Weight": "3.99 pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 7, 2018"
+    },
+    "parent_asin": "B07F88116C",
+    "bought_together": null
+  }
+}

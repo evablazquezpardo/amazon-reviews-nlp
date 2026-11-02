@@ -1,0 +1,41 @@
+{
+  "id": "AF227ZORVJNXGFF6UFK23IYWE7AA_B077GR3B9X_1519229335652",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. They were a bit thin.",
+  "asin": "B077GR3B9X",
+  "parent_asin": "B077GR3B9X",
+  "user_id": "AF227ZORVJNXGFF6UFK23IYWE7AA",
+  "timestamp": 1519229335652,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Qute Home Bath Towels| Spa & Hotel Quality Towels 100% Cotton Towel Sets for Bathroom (Brown, Bath Towel - Set of 2)",
+    "average_rating": 3.5,
+    "rating_number": 23,
+    "features": [
+      "Cotton"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Qute Home",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Towel Sets"
+    ],
+    "details": {
+      "Color": "Brown",
+      "Brand": "Qute Home",
+      "Towel form type": "Bath Towel",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton"
+    },
+    "parent_asin": "B077GR3B9X",
+    "bought_together": null
+  }
+}

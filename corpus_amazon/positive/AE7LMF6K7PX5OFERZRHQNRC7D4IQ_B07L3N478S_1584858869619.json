@@ -1,0 +1,61 @@
+{
+  "id": "AE7LMF6K7PX5OFERZRHQNRC7D4IQ_B07L3N478S_1584858869619",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "good",
+  "text": "good. good",
+  "asin": "B019F071ZM",
+  "parent_asin": "B07L3N478S",
+  "user_id": "AE7LMF6K7PX5OFERZRHQNRC7D4IQ",
+  "timestamp": 1584858869619,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OXO Good Grips 1.6 Cup Smart Seal Leakproof Glass Rectangle Food Storage Container",
+    "average_rating": 4.7,
+    "rating_number": 6835,
+    "features": [
+      "Four locking tabs secure the foolproof, leakproof lids",
+      "Durable borosilicate glass containers designed to go from freezer to oven",
+      "Smart Seal glass containers nest and stack for convenient and compact storage",
+      "Lids are interchangeable between the same size glass and plastic Smart Seal containers",
+      "Removable silicone seal is easy to clean",
+      "Oven, microwave, freezer, and dishwasher safe",
+      "Borosilicate glass is naturally BPA free and stainproof"
+    ],
+    "description": [
+      "OXO Good Grips Smart Seal Airtight Glass Containers do more than just keep food fresh. Made from naturally BPA-free borosilicate glass, these durable containers are built to go from freezer to pre-heated oven—or microwave—without the need to fully thaw. Four locking tabs work together with the silicone gasket to create a leakproof seal, perfect for taking food on the go. 1.6-cup size perfect for storing sides. Smart Seal Containers stack conveniently in your fridge or freezer and nest neatly in your cabinet. Dishwasher safe."
+    ],
+    "price": 10.95,
+    "store": "OXO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "6.25\"L x 4.3\"W x 2.5\"H",
+      "Item Weight": "13.9 ounces",
+      "Manufacturer": "OXO",
+      "Country of Origin": "China",
+      "Item model number": "11174200",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 1885,
+        "Food Container Sets": 129
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 15, 2015",
+      "Brand": "OXO",
+      "Color": "Clear",
+      "Material": "Glass",
+      "Capacity": "0.4 Liters"
+    },
+    "parent_asin": "B07L3N478S",
+    "bought_together": null
+  }
+}

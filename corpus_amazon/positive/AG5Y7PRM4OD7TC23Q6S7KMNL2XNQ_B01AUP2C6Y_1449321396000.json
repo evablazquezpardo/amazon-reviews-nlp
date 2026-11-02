@@ -1,0 +1,64 @@
+{
+  "id": "AG5Y7PRM4OD7TC23Q6S7KMNL2XNQ_B01AUP2C6Y_1449321396000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Nice product",
+  "text": "Nice product. With so many stray CDs whose cases took up so much room, I was pleased to receive this product and reduce the amount of space needed to store the CD's.",
+  "asin": "B00005ATML",
+  "parent_asin": "B01AUP2C6Y",
+  "user_id": "AG5Y7PRM4OD7TC23Q6S7KMNL2XNQ",
+  "timestamp": 1449321396000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Home Audio & Theater",
+    "title": "Case Logic KSW-92 Koskin 100 Capacity CD/DVD Prosleeve Wallet (Black)",
+    "average_rating": 4.7,
+    "rating_number": 3419,
+    "features": [
+      "Wallet holds 100 CDs or 46 with booklets",
+      "Innovative Fast-File pockets allow quick storage and immediate access to 8 additional favorite or \"now playing\" CDs or DVDs",
+      "Patented ProSleeves provide ultra protection by keeping dirt away to prevent scratching of delicate CD surface",
+      "Easy-flip pages lay flat for quick access to CDs",
+      "Durable faux leather exterior resistant to moisture and abrasion"
+    ],
+    "description": [
+      "* Holds 92 CD's or 46 with liner notes * Easy-view index spine label for quick identification of CDs * Sturdy carrying handle * Durable Koskin cover has the look and feel of leather * Easy flip pages lay flat for quick access to CDs."
+    ],
+    "price": 22.02,
+    "store": "Case Logic",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "TV & Media Furniture",
+      "Media Storage",
+      "DVD Cases"
+    ],
+    "details": {
+      "Material": "Faux Leather",
+      "Color": "Black",
+      "Special Feature": "Scratch Resistant",
+      "Product Dimensions": "3.93\"D x 8.07\"W x 12.68\"H",
+      "Assembly Required": "No",
+      "Item Weight": "13.6 ounces",
+      "Brand": "Case Logic",
+      "Style": "Wallet",
+      "Department": "Personal & Portable",
+      "Manufacturer": "Case Logic",
+      "Domestic Shipping": "Item can be shipped within U.S.",
+      "International Shipping": "This item can be shipped to select countries outside of the U.S.  Learn More",
+      "Country of Origin": "USA",
+      "Item model number": "KSW92",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 149570,
+        "DVD Cases": 102
+      },
+      "Is Discontinued By Manufacturer": "Yes",
+      "Date First Available": "June 17, 2003"
+    },
+    "parent_asin": "B01AUP2C6Y",
+    "bought_together": null
+  }
+}

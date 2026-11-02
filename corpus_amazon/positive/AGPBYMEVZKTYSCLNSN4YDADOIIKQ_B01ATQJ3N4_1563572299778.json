@@ -1,0 +1,47 @@
+{
+  "id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ_B01ATQJ3N4_1563572299778",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Best dishes ever!",
+  "text": "Best dishes ever!. I love it!<br />The best dishes I’ve ever had! I want more.",
+  "asin": "B01ATQJ3N4",
+  "parent_asin": "B01ATQJ3N4",
+  "user_id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ",
+  "timestamp": 1563572299778,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Pfaltzgraff Sylvia Dinnerware Set, 32 Piece, White",
+    "average_rating": 4.7,
+    "rating_number": 1000,
+    "features": [
+      "CLASSIC DESIGN: pattern features raised curls framed by beaded bands gives traditional style a fresh update",
+      "32-PIECE SET: service for eight includes 8 each of 10-1 2 inch dinner plate, 8-1 4 inch salad plate, 6-1 2 inch diameter (29 ounce) soup/cereal bowl and 14 ounce mug",
+      "QUALITY MATERIALS: crafted of porcelain, making the dinnerware durable for years to come",
+      "MICROWAVE SAFE: great for reheating leftovers",
+      "QUICK, SIMPLE CLEANUP: dinnerware is dishwasher safe"
+    ],
+    "description": [],
+    "price": 99.94,
+    "store": "Pfaltzgraff",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Dinnerware",
+      "Dinnerware Sets"
+    ],
+    "details": {
+      "Color": "White",
+      "Material": "Porcelain",
+      "Brand": "Pfaltzgraff",
+      "Pattern": "SYLVIA",
+      "Collection Name": "SYLVIA"
+    },
+    "parent_asin": "B01ATQJ3N4",
+    "bought_together": null
+  }
+}

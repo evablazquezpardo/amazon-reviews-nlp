@@ -1,0 +1,46 @@
+{
+  "id": "AEWYR767N3SLDK2ZOW57X7OMKXCA_B08Y16KW9R_1646962404947",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Leaks water",
+  "text": "Leaks water. The lid would not stay snapped in place and water would leak out.",
+  "asin": "B08Y16KW9R",
+  "parent_asin": "B08Y16KW9R",
+  "user_id": "AEWYR767N3SLDK2ZOW57X7OMKXCA",
+  "timestamp": 1646962404947,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ice Cube Trays for Freezer, 2pcs Silicone Ice Tray with Lids, Easy Release BPA Free Round Ice Ball Molds for Whiskey, Cocktail, Freezer (Black)",
+    "average_rating": 3.0,
+    "rating_number": 13,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "LAFAMI",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Specialty Tools & Gadgets",
+      "Ice Cube Molds & Trays"
+    ],
+    "details": {
+      "Product Dimensions": "6.18 x 6.18 x 2.83 inches",
+      "Item Weight": "7.7 ounces",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 767199,
+        "Ice Cube Molds & Trays": 5555
+      },
+      "Date First Available": "April 2, 2021",
+      "Material": "Silicone, Silica Gel",
+      "Brand": "LAFAMI",
+      "Shape": "Round",
+      "Material Type Free": "BPA Free"
+    },
+    "parent_asin": "B08Y16KW9R",
+    "bought_together": null
+  }
+}

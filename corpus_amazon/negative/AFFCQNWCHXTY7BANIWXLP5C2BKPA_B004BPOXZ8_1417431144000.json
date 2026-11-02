@@ -1,0 +1,44 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B004BPOXZ8_1417431144000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Price is too high",
+  "text": "Price is too high. PAID WAY TOO MUCH",
+  "asin": "B004BPOXZ8",
+  "parent_asin": "B004BPOXZ8",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1417431144000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amscan Bingo Game Sheets - 8\" x 4\" - Pack of 125",
+    "average_rating": 4.5,
+    "rating_number": 99,
+    "features": [
+      "PACKAGE INCLUDES: 125 Multi-colored Bingo Sheets - 8\" x 4\"",
+      "TRADITIONAL: This Bingo Games Sheet is designed with the traditional Bingo game that will give fun for the players",
+      "FUN BINGO CARD: This Bingo game will give hours of fun for the whole family",
+      "PREMIUM QUALITY: These bingo game sheets are made of cardstock with good quality printed design that would hype the vibe of your party guests",
+      "FUN & EXCITEMENT: This will give a lot of fun and excitement to you and your guests"
+    ],
+    "description": [],
+    "price": 6.53,
+    "store": "amscan",
+    "categories": [
+      "Home & Kitchen",
+      "Event & Party Supplies",
+      "Party Packs"
+    ],
+    "details": {
+      "Age Range (Description)": "Adult/Youth",
+      "Brand": "amscan",
+      "Material": "Paper",
+      "Color": "Multicolored",
+      "Included Components": "Bingo Sheets"
+    },
+    "parent_asin": "B004BPOXZ8",
+    "bought_together": null
+  }
+}

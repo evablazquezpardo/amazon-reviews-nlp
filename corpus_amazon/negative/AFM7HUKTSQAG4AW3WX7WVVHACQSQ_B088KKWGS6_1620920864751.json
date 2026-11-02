@@ -1,0 +1,35 @@
+{
+  "id": "AFM7HUKTSQAG4AW3WX7WVVHACQSQ_B088KKWGS6_1620920864751",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Hard pass",
+  "text": "Hard pass. Nothing like the picture. No colors at all.",
+  "asin": "B088KKWGS6",
+  "parent_asin": "B088KKWGS6",
+  "user_id": "AFM7HUKTSQAG4AW3WX7WVVHACQSQ",
+  "timestamp": 1620920864751,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KEYI Window Privacy Film, Removable Non-Adhesive UV Blocking Rainbow Window Static Clings",
+    "average_rating": 3.4,
+    "rating_number": 33,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "KEYI",
+    "categories": [],
+    "details": {
+      "Package Dimensions": "17.87 x 1.1 x 0.87 inches",
+      "Item Weight": "3.84 ounces",
+      "Date First Available": "November 3, 2020",
+      "Brand": "KEYI",
+      "Installation Type": "Static Cling",
+      "Ultraviolet Light Protection": "True"
+    },
+    "parent_asin": "B088KKWGS6",
+    "bought_together": null
+  }
+}

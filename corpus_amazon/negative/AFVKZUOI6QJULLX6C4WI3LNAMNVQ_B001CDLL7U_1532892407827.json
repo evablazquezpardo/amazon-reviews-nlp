@@ -1,0 +1,61 @@
+{
+  "id": "AFVKZUOI6QJULLX6C4WI3LNAMNVQ_B001CDLL7U_1532892407827",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Disappointed",
+  "text": "Disappointed. This didn’t work well at all. The stopper didn’t get a good seal and created a huge mess",
+  "asin": "B001CDLL7U",
+  "parent_asin": "B001CDLL7U",
+  "user_id": "AFVKZUOI6QJULLX6C4WI3LNAMNVQ",
+  "timestamp": 1532892407827,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OXO Oil Pourer/Stopper, 1 EA",
+    "average_rating": 4.1,
+    "rating_number": 1814,
+    "features": [
+      "Dual function: seals for storage and opens for drip-free pouring",
+      "Fits most size bottles",
+      "Soft, comfortable lever",
+      "Drizzle or pour oil or vinegar onto foods",
+      "Durable, stainless steel construction"
+    ],
+    "description": [
+      "The Oxo good grips oil stopper/pourer combination is perfect for pouring and storing fresh olive oil. Use the stopper/pourer to drizzle oil onto your favorite dish or pour oil into a salad. Push the soft, comfortable lever down and the bottle is sealed for storage. Lift the lever up and the seal is opened for drip-free pouring. Flexible ribs make the stopper/pourer easy to insert and remove from bottles. This sleek, brushed stainless steel stopper/pourer combination accommodates most size bottles and is dishwasher safe."
+    ],
+    "price": null,
+    "store": "OXO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Bar & Wine Tools",
+      "Wine Stoppers & Pourers",
+      "Wine Stoppers"
+    ],
+    "details": {
+      "Brand": "OXO",
+      "Material": "Stainless Steel",
+      "Color": "Silver",
+      "Capacity": "1 Liters",
+      "Number of Items": "1",
+      "Reusability": "Reusable",
+      "Unit Count": "1.0 Count",
+      "Product Dimensions": "4 x 1.5 x 1.25 inches",
+      "Item Weight": "2.78 ounces",
+      "Manufacturer": "OXO",
+      "Item model number": "1151000",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 163515,
+        "Wine Stoppers": 476
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 2, 2008"
+    },
+    "parent_asin": "B001CDLL7U",
+    "bought_together": null
+  }
+}

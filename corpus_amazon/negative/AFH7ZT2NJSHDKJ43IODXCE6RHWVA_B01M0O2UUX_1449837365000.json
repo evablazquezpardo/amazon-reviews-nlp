@@ -1,0 +1,63 @@
+{
+  "id": "AFH7ZT2NJSHDKJ43IODXCE6RHWVA_B01M0O2UUX_1449837365000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Don't bother",
+  "text": "Don't bother. Very cheap...returned promptly. Fast refund provided.",
+  "asin": "B0065RPNIG",
+  "parent_asin": "B01M0O2UUX",
+  "user_id": "AFH7ZT2NJSHDKJ43IODXCE6RHWVA",
+  "timestamp": 1449837365000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Vickerman 36\" Anoka Pine Artificial Christmas Tree with Burlap Base and 100 Clear Lights",
+    "average_rating": 3.0,
+    "rating_number": 20,
+    "features": [
+      "310 PVC Tips",
+      "Burlap base",
+      "1 Year Limited Manufacturer warranty"
+    ],
+    "description": [
+      "36\" Anoka pine artificial Christmas tree featuring 310 PVC tips and 100 clear mini lights. Comes in a burlap base."
+    ],
+    "price": 68.91,
+    "store": "Vickerman",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Trees"
+    ],
+    "details": {
+      "Brand": "Vickerman",
+      "Color": "Clear Lights",
+      "Material": "Polyvinyl Chloride",
+      "Item Weight": "9.5 Pounds",
+      "Item Package Quantity": "1",
+      "Recommended Uses For Product": "Christmas Tree",
+      "Package Information": "Bag",
+      "Occasion": "Christmas",
+      "Special Feature": "Lit, unlit",
+      "Assembly Required": "Yes",
+      "Tree Type": "pine",
+      "Base Type": "Stand",
+      "Built-in Light": "Yes",
+      "Tip count": "310",
+      "Light Color": "clear",
+      "Product Dimensions": "20 x 20 x 36 inches",
+      "Manufacturer": "Vickerman",
+      "Item model number": "B110437",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2581540,
+        "Christmas Trees": 5209
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B01M0O2UUX",
+    "bought_together": null
+  }
+}

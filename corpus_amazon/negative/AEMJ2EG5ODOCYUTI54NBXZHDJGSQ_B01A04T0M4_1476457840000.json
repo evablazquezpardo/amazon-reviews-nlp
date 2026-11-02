@@ -1,0 +1,38 @@
+{
+  "id": "AEMJ2EG5ODOCYUTI54NBXZHDJGSQ_B01A04T0M4_1476457840000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. difficult to fill!!!!",
+  "asin": "B01A04T0M4",
+  "parent_asin": "B01A04T0M4",
+  "user_id": "AEMJ2EG5ODOCYUTI54NBXZHDJGSQ",
+  "timestamp": 1476457840000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Pocket Rocket Single Flame Jet Cigarette Cigar Lighter",
+    "average_rating": 3.7,
+    "rating_number": 51,
+    "features": [],
+    "description": [
+      "Pocket Rocket Single Flame Jet Cigarette Cigar Lighter"
+    ],
+    "price": 11.99,
+    "store": "POCKET ROCKET",
+    "categories": [],
+    "details": {
+      "Package Dimensions": "5.2 x 3.3 x 2.1 inches",
+      "Item Weight": "0.19 Kilograms",
+      "Item model number": "43237-2",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 30, 2015",
+      "Brand": "POCKET ROCKET",
+      "Color": "Green"
+    },
+    "parent_asin": "B01A04T0M4",
+    "bought_together": null
+  }
+}

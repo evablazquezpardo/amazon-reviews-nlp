@@ -1,0 +1,55 @@
+{
+  "id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ_B0BB7M1VLT_1627340122533",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Excellent",
+  "text": "Excellent. Smaller than I remembered.",
+  "asin": "B08LNWGK87",
+  "parent_asin": "B0BB7M1VLT",
+  "user_id": "AHNLARH6XR2FFGAR55JXWUYBUNAQ",
+  "timestamp": 1627340122533,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Utopia Kitchen Nonstick Saucepan Set - 1 Quart and 2 Quart - Glass Lid - Multipurpose Use for Home Kitchen or Restaurant (Copper-Grey)",
+    "average_rating": 4.6,
+    "rating_number": 9310,
+    "features": [
+      "SET OF 2 – The set comprises of one 1-quart saucepan and one 2-quart saucepan; the pans carry a thickness of 3 mm with a 2-layer non-stick coating inside and a heat-resistant paint on the outside",
+      "VERSATILE COOKWARE – 2 quart saucepan in the set is induction capable and suitable for all cooking surfaces including electrical and ceramic cooktops. 1 quart saucepan is spiral bottom and only works on traditional stoves; not suitable for induction cooking",
+      "CONVENIENCE – A black Bakelite handle for easy handling of the pan/s and a 4 mm glass lid with Bakelite knob to keep the food protected",
+      "MULTI-PURPOSE – Whether it’s boiling pasta, making sauces, preparing meat or reheating leftovers, these saucepans will serve you for good",
+      "CARE INSTRUCTIONS – Hand wash the pans with hot soapy water and dry them using a soft cotton or linen towel; use a plastic or wooden utensil to keep the non-stick coating in great shape"
+    ],
+    "description": [],
+    "price": 26.99,
+    "store": "Utopia Kitchen",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Pots & Pans",
+      "Saucepans"
+    ],
+    "details": {
+      "Material": "Aluminum",
+      "Finish Type": "Non-Stick",
+      "Brand": "Utopia Kitchen",
+      "Color": "Copper-Grey",
+      "Capacity": "2 Quarts",
+      "Product Dimensions": "3.3\"D x 7\"W x 4\"H",
+      "Item Weight": "3.98 Pounds",
+      "Coating Description": "Ceramic",
+      "Manufacturer": "Utopia Kitchen",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 1013,
+        "Saucepans": 2
+      },
+      "Date First Available": "October 22, 2020"
+    },
+    "parent_asin": "B0BB7M1VLT",
+    "bought_together": null
+  }
+}

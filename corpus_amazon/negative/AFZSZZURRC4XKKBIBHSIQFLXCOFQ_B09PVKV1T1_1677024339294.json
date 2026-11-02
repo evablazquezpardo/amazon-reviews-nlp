@@ -1,0 +1,52 @@
+{
+  "id": "AFZSZZURRC4XKKBIBHSIQFLXCOFQ_B09PVKV1T1_1677024339294",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not as described",
+  "text": "Not as described. They are very cheaply made and not silk at all",
+  "asin": "B09PVKV1T1",
+  "parent_asin": "B09PVKV1T1",
+  "user_id": "AFZSZZURRC4XKKBIBHSIQFLXCOFQ",
+  "timestamp": 1677024339294,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Standard Silk Pillowcase Set of 2 Satin Pillowcases with Envelope Closure, Pillow Case for Hair and Skin, Black 20x26 inches",
+    "average_rating": 4.1,
+    "rating_number": 7,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "CAWANFLY",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Pillowcases"
+    ],
+    "details": {
+      "Brand": "CAWANFLY",
+      "Material": "Satin",
+      "Product Dimensions": "26\"L x 20\"W",
+      "Closure Type": "Envelope",
+      "Special Feature": "Durability",
+      "Product Care Instructions": "Hand Wash Only",
+      "Style": "Modern",
+      "Pattern": "Solid",
+      "Number of Items": "2",
+      "Fabric Type": "100% Polyester",
+      "Number of Pieces": "2",
+      "Item Weight": "5.6 ounces",
+      "Item model number": "WHPM-20x54",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2399108,
+        "Bed Pillow Pillowcases": 3322
+      },
+      "Date First Available": "February 13, 2022"
+    },
+    "parent_asin": "B09PVKV1T1",
+    "bought_together": null
+  }
+}

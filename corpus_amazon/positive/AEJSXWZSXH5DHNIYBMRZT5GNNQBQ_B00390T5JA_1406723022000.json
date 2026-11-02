@@ -1,0 +1,59 @@
+{
+  "id": "AEJSXWZSXH5DHNIYBMRZT5GNNQBQ_B00390T5JA_1406723022000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "I love my Keurig",
+  "text": "I love my Keurig. I love my Keurig.  My only complaint is the last one didn't last as long as my first one.  It makes wonderful coffee and I like the fact that it's always ready.",
+  "asin": "B00390T5JA",
+  "parent_asin": "B00390T5JA",
+  "user_id": "AEJSXWZSXH5DHNIYBMRZT5GNNQBQ",
+  "timestamp": 1406723022000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Keurig K-Cup Home Brewer",
+    "average_rating": 4.4,
+    "rating_number": 1032,
+    "features": [
+      "Single-cup brewing system for gourmet coffee, tea, or cocoa",
+      "Uses patented K-Cups; no messy grinding or clean up",
+      "Choice of 2 cup sizes,5.25oz and 7.25 oz",
+      "brews in under 1 minute",
+      "Removable 48-ounce water reservoir; removable drip tray"
+    ],
+    "description": [
+      "The Keurig B44 Single Cup Brewer is the mid-luxury home brewing system in the Keurig line, and offers a blend of styling and convenient features. For coffee, tea, iced beverages and more it's easy to brew your perfect cup of coffee every time with K-Cup® Brewers. They brew in under a minute, there's no mess to clean up, and it's all at the touch of a button. The 48-oz. removable water reservoir holds up to eight cups before refilling, and the removable drip tray allows for easy cleaning and the use of travel mugs. This system brews in under a minute and has a choice of 2 cup sizes. Choose from over 200 varieties of coffee, tea, hot cocoa, specialty and iced beverages. It's easy for everyone to brew their own perfect cup"
+    ],
+    "price": 168.18,
+    "store": "Keurig",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Single-Serve Brewers"
+    ],
+    "details": {
+      "Brand": "Keurig",
+      "Capacity": "2 Cups",
+      "Color": "Black",
+      "Special Feature": "Removable Tank",
+      "Filter Type": "Reusable",
+      "Number of Items": "1",
+      "Human Interface Input": "Buttons",
+      "Product Dimensions": "9.8 x 13 x 13.3 inches",
+      "Manufacturer": "Keurig",
+      "Item model number": "ZPV-5515",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1932803,
+        "Single-Serve Brewers": 342
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 19, 2010"
+    },
+    "parent_asin": "B00390T5JA",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "AET6XQ5CVN6E4N7VV2NSX6RRNQ5Q_B0B5142WD1_1611168701183",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not the best choice",
+  "text": "Not the best choice. The cooker did not work well.  Eggs did not get fully cooked.  Different parts not easy to keep together.",
+  "asin": "B088M487M3",
+  "parent_asin": "B0B5142WD1",
+  "user_id": "AET6XQ5CVN6E4N7VV2NSX6RRNQ5Q",
+  "timestamp": 1611168701183,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bear Egg Cooker,14 Egg Capacity Hard Boiled Egg Cooker, Rapid Electric Egg Boiler Maker & Poacher for Hard Boiled Scrambled Omelets Poached Eggs Steamed Vegetables Dumplings with Egg Piercer (White)",
+    "average_rating": 4.5,
+    "rating_number": 2030,
+    "features": [
+      "FAMILY SIZED MEALS: Cook up to 14 eggs at once, and easily meet your cooking needs by double-tier steamer rack design. This product keeps each cooked egg in perfect shape and makes it easier to shell"
+    ],
+    "description": [],
+    "price": 24.99,
+    "store": "Bar",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Specialty Appliances",
+      "Egg Cookers"
+    ],
+    "details": {
+      "Color": "Ivory",
+      "Material": "Polypropylene",
+      "Brand": "Bar",
+      "Item Dimensions LxWxH": "6.9 x 6.4 x 8.3 inches",
+      "Capacity": "1.8 Pounds",
+      "Is Electric": "Yes",
+      "Product Dimensions": "6.9 x 6.4 x 8.3 inches",
+      "Item Weight": "1.57 pounds",
+      "Country of Origin": "St. Helena",
+      "Item model number": "ZDQ-B14Q1",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 42502,
+        "Egg Cookers": 36
+      },
+      "Date First Available": "May 14, 2020"
+    },
+    "parent_asin": "B0B5142WD1",
+    "bought_together": null
+  }
+}

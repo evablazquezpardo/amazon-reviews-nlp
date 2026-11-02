@@ -1,0 +1,69 @@
+{
+  "id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA_B07B86F43J_1550672126399",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Cheap",
+  "text": "Cheap. Not the same color as ad",
+  "asin": "B07B8BYF5K",
+  "parent_asin": "B07B86F43J",
+  "user_id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA",
+  "timestamp": 1550672126399,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Comfy Basics Prime Bedding Manchester 3-Piece Oversized Quilted Bedspread Coverlet Set (Turquoise, Queen)",
+    "average_rating": 4.5,
+    "rating_number": 122,
+    "features": [
+      "100% Microfiber",
+      "Imported",
+      "Oversized Bedspread Set",
+      "1 Bedspread 100\" x 106\" Fits Full and Queen",
+      "2 Shams 20\" x 26\"",
+      "100% Poly Microfiber, Machine Washable"
+    ],
+    "description": [
+      "Manchester is the perfect bedspread to use as a layering piece or an alternative to your comforter for a new solid look. The classic pattern pairs easily with your existing decor and will sure to add a new decorative element to your bedroom."
+    ],
+    "price": 49.99,
+    "store": "Comfy Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bedspreads, Coverlets & Sets",
+      "Bedspread & Coverlet Sets"
+    ],
+    "details": {
+      "Material": "Microfiber",
+      "Color": "Turquoise",
+      "Brand": "Comfy Basics",
+      "Style": "Modern",
+      "Blanket Form": "Comforter",
+      "Age Range (Description)": "Adult",
+      "Product Dimensions": "26\"L x 20\"W",
+      "Theme": "Plain",
+      "Pattern": "Solid",
+      "Seasons": "All Seasons",
+      "Fill Material": "Polyester",
+      "Product Care Instructions": "Machine Wash",
+      "Size": "Queen",
+      "Fabric Type": "100% Microfiber",
+      "Item Weight": "5 pounds",
+      "Included Components": "Pillow Sham, Comforter",
+      "Manufacturer": "Comfy Basics",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 432841,
+        "Bedspread & Coverlet Sets": 150
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Refill": "Polyester",
+      "Number of pieces": "3",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B07B86F43J",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "AFNYT24EMTJMAL3WL6CL5QRCKRLQ_B00KZE6YB0_1624740763545",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Missing ladybug",
+  "text": "Missing ladybug. One of the ladybug was missing.<br />Very disappointed",
+  "asin": "B00K3IL5NU",
+  "parent_asin": "B00KZE6YB0",
+  "user_id": "AFNYT24EMTJMAL3WL6CL5QRCKRLQ",
+  "timestamp": 1624740763545,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Beistle Men's Sequined Ladybug Boppers",
+    "average_rating": 3.8,
+    "rating_number": 56,
+    "features": [
+      "100% Plastic",
+      "Imported",
+      "Machine Wash",
+      "This item is a great value",
+      "Includes: 1 Each",
+      "Spring/Summer Party Item",
+      "High Quality Item",
+      "The Size Is: One Size Fits Most"
+    ],
+    "description": [
+      "Beistle's great fun wearable sequined ladybug boppers"
+    ],
+    "price": null,
+    "store": "Beistle",
+    "categories": [
+      "Home & Kitchen",
+      "Event & Party Supplies",
+      "Favors"
+    ],
+    "details": {
+      "Brand": "Beistle",
+      "Occasion": "Great Items For A Spring/Summer Event",
+      "Color": "Red/Black",
+      "Target Audience": "unisex",
+      "Model Name": "Sequined Ladybug Boppers",
+      "Package Dimensions": "1 x 1 x 1 inches; 1 Pounds",
+      "Department": "mens",
+      "Date First Available": "June 14, 2014",
+      "Manufacturer": "Beistle Costumes"
+    },
+    "parent_asin": "B00KZE6YB0",
+    "bought_together": null
+  }
+}

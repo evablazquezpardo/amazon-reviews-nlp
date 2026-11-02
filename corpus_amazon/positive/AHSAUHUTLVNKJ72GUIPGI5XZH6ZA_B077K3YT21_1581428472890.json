@@ -1,0 +1,69 @@
+{
+  "id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA_B077K3YT21_1581428472890",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Okay product",
+  "text": "Okay product. Petite, smaller than expected, so using in a different location.",
+  "asin": "B077K3YT21",
+  "parent_asin": "B077K3YT21",
+  "user_id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA",
+  "timestamp": 1581428472890,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ACME Justino Console Table - - Gray Oak & Gray",
+    "average_rating": 4.6,
+    "rating_number": 482,
+    "features": [
+      "Unique half-moon design: This console table stands out from the crowd with its eye-catching half-moon shape, adding a touch of elegance and sophistication to any room.",
+      "High-quality wood: Crafted from high-quality pine, this console Table is built to last. The sturdy and durable construction ensures that it will stand up to everyday wear and tear while maintaining its beauty over time.",
+      "Versatile use: With its compact size and sleek design, this console table can be used for a variety of purposes. Whether you need extra storage space in your living room, a stylish accent piece in your entryway, or a convenient surface in your bedroom, this table is a perfect choice.",
+      "Easy to assemble: The console table is designed for easy assembly, with all the necessary hardware included. You can have it up and ready to use in no time, without the need for professional help.",
+      "Local service: At Amazon, we pride ourselves on providing exceptional customer service. If you have any questions or concerns about your Console Table, our local service team is always here to help."
+    ],
+    "description": [
+      "Give a touch of contemporary modish scheme to your home with this Joey console table. With its simple design, you can place it beside your entry doorway to add a welcoming sensation. Featuring a lower display shelf, this piece furthermore become a simple solution for storage. Bring home this console table to amaze your guests. With its smooth oak and gray finish, it will certainly complement any home décor."
+    ],
+    "price": 61.17,
+    "store": "Acme Furniture",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "Sofa & Console Tables"
+    ],
+    "details": {
+      "Product Dimensions": "13\"D x 26\"W x 28\"H",
+      "Color": "Grey",
+      "Shape": "Free form",
+      "Brand": "Acme Furniture",
+      "Table design": "Console Table",
+      "Special Feature": "Storage",
+      "Style": "Transitional",
+      "Room Type": "Living Room",
+      "Top Material Type": "Manufactured Wood,MDF",
+      "Base Type": "Legs",
+      "Unit Count": "1.0 Count",
+      "Pattern": "Solid",
+      "Frame Material": "Wood",
+      "Model Name": "90161",
+      "Assembly Required": "Yes",
+      "Item Weight": "11 pounds",
+      "Included Components": "Assembly Guide",
+      "Furniture Finish": "Gray Finish",
+      "Country of Origin": "China",
+      "Item model number": "90161",
+      "Weight": "13 Pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 308008,
+        "Sofa Tables": 450
+      },
+      "Date First Available": "November 17, 2017"
+    },
+    "parent_asin": "B077K3YT21",
+    "bought_together": null
+  }
+}

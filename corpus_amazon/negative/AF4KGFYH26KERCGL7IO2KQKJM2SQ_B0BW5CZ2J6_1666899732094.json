@@ -1,0 +1,54 @@
+{
+  "id": "AF4KGFYH26KERCGL7IO2KQKJM2SQ_B0BW5CZ2J6_1666899732094",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Very cheap",
+  "text": "Very cheap. These are extremely cheap and it shows. Not sturdy and won't hold much.",
+  "asin": "B09WHJRRDC",
+  "parent_asin": "B0BW5CZ2J6",
+  "user_id": "AF4KGFYH26KERCGL7IO2KQKJM2SQ",
+  "timestamp": 1666899732094,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ABQ Blanket Ladder Outdoor Towel Rack for Pool, Decorative Metal Holder for The Living Room Bathroom, Black",
+    "average_rating": 4.4,
+    "rating_number": 681,
+    "features": [
+      "BEAUTIFIES YOUR HOME - Ideal for displaying throws, quilts, towels, scarfs. ABQ Blanket Ladder turns your clutter into decor and adds character to your living room, bathroom and your home.",
+      "WIDELY APPLICATION - Freely display your blankets, throws, and quilts in bedroom. Also helps you storage the towels and others bath accessories in the bathroom.",
+      "METAL CONSTRUCTION - Made of metal with a rust-resistant finish. Equipped with 2 non-slip feet to prevent scratching the floor.",
+      "EASY TO ASSEMBLE - Screws, wall anchors and instructions included.",
+      "BE HAPPY - We know you will love your ladder but just in case we offer easy returns."
+    ],
+    "description": [],
+    "price": 16.99,
+    "store": "ABQ",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Towel Holders",
+      "Towel Racks"
+    ],
+    "details": {
+      "Product Dimensions": "60 x 17.8 x 0.01 inches",
+      "Item Weight": "1.98 pounds",
+      "Manufacturer": "ABQ",
+      "Country of Origin": "China",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 22786,
+        "Towel Racks": 20
+      },
+      "Date First Available": "March 25, 2022",
+      "Color": "Black",
+      "Material": "Metal",
+      "Brand": "ABQ",
+      "Installation Type": "Wall-Mounted"
+    },
+    "parent_asin": "B0BW5CZ2J6",
+    "bought_together": null
+  }
+}

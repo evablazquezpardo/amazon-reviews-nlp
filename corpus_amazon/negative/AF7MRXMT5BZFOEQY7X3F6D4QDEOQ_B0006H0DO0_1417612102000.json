@@ -1,0 +1,64 @@
+{
+  "id": "AF7MRXMT5BZFOEQY7X3F6D4QDEOQ_B0006H0DO0_1417612102000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Just didn't like it. Returned it.",
+  "asin": "B0006H0DO0",
+  "parent_asin": "B0006H0DO0",
+  "user_id": "AF7MRXMT5BZFOEQY7X3F6D4QDEOQ",
+  "timestamp": 1417612102000,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Elite Gourmet Food Dehydrator, 5 BPA-Free, Stackable Transparent for Homemade Jerky Herbs Fruit Veggies Meats Snacks Treats, 5 Trays, White",
+    "average_rating": 4.3,
+    "rating_number": 109,
+    "features": [
+      "Five stackable removable dehydrating trays",
+      "Dry a variety of foods: fruits, vegetables, meats and more as healthy snacks",
+      "Circulating air for fast, even drying",
+      "Vented lid for dehydration control",
+      "Adjustable and stackable trays for your desired capacity;Care and Cleaning: Dishwasher-safe Parts",
+      "Quick, healthy and delicious snacks"
+    ],
+    "description": [
+      "Save money and time by creating your own healthy snacks quickly and easily at home with the Elite Gourmet 5-tray Food Dehydrator. It's never been so easy to whip up a batch of beef or turkey jerky, banana, pineapple or apple chips or dry your favorite vegetables, herbs and even flowers! Features a vented lid for easy dehydrating and with the easy to clean removable dehydrating trays, clean up is fast and simple."
+    ],
+    "price": null,
+    "store": "Elite Gourmet",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Specialty Appliances",
+      "Dehydrators"
+    ],
+    "details": {
+      "Brand": "Elite Gourmet",
+      "Material": "Plastic",
+      "Color": "White",
+      "Wattage": "135 watts",
+      "Item Dimensions LxWxH": "8.5 x 13.85 x 13.5 inches",
+      "Voltage": "120",
+      "Item Weight": "5 pounds",
+      "Shape": "Round",
+      "Material Feature": "Food Safe",
+      "Number of Trays": "5",
+      "Is Dishwasher Safe": "Yes",
+      "Product Dimensions": "8.5 x 13.85 x 13.5 inches",
+      "Manufacturer": "Maxi-Matic",
+      "Item model number": "EFD-1010",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 601399,
+        "Dehydrators": 572
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 15, 2004"
+    },
+    "parent_asin": "B0006H0DO0",
+    "bought_together": null
+  }
+}

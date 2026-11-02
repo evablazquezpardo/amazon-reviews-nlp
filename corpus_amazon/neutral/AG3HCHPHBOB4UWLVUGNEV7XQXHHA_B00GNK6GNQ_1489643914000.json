@@ -1,0 +1,57 @@
+{
+  "id": "AG3HCHPHBOB4UWLVUGNEV7XQXHHA_B00GNK6GNQ_1489643914000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "So So product",
+  "text": "So So product. I got this to whip cream, but it doesn't do a very good job.",
+  "asin": "B00GNK6GNQ",
+  "parent_asin": "B00GNK6GNQ",
+  "user_id": "AG3HCHPHBOB4UWLVUGNEV7XQXHHA",
+  "timestamp": 1489643914000,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mastrad Qwik Wisk - Universal Mixer With Non-Slip Silicone Grip - Mix and Measure Marinades, Salad Dressings, Frothy Drinks, And More",
+    "average_rating": 3.9,
+    "rating_number": 58,
+    "features": [
+      "Qwik Wisk Universal Mixer by Mastrad",
+      "Easily mix marinades, salad dressings, frothy drinks and more-create healthy mixes at home",
+      "Easy to use: unscrew lid, add ingredients, put lid on and lift handle up and down to activate the mixer",
+      "Non-slip silicone strip on the handle for easy, secure grip; base removes and serves as a lid for storage",
+      "Measurements given in ml or oz."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Mastrad",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cooking Utensils",
+      "Whisks"
+    ],
+    "details": {
+      "Brand": "Mastrad",
+      "Color": "Green",
+      "Capacity": "8 Liters",
+      "Product Dimensions": "4 x 4 x 7 inches",
+      "Item Weight": "9.5 ounces",
+      "Manufacturer": "MASTRAD INC",
+      "Item model number": "A26908",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 429092,
+        "Whisks": 961
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "November 13, 2013",
+      "Material Plastic": "",
+      "": "Is Dishwasher Safe Yes",
+      "Item Weight 0.59 Pounds": ""
+    },
+    "parent_asin": "B00GNK6GNQ",
+    "bought_together": null
+  }
+}

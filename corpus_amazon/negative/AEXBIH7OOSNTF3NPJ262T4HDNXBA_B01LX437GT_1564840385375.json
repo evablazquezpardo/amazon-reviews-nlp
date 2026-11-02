@@ -1,0 +1,49 @@
+{
+  "id": "AEXBIH7OOSNTF3NPJ262T4HDNXBA_B01LX437GT_1564840385375",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not good",
+  "text": "Not good. Returned this. I must have misread something this was so flimsy, plastic and not what I was looking for.",
+  "asin": "B01LX437GT",
+  "parent_asin": "B01LX437GT",
+  "user_id": "AEXBIH7OOSNTF3NPJ262T4HDNXBA",
+  "timestamp": 1564840385375,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "mDesign STALL Sized Decorative Medallion Print, Easy Care Fabric Shower Curtain with Reinforced Buttonholes, for Bathroom Showers, Stalls and Bathtubs, Machine Washable - 54\" x 78\" - Taupe/White",
+    "average_rating": 4.2,
+    "rating_number": 35,
+    "features": [
+      "Polyester"
+    ],
+    "description": [],
+    "price": null,
+    "store": "mDesign",
+    "categories": [],
+    "details": {
+      "Brand": "mDesign",
+      "Color": "White",
+      "Product Dimensions": "78\"L x 54\"W",
+      "Opacity": "Blackout",
+      "Special Feature": "Washable",
+      "Room Type": "Bathroom",
+      "Style": "Modern",
+      "Pattern": "Floral",
+      "Theme": "medallion",
+      "Top Style": "Grommet",
+      "Item Weight": "10.6 ounces",
+      "Number of Items": "1",
+      "Product Care Instructions": "Machine Wash",
+      "Package Weight": "0.32 Kilograms",
+      "Item model number": "3795MDSC",
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Polyester",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B01LX437GT",
+    "bought_together": null
+  }
+}

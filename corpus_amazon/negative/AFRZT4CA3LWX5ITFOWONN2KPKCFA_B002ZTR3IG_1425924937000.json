@@ -1,0 +1,45 @@
+{
+  "id": "AFRZT4CA3LWX5ITFOWONN2KPKCFA_B002ZTR3IG_1425924937000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Poor quality, I returned",
+  "asin": "B002ZTR3IG",
+  "parent_asin": "B002ZTR3IG",
+  "user_id": "AFRZT4CA3LWX5ITFOWONN2KPKCFA",
+  "timestamp": 1425924937000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "FROSTY FREEZER MUGS - 16 OZ. (SET OF 4)",
+    "average_rating": 3.4,
+    "rating_number": 126,
+    "features": [
+      "16oz mug combines state of the art refreezability^Eliminates the need for ice as the technology keeps drinks \"crushed ice\" cold for hours without the watered down affect of ice!^Filled with non toxic",
+      "clear refreezable liquid^Durable Plastic Body"
+    ],
+    "description": [],
+    "price": null,
+    "store": "R.LLC",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cups, Mugs, & Saucers",
+      "Mug Sets"
+    ],
+    "details": {
+      "Package Dimensions": "15.98 x 12.01 x 5 inches",
+      "Item Weight": "1 pounds",
+      "Manufacturer": "R.LLC",
+      "Item model number": "2828504",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "December 4, 2009"
+    },
+    "parent_asin": "B002ZTR3IG",
+    "bought_together": null
+  }
+}

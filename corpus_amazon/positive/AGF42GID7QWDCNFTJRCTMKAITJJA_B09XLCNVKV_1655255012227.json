@@ -1,0 +1,46 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B09XLCNVKV_1655255012227",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great idea",
+  "text": "Great idea. What a great idea...I just wish the adhesive was just a little stronger but other than that, these work really good and make your cord organized.",
+  "asin": "B09XLCNVKV",
+  "parent_asin": "B09XLCNVKV",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1655255012227,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "All Electronics",
+    "title": "6 Pack",
+    "average_rating": 3.8,
+    "rating_number": 531,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "CAMTOVGCA",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Mixers",
+      "Stand Mixers"
+    ],
+    "details": {
+      "Package Dimensions": "8.86 x 4.76 x 0.91 inches",
+      "Item Weight": "3.52 ounces",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 188515,
+        "Household Stand Mixers": 248
+      },
+      "Date First Available": "April 10, 2022",
+      "Manufacturer": "CAMTOVGCA",
+      "Brand": "CAMTOVGCA",
+      "Material": "Rubber",
+      "Installation Type": "Self-Adhesive"
+    },
+    "parent_asin": "B09XLCNVKV",
+    "bought_together": null
+  }
+}

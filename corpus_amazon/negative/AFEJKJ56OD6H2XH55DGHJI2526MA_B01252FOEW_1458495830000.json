@@ -1,0 +1,58 @@
+{
+  "id": "AFEJKJ56OD6H2XH55DGHJI2526MA_B01252FOEW_1458495830000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "something is wrong usually Lodge is great.",
+  "text": "something is wrong usually Lodge is great.. Three times I ordered this and all orders arrived with black chips where you can see the gray underneath, something is wrong usually Lodge is great.",
+  "asin": "B0009J3RR0",
+  "parent_asin": "B01252FOEW",
+  "user_id": "AFEJKJ56OD6H2XH55DGHJI2526MA",
+  "timestamp": 1458495830000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lodge LAT3 Cast Iron Spoon Rest, 3.5-inch",
+    "average_rating": 4.2,
+    "rating_number": 164,
+    "features": [
+      "Works as an ash tray or spoon rest",
+      "Seasoned ready to use",
+      "Made in USA",
+      "Lifetime Warranty"
+    ],
+    "description": [
+      "3-1/2\" version of a Lodge skillet can be used as a spoon rest or ashtray. 3/4\" deep."
+    ],
+    "price": null,
+    "store": "Lodge",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Chopstick & Cutlery Rests",
+      "Spoon Rests"
+    ],
+    "details": {
+      "Product Dimensions": "5 x 4 x 1 inches",
+      "Item Weight": "9.3 ounces",
+      "Manufacturer": "Lodge",
+      "Item model number": "LAT3",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 626886,
+        "Spoon Rests": 1808
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 27, 2006",
+      "Material": "Cast Iron",
+      "Color": "Gray Black",
+      "Brand": "Lodge",
+      "Item Dimensions LxWxH": "5 x 4 x 1 inches",
+      "Pattern": "Solid"
+    },
+    "parent_asin": "B01252FOEW",
+    "bought_together": null
+  }
+}

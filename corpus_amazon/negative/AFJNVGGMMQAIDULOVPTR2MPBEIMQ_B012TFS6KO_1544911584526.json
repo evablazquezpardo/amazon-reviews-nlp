@@ -1,0 +1,58 @@
+{
+  "id": "AFJNVGGMMQAIDULOVPTR2MPBEIMQ_B012TFS6KO_1544911584526",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Doesn't ring",
+  "text": "Doesn't ring. Works perfectly, but doesn't ring, after several months.<br /><br />Useless.",
+  "asin": "B005D6G3XY",
+  "parent_asin": "B012TFS6KO",
+  "user_id": "AFJNVGGMMQAIDULOVPTR2MPBEIMQ",
+  "timestamp": 1544911584526,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KitchenAid Digital Kitchen Timer, Black -",
+    "average_rating": 4.5,
+    "rating_number": 2369,
+    "features": [
+      "This timer features simple push-button operation for ease of use in the kitchen",
+      "The timer boasts a large, easy-to-read LCD display.",
+      "This digital timer's duration is 9 hours, 59 minutes and 59 seconds",
+      "The timer measures 3 inches in diameter and is 2-1/2 inches high",
+      "Wipe clean with a damp cloth when needed; One year hassle-free replacement and lifetime limited warranty"
+    ],
+    "description": [
+      "Digital Timer"
+    ],
+    "price": null,
+    "store": "KitchenAid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Thermometers & Timers",
+      "Timers"
+    ],
+    "details": {
+      "Color": "Black",
+      "Brand": "KitchenAid",
+      "Material": "Plastic",
+      "Product Dimensions": "2.5\"D x 3\"W x 3\"H",
+      "Item Weight": "0.15 Pounds",
+      "Human Interface Input": "Buttons",
+      "Manufacturer": "Lifetime Brands",
+      "Item model number": "KC150OHOBA",
+      "Batteries": "4 AA batteries required.",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 268912,
+        "Timers": 1109
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 5, 2012"
+    },
+    "parent_asin": "B012TFS6KO",
+    "bought_together": null
+  }
+}

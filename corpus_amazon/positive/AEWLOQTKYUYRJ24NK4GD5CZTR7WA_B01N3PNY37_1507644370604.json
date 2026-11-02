@@ -1,0 +1,53 @@
+{
+  "id": "AEWLOQTKYUYRJ24NK4GD5CZTR7WA_B01N3PNY37_1507644370604",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Very pretty color and delicate look.",
+  "asin": "B01N3PNY37",
+  "parent_asin": "B01N3PNY37",
+  "user_id": "AEWLOQTKYUYRJ24NK4GD5CZTR7WA",
+  "timestamp": 1507644370604,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": null,
+    "title": "12 x 9cm Baby Pink / Blush Pink Glitter + Matt Droplet Christmas Tree Ornaments",
+    "average_rating": 4.2,
+    "rating_number": 508,
+    "features": [
+      "Each droplet measures approx 9cm long and 1.5cm wide.",
+      "Thread already attached for hanging.",
+      "Great for any size trees.",
+      "You could even make a garland by threading them through a piece of string."
+    ],
+    "description": [
+      "These are lovely decorations for putting on a Christmas tree instead of standard Christmas tree baubles. They would also look great along side ordinary baubles. They have thread already attached for putting on the tree. You could even put them on a piece of string to make a garland. Each droplet measures approx 9cm long and 1.5cm wide. The decorations are a mixture of glitter and matt finish. The decorations have a silver top with silver thread."
+    ],
+    "price": null,
+    "store": "Toyland",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Hanging Ornaments"
+    ],
+    "details": {
+      "Package Dimensions": "7.8 x 3.6 x 0.7 inches",
+      "Item Weight": "1.58 ounces",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2226688,
+        "Christmas Ornaments": 15067,
+        "Decorative Hanging Ornaments": 38406
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Perfume": "Unscented",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Included Components": "Cord And String"
+    },
+    "parent_asin": "B01N3PNY37",
+    "bought_together": null
+  }
+}

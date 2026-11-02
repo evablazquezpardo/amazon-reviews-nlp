@@ -1,0 +1,61 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B000UXCW62_1480353798000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Very nice variety of leaves.",
+  "asin": "B000UXCW62",
+  "parent_asin": "B000UXCW62",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1480353798000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Darice 1620-99 100-Piece Maple Leaf Decor in a Canister, Brown",
+    "average_rating": 3.8,
+    "rating_number": 145,
+    "features": [
+      "100 Pieces per Package",
+      "Brown Leave Colors",
+      "Silk Screen Design"
+    ],
+    "description": [
+      "Darice's Maple Leaves are a Silk Screen, brown Mix of leaves. 100 pieces per package. 100 Pieces per Package. Brown Leave Colors. Silk Screen Design."
+    ],
+    "price": 10.15,
+    "store": "Darice",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Flowers"
+    ],
+    "details": {
+      "Brand": "Darice",
+      "Plant or Animal Product Type": "Maple",
+      "Color": "Brown",
+      "Material": "Silk",
+      "Indoor/Outdoor Usage": "Outdoor, Indoor",
+      "Package Information": "Can",
+      "Number of Items": "100",
+      "Item Package Quantity": "1",
+      "Unit Count": "1.000 Count",
+      "Product Dimensions": "7 x 3.8 x 3.5 inches",
+      "Item Weight": "0.81 ounces",
+      "Manufacturer": "Darice",
+      "Item model number": "1620-99",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1855816,
+        "Artificial Flowers": 13811
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "100",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B000UXCW62",
+    "bought_together": null
+  }
+}

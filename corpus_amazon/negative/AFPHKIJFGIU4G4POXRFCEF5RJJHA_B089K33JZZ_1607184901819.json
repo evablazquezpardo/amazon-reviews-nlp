@@ -1,0 +1,57 @@
+{
+  "id": "AFPHKIJFGIU4G4POXRFCEF5RJJHA_B089K33JZZ_1607184901819",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Uncomfortable",
+  "text": "Uncomfortable. Uncomfortable, not cool. Easy return.",
+  "asin": "B089K33JZZ",
+  "parent_asin": "B089K33JZZ",
+  "user_id": "AFPHKIJFGIU4G4POXRFCEF5RJJHA",
+  "timestamp": 1607184901819,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mattress pad Blue Queen",
+    "average_rating": 4.5,
+    "rating_number": 645,
+    "features": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "description": [
+      "1"
+    ],
+    "price": null,
+    "store": "MAEVIS",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Mattress Pads & Toppers",
+      "Mattress Pads"
+    ],
+    "details": {
+      "Brand": "MAEVIS",
+      "Color": "Blue",
+      "Size": "Queen",
+      "Fabric Type": "Cotton",
+      "Closure Type": "Pull On",
+      "Material": "Cotton",
+      "Package Dimensions": "16.26 x 13.03 x 5.51 inches",
+      "Item Weight": "6.3 pounds",
+      "Manufacturer": "MAEVIS",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 925181,
+        "Electric Mattress Pads": 65,
+        "Mattress Pads": 517
+      },
+      "Date First Available": "November 17, 2020"
+    },
+    "parent_asin": "B089K33JZZ",
+    "bought_together": null
+  }
+}

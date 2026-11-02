@@ -1,0 +1,60 @@
+{
+  "id": "AEA37VTEVDMB4MQOCK7LNHHDTB5A_B00I9IML3O_1522942300788",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. The machine works fine but K-cup coffee is awful no mater what kind you use.",
+  "asin": "B00I9IML3O",
+  "parent_asin": "B00I9IML3O",
+  "user_id": "AEA37VTEVDMB4MQOCK7LNHHDTB5A",
+  "timestamp": 1522942300788,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Keurig K145 OfficePRO Brewing System with Bonus K-Cup Portion Trial Pack",
+    "average_rating": 4.5,
+    "rating_number": 1037,
+    "features": [
+      "Choice of 3 cup sizes (6 oz., 8 oz. and 10 oz.)",
+      "48 oz. removable water reservoir",
+      "Energy Savings Mode – Auto Off",
+      "Drainable internal hot water tank",
+      "Heavy gauge materials for high-volume use"
+    ],
+    "description": [
+      "First cup. Fourth cup - with Keurig, it's always a fresh cup. The OfficePRO K145 Brewing System brews a perfect cup of coffee, tea, hot cocoa or iced beverage in under one minute at the touch of a button. Now everyone in your office can brew what they love. This brewer has an Auto Off feature so when set it turns off after two hours of non-use. With the choice of three cup sizes, the OfficePRO brewer offers a removable drip tray to accommodate travel mugs. Includes a Bonus 12 Count K-Cup variety box."
+    ],
+    "price": null,
+    "store": "Keurig",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Single-Serve Brewers"
+    ],
+    "details": {
+      "Brand": "Keurig",
+      "Capacity": "3 Pounds",
+      "Filter Type": "Reusable",
+      "Operation Mode": "Fully Automatic",
+      "Wattage": "1500 watts",
+      "Human Interface Input": "Buttons",
+      "Package Type": "Standard Packaging",
+      "Package Dimensions": "17.6 x 15.3 x 13.2 inches",
+      "Item Weight": "16.32 pounds",
+      "Manufacturer": "Keurig",
+      "Item model number": "K145",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1274069,
+        "Single-Serve Brewers": 239
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 5, 2014"
+    },
+    "parent_asin": "B00I9IML3O",
+    "bought_together": null
+  }
+}

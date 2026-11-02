@@ -1,0 +1,57 @@
+{
+  "id": "AGKNLO6XEIGAUGDRSVDGBTTMMI2A_B09X9VMJJT_1666799419955",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "didn[t even turn on",
+  "text": "didn[t even turn on. yet another amazon product that doesn't work",
+  "asin": "B07X2HT22Z",
+  "parent_asin": "B09X9VMJJT",
+  "user_id": "AGKNLO6XEIGAUGDRSVDGBTTMMI2A",
+  "timestamp": 1666799419955,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "andily 500W Space Electric Small Heater for Home&Office Indoor Use on Desk with Safety Power Switch PTC BLUE",
+    "average_rating": 4.4,
+    "rating_number": 10181,
+    "features": [
+      "Small Heater: 4.33’’L X 3.63’’W X 6.39’’H.This portable heater is very easy to carry. You only need one hand can take up. Manual controls. Fully Assembled. It’s the ideal choice of an indoor heater.",
+      "500W Ceramic Heater With Fan: Up to 500W power is can create comfortable temperatures at the moment for your room. The power indicator light lets you know when it’s plugged in. The fan was extremely quiet.",
+      "Mini Heater: The whole heater only has one power switch is very easy to control. The fan at the back is efficient for heating and ventilation. The plastic floor mat is under the heater make sure this heater is freestanding.",
+      "For Office or Room Use: This small heater is very easy to carry and control, can affect different surroundings. For example, when you are in the office, you can put it on or under your desk, then have a warm work environment. When the evening, you can put it near your pillow, feel the wind over your body, then have a warm dream.",
+      "For Safety: 1. An automatic overheat system will shut the unit off when the parts of the heater overheat. 2. Power indicate light can lets you know at a glance that it’s plugged in. 3. ETL certified."
+    ],
+    "description": [],
+    "price": 17.99,
+    "store": "andily",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Space Heaters",
+      "Electric Space Heaters"
+    ],
+    "details": {
+      "Brand": "Andily",
+      "Special Feature": "Portable, Manual Thermostat",
+      "Color": "Blue",
+      "Power Source": "Corded Electric",
+      "Heating Method": "Fan & forced air",
+      "Product Dimensions": "3.63\"D x 4.33\"W x 6.39\"H",
+      "Mounting Type": "Floor Mount, Tabletop Mount",
+      "Room Type": "Di, Bedroom, Home Office, Study Room",
+      "Burner type": "Radiant",
+      "Heat Output": "500 Watts",
+      "Item Weight": "1.37 pounds",
+      "Item model number": "FH250-BL",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 27893,
+        "Indoor Electric Space Heaters": 15
+      },
+      "Date First Available": "July 22, 2020"
+    },
+    "parent_asin": "B09X9VMJJT",
+    "bought_together": null
+  }
+}

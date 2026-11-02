@@ -1,0 +1,50 @@
+{
+  "id": "AE63QWJX2YH2MYOW5UE7WO3DEGTA_B004NLJXYQ_1426349236000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "It's all cotton but.........",
+  "text": "It's all cotton but.......... What rip off. This is so thin there is hardly anything to it. It is more like a cord than a clothes line. I couldn't believe how small it was.",
+  "asin": "B004NLJXYQ",
+  "parent_asin": "B004NLJXYQ",
+  "user_id": "AE63QWJX2YH2MYOW5UE7WO3DEGTA",
+  "timestamp": 1426349236000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cotton Rope 50ft Cotton Braided Clothes Line Rope (3/16-inch)",
+    "average_rating": 4.1,
+    "rating_number": 170,
+    "features": [
+      "Thickness of rope: 3/16 inch",
+      "Rope Length: 50 feet",
+      "Made of Cotton",
+      "Braided clothes line"
+    ],
+    "description": [
+      "3/16 inch x 50 ft. Braided clothes line."
+    ],
+    "price": 5.85,
+    "store": "Cotton Rope",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Clotheslines"
+    ],
+    "details": {
+      "Product Dimensions": "7 x 2.3 x 0.2 inches",
+      "Item Weight": "3.2 ounces",
+      "Manufacturer": "Wilcor",
+      "Item model number": "Cotton Clothes Line",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1315997,
+        "Clotheslines": 328
+      },
+      "Batteries required": "No"
+    },
+    "parent_asin": "B004NLJXYQ",
+    "bought_together": null
+  }
+}

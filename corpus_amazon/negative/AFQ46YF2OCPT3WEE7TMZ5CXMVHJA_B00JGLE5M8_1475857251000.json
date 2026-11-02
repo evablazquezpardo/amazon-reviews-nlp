@@ -1,0 +1,45 @@
+{
+  "id": "AFQ46YF2OCPT3WEE7TMZ5CXMVHJA_B00JGLE5M8_1475857251000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. Flimsy, returned.",
+  "asin": "B00JGLE5M8",
+  "parent_asin": "B00JGLE5M8",
+  "user_id": "AFQ46YF2OCPT3WEE7TMZ5CXMVHJA",
+  "timestamp": 1475857251000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "DCI Pirate Hook Skewer, Silver/Black",
+    "average_rating": 2.7,
+    "rating_number": 4,
+    "features": [
+      "Feel like a pirate while roasting marshmallows or hot dogs",
+      "Pirate hook shaped prong",
+      "Extends to 27-Inch",
+      "Molded black handle",
+      "Great for barbecues or campfires"
+    ],
+    "description": [
+      "Roast the perfect marshmallow or hot dog and feel like a pirate with this fun pirate hook shaped skewer. Toasting skewer extends to 27-Inch. Great for barbecues or camping."
+    ],
+    "price": 9.93,
+    "store": "DCI",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization"
+    ],
+    "details": {
+      "Product Dimensions": "11 x 3.75 x 0.06 inches",
+      "Item Weight": "0.8 ounces",
+      "Manufacturer": "Decor Craft Inc / DCI",
+      "Item model number": "44953",
+      "Date First Available": "March 31, 2014"
+    },
+    "parent_asin": "B00JGLE5M8",
+    "bought_together": null
+  }
+}

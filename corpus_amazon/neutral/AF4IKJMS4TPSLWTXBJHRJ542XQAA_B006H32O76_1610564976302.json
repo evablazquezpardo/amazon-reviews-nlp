@@ -1,0 +1,47 @@
+{
+  "id": "AF4IKJMS4TPSLWTXBJHRJ542XQAA_B006H32O76_1610564976302",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok",
+  "text": "Ok. It very nice but the top came pushed in on the sides, it's not a big deal. But I was disappointed",
+  "asin": "B006H32O76",
+  "parent_asin": "B006H32O76",
+  "user_id": "AF4IKJMS4TPSLWTXBJHRJ542XQAA",
+  "timestamp": 1610564976302,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Home Basics Large Capacity Glass Cookie, Pasta, Sugar, Flour, Cereal, Jar with Secure Metal Lid and Decorative Jar Label",
+    "average_rating": 4.5,
+    "rating_number": 687,
+    "features": [
+      "glass",
+      "LARGE CAPACITY- 7.5-Inch by 10-Inch glass storage jar featuring a brushed metal lid",
+      "ADDS AN ELEGANT AND DECORATIVE TOUCH- Glass construction with metal top and decorative cookie label adds a nice decorative touch",
+      "MULTIPURPOSE USE- Perfect for cookies, flour, sugar, candy, cereal, pasta, and so much more",
+      "CLEAR GLASS ALLOWS CONTENTS OF JAR TO BE SEEN EASILY without removing the lid; Wide mouth opening for ease of access and scooping; snug fitting lid helps keep foods fresh longer",
+      "EASY TO CLEAN AND USE-Dishwasher safe, hand-washing is recommended for the metal lid"
+    ],
+    "description": [],
+    "price": 19.4,
+    "store": "Home Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Cookie Jars"
+    ],
+    "details": {
+      "Brand": "Home Basics",
+      "Color": "Clear",
+      "Material": "Glass",
+      "Capacity": "9.5 Pounds",
+      "Product Dimensions": "7.5\"L x 7.5\"W x 9.5\"H"
+    },
+    "parent_asin": "B006H32O76",
+    "bought_together": null
+  }
+}

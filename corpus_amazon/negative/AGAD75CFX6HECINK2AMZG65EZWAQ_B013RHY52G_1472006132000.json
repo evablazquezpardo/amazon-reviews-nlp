@@ -1,0 +1,46 @@
+{
+  "id": "AGAD75CFX6HECINK2AMZG65EZWAQ_B013RHY52G_1472006132000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. Didn't fit over my cabinet door very well.",
+  "asin": "B013RHY52G",
+  "parent_asin": "B013RHY52G",
+  "user_id": "AGAD75CFX6HECINK2AMZG65EZWAQ",
+  "timestamp": 1472006132000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BINO Over-The-Cabinet Flat Iron Holder, Bronze",
+    "average_rating": 3.5,
+    "rating_number": 4,
+    "features": [
+      "Holster-style holder great for a hair dryer or curling irons",
+      "Fits over standard cabinet doors, up to 0.9\" wide",
+      "Made out of durable steel and powder coated in bronze",
+      "Measures 3\" x 3\" x 7\""
+    ],
+    "description": [],
+    "price": null,
+    "store": "BINO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Cabinet & Drawer Organization"
+    ],
+    "details": {
+      "Product Dimensions": "3 x 3 x 7 inches",
+      "Item Weight": "4.8 ounces",
+      "Manufacturer": "BINO",
+      "Item model number": "27007-ORB",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 11, 2015"
+    },
+    "parent_asin": "B013RHY52G",
+    "bought_together": null
+  }
+}

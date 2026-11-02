@@ -1,0 +1,36 @@
+{
+  "id": "AFITKUE552XUTQQPEO4SIHWHLNMQ_B08HMTN74R_1619716939947",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Does not stay up by itself",
+  "text": "Does not stay up by itself. Very flimsy - returned it",
+  "asin": "B08HMTN74R",
+  "parent_asin": "B08HMTN74R",
+  "user_id": "AFITKUE552XUTQQPEO4SIHWHLNMQ",
+  "timestamp": 1619716939947,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "2 Pack Cotton Rope Planter Baskets, Stylish Woven Storage Basket with Handles for Indoor Plants, Home Decor Storage Baskets for Crafts Toys Towels Baby Laundry (White/Black/Stripes)",
+    "average_rating": 3.6,
+    "rating_number": 4,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "ToMe",
+    "categories": [],
+    "details": {
+      "Material": "Cotton",
+      "Color": "White",
+      "Mounting Type": "Indoor,Tree",
+      "Brand": "ToMe",
+      "Assembly Required": "No",
+      "Date First Available": "October 12, 2020",
+      "Number of Pieces": "2"
+    },
+    "parent_asin": "B08HMTN74R",
+    "bought_together": null
+  }
+}

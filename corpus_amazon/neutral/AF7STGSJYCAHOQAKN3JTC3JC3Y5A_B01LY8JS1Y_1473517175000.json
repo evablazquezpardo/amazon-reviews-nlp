@@ -1,0 +1,60 @@
+{
+  "id": "AF7STGSJYCAHOQAKN3JTC3JC3Y5A_B01LY8JS1Y_1473517175000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. Nice",
+  "asin": "B001ET5YV6",
+  "parent_asin": "B01LY8JS1Y",
+  "user_id": "AF7STGSJYCAHOQAKN3JTC3JC3Y5A",
+  "timestamp": 1473517175000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Fox Run Red Foil Bake Cups, Mini, 48 Cups",
+    "average_rating": 4.4,
+    "rating_number": 122,
+    "features": [
+      "Mini size, approx. 1.75 x 1.75 x 0.75 inch",
+      "Pack of 48 red food-safe, fluted foil liners",
+      "Grease-resistant liners, so outsides remain bright and shiny",
+      "Place in muffin tin and fill with your favorite batter",
+      "Dress up your cupcakes for your next party"
+    ],
+    "description": [
+      "Add some elegance to your favorite batch of cupcakes or muffins with these red foil bake cups. These food-safe, fluted baking cups are grease-resistant, so their outsides remain shiny, bright and beautiful. This set includes 48 mini bake cups that are perfect for the holidays or any special occasion. Simply place in a muffin tin and fill with your favorite batter to dress up your cupcakes, or use them to hold candies and other treats."
+    ],
+    "price": 6.57,
+    "store": "Fox Run",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking Tools & Accessories",
+      "Baking Cups"
+    ],
+    "details": {
+      "Color": "Red",
+      "Brand": "Fox Run",
+      "Material": "Paper",
+      "Item Dimensions LxWxH": "2 x 2 x 0.75 inches",
+      "Reusability": "Disposable",
+      "Occasion": "Party",
+      "Shape": "Round",
+      "Product Dimensions": "2 x 2 x 0.75 inches",
+      "Item Weight": "0.32 ounces",
+      "Manufacturer": "Fox Run",
+      "Country of Origin": "China",
+      "Item model number": "6969",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 186668,
+        "Baking Cups": 846
+      },
+      "Date First Available": "August 5, 2008"
+    },
+    "parent_asin": "B01LY8JS1Y",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "AHE4UY7O6D5J3ASEH2E66NJ3JAPQ_B000SJSPEG_1436231308000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Squirrel treat",
+  "text": "Squirrel treat. No good.  Don't bother to buy.  Squirrels will not eat on it at all.",
+  "asin": "B000SJSPEG",
+  "parent_asin": "B000SJSPEG",
+  "user_id": "AHE4UY7O6D5J3ASEH2E66NJ3JAPQ",
+  "timestamp": 1436231308000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Heath Outdoor Products SQL-2 Corn Log Squirrel Treat",
+    "average_rating": 3.1,
+    "rating_number": 17,
+    "features": [
+      "Over 12 ears of corn in each log",
+      "Less messy than real corn cobs",
+      "100% consumable",
+      "Use to distract squirrels from your bird feeder"
+    ],
+    "description": [
+      "The Heath Corn Log Squirrel Treats are long-lasting, compact corn treats that your squirrels will love. Each pack contains 2 corn logs. Use with our Squirrel Feeder (903) or Platform Bird Feeder (2153)."
+    ],
+    "price": null,
+    "store": "Heath Outdoor Products",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "4.5 x 2.25 x 4.5 inches",
+      "Item Weight": "0.33 Pounds",
+      "Manufacturer": "Heath Outdoor Products",
+      "Item model number": "SQL-2",
+      "Brand": "Heath Outdoor Products",
+      "Flavor": "Corn",
+      "Number of Items": "2",
+      "Package Information": "Bag"
+    },
+    "parent_asin": "B000SJSPEG",
+    "bought_together": null
+  }
+}

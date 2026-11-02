@@ -1,0 +1,40 @@
+{
+  "id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA_B07R4FHHH4_1578427946880",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Okay product",
+  "text": "Okay product. This was a gift to my son, he likes it",
+  "asin": "B07R4FHHH4",
+  "parent_asin": "B07R4FHHH4",
+  "user_id": "AHSAUHUTLVNKJ72GUIPGI5XZH6ZA",
+  "timestamp": 1578427946880,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rvqia Weighted Blanket for Adult and Kid （12lbs, 48\"x 72\" Twin Size） Superfine Brushed FiberMaterial with Glass Beads can Deliver Durability and Silky Comfort",
+    "average_rating": 4.5,
+    "rating_number": 97,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Rvqia",
+    "categories": [],
+    "details": {
+      "Brand": "Rvqia",
+      "Style": "Modern",
+      "Blanket Form": "Weighted Blanket",
+      "Age Range (Description)": "Default",
+      "Product Dimensions": "72\"L x 48\"W",
+      "Theme": "Plain",
+      "Pattern": "Tartan",
+      "Fabric Type": "100% Cotton",
+      "Item Weight": "12 pounds",
+      "Package Dimensions": "16.73 x 15.75 x 6.85 inches",
+      "Date First Available": "September 3, 2020"
+    },
+    "parent_asin": "B07R4FHHH4",
+    "bought_together": null
+  }
+}

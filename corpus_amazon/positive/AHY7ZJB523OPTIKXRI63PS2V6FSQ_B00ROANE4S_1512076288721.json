@@ -1,0 +1,45 @@
+{
+  "id": "AHY7ZJB523OPTIKXRI63PS2V6FSQ_B00ROANE4S_1512076288721",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Great looking. We got the matching coffe table also.",
+  "asin": "B00ROANE4S",
+  "parent_asin": "B00ROANE4S",
+  "user_id": "AHY7ZJB523OPTIKXRI63PS2V6FSQ",
+  "timestamp": 1512076288721,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Signature Design by Ashley Marimon Black Round End Table",
+    "average_rating": 4.9,
+    "rating_number": 24,
+    "features": [
+      "Made of a durable, textured powder coated metal in a dark wrought iron color. Tops are made of select birch veneers and finished in a vintage rub-through black finish. Design features a woven industrial basket look with wood tops. Bold rivet detail add a sense of an industrial heritage. Cocktail table has casters.",
+      "Product Dimensions : 20\"W x 20\"D x 25\"H"
+    ],
+    "description": [
+      "Item Description: Marimon Black Round End Table (T746-6) Series Features: Made of a durable, textured powder coated metal in a dark wrought iron color. Tops are made of select birch veneers and finished in a vintage rub-through black finish. Design features a woven industrial basket look with wood tops. Bold rivet detail add a sense of an industrial heritage. Cocktail table has casters."
+    ],
+    "price": null,
+    "store": "Signature Design by Ashley",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "End Tables"
+    ],
+    "details": {
+      "Item Weight": "1 pounds",
+      "Product Dimensions": "19.75 x 19.75 x 25 inches",
+      "Item model number": "T746-6",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "July 26, 2005"
+    },
+    "parent_asin": "B00ROANE4S",
+    "bought_together": null
+  }
+}

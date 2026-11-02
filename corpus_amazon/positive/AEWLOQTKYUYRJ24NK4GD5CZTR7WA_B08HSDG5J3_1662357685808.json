@@ -1,0 +1,52 @@
+{
+  "id": "AEWLOQTKYUYRJ24NK4GD5CZTR7WA_B08HSDG5J3_1662357685808",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Great Spatula!",
+  "text": "Great Spatula!. Very strong and easy to clean.",
+  "asin": "B08HSDG5J3",
+  "parent_asin": "B08HSDG5J3",
+  "user_id": "AEWLOQTKYUYRJ24NK4GD5CZTR7WA",
+  "timestamp": 1662357685808,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KitchenAid Universal Bamboo Handle Spoon Spatula, 11-Inch, Aqua",
+    "average_rating": 4.7,
+    "rating_number": 41,
+    "features": [
+      "ESSENTIAL TOOL: great for sautéing, folding in ingredients, and scooping",
+      "ECO-FRIENDLY: made from sustainable bamboo",
+      "SAFE: for use on all cookware, including nonstick",
+      "DURABLE: silicone head is heat-resistant to 500F",
+      "QUALITY ASSURED: one-year hassle-free replacement plus Lifetime Limited Warranty"
+    ],
+    "description": [
+      "This KitchenAid Bamboo Spoon Spatula is ideal for sautéing, plus folding in ingredients and scooping. The smart design of the flexible, silicone head features curved sides for scraping even hard to reach areas. The head is also heat-resistant to 500F. Made from eco-friendly, sustainable bamboo, this spatula is safe to use on all cookware, including nonstick. Lifetime Limited Warranty. Hand wash only."
+    ],
+    "price": null,
+    "store": "KitchenAid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Cooking Utensils",
+      "Spatulas"
+    ],
+    "details": {
+      "Product Dimensions": "11.85 x 2.2 x 0.67 inches",
+      "Item Weight": "3.7 ounces",
+      "Manufacturer": "Lifetime Brands Inc.",
+      "Item model number": "KQ630OHAQA",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 422509,
+        "Spatulas": 2738
+      },
+      "Date First Available": "September 10, 2020"
+    },
+    "parent_asin": "B08HSDG5J3",
+    "bought_together": null
+  }
+}

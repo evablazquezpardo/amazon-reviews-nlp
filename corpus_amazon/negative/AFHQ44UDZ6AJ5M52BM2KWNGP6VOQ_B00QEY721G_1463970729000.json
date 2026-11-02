@@ -1,0 +1,50 @@
+{
+  "id": "AFHQ44UDZ6AJ5M52BM2KWNGP6VOQ_B00QEY721G_1463970729000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not what expected",
+  "text": "Not what expected. Misrepresented in the description. Way too small that the print is almost not understandable.",
+  "asin": "B00QEY721G",
+  "parent_asin": "B00QEY721G",
+  "user_id": "AFHQ44UDZ6AJ5M52BM2KWNGP6VOQ",
+  "timestamp": 1463970729000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Louisiana State Multi Color PVC Fridge Magnet",
+    "average_rating": 3.6,
+    "rating_number": 2,
+    "features": [
+      "This magnet is made of industrial pvc resin",
+      "Safe and non-toxic product",
+      "Brand new item, factory made and comes in plastic bag",
+      "May not stick to stainless steel appliances",
+      "Great souvenir for many occasions!"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Souvenir Destiny",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Kitchen Accessories",
+      "Refrigerator Magnets"
+    ],
+    "details": {
+      "Package Dimensions": "5.5 x 3 x 0.2 inches",
+      "Item Weight": "0.353 ounces",
+      "Manufacturer": "Souvenir Destiny",
+      "Item model number": "louisianapvcmgnt",
+      "Date First Available": "December 1, 2014",
+      "Color": "Multi Color",
+      "Material": "Polyresin",
+      "Brand": "Souvenir Destiny",
+      "Shape": "Rectangular"
+    },
+    "parent_asin": "B00QEY721G",
+    "bought_together": null
+  }
+}

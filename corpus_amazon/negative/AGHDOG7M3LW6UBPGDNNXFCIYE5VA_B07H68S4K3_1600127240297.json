@@ -1,0 +1,44 @@
+{
+  "id": "AGHDOG7M3LW6UBPGDNNXFCIYE5VA_B07H68S4K3_1600127240297",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Came damaged",
+  "text": "Came damaged. I gave one star because the stir came used, dirty and scratched and broken",
+  "asin": "B07H68S4K3",
+  "parent_asin": "B07H68S4K3",
+  "user_id": "AGHDOG7M3LW6UBPGDNNXFCIYE5VA",
+  "timestamp": 1600127240297,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "TNCO Gold Cocktail Shaker Set, Bartender Tools Set includes 5pieces: Drink Shaker with Cocktail Strainer, ½ / 1 OZ Jigger, Ice Filter, Drink Mixer Spoon, Ice Tongs (Gold, 26OZ / 750ml)",
+    "average_rating": 3.8,
+    "rating_number": 6,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "TNCO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Bar & Wine Tools",
+      "Bar Sets"
+    ],
+    "details": {
+      "Package Dimensions": "9.53 x 3.86 x 3.7 inches",
+      "Item Weight": "16 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Dishwasher compatible": "Yes",
+      "Number of pieces": "5",
+      "Batteries required": "No",
+      "Included Components": "Cocktail Shaker, Jigger, Ice tongs",
+      "Brand": "TNCO",
+      "Number of Pieces": "5"
+    },
+    "parent_asin": "B07H68S4K3",
+    "bought_together": null
+  }
+}

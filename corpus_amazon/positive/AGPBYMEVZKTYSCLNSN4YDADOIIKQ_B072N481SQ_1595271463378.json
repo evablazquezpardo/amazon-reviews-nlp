@@ -1,0 +1,61 @@
+{
+  "id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ_B072N481SQ_1595271463378",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "The packaging and product integrity.",
+  "text": "The packaging and product integrity.. I love the care in the packaging!!!<br />I love the tea cup and saucer set , it’s adorable and now I want five more sets.",
+  "asin": "B072N481SQ",
+  "parent_asin": "B072N481SQ",
+  "user_id": "AGPBYMEVZKTYSCLNSN4YDADOIIKQ",
+  "timestamp": 1595271463378,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Johnson Brothers Indies Blue Cup and Saucer",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+      "Earthenware",
+      "Microwave Safe, Dishwasher Safe",
+      "Height: 2 3/4 in, Width: 3 3/8 in",
+      "Discontinued: 2009",
+      "Made in China, England"
+    ],
+    "description": [
+      "Johnson Brothers Indies Blue Cup and Saucer"
+    ],
+    "price": 9.99,
+    "store": "Johnson Brothers",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cups, Mugs, & Saucers",
+      "Cup & Saucer Sets"
+    ],
+    "details": {
+      "Brand": "Johnson Brothers",
+      "Material": "Earthenware",
+      "Color": "White",
+      "Special Feature": "Microwave Safe",
+      "Style": "Modern",
+      "Shape": "Round",
+      "Product Care Instructions": "Machine Wash",
+      "Age Range (Description)": "Adult",
+      "Unit Count": "1.0 Count",
+      "Number of Items": "1",
+      "Manufacturer": "Johnson Brothers",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 1035876,
+        "Cup & Saucer Sets": 2615
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 13, 2017"
+    },
+    "parent_asin": "B072N481SQ",
+    "bought_together": null
+  }
+}

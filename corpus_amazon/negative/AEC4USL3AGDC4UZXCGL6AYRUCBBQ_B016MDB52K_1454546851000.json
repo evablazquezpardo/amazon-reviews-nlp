@@ -1,0 +1,62 @@
+{
+  "id": "AEC4USL3AGDC4UZXCGL6AYRUCBBQ_B016MDB52K_1454546851000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "if you like your bread toasted",
+  "text": "if you like your bread toasted. if you like your bread toasted, then don't buy it. if you just like the crust toasted then buy it. if you like the look then buy it. but for the money, you can do far better. I just got tired of returning it.",
+  "asin": "B00Y2KG0CG",
+  "parent_asin": "B016MDB52K",
+  "user_id": "AEC4USL3AGDC4UZXCGL6AYRUCBBQ",
+  "timestamp": 1454546851000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KitchenAid 2-Slice Toaster with High Lift Lever KMT2116OB, Onyx Black",
+    "average_rating": 4.5,
+    "rating_number": 1116,
+    "features": [
+      "Extra Wide 1.5 Inch Slots",
+      "High Lift Lever / Easy-to-Clean, Removable Crumb Tray",
+      "Simple Start to Finish Toasting",
+      "7 Shade Settings with Bagel, Defrost, Reheat and Keep Warm",
+      "Under Base Cord Storage"
+    ],
+    "description": [
+      "Product Description",
+      "Make a statement on your counter with the newly designed KitchenAid 2-Slice Toaster. This toaster features 7 shade settings, including Bagel, Defrost, Reheat and Keep Warm. A high lift lever is convenient for removing smaller slices of bread or to check toasting progress at any time. Toaster features extra-wide 1.5-in. slots, allowing for a variety of shapes and sizes of breads. Store the cord neatly on the bottom of the toaster when not in use with the convenient cord storage.",
+      "Brand Story",
+      "By KitchenAid"
+    ],
+    "price": null,
+    "store": "KitchenAid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Ovens & Toasters",
+      "Toasters"
+    ],
+    "details": {
+      "Brand": "KitchenAid",
+      "Color": "Onyx Black",
+      "Material": "Zinc",
+      "Special Feature": "High Lift Carriage",
+      "Item Weight": "4.4 Pounds",
+      "Number of settings": "7",
+      "Number of Programs": "4",
+      "Product Dimensions": "7.7 x 12 x 8 inches",
+      "Manufacturer": "KitchenAid",
+      "Item model number": "KMT2116OB",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 227085,
+        "Toasters": 511
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 19, 2015"
+    },
+    "parent_asin": "B016MDB52K",
+    "bought_together": null
+  }
+}

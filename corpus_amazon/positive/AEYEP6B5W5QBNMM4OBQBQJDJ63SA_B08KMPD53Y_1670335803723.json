@@ -1,0 +1,62 @@
+{
+  "id": "AEYEP6B5W5QBNMM4OBQBQJDJ63SA_B08KMPD53Y_1670335803723",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Pretty",
+  "text": "Pretty. They look great. Larger than expected.",
+  "asin": "B08J8X95MR",
+  "parent_asin": "B08KMPD53Y",
+  "user_id": "AEYEP6B5W5QBNMM4OBQBQJDJ63SA",
+  "timestamp": 1670335803723,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Main + Mesa Stoneware Taper Candle Holders, Set of 3",
+    "average_rating": 4.5,
+    "rating_number": 244,
+    "features": [
+      "Set of 3 stoneware taper candle holders",
+      "Matte terracotta finish with embossed cross hatch texture",
+      "Use on a mantel or tablescape to create a dramatic scene",
+      "Small: 4.5\" x 3\" | Medium: 6\" x 2.5\" | Large: 5.5\" x 5.25\"",
+      "Features a 1\" opening for tapers"
+    ],
+    "description": [
+      "These stoneware candle holders will give your elegant taper candles a distinctive place to shine. In a matte terracotta finish and embossed cross hatch texture, these pieces are perfect for setting a warm glow in your home. Offered in a set of 3, each candle holder has an opening for a standard taper."
+    ],
+    "price": 41.84,
+    "store": "Main + Mesa",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Candles & Holders",
+      "Candleholders",
+      "Candleholder Sets"
+    ],
+    "details": {
+      "Color": "Terracotta",
+      "Material": "Ceramic",
+      "Brand": "Main + Mesa",
+      "Product Dimensions": "6.5\"L x 6.5\"W x 2.25\"H",
+      "Finish Type": "Matte",
+      "Item Weight": "13 ounces",
+      "Number of Pieces": "3",
+      "Theme": "Religious",
+      "Mounting Type": "Tabletop",
+      "Manufacturer": "Main + Mesa",
+      "Country of Origin": "China",
+      "Item model number": "EC0554",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 160622,
+        "Candleholder Sets": 18
+      },
+      "Finish types": "Matte",
+      "Assembly required": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B08KMPD53Y",
+    "bought_together": null
+  }
+}

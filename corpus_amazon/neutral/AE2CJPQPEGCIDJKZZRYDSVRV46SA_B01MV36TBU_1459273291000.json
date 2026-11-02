@@ -1,0 +1,59 @@
+{
+  "id": "AE2CJPQPEGCIDJKZZRYDSVRV46SA_B01MV36TBU_1459273291000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. it's king of large.....takes up a lot of space.  I wish I would have selected and smaller one.",
+  "asin": "B005D6FZWE",
+  "parent_asin": "B01MV36TBU",
+  "user_id": "AE2CJPQPEGCIDJKZZRYDSVRV46SA",
+  "timestamp": 1459273291000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KitchenAid Egg Slicer, Black",
+    "average_rating": 4.2,
+    "rating_number": 2655,
+    "features": [
+      "This slicer is ideal for cutting hard-boiled eggs",
+      "Non-skid rubber feet add greater stability and control when in use",
+      "The cutting wires are constructed from tough, rust-resistant stainless steel",
+      "A contemporary style complements modern kitchens",
+      "Dishwasher safe for fast and easy cleanup; One year hassle-free replacement and lifetime limited warranty"
+    ],
+    "description": [],
+    "price": null,
+    "store": "KitchenAid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Graters, Peelers & Slicers",
+      "Mandolines & Slicers",
+      "Egg Slicers"
+    ],
+    "details": {
+      "Brand": "KitchenAid",
+      "Material": "Plastic",
+      "Color": "Black",
+      "Product Care Instructions": "Dishwasher Safe",
+      "Blade Material": "Stainless Steel",
+      "Blade Shape": "Round",
+      "Operation Mode": "Manual",
+      "Product Dimensions": "9 x 4.5 x 1.8 inches",
+      "Item Weight": "5.6 ounces",
+      "Manufacturer": "Lifetime Brands",
+      "Item model number": "KC135OHOBA",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 204140,
+        "Egg Slicers": 146
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 17, 2012"
+    },
+    "parent_asin": "B01MV36TBU",
+    "bought_together": null
+  }
+}

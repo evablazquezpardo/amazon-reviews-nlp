@@ -1,0 +1,33 @@
+{
+  "id": "AFDEH7TVRJ4GBWE76Z7RBSHQOC4A_B07L4R58DN_1573105699352",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Couldn’t use it",
+  "text": "Couldn’t use it. Didn’t fit",
+  "asin": "B07L4R58DN",
+  "parent_asin": "B07L4R58DN",
+  "user_id": "AFDEH7TVRJ4GBWE76Z7RBSHQOC4A",
+  "timestamp": 1573105699352,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Worm Gear Spring with Oil Pump for Stihl 017 018 021 023 025 MS170 MS180 MS210 MS230 MS250 Chainsaw 1123 640 7105 Parts Kit",
+    "average_rating": 4.2,
+    "rating_number": 9,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Kuupo",
+    "categories": [],
+    "details": {
+      "Package Dimensions": "2.25 x 1.5 x 0.5 inches",
+      "Item Weight": "1.58 ounces",
+      "Item model number": "023 025 MS170 MS180 MS210 MS230 MS250",
+      "Is Discontinued By Manufacturer": "No"
+    },
+    "parent_asin": "B07L4R58DN",
+    "bought_together": null
+  }
+}

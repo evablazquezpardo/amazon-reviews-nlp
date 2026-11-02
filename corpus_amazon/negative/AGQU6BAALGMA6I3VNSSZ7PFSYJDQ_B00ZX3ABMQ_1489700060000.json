@@ -1,0 +1,54 @@
+{
+  "id": "AGQU6BAALGMA6I3VNSSZ7PFSYJDQ_B00ZX3ABMQ_1489700060000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. will not work",
+  "asin": "B00ZX3ABMQ",
+  "parent_asin": "B00ZX3ABMQ",
+  "user_id": "AGQU6BAALGMA6I3VNSSZ7PFSYJDQ",
+  "timestamp": 1489700060000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Etekcity Digital Kitchen Timer, Big Digits Loud Alarm Magnetic Backing Stand with Large LCD Display for Cooking Baking Sports Games Office (2 Pack, White, Battery Included)",
+    "average_rating": 4.4,
+    "rating_number": 1372,
+    "features": [
+      "LARGE READOUT: Large 2.56 x 1.32 in. bold digits for easy readability from anywhere in the kitchen.",
+      "CUSTOM ACCESS: Includes magnetic backing, foldout stand, and hanging hook for display versatility.",
+      "LOUD ALARM SYSTEM: Features loud and clear but not deafening sound to be heard from another room",
+      "PORTABLE & COMPACT: Easy to store and take on the go with simple lightweight for cooking.",
+      "EASY USE: Simple operation with countdown and count up functions with max time: 99 min., 59 sec."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Etekcity",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Thermometers & Timers",
+      "Timers"
+    ],
+    "details": {
+      "Product Dimensions": "0.79\"D x 2.95\"W x 3.15\"H",
+      "Item Weight": "2.68 Ounces",
+      "Manufacturer": "Generic",
+      "Item model number": "679113376908",
+      "Batteries": "2 AAA batteries required.",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 277453,
+        "Timers": 1198
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 18, 2015",
+      "Color": "White",
+      "Brand": "Generic"
+    },
+    "parent_asin": "B00ZX3ABMQ",
+    "bought_together": null
+  }
+}

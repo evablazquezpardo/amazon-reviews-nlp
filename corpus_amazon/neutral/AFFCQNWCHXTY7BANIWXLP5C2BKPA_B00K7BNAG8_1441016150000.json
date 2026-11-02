@@ -1,0 +1,52 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B00K7BNAG8_1441016150000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Photo could be better...",
+  "text": "Photo could be better.... It isnt reddish brown - it's greyish taupe",
+  "asin": "B00K7BNAG8",
+  "parent_asin": "B00K7BNAG8",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1441016150000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Urbanest Large Wood Oval Wall Decor Mirror, 26\"x23.5\"",
+    "average_rating": 4.0,
+    "rating_number": 2,
+    "features": [
+      "Urbanest wood oval wall decor mirror.",
+      "Overall size: 26\"x23.5\".",
+      "Mirror size: 16.5\"x12.5\"",
+      "3\" depth.",
+      "No assembly required."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Urbanest",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Mirrors",
+      "Wall-Mounted Mirrors"
+    ],
+    "details": {
+      "Brand": "Urbanest",
+      "Shape": "Oval",
+      "Frame Material": "Wood",
+      "Mounting Type": "Wall Mount",
+      "Color": "Green",
+      "Number of Pieces": "1",
+      "Material": "Wood",
+      "Frame Type": "Framed",
+      "Assembly Required": "No",
+      "Item Weight": "10.8 pounds",
+      "Package Dimensions": "29 x 26 x 5 inches",
+      "Date First Available": "November 9, 2012"
+    },
+    "parent_asin": "B00K7BNAG8",
+    "bought_together": null
+  }
+}

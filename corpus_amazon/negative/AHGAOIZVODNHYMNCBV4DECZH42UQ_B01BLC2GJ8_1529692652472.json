@@ -1,0 +1,54 @@
+{
+  "id": "AHGAOIZVODNHYMNCBV4DECZH42UQ_B01BLC2GJ8_1529692652472",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "returned",
+  "text": "returned. returned smaller than expected",
+  "asin": "B015G9EQ9A",
+  "parent_asin": "B01BLC2GJ8",
+  "user_id": "AHGAOIZVODNHYMNCBV4DECZH42UQ",
+  "timestamp": 1529692652472,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cook N Home Nonstick 5.5\" Mini Size One Egg Fry Pan and Sauce Pan 1-QT with Lid Set, Red",
+    "average_rating": 4.4,
+    "rating_number": 1236,
+    "features": [
+      "Includes a 5.5-inch mini fry pan that holds up to one egg and the saucepan holds up to 1 quart",
+      "Made of thick gauge aluminum that provides even/quick heat conduction and prevents hot spots",
+      "Nonstick coating makes food release and cleaning easy; Bakelite handles stay cool while cooking",
+      "Tempered glass lid with steam vent makes viewing food simple from start to finish; Not oven safe",
+      "Not Induction compatible. Works on gas, electric, glass, halogen, and ceramic. Dishwasher safe"
+    ],
+    "description": [
+      "The Cook N Home 5.5\" Nonstick Mini Size Fry Pan and 1 Quart Saucepan with Lid Set has a 5.5-inch fry pan that can hold up to one egg and a saucepan that can hold up to 1 quart. The cookware is made of thick gauge aluminum that provides even/quick heat conduction and prevents hot spots. The nonstick coating makes food release/cleaning easy and allows for healthy cooking. Bakelite handles stay cool while cooking. Tempered glass lid with steam vent makes viewing food simple from start to finish and fits on fry pan. Small size for small kitchens and saves space. Not Induction compatible and not oven safe. Works on gas, electric, glass, halogen, ceramic, etc. Dishwasher safe."
+    ],
+    "price": 19.99,
+    "store": "Cook N Home",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Pots & Pans",
+      "Saucepans"
+    ],
+    "details": {
+      "Product Dimensions": "10 x 5.5 x 2.75 inches",
+      "Item Weight": "1.1 pounds",
+      "Manufacturer": "Cook N Home",
+      "Country of Origin": "China",
+      "Item model number": "02444",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 268207,
+        "Saucepans": 589
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "September 5, 2015"
+    },
+    "parent_asin": "B01BLC2GJ8",
+    "bought_together": null
+  }
+}

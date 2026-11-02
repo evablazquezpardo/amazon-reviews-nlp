@@ -1,0 +1,36 @@
+{
+  "id": "AG3RUN6QXDMTDGTA7MXGFMDUILBQ_B012B0GNOS_1491780043000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not what I expected. Very heavy",
+  "text": "Not what I expected. Very heavy. Too heavy. This felt way too cumbersome and it wasn't all that comfortable because it depressed and did not rebound back into shape.",
+  "asin": "B012B0GNOS",
+  "parent_asin": "B012B0GNOS",
+  "user_id": "AG3RUN6QXDMTDGTA7MXGFMDUILBQ",
+  "timestamp": 1491780043000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Perfect Cloud Shredded Memory Foam Cluster Comfort Pillow - Premium Removable Knit Cover featuring Free Moving Shredded Memory Foam Clusters",
+    "average_rating": 3.3,
+    "rating_number": 51,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Perfect Cloud",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "24 x 16 x 4 inches",
+      "Item Weight": "3 pounds",
+      "Item model number": "PC-CLUSTER-SD",
+      "Is Discontinued By Manufacturer": "No",
+      "Refill": "memory foam",
+      "Care instructions": "Machine Wash",
+      "Number of pieces": "1"
+    },
+    "parent_asin": "B012B0GNOS",
+    "bought_together": null
+  }
+}

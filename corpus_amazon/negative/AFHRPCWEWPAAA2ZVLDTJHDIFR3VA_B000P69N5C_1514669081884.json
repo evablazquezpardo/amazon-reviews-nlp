@@ -1,0 +1,55 @@
+{
+  "id": "AFHRPCWEWPAAA2ZVLDTJHDIFR3VA_B000P69N5C_1514669081884",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Try something else",
+  "text": "Try something else. Shoes slide off easily.",
+  "asin": "B000P69N5C",
+  "parent_asin": "B000P69N5C",
+  "user_id": "AFHRPCWEWPAAA2ZVLDTJHDIFR3VA",
+  "timestamp": 1514669081884,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Household Essentials 2101 Expandable Two-Tier Shoe Rack | Adjustable Rods for Different Sizes | Chrome",
+    "average_rating": 4.0,
+    "rating_number": 220,
+    "features": [
+      "EXPANDABLE SHOE RACK with two shelves for storing and organizing your shoes",
+      "ANGLED TIERS WITH ADJUSTABLE RODS to accommodate larger and smaller shoe sizes",
+      "CHROMED STEEL CONSTRUCTION with lock bar to prevent over-extending",
+      "STACKABLE (each shoe rack is sold separately)",
+      "NO TOOLS ASSEMBLY; 14.25'H x 24-46\"W x 9\"D"
+    ],
+    "description": [
+      "Transform the bottom of your closet into an attractively ordered arena for your shoes with Household Essentials™ convenient Expandable and Stackable Shoe Rack. Constructed of durable chrome-plated steel and able to expand up to 46\", with a locking bar to prevent over-expansion, Household Essentials™ unit comfortably holds between 6 and 12 pairs of shoes. With the front bars fixed slightly lower than the rear, your shoes lie at an angle, allowing the shoe rack to fit in narrower spaces. Because Household’s units stack, you can accommodate every pair of shoes (making these shoe racks ideal for shared closets). So keep your floor clear and your shoes looking their best. Have your footwear toe the line."
+    ],
+    "price": null,
+    "store": "Household Essentials",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Clothing & Closet Storage",
+      "Shoe Organizers",
+      "Free Standing Shoe Racks"
+    ],
+    "details": {
+      "Product Dimensions": "9 x 24 x 14.25 inches",
+      "Item Weight": "0.01 ounces",
+      "Manufacturer": "Household Essentials",
+      "Item model number": "2101",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1896025,
+        "Free Standing Shoe Racks": 2649
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Finish types": "Chrome-plated Steel,Steel",
+      "Assembly required": "Yes",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B000P69N5C",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "AHMVWUAXAQLUAT23DMVWHUAC6GVA_B003HM5TNQ_1426790835000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. GOOD  PRODUCT",
+  "asin": "B003HM5TNQ",
+  "parent_asin": "B003HM5TNQ",
+  "user_id": "AHMVWUAXAQLUAT23DMVWHUAC6GVA",
+  "timestamp": 1426790835000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Alpine Cuisine Manual Lever Press Citrus Juicer, Stainless Steel",
+    "average_rating": 3.2,
+    "rating_number": 65,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "MSR",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Fruit & Vegetable Tools",
+      "Manual Juicers"
+    ],
+    "details": {
+      "Brand": "MSR",
+      "Color": "Silver",
+      "Special Feature": "Portable",
+      "Finish Type": "Stainless Steel",
+      "Product Care Instructions": "Dishwasher Safe",
+      "Blade Material": "Stainless Steel",
+      "Controller Type": "Manual",
+      "Is Dishwasher Safe": "No",
+      "Package Dimensions": "14.9 x 7.4 x 5.9 inches",
+      "Item Weight": "3 pounds",
+      "Manufacturer": "Smart Cook",
+      "Item model number": "ZEX1",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 1067884,
+        "Manual Juicers": 2190
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 16, 2010",
+      "Material Stainless Steel": "",
+      "": "Item Weight 3 Pounds"
+    },
+    "parent_asin": "B003HM5TNQ",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "AGS47C3SO62X375JL7RWNBKCFXXA_B07FLD521X_1657932284569",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "It was ok",
+  "text": "It was ok. Not as good as others I've had the same flavor",
+  "asin": "B07FLD521X",
+  "parent_asin": "B07FLD521X",
+  "user_id": "AGS47C3SO62X375JL7RWNBKCFXXA",
+  "timestamp": 1657932284569,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Tools & Home Improvement",
+    "title": "Tuscany Premium Satin Wax Candle Tea Tree & Sandalwood Candle",
+    "average_rating": 4.5,
+    "rating_number": 50,
+    "features": [],
+    "description": [
+      "Tuscany Tea Tree & Sandalwood Candle"
+    ],
+    "price": 20.97,
+    "store": "Armis",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Candles & Holders",
+      "Candles",
+      "Tea Lights"
+    ],
+    "details": {
+      "Brand": "Armis",
+      "Number of Items": "1",
+      "Scent": "Sandalwood",
+      "Operating Time": "45 Hours",
+      "Are Batteries Included": "No",
+      "Shape": "Round",
+      "Material": "Wax",
+      "Seasons": "All Season",
+      "Special Feature": "Clean Burn",
+      "Style": "Traditional",
+      "Unit Count": "1 Count",
+      "Item Weight": "2.09 pounds",
+      "Product Dimensions": "4 x 4 x 4 inches; 2.09 Pounds",
+      "Is Discontinued By Manufacturer": "No",
+      "Assembled Height": "4 inches",
+      "Assembled Length": "4 inches",
+      "Assembled Width": "4 inches",
+      "Special Features": "Clean Burn",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1318496,
+        "Tea Lights": 594
+      },
+      "Date First Available": "January 25, 2019"
+    },
+    "parent_asin": "B07FLD521X",
+    "bought_together": null
+  }
+}

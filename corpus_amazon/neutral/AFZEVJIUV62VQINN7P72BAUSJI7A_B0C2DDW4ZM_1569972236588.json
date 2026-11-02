@@ -1,0 +1,57 @@
+{
+  "id": "AFZEVJIUV62VQINN7P72BAUSJI7A_B0C2DDW4ZM_1569972236588",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok",
+  "text": "Ok. Ok",
+  "asin": "B07HNNKJ8V",
+  "parent_asin": "B0C2DDW4ZM",
+  "user_id": "AFZEVJIUV62VQINN7P72BAUSJI7A",
+  "timestamp": 1569972236588,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "LINENSPA 10 Inch Memory Foam and Innerspring Hybrid – Full Mattress – Bed in a Box – Medium Feel Mattress",
+    "average_rating": 4.5,
+    "rating_number": 133543,
+    "features": [
+      "Set Up: Simply take your mattress out of the box and enjoy watching it decompress. Jumping, walking, and sleeping on your mattress can speed up the process."
+    ],
+    "description": [
+      "Bring home the pressure relief of a memory foam mattress with the reliable support of a traditional innerspring mattress. This 10-inch full-size mattress combines the best of both worlds to bring you revolutionary comfort in one affordable hybrid mattress. For those who prefer a medium hybrid mattress, you’ve found your match. Durable steel coils evenly distribute weight and cushioning memory foam minimizes pressure and conforms to your body. The responsive design and durable materials of this full mattress make it ideal for any bedroom. The versatile 10-inch profile offers extra comfort and a supportive sleeping surface. Plus, this mattress in a box ships directly to your door, making it the complete sleep package, literally. When it arrives, simply unbox and unroll your new hybrid mattress and start sleeping better."
+    ],
+    "price": 269.99,
+    "store": "Linenspa",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Bedroom Furniture",
+      "Mattresses & Box Springs",
+      "Mattresses"
+    ],
+    "details": {
+      "Item Weight": "65 pounds",
+      "Product Dimensions": "75\"L x 54\"W x 10\"Th",
+      "Country of Origin": "Mexico",
+      "Item model number": "LS10FFMFSP",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 471,
+        "Mattresses": 6
+      },
+      "Date First Available": "September 24, 2018",
+      "Size": "Full",
+      "Special Feature": "Cooling, Durable, Lightweight, Low Motion Transfer, Fire Retardant, Breathable",
+      "Item Firmness Description": "Firm",
+      "Fill Material": "Memory Foam",
+      "Brand": "Linenspa",
+      "Top Style": "Smooth Top",
+      "Color": "Mattress Only",
+      "Coil Type": "Continuous Coil",
+      "Age Range (Description)": "Adult"
+    },
+    "parent_asin": "B0C2DDW4ZM",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "AGBQGWBWT3SXHTNFC2NCEU2W6HHA_B012895DL6_1446378443000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Stupid little piece of junk",
+  "text": "Stupid little piece of junk. Super tiny i was very disappointed!",
+  "asin": "B000X2HED6",
+  "parent_asin": "B012895DL6",
+  "user_id": "AGBQGWBWT3SXHTNFC2NCEU2W6HHA",
+  "timestamp": 1446378443000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bormioli Rocco Capitol Flower Bud Vase, Gift Boxed",
+    "average_rating": 3.6,
+    "rating_number": 222,
+    "features": [
+      "Dishwasher safe",
+      "Bud Vase for the single stem",
+      "6\" height, Length and width is 2.75",
+      "Made in Italy"
+    ],
+    "description": [
+      "Fresh flowers are common place in Italy, Bormioli Rocco has several classic shapes to choose from. The Capital bud vase is perfect for that single stem."
+    ],
+    "price": 9.51,
+    "store": "Bormioli Rocco",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Vases"
+    ],
+    "details": {
+      "Material": "Glass",
+      "Color": "Clear",
+      "Brand": "Bormioli Rocco",
+      "Product Dimensions": "2.75\"L x 2.75\"W x 6\"H",
+      "Shape": "Square",
+      "Style": "Clear",
+      "Special Feature": "Dishwasher safe",
+      "Pattern": "Solid",
+      "Theme": "Flowers",
+      "Room Type": "Living Room",
+      "Number of Pieces": "1",
+      "Occasion": "Women, Wedding, Graduation, Mother s Day",
+      "Item Weight": "0.96 ounces",
+      "Installation Type": "Table Top",
+      "Manufacturer": "Bormioli Rocco",
+      "Item model number": "318820G71021990",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 440916,
+        "Vases": 1882
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B012895DL6",
+    "bought_together": null
+  }
+}

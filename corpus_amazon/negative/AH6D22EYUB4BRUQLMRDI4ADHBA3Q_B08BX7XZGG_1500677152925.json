@@ -1,0 +1,58 @@
+{
+  "id": "AH6D22EYUB4BRUQLMRDI4ADHBA3Q_B08BX7XZGG_1500677152925",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Get something else",
+  "text": "Get something else. Cheap and does not look even half as good as the photo.",
+  "asin": "B01L7RHT0S",
+  "parent_asin": "B08BX7XZGG",
+  "user_id": "AH6D22EYUB4BRUQLMRDI4ADHBA3Q",
+  "timestamp": 1500677152925,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "3D Rose Black Formal with Distressed Silver TWL_40787_1 Towel, 15\" x 22\", White",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+      "Machine washable, cold water, no bleach, turn inside out",
+      "Manufactured in United States",
+      "It is suitable for use in any room"
+    ],
+    "description": [
+      "It is suitable for use in any room. Manufactured in United States. Machine washable, cold water, no bleach, turn inside out."
+    ],
+    "price": 11.49,
+    "store": "3dRose",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Washcloths"
+    ],
+    "details": {
+      "Color": "White",
+      "Brand": "3dRose",
+      "Age Range (Description)": "All Ages",
+      "Material": "Cotton",
+      "Product Dimensions": "22\"L x 15\"W",
+      "Number of Items": "1",
+      "Pattern": "Solid",
+      "Theme": "No Theme",
+      "Product Care Instructions": "Machine Wash, Tumble Dry",
+      "Shape": "Rectangular",
+      "Size": "15\" x 22\"",
+      "Unit Count": "1.0 Count",
+      "Fabric Type": "67% Polyester / 37% Cotton",
+      "Item Weight": "3.2 ounces",
+      "Manufacturer": "3dRose",
+      "Country of Origin": "USA",
+      "Item model number": "twl_40787_1",
+      "Date First Available": "August 29, 2016"
+    },
+    "parent_asin": "B08BX7XZGG",
+    "bought_together": null
+  }
+}

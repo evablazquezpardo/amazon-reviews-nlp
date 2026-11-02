@@ -1,0 +1,55 @@
+{
+  "id": "AEVWAM3YWN5URJVJIZZ6XPD2MKIA_B001KK35RE_1425673019000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Good quality",
+  "text": "Good quality. Holds unbelievably strong.",
+  "asin": "B001KK35RE",
+  "parent_asin": "B001KK35RE",
+  "user_id": "AEVWAM3YWN5URJVJIZZ6XPD2MKIA",
+  "timestamp": 1425673019000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "InterDesign Suction, Large Corner Shelf, Clear",
+    "average_rating": 3.0,
+    "rating_number": 25,
+    "features": [
+      "Durable plastic construction",
+      "Strong suction cup keeps caddy in place",
+      "Drainage holes on bottom",
+      "Keep soaps and lotions close at hand",
+      "10-1/2-Inch by 1.44-Inch by 9.88-Inch"
+    ],
+    "description": [
+      "For easy access to your shampoos and lotions, the Suction Corner Shelf deserves to be your first choice. Made of clear plastic with textured bottom and a ventilated design, this caddy drains all the water from shower accessories, keeping them clean and dry. The holder can be easily installed to your shower wall at an accessible distance."
+    ],
+    "price": null,
+    "store": "InterDesign",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Shower Accessories",
+      "Shower Caddies"
+    ],
+    "details": {
+      "Product Dimensions": "1.44 x 9.88 x 10.5 inches",
+      "Item Weight": "0.39 Kilograms",
+      "Manufacturer": "InterDesign",
+      "Item model number": "22000",
+      "Is Discontinued By Manufacturer": "No",
+      "Dishwasher compatible": "No",
+      "Warranty Description": "90-day limited.",
+      "Batteries required": "No",
+      "Material": "Plastic",
+      "Color": "Clear",
+      "Brand": "InterDesign",
+      "Mounting Type": "Suction_mounted"
+    },
+    "parent_asin": "B001KK35RE",
+    "bought_together": null
+  }
+}

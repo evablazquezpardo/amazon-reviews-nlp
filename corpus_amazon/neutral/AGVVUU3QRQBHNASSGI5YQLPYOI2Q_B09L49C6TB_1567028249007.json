@@ -1,0 +1,57 @@
+{
+  "id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q_B09L49C6TB_1567028249007",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Pretty, but thin",
+  "text": "Pretty, but thin. Pretty but this and don't absorb very quickly at all",
+  "asin": "B079G5K456",
+  "parent_asin": "B09L49C6TB",
+  "user_id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q",
+  "timestamp": 1567028249007,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Amrapur Overseas | Artesia Damask 6 Piece Reversible Yarn Dyed Jacquard Towel Set (Grey)",
+    "average_rating": 4.4,
+    "rating_number": 2041,
+    "features": [
+      "Damask,cotton,yarn Dyed",
+      "MATERIALS: 100% Cotton",
+      "SET INCLUDES: (2) Bath towel, (2) Hand towel, (2) Washcloth",
+      "FEATURES: A zero twist weave allows water to be quickly absorbed. Luxuriously soft towels becomes softer with every wash with extra thick weave.",
+      "CARE INSTRUCTIONS: Machine washable and dryer safe. Recommended - Machine wash gentle cycle with cold water. Sun dry or low tumble dry.",
+      "DIMENSIONS: Bath- 27x54, Hand- 16x28, Wash-13x13 inch"
+    ],
+    "description": [
+      "Bring vigor back to your bathroom with the 6 Piece Reversible Yarn Dyed Jacquard Towel Set. They are made from loops of soft 100% cotton with a zero-twist weave that quickly absorbs water. These striking pieces come in a variety of colors that complement your bathroom. Machine wash to keep looking fresh."
+    ],
+    "price": 25.19,
+    "store": "Amrapur Overseas",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Towels",
+      "Towel Sets"
+    ],
+    "details": {
+      "Product Dimensions": "16 x 11 x 6 inches",
+      "Item Weight": "3 pounds",
+      "Manufacturer": "Amrapur Overseas",
+      "Country of Origin": "China",
+      "Item model number": "5JQYDTLG-ARG-ST",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 39712,
+        "Bath Towel Sets": 83
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Damask,cotton,yarn Dyed",
+      "Care instructions": "Machine Wash, Tumble Dry",
+      "Number of pieces": "6",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B09L49C6TB",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "AHP7JZGBY57C6SQPZUNDIC6RYR4Q_B09D3R4K38_1636994295227",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love this heater",
+  "text": "Love this heater. Puts out alot of heat, perfect for my room",
+  "asin": "B09D3R4K38",
+  "parent_asin": "B09D3R4K38",
+  "user_id": "AHP7JZGBY57C6SQPZUNDIC6RYR4Q",
+  "timestamp": 1636994295227,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Space Heater, 1500W Electric Heater, Portable Heater with 90°Adjustable Angle, Fast Safety Heat, Heater for Bedroom Office Indoor Use (Yellow)",
+    "average_rating": 4.0,
+    "rating_number": 4315,
+    "features": [
+      "Heater: This space heater offers 3 levels: high or low temperature and fan. Use the \"low\" setting in spring, the \"high\" setting in fall and winter, and the fan mode in summer"
+    ],
+    "description": [],
+    "price": 39.99,
+    "store": "AEscod",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Space Heaters",
+      "Electric Space Heaters"
+    ],
+    "details": {
+      "Brand": "AEscod",
+      "Special Feature": "Overheat Protection, 90° Adjustable Angle",
+      "Color": "Yellow",
+      "Indoor/Outdoor Usage": "Indoor",
+      "Power Source": "Corded Electric",
+      "Heating Method": "Fan & forced air",
+      "Product Dimensions": "2\"D x 2\"W x 2\"H",
+      "Mounting Type": "Tabletop Mount",
+      "Heating Coverage": "160 square feet",
+      "Heat Output": "1500 Watts",
+      "Amperage": "15 Amps",
+      "Item Weight": "4.07 pounds",
+      "Manufacturer": "AEscod",
+      "Item model number": "NFJ-9",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 107576,
+        "Indoor Electric Space Heaters": 68
+      },
+      "Care instructions": "Dishwasher Safe",
+      "Assembly required": "Yes",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Included Components": "Heater, Manual"
+    },
+    "parent_asin": "B09D3R4K38",
+    "bought_together": null
+  }
+}

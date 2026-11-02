@@ -1,0 +1,48 @@
+{
+  "id": "AER7BPYAMW5CAICYIJX7QW64MBIA_B01E81U5EM_1549906428839",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Terrible quality",
+  "text": "Terrible quality. Returned immediately. Description of item is more accurate as the exact opposite.",
+  "asin": "B01E81U5EM",
+  "parent_asin": "B01E81U5EM",
+  "user_id": "AER7BPYAMW5CAICYIJX7QW64MBIA",
+  "timestamp": 1549906428839,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Luxlen Seasons Blue Down Lap Throw/Blanket",
+    "average_rating": 4.2,
+    "rating_number": 147,
+    "features": [
+      "Blue Down Lap Throw / Blanket",
+      "Microfiber Shell with 600 Fill power 6oz Down Filling",
+      "End to End Bafful box design to keep the down in place",
+      "Solid color 50\"x60\" is great for the couch or bed",
+      "Machine washable"
+    ],
+    "description": [
+      "Snuggle up with the luxurious Seasons Microfiber Down Throw, which is perfectly soft and light for your comfort with 600 fill power down filling. This throw is available in a variety of colors so you can find the perfect one to match your decor. End to end box stitch construction keeps the soft down in place."
+    ],
+    "price": null,
+    "store": "Luxlen",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Blankets & Throws",
+      "Throws"
+    ],
+    "details": {
+      "Product Dimensions": "50 x 60 x 3 inches",
+      "Item Weight": "1.5 pounds",
+      "Manufacturer": "Luxlen",
+      "Item model number": "downthrow-blue",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 13, 2016"
+    },
+    "parent_asin": "B01E81U5EM",
+    "bought_together": null
+  }
+}

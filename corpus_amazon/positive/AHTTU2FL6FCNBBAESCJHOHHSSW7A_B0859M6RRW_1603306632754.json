@@ -1,0 +1,53 @@
+{
+  "id": "AHTTU2FL6FCNBBAESCJHOHHSSW7A_B0859M6RRW_1603306632754",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Martini Ready!",
+  "text": "Martini Ready!. Better than toothpicks for your cocktails :)",
+  "asin": "B0859M6RRW",
+  "parent_asin": "B0859M6RRW",
+  "user_id": "AHTTU2FL6FCNBBAESCJHOHHSSW7A",
+  "timestamp": 1603306632754,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Cabot & Carlyle Bamboo Cocktail Picks 300 Pack 4.1 inch With Looped Knot Fancy Bamboo Toothpicks for Appetizers Cocktail Toothpicks Natural Bamboo Picks Bamboo Skewers 4 inch Long Toothpicks",
+    "average_rating": 4.7,
+    "rating_number": 753,
+    "features": [
+      "Natural bamboo cocktail and snack picks skewers 300 pieces 4.1 inches long",
+      "Excellent presentation keeps all ingredients pinned together adding style and class to your menu presentation. great for serving any type of cocktail or appetizer",
+      "Multipurpose great for cocktail party, barbecue snacks, club sandwiches, hors d'oeuvres, finger food, tapas, kebabs, and more",
+      "Organic made of natural bamboo. our organic bamboo not affect the flavor of your food",
+      "Manufactured upholding the excellent quality control, materials and standards"
+    ],
+    "description": [],
+    "price": 13.99,
+    "store": "Cabot & Carlyle",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Bar Tools & Drinkware",
+      "Bar Tools",
+      "Cocktail Picks"
+    ],
+    "details": {
+      "Package Dimensions": "7.24 x 6.73 x 1.69 inches",
+      "Item Weight": "5.6 ounces",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 56695,
+        "Cocktail Picks": 283
+      },
+      "Date First Available": "February 28, 2020",
+      "Material": "Bamboo",
+      "Color": "Natural",
+      "Brand": "Cabot & Carlyle",
+      "Number of Pieces": "300"
+    },
+    "parent_asin": "B0859M6RRW",
+    "bought_together": null
+  }
+}

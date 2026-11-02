@@ -1,0 +1,48 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B00DY23PIU_1488370358000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "OK",
+  "text": "OK. I recd discount due to defects. Great service.",
+  "asin": "B00DY23PIU",
+  "parent_asin": "B00DY23PIU",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1488370358000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Carved 5-Drawer Queen Anne Wall Table Brown Stain",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "Carved 5-Drawer Queen Anne Wall Table Brown Stain"
+    ],
+    "price": 330.35,
+    "store": null,
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "Tables",
+      "Sofa & Console Tables"
+    ],
+    "details": {
+      "Color": "Brown",
+      "Shape": "Rectangular",
+      "Special Feature": "Storage",
+      "Style": "Modern",
+      "Room Type": "Dining Room",
+      "Finish Type": "brown",
+      "Base Type": "Legs",
+      "Pattern": "Solid",
+      "Model Name": "Queen Anne",
+      "Number of Drawers": "5",
+      "Date First Available": "April 26, 2016"
+    },
+    "parent_asin": "B00DY23PIU",
+    "bought_together": null
+  }
+}

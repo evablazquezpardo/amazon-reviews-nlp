@@ -1,0 +1,46 @@
+{
+  "id": "AHI3JGUFPMIJLPYTHBMTFAOZ4XFA_B07CSTCX1J_1567106678659",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Good quality",
+  "text": "Good quality. Nice quality but too large for rod",
+  "asin": "B07CSTCX1J",
+  "parent_asin": "B07CSTCX1J",
+  "user_id": "AHI3JGUFPMIJLPYTHBMTFAOZ4XFA",
+  "timestamp": 1567106678659,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "VORCOOL 2PCS 28mm Window Drapery Curtain Rod End Drapery Pole Rail Decorative Heads",
+    "average_rating": 3.5,
+    "rating_number": 62,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "VORCOOL",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Window Treatment Hardware",
+      "Window Rods",
+      "Single Rods"
+    ],
+    "details": {
+      "Product Dimensions": "0.98 x 1.22 x 1.22 inches",
+      "Item Weight": "0.15 Pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1944705,
+        "Single Window Rods": 2295
+      },
+      "Finish types": "silver",
+      "Batteries required": "No",
+      "Brand": "VORCOOL",
+      "Material": "silver",
+      "Mounting Type": "Tension Mounted"
+    },
+    "parent_asin": "B07CSTCX1J",
+    "bought_together": null
+  }
+}

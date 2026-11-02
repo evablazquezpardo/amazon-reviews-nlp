@@ -1,0 +1,53 @@
+{
+  "id": "AHATA6X6MYTC3VNBFJ3WIYVK257A_B076HS8BVT_1511395620905",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "this is a nice little toaster",
+  "text": "this is a nice little toaster. At first the toaster must have gotten stuck because it burned the waffle.  The controller is hard to push down and you must be sure to push it all the way down or it won't come on or it will and it will burn your toast.  Other than paying attention to that, this is a nice little toaster.",
+  "asin": "B075KSB6HX",
+  "parent_asin": "B076HS8BVT",
+  "user_id": "AHATA6X6MYTC3VNBFJ3WIYVK257A",
+  "timestamp": 1511395620905,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "BLACK+DECKER TR2900WG 2-Slice Toaster, Champagne",
+    "average_rating": 3.8,
+    "rating_number": 107,
+    "features": [
+      "Unique Champagne Color: Fresh style for your kitchen",
+      "Shade Selector - Choose from seven toast shades with a simple knob",
+      "Extra-Wide Slots - Fit bagels and large artisan breads with ease",
+      "Extra Lift - The high-lift lever puts toast safely into reach for easy removal",
+      "Self-Centering Guides - The guides adjust to any width, keeping bread in the perfect toasting position"
+    ],
+    "description": [
+      "The BLACK+DECKER 2-Slice Toaster features extra wide slots to fit thick bagels and all types of breads. The shade selection knob ranges from 1-7, and the one-touch bagel and frozen functions adjust toasting for ideal results. Plus, the stainless steel construction features a unique champagne coloring."
+    ],
+    "price": null,
+    "store": "Spectrum Brands",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Ovens & Toasters",
+      "Toasters"
+    ],
+    "details": {
+      "Brand": "Spectrum Brands",
+      "Color": "Champagne",
+      "Material": "Stainless Steel",
+      "Item Weight": "3.48 Pounds",
+      "Number of settings": "7",
+      "Number of Programs": "2",
+      "Product Dimensions": "10.59 x 6.61 x 7.48 inches",
+      "Manufacturer": "Spectrum Brands",
+      "Item model number": "TR2900WG",
+      "Date First Available": "September 12, 2017"
+    },
+    "parent_asin": "B076HS8BVT",
+    "bought_together": null
+  }
+}

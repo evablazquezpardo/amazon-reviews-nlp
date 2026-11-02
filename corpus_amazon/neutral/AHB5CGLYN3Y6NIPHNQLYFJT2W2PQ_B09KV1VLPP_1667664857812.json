@@ -1,0 +1,52 @@
+{
+  "id": "AHB5CGLYN3Y6NIPHNQLYFJT2W2PQ_B09KV1VLPP_1667664857812",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Okay",
+  "text": "Okay. At least three sleeves were sliced by a raisor I'm presuming",
+  "asin": "B07LCHQQD1",
+  "parent_asin": "B09KV1VLPP",
+  "user_id": "AHB5CGLYN3Y6NIPHNQLYFJT2W2PQ",
+  "timestamp": 1667664857812,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "All Electronics",
+    "title": "33RPM Rice Paper Anti Static LP Inner Sleeves 3 Ply Style Vinyl Record Sleeves Protect Your LP Collection by P.Y.P Protect You Play（100）",
+    "average_rating": 4.8,
+    "rating_number": 217,
+    "features": [
+      "12-1/8\" x 12-1/8\" (308mm x 308mm)",
+      "Three-ply, anti-static, premium record sleeves",
+      "Keep your collection clean and dust-free",
+      "100 Sleeves Total",
+      "Rice Paper Lined lp Hdpe"
+    ],
+    "description": [
+      "Anti-static material for protecting records by Protect You Play. They are constructed with 3 layers of high-density polyethylene (HDPE) with an acid-free paper backing encased between 2 of the sheets. The HDPE is translucent so the front of the sleeve is see through. The acid-free paper neutralizes migrating acids as well as absorbs moisture. The HDPE resists static build up and protects against abrasion. Compare to MOFI sleeves."
+    ],
+    "price": 28.99,
+    "store": "P.Y.P PROTECT YOU PLAY",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Living Room Furniture",
+      "TV & Media Furniture",
+      "Media Storage",
+      "DVD Cases"
+    ],
+    "details": {
+      "Package Dimensions": "13.46 x 12.8 x 1.22 inches",
+      "Item Weight": "2.99 pounds",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 252380,
+        "DVD Cases": 185
+      },
+      "Date First Available": "September 17, 2019",
+      "Manufacturer": "Protect You Play"
+    },
+    "parent_asin": "B09KV1VLPP",
+    "bought_together": null
+  }
+}

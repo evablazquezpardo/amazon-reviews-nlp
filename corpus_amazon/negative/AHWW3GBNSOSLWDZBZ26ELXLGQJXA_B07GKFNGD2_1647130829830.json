@@ -1,0 +1,45 @@
+{
+  "id": "AHWW3GBNSOSLWDZBZ26ELXLGQJXA_B07GKFNGD2_1647130829830",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Price gouging at its worst",
+  "text": "Price gouging at its worst. I returned this product the day I received it without opening it.  But it cost $221.  Now I will have to spend two hours arguing with Synchrony Bank to get it off my credit card.",
+  "asin": "B07GKFNGD2",
+  "parent_asin": "B07GKFNGD2",
+  "user_id": "AHWW3GBNSOSLWDZBZ26ELXLGQJXA",
+  "timestamp": 1647130829830,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lifestyles S-Cape Replacement Remote (New 2020 Black Version) by Leggett and Platt for Adjustable Bed",
+    "average_rating": 4.5,
+    "rating_number": 88,
+    "features": [
+      "Plastic",
+      "This remote replaces your original.",
+      "Please contact us if you are in need of assistance in programming your new remote to your adjustable bed."
+    ],
+    "description": [],
+    "price": 249.0,
+    "store": "Leggett and Platt Adjustables",
+    "categories": [
+      "Home & Kitchen",
+      "Furniture",
+      "Replacement Parts"
+    ],
+    "details": {
+      "Manufacturer": "Leggett and Platt Adjustables",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 792653,
+        "Furniture Replacement Parts": 937
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "Plastic",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07GKFNGD2",
+    "bought_together": null
+  }
+}

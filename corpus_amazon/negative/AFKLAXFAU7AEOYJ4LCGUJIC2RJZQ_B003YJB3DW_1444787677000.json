@@ -1,0 +1,61 @@
+{
+  "id": "AFKLAXFAU7AEOYJ4LCGUJIC2RJZQ_B003YJB3DW_1444787677000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Takes way to long to boil.",
+  "text": "Takes way to long to boil.. Takes way to long to boil the water compared to another one I have.  Would never buy again.",
+  "asin": "B003YJB3DW",
+  "parent_asin": "B003YJB3DW",
+  "user_id": "AFKLAXFAU7AEOYJ4LCGUJIC2RJZQ",
+  "timestamp": 1444787677000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Brentwood 1.2 Liter Stainless Steel Tea Kettle Model KT-1770",
+    "average_rating": 4.3,
+    "rating_number": 890,
+    "features": [
+      "1.2L capacity",
+      "Overheat shutoff",
+      "Auto shutoff when boiling or Dry"
+    ],
+    "description": [
+      "Heat water faster and more efficiently than a microwave with this 1.2 liter electric tea kettle finished in brushed stainless steel for a classic look. Featuring an illuminated power indicator and boil dry protection for safety. This electric tea kettle is ideal for a quick cup of tea or coffee with it's handy lift-off kettle allows for cord-free use and it's small enough to fit on a kitchen countertop without taking up very much space."
+    ],
+    "price": 32.99,
+    "store": "Brentwood",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Kettles & Tea Machines",
+      "Electric Kettles"
+    ],
+    "details": {
+      "Brand": "Brentwood",
+      "Color": "Silver",
+      "Special Feature": "Other",
+      "Package Information": "Kettle",
+      "Finish Type": "Brushed",
+      "Wattage": "1000 watts",
+      "Included Components": "Kettle, Instruction Manual",
+      "Model Name": "----",
+      "Item Weight": "1.5 pounds",
+      "Product Dimensions": "5.8 x 8.5 x 7.5 inches",
+      "Manufacturer": "Brentwood",
+      "Item model number": "KT-1770",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1344200,
+        "Electric Kettles": 906
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 6, 2010",
+      "Capacity 1.2 Liters": "",
+      "": "Material Stainless Steel"
+    },
+    "parent_asin": "B003YJB3DW",
+    "bought_together": null
+  }
+}

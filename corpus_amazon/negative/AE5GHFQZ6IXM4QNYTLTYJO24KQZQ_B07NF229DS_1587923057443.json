@@ -1,0 +1,54 @@
+{
+  "id": "AE5GHFQZ6IXM4QNYTLTYJO24KQZQ_B07NF229DS_1587923057443",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Junk",
+  "text": "Junk. flimsy plastic junk!",
+  "asin": "B07PN5MMKL",
+  "parent_asin": "B07NF229DS",
+  "user_id": "AE5GHFQZ6IXM4QNYTLTYJO24KQZQ",
+  "timestamp": 1587923057443,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "DecorRack Wall Mount Paper Towel Holder for Kitchen and Bath, Flexible Shatterproof -BPA Free- Plastic, Vertical or Horizontal Mount, Under Cabinet Folding Dispenser, Includes 2 Screws, White (1 Pack)",
+    "average_rating": 3.8,
+    "rating_number": 1214,
+    "features": [
+      "Flexible Plastic Paper Towel Holder, Will not Break or Crack, -BPA Free-",
+      "Lightweight, Easy to Mount, Comes with Screws",
+      "Free Up Valuable Countertop Space for a Clean Look",
+      "Cream Wall Paper Towel Dispenser, Versatile, Fits Every Kitchen Décor, Install Vertically or Horizontally, Mount on Wall or Inside Cabinet, Does Not Hold Extra Large Paper Towel Rolls",
+      "Adjustable Arms that Hold Standard Paper Towel Rolls, Prevent Roll from Falling, Keeping It Clean and Dry, While Allowing It to Rotate, Quickly and Efficiently Retrieve Single Sheets, Arms Fold Back Up When Not in Use"
+    ],
+    "description": [],
+    "price": 5.99,
+    "store": "DecorRack",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Paper Towel Holders"
+    ],
+    "details": {
+      "Package Dimensions": "15.24 x 4.61 x 0.87 inches",
+      "Item Weight": "1.44 Ounces",
+      "Country of Origin": "China",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 27803,
+        "Paper Towel Holders": 211
+      },
+      "Date First Available": "March 22, 2019",
+      "Material": "Plastic",
+      "Color": "White 1 Pack",
+      "Brand": "DecorRack",
+      "Mounting Type": "Wall Mount",
+      "Product Dimensions": "13\"L x 4.2\"W"
+    },
+    "parent_asin": "B07NF229DS",
+    "bought_together": null
+  }
+}

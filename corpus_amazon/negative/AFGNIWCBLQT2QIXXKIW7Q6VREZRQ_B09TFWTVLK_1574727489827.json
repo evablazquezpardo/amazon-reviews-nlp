@@ -1,0 +1,57 @@
+{
+  "id": "AFGNIWCBLQT2QIXXKIW7Q6VREZRQ_B09TFWTVLK_1574727489827",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not that great",
+  "text": "Not that great. These are not good quality. The edges are very rough and they feel cheap!",
+  "asin": "B00KH9PUDQ",
+  "parent_asin": "B09TFWTVLK",
+  "user_id": "AFGNIWCBLQT2QIXXKIW7Q6VREZRQ",
+  "timestamp": 1574727489827,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "New Star Foodservice 42917 Stainless Steel 8-Piece Measuring Cups and Spoons Combo Set",
+    "average_rating": 4.8,
+    "rating_number": 17563,
+    "features": [
+      "Stainless steel measuring cups and spoons set",
+      "Measuring cups: 1 cup, 1/2 cup, 1/3 cup, and 1/4 cup",
+      "Measuring spoons: 1 tbsp., 1 tsp, 1/2 tsp, 1/4 tsp",
+      "Engineered for precision accuracy to assure consistency in food preparation",
+      "Set nests for storage and attach to a removable loop"
+    ],
+    "description": [],
+    "price": 11.97,
+    "store": "New Star Foodservice",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Measuring Tools & Scales",
+      "Cups"
+    ],
+    "details": {
+      "Color": "Silver",
+      "Material": "Stainless Steel",
+      "Brand": "New Star Foodservice",
+      "Item Dimensions LxWxH": "7.5 x 3.5 x 2.5 inches",
+      "Item Weight": "0.6 Pounds",
+      "Number of Pieces": "1",
+      "Product Dimensions": "7.5 x 3.5 x 2.5 inches",
+      "Manufacturer": "New Star Foodservice Inc.",
+      "Country of Origin": "China",
+      "Item model number": "42917",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 14475,
+        "Measuring Cups": 97
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 21, 2014"
+    },
+    "parent_asin": "B09TFWTVLK",
+    "bought_together": null
+  }
+}

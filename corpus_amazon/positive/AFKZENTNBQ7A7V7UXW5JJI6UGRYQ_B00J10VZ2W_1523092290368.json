@@ -1,0 +1,60 @@
+{
+  "id": "AFKZENTNBQ7A7V7UXW5JJI6UGRYQ_B00J10VZ2W_1523092290368",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love it!",
+  "text": "Love it!. My favorite storage containers. All good.",
+  "asin": "B004171MQO",
+  "parent_asin": "B00J10VZ2W",
+  "user_id": "AFKZENTNBQ7A7V7UXW5JJI6UGRYQ",
+  "timestamp": 1523092290368,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Snapware 17-Cup Airtight Flip Storage Container, Plastic",
+    "average_rating": 4.4,
+    "rating_number": 278,
+    "features": [
+      "Includes: (1) 17-cup storage container with flip plastic lid",
+      "BPA-free polypropylene container and lid are microwave, top-rack dishwasher, and freezer safe",
+      "Snap Lock Lids are airtight and leak-proof for secure storage",
+      "Remove & wash gasket before use to optimize seal",
+      "Snapware Glass and Plastic are Made in the USA and come with a Lifetime Warranty"
+    ],
+    "description": [
+      "Snapware 1098425 17 Cup Medium Flip Top Rectangle Storage Container. Medium Flip top series. Ideal for dry food storage. Silicone gaskets and tight snapping latches seal containers 100% airtight for long lasting food freshness. The product is from United States."
+    ],
+    "price": null,
+    "store": "Snapware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Container Sets"
+    ],
+    "details": {
+      "Product Dimensions": "8.5 x 6.25 x 6.75 inches",
+      "Item Weight": "0.4 Pounds",
+      "Manufacturer": "World Kitchen (PA)",
+      "Item model number": "1098425",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 360024,
+        "Individual Household Food Containers": 958,
+        "Food Container Sets": 8427
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 10, 2011",
+      "Capacity": "17 Cups",
+      "Number of Sets": "1",
+      "Brand": "Snapware",
+      "Color": "Clear",
+      "Material": "Polypropylene"
+    },
+    "parent_asin": "B00J10VZ2W",
+    "bought_together": null
+  }
+}

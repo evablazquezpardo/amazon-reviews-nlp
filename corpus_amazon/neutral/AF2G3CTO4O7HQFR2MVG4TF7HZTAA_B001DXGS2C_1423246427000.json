@@ -1,0 +1,53 @@
+{
+  "id": "AF2G3CTO4O7HQFR2MVG4TF7HZTAA_B001DXGS2C_1423246427000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. This was a gift for someone else",
+  "asin": "B001DXGS2C",
+  "parent_asin": "B001DXGS2C",
+  "user_id": "AF2G3CTO4O7HQFR2MVG4TF7HZTAA",
+  "timestamp": 1423246427000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "1 X Sage and Lavender - 5\" Smudge Stick - Sage Spirit",
+    "average_rating": 4.0,
+    "rating_number": 722,
+    "features": [
+      "One 5 inch stick.",
+      "For use in smudging rituals.",
+      "Made with Sage and Lavender.",
+      "Can also be used like incense."
+    ],
+    "description": [
+      "This smudge stick bundle is hand-made with Lavender and desert Sage (Artemesia tridenta). Smudging is a blessing ritual used for many purposes. Light the smudge stick, then blow across the stick to keep it glowing. Once the stick is smoking, pass the bundle over whatever needs cleansing or pass the item through the smoke. smudge stick can also be used like incense."
+    ],
+    "price": 5.1,
+    "store": "Sage Spirit",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Incense & Incense Holders",
+      "Incense"
+    ],
+    "details": {
+      "Product Dimensions": "5 x 2 x 2 inches",
+      "Item Weight": "4.8 ounces",
+      "Manufacturer": "The Wise Sage",
+      "Item model number": "5sl",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1267024,
+        "Incense": 3654
+      },
+      "Perfume": "Sage and Lavender",
+      "Batteries required": "No",
+      "Import": "Made in USA"
+    },
+    "parent_asin": "B001DXGS2C",
+    "bought_together": null
+  }
+}

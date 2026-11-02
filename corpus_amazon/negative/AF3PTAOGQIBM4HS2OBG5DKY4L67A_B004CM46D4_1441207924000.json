@@ -1,0 +1,58 @@
+{
+  "id": "AF3PTAOGQIBM4HS2OBG5DKY4L67A_B004CM46D4_1441207924000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Ok bit much smaller than expected.",
+  "text": "Ok bit much smaller than expected.. Much smaller than expected. Ok.",
+  "asin": "B004CM46D4",
+  "parent_asin": "B004CM46D4",
+  "user_id": "AF3PTAOGQIBM4HS2OBG5DKY4L67A",
+  "timestamp": 1441207924000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Roman Joseph's Studio Inc, Renaissance Collection, Holy Statue Figurine, 6.25\" H Good Shepherd Figure, Religious Figure, Religious Décor, (2.38 x 1.75 x 6.25 Inches)",
+    "average_rating": 4.8,
+    "rating_number": 568,
+    "features": [
+      "Roman Inc",
+      "Joseph Studio 6.25 Inch Tall Good Shepherd Figure"
+    ],
+    "description": [],
+    "price": 23.49,
+    "store": "Roman",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Sculptures",
+      "Statues"
+    ],
+    "details": {
+      "Color": "Multicolored",
+      "Brand": "Roman",
+      "Theme": "Religious",
+      "Material": "Stone Resin",
+      "Style": "Religious",
+      "Product Dimensions": "1.75\"D x 2.38\"W x 6.25\"H",
+      "Recommended Uses For Product": "Home",
+      "Mounting Type": "Freestanding",
+      "Seasons": "All Seasons",
+      "Item Weight": "6.4 ounces",
+      "Collection Name": "All",
+      "Manufacturer": "Roman Inc.",
+      "Country of Origin": "China",
+      "Item model number": "60685",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 284047,
+        "Statues": 548
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B004CM46D4",
+    "bought_together": null
+  }
+}

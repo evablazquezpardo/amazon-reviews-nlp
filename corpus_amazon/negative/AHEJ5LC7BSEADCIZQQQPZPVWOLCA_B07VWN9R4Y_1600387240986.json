@@ -1,0 +1,50 @@
+{
+  "id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA_B07VWN9R4Y_1600387240986",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "The scent does not last long",
+  "text": "The scent does not last long. We thought we try something different for fall we would not purchase again it's a bit pricey and the scent does not stay in the room very long",
+  "asin": "B07VWN9R4Y",
+  "parent_asin": "B07VWN9R4Y",
+  "user_id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA",
+  "timestamp": 1600387240986,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Yankee Candle FARMSTAND Festival Concentrated Room Spray 1.5 Ounce",
+    "average_rating": 4.2,
+    "rating_number": 32,
+    "features": [
+      "The inviting scents of an autumn market: mulled fruits and rich berries paired with the rustic scent of weathered woods. . . the perfect fall afternoon.",
+      "Fragrance Life of 300 sprays per can, Net Weight 1.5 Ounce"
+    ],
+    "description": [
+      "About This Fragrance",
+      "The inviting scents of an autumn market: mulled fruits and rich berries paired with the rustic scent of weathered woods. . . the perfect fall afternoon.",
+      "About Concentrated Room Sprays",
+      "Fill any room with your favorite fragrance in just two sprays. Plus, in those rooms that aren't exactly guest-worthy, neutralize odors instantly. Think your teenager's bedroom, the laundry room, that pesky pet area and the bathroom—fixed—with just a few sprays. Now that's better!"
+    ],
+    "price": 17.98,
+    "store": "Yankee Candle",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Fragrance",
+      "Fragrant Room Sprays"
+    ],
+    "details": {
+      "Package Dimensions": "5.6 x 2.13 x 0.79 inches",
+      "Item Weight": "1.5 ounces",
+      "Manufacturer": "Yankee Candle",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1552809,
+        "Fragrant Room Sprays": 775
+      },
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07VWN9R4Y",
+    "bought_together": null
+  }
+}

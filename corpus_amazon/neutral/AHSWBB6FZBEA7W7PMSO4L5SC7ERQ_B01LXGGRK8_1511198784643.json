@@ -1,0 +1,56 @@
+{
+  "id": "AHSWBB6FZBEA7W7PMSO4L5SC7ERQ_B01LXGGRK8_1511198784643",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "too full",
+  "text": "too full. its OK, but needs way to adjust fill,",
+  "asin": "B01LXGGRK8",
+  "parent_asin": "B01LXGGRK8",
+  "user_id": "AHSWBB6FZBEA7W7PMSO4L5SC7ERQ",
+  "timestamp": 1511198784643,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "PharMeDoc Shredded Memory Foam Pillow - Bed Pillow for Side Sleepers & Back Sleepers, Includes Hypoallergenic Pillow Case, Queen Size",
+    "average_rating": 3.7,
+    "rating_number": 193,
+    "features": [
+      "Latex"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Pharmedoc",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Pillows & Positioners",
+      "Bed Pillows"
+    ],
+    "details": {
+      "Brand": "Pharmedoc",
+      "Special Feature": "Washable, Removable Cover",
+      "Size": "King",
+      "Fill Material": "Memory Foam",
+      "Shape": "Rectangular",
+      "Age Range (Description)": "Adult",
+      "Recommended Uses For Product": "Sleeping",
+      "Material": "Memory Foam",
+      "Item Firmness Description": "Soft",
+      "Item Dimensions LxWxH": "20.08 x 7.09 x 6.1 inches",
+      "Product Care Instructions": "Machine Wash",
+      "Number of Pieces": "1",
+      "Item Weight": "3.9 pounds",
+      "Material Feature": "Hypoallergenic",
+      "Variety": "Memory Foam Pillow,Bed Pillow",
+      "Fabric Type": "Latex",
+      "Product Dimensions": "20.08 x 7.09 x 6.1 inches",
+      "Is Discontinued By Manufacturer": "No",
+      "Refill": "Memory Foam",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B01LXGGRK8",
+    "bought_together": null
+  }
+}

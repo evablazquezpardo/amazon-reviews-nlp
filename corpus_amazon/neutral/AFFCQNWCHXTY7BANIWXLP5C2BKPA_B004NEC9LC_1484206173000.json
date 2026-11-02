@@ -1,0 +1,51 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B004NEC9LC_1484206173000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Bigger",
+  "text": "Bigger. BIG. More like 9&#34;",
+  "asin": "B004NEC9LC",
+  "parent_asin": "B004NEC9LC",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1484206173000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Anchor Hocking 7 Inch Santoku Knife 95874",
+    "average_rating": 3.1,
+    "rating_number": 10,
+    "features": [
+      "Stainless Steel, full tang, triple rivet handle, fine edge blade",
+      "7 inch"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Anchor Hocking",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Kitchen Knives & Accessories",
+      "Asian Knives",
+      "Santoku Knives"
+    ],
+    "details": {
+      "Blade Material": "Stainless Steel",
+      "Brand": "Anchor Hocking",
+      "Color": "Black",
+      "Handle Material": "Stainless Steel",
+      "Blade Edge": "Plain",
+      "Blade Length": "7 Inches",
+      "Blade Color": "Silver",
+      "Number of Pieces": "1",
+      "Package Dimensions": "14 x 3.1 x 0.8 inches",
+      "Item Weight": "4 ounces",
+      "Item model number": "95874",
+      "Date First Available": "February 11, 2011"
+    },
+    "parent_asin": "B004NEC9LC",
+    "bought_together": null
+  }
+}

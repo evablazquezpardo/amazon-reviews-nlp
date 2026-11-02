@@ -1,0 +1,48 @@
+{
+  "id": "AFKJQMCY3HIYNHN3FEMLQXPGIPWA_B012ITRFU8_1631311203376",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Could be better.",
+  "text": "Could be better.. Needed more then some work, had to re glue,  not as nice as picture,",
+  "asin": "B012ITRFU8",
+  "parent_asin": "B012ITRFU8",
+  "user_id": "AFKJQMCY3HIYNHN3FEMLQXPGIPWA",
+  "timestamp": 1631311203376,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OakRidge Fall Mum Wreath, 18” Diameter, Silk Floral Autumn Home Décor for Indoor/Outdoor Use",
+    "average_rating": 4.3,
+    "rating_number": 571,
+    "features": [
+      "Vibrant Wreath – Blooming with spectacular faux mums in lifelike detail, this stunning wreath adds lasting color and texture to any setting",
+      "Artfully Crafted – The brilliant wreath boasts nature’s beauty in every detail; featuring rich autumn hues, intricate foliage and realistic cattails",
+      "Versatile Décor – Thoughtfully designed for indoor/protected outdoor use, this luxe faux mum wreath lends a warm welcome to your front door, entryway, kitchen, sunroom and more",
+      "No-Fuss Decorating – Lightweight wreath can be easily displayed; wreath arrives full and requires no fluffing",
+      "Product Details – Wreath is made of polyester/styrofoam/plastic and measures 18 inches diameter"
+    ],
+    "description": [],
+    "price": 28.26,
+    "store": "OakRidge",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Wreaths"
+    ],
+    "details": {
+      "Manufacturer": "Fox Valley Traders",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1104989,
+        "Wreaths": 2639
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Diameter": "18 Inches",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B012ITRFU8",
+    "bought_together": null
+  }
+}

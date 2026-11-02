@@ -1,0 +1,57 @@
+{
+  "id": "AGELMF4ZNSXCEWNUH6L2RDYE3XRQ_B00CDL33Q2_1465848802000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Two Stars",
+  "text": "Two Stars. They work but so much cheaper at grocery store",
+  "asin": "B00CDL33Q2",
+  "parent_asin": "B00CDL33Q2",
+  "user_id": "AGELMF4ZNSXCEWNUH6L2RDYE3XRQ",
+  "timestamp": 1465848802000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Zoku Classic Pop Molds, 6 Easy-release Popsicle Molds With Sticks and Drip-guards, BPA-free",
+    "average_rating": 4.5,
+    "rating_number": 3495,
+    "features": [
+      "TIMELESS FROZEN TREAT: ZOKU's mold creates 6 perfect pops with a classic shape; about 3.1-fluid ounces each; Includes: 1 Classic Pop Mold base, 6 removable molds, 6 sticks with drip guards",
+      "ENDLESS POSSIBILITIES: Create unique and healthy treats with fresh fruit and juice, or decadent desserts with melted chocolate or candy; mix and match recipes for a variety of popsicles in one tray",
+      "GREAT FAMILY ACTIVITY: Mess-free fun for kids and adults alike; perfect for families, parties, an after-school snack, or as an addition to the other ZOKU pop shapes",
+      "EASY TO USE: Each mold includes a stick with drip guard to keep hands clean as you enjoy your popsicle; simply lift individual molds from base by pulling the pop's stick, unmold under warm water to release pop",
+      "BPA-FREE AND PHTHALATE FREE: Simple to clean with warm water and soap; do not wash in dishwasher; clean with mild soap and water; designed in the USA"
+    ],
+    "description": [],
+    "price": 17.99,
+    "store": "ZOKU",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Specialty Tools & Gadgets",
+      "Ice Pop Molds"
+    ],
+    "details": {
+      "Brand": "ZOKU",
+      "Color": "Green",
+      "Material": "Plastic",
+      "Item Dimensions LxWxH": "9.06 x 4.53 x 4.33 inches",
+      "Item Weight": "0.65 Pounds",
+      "Number of Pieces": "19",
+      "Material Type Free": "Phthalate Free",
+      "Product Dimensions": "9.06 x 4.53 x 4.33 inches",
+      "Manufacturer": "ZOKU",
+      "Item model number": "ZK114",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 25246,
+        "Ice Pop Molds": 146
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 18, 2006"
+    },
+    "parent_asin": "B00CDL33Q2",
+    "bought_together": null
+  }
+}

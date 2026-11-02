@@ -1,0 +1,55 @@
+{
+  "id": "AGFETIUFABYTBKH3H237OWO2FLBA_B08CVS6BFR_1672513375209",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love it",
+  "text": "Love it. Best investment",
+  "asin": "B08CVS2KQK",
+  "parent_asin": "B08CVS6BFR",
+  "user_id": "AGFETIUFABYTBKH3H237OWO2FLBA",
+  "timestamp": 1672513375209,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Sandwich Cutter and Sealer (Heart) - Uncrustables Sandwich Maker - Great for Lunchbox and Bento Box - Boys and Girls Kids Lunch - Sandwich Cutters for Kids",
+    "average_rating": 4.6,
+    "rating_number": 1778,
+    "features": [
+      "👶 DON'T BUY PREPACKAGED SANDWICHES: Tired of buying pre-made sandwiches from your grocery store? Use our cutter and sealer combo to create your own!",
+      "😎 ADD MORE FILLING: Our new patent-pending sealers create perfectly symmetrical sandwich pockets, which allows 50% additional filling capacity compared to the standard sandwich sealers.",
+      "🏆SAFE AND STRONG: These are made out of food-grade ABS and 100% free from BPA, lead, PVC, mercury, and phthalates. These are more durable compared to transparent cutters and sealers.",
+      "❤️ OVER 10,000 PARENTS SATISFIED: Enjoy spending time in the kitchen with your children by making fun lunches together! 10,000+ parents and children across the world have chosen Savoychef products. Order now to join the family!",
+      "🤗 100% SATISFACTION: We are a small family business and our goal is to provide products that people love. If for any reason you're not satisfied with your purchase, please contact us and we'll do everything in our power to make things right!"
+    ],
+    "description": [],
+    "price": 9.96,
+    "store": "Savoychef",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking Tools & Accessories",
+      "Cookie Cutters"
+    ],
+    "details": {
+      "Product Dimensions": "4.5 x 4.5 x 1.5 inches",
+      "Item Weight": "3.84 ounces",
+      "Manufacturer": "Savoychef",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 3102,
+        "Cookie Cutters": 12
+      },
+      "Date First Available": "July 13, 2020",
+      "Brand": "Savoychef",
+      "Material": "Plastic",
+      "Shape": "Heart",
+      "Cartoon Character": "Heart",
+      "Item Dimensions LxWxH": "4.5 x 4.5 x 1.5 inches",
+      "Color": "Heart"
+    },
+    "parent_asin": "B08CVS6BFR",
+    "bought_together": null
+  }
+}

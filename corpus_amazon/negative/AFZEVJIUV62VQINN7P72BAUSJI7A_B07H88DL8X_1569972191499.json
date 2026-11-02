@@ -1,0 +1,41 @@
+{
+  "id": "AFZEVJIUV62VQINN7P72BAUSJI7A_B07H88DL8X_1569972191499",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Junk",
+  "text": "Junk. Crap",
+  "asin": "B07H88DL8X",
+  "parent_asin": "B07H88DL8X",
+  "user_id": "AFZEVJIUV62VQINN7P72BAUSJI7A",
+  "timestamp": 1569972191499,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "best partner 18V 130MPH Cordless Leaf Blower,Light-Weight,Single Speed,2.0 AH Battery Included",
+    "average_rating": 3.2,
+    "rating_number": 256,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "best partner",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "18 x 6 x 8 inches",
+      "Item Weight": "3.67 Pounds",
+      "Batteries": "1 Lithium Ion batteries required. (included)",
+      "Is Discontinued By Manufacturer": "No",
+      "Brand": "Best partner",
+      "Power Source": "Battery Powered",
+      "Voltage": "18 Volts",
+      "Form Factor": "Handheld",
+      "Special Feature": "Cordless, Light Weight",
+      "Style": "Handheld",
+      "Item Dimensions LxWxH": "18 x 6 x 8 inches",
+      "Speed": "130 Miles per Hour"
+    },
+    "parent_asin": "B07H88DL8X",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "AETTGDSJDM554ISAC6U5N3WIZQ6A_B0731VS21Q_1507585441425",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "No option for return",
+  "text": "No option for return. Junk",
+  "asin": "B0731VS21Q",
+  "parent_asin": "B0731VS21Q",
+  "user_id": "AETTGDSJDM554ISAC6U5N3WIZQ6A",
+  "timestamp": 1507585441425,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Comfort Home Melting Clock (Blue)",
+    "average_rating": 4.2,
+    "rating_number": 32,
+    "features": [
+      "Comfort HomeTM Melting Clock is the perfect add on to any Home or office.",
+      "Clock rests easily on most surfaces.",
+      "Makes a great Gift.",
+      "Uses 1 AA Batteries for easy use and set up."
+    ],
+    "description": [
+      "Comfort HomeTM Original Melting Clock - Blue"
+    ],
+    "price": null,
+    "store": "ComfortHomeTM",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Clocks",
+      "Desk & Shelf Clocks"
+    ],
+    "details": {
+      "Brand": "ComfortHomeTM",
+      "Color": "Blue",
+      "Display Type": "Analog",
+      "Power Source": "Battery Powered",
+      "Are Batteries Included": "No",
+      "Mounting Type": "Tabletop",
+      "Alarm Clock": "No",
+      "Operation Mode": "Electrical",
+      "Package Dimensions": "7.2 x 6.61 x 5 inches",
+      "Item Weight": "1.07 pounds",
+      "Manufacturer": "ComfortHomeTM",
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B0731VS21Q",
+    "bought_together": null
+  }
+}

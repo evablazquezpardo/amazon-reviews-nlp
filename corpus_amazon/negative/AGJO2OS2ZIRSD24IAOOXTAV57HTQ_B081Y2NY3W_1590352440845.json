@@ -1,0 +1,56 @@
+{
+  "id": "AGJO2OS2ZIRSD24IAOOXTAV57HTQ_B081Y2NY3W_1590352440845",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "fizz for a day.",
+  "text": "fizz for a day.. thought it worked great for first 2 liter .",
+  "asin": "B081Y2NY3W",
+  "parent_asin": "B081Y2NY3W",
+  "user_id": "AGJO2OS2ZIRSD24IAOOXTAV57HTQ",
+  "timestamp": 1590352440845,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "FizzLock– Save Fizz up to 3 to 5 Days Longer. Guaranteed to Save Fizz on Your soda and Carbonated Drinks",
+    "average_rating": 3.5,
+    "rating_number": 148,
+    "features": [
+      "Bottled soda or sparkling water stays fizzy 3-5 DAYS or Longer, Guaranteed.",
+      "Keep fizz destroying air out of bottle with this Patent Pending vacuum seal spout.",
+      "It’s simple! Remove the original bottle cap, screw FizzLock onto bottle, squeeze to pour.",
+      "Save money buying larger bottles, pouring fresh fizzy soda for days.",
+      "It’s reusable and easily cleaned in the sink or dishwasher."
+    ],
+    "description": [
+      "Tired of losing the fizz in your soda by the next day? FizzLock is the fun new soda spout that saves fizz 3 to 5 days after opening, controls pouring, and is reusable. For use on both large or small carbonated drink bottles. Save Fizz and Money! How to use a FizzLock? It's simple: Remove the original bottle cap, screw the FizzLock on bottle and squeeze to pour. When finished, screw the original bottle top onto the FizzLock for longer storage. (Keep room air out, and fizz in, with FizzLocks!!!)"
+    ],
+    "price": null,
+    "store": "FizzLock",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliance Parts & Accessories",
+      "Soda Maker Parts & Accessories"
+    ],
+    "details": {
+      "Brand": "FizzLock",
+      "Material": "Plastic",
+      "Age Range (Description)": "Any Age Group",
+      "Number of Items": "1",
+      "Reusability": "Reusable",
+      "Unit Count": "1 Count",
+      "Package Dimensions": "1.25 x 1.25 x 1 inches",
+      "Item Weight": "0.81 ounces",
+      "Manufacturer": "FizzLock",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1886195,
+        "Soda Maker Parts & Accessories": 169,
+        "Kitchen Utensils & Gadgets": 156417
+      }
+    },
+    "parent_asin": "B081Y2NY3W",
+    "bought_together": null
+  }
+}

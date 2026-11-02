@@ -1,0 +1,68 @@
+{
+  "id": "AFWHJ6O3PV4JC7PVOJH6CPULO2KQ_B000M8ZJOC_1524768354033",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Four Stars",
+  "text": "Four Stars. took a while to get them but what was wanted.",
+  "asin": "B000M8ZJOC",
+  "parent_asin": "B000M8ZJOC",
+  "user_id": "AFWHJ6O3PV4JC7PVOJH6CPULO2KQ",
+  "timestamp": 1524768354033,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "MCS 24pc 2x3 Inch Photo Frames Inch Counter Display Photo Frames (40650)",
+    "average_rating": 3.6,
+    "rating_number": 21,
+    "features": [
+      "Display contains 24 mini frames in Solid wood",
+      "Frames fit 2 by 3 inch photos",
+      "Jewel-tone finishes are honey, mahogany, and green",
+      "There are 8 frames of each color",
+      "Frames have easels for tabletop display"
+    ],
+    "description": [
+      "Retail display containing 24 mini photo frames is great for resale. Frames are made of solid wood and fit photos sized 2 by 3 inches. There are 8 frames in each of the three jewel tone finishes - Honey, mahogany, and green. Great way to stock up that gift closet with some new frames. Teachers what a great way for students to frame their images or drawings. Great for place settings at events or weddings"
+    ],
+    "price": null,
+    "store": "MCS",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Photo Albums, Frames & Accessories",
+      "Picture Frames",
+      "Wall & Tabletop Frames"
+    ],
+    "details": {
+      "Brand": "MCS",
+      "Color": "Multicolor",
+      "Product Dimensions": "3\"L x 2\"W",
+      "Shape": "Rectangular",
+      "Mounting Type": "Tabletop",
+      "Frame Type": "Poster Frame",
+      "Frame Material": "Wood",
+      "Finish Type": "Honey, Mahogany",
+      "Theme": "Wood",
+      "Occasion": "Wedding",
+      "Special Feature": "Easel Back",
+      "Number of Items": "24",
+      "Target Audience": "Unisex Adult",
+      "Item Weight": "2.5 pounds",
+      "Unit Count": "1.0 Count",
+      "Manufacturer": "MCS Industries",
+      "Item model number": "40650",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2868342,
+        "Wall & Tabletop Picture Frames": 19503
+      },
+      "Finish types": "Honey, Mahogany",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Included Components": "Display containing 24 frames"
+    },
+    "parent_asin": "B000M8ZJOC",
+    "bought_together": null
+  }
+}

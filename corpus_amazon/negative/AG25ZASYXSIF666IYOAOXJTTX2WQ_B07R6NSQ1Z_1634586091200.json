@@ -1,0 +1,45 @@
+{
+  "id": "AG25ZASYXSIF666IYOAOXJTTX2WQ_B07R6NSQ1Z_1634586091200",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Don’t buy",
+  "text": "Don’t buy. While it works well when it works, it gets lost and stuck (for no apparent reason) regularly. Because there is no app connection, you have to crawl around on the floor until you find which piece of furniture it is under. Every. Day.",
+  "asin": "B07R6NSQ1Z",
+  "parent_asin": "B07R6NSQ1Z",
+  "user_id": "AG25ZASYXSIF666IYOAOXJTTX2WQ",
+  "timestamp": 1634586091200,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Car Electronics",
+    "title": "iRobot Roomba 805 Cleaning Vacuum Robot (Renewed) with Virtual Wall Barrier",
+    "average_rating": 3.7,
+    "rating_number": 46,
+    "features": [
+      "-iAdapt Navigation uses a full suite of sensors to navigate and adapt to your changing home -AeroForce 3-Stage Cleaning System delivers up to 50% more cleaning performance",
+      "-Tangle-free extractors help prevent hair and debris clogs -AeroForce High-Efficiency Filter captures up to 99% of allergens, pollen, and particles as small as 10 microns",
+      "-Conveniently schedule up to 7x per week, or just press CLEAN on the robot -Automatically docks and recharges",
+      "-Avoids stairs and other drop-offs -Automatically adjusts to all floor types - carpet, tile, hardwood, laminate & more -Two Dual Mode Virtual Wall Barriers manage where your robot cleans",
+      "-Lithium Ion Battery delivers up to 3x the battery cycle lifetime -3.6\" low profile cleans under furniture, beds and kickboards"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Amazon Renewed",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuums",
+      "Robotic Vacuums"
+    ],
+    "details": {
+      "Brand": "IRobot",
+      "Surface Recommendation": "Hard Floor, Carpet",
+      "Special Feature": "Tangle free",
+      "Color": "Black",
+      "Controller Type": "Button Control"
+    },
+    "parent_asin": "B07R6NSQ1Z",
+    "bought_together": null
+  }
+}

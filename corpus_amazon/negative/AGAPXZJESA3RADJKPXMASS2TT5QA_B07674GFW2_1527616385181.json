@@ -1,0 +1,60 @@
+{
+  "id": "AGAPXZJESA3RADJKPXMASS2TT5QA_B07674GFW2_1527616385181",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Really ?",
+  "text": "Really ?. How is this even acceptable? Broken in the box and Unrepairable!",
+  "asin": "B06X9DCL8V",
+  "parent_asin": "B07674GFW2",
+  "user_id": "AGAPXZJESA3RADJKPXMASS2TT5QA",
+  "timestamp": 1527616385181,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Lenox Holidays Tree Golden Snowglobe",
+    "average_rating": 3.7,
+    "rating_number": 16,
+    "features": [
+      "Crafted of aluminum and glass",
+      "Gold finish",
+      "Snow floats within in water globe when shook",
+      "Gift boxed",
+      "4.63 inches in height",
+      "Gift boxed"
+    ],
+    "description": [
+      "The Tree Golden Snowglobe features a beautifully decorated Christmas Tree. This elegant gold tree surrounded by a clear glass dome and floating snow sits on a gold metal base. A timeless keepsake for the holidays."
+    ],
+    "price": null,
+    "store": "Lenox",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Snow Globes"
+    ],
+    "details": {
+      "Brand": "Lenox",
+      "Material": "Aluminum, Glass",
+      "Color": "Gold",
+      "Item Dimensions LxWxH": "4 x 4 x 4.6 inches",
+      "Style": "Tree",
+      "Item Weight": "1 pounds",
+      "Operation Mode": "Manual",
+      "Base Material": "Metal base",
+      "Product Dimensions": "4 x 4 x 4.6 inches",
+      "Manufacturer": "Lenox",
+      "Item model number": "871172",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 3155793,
+        "Snow Globes": 1788
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "February 23, 2017"
+    },
+    "parent_asin": "B07674GFW2",
+    "bought_together": null
+  }
+}

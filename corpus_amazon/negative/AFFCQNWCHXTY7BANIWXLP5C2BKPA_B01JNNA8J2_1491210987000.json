@@ -1,0 +1,63 @@
+{
+  "id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA_B01JNNA8J2_1491210987000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Can't Recommend At All",
+  "text": "Can't Recommend At All. Toxic coating inside. Mildew smell outside. Too floppy to work well.",
+  "asin": "B01JNNA8J2",
+  "parent_asin": "B01JNNA8J2",
+  "user_id": "AFFCQNWCHXTY7BANIWXLP5C2BKPA",
+  "timestamp": 1491210987000,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OrganizerLogic Burlap Storage Organizer Basket - Heavy Duty Storage Basket - Perfect Storage Jute Basket for Laundry, Shoes and Kids Toys - 17\" x 13\" x 13\"",
+    "average_rating": 4.3,
+    "rating_number": 514,
+    "features": [
+      "STAY ORGANIZED: Keep your kitchen, bedroom, and laundry organized with jute baskets. 17”L x 13”W x 10”H large baskets help organize snacks, shoes, crafts, kids toys, dog toys, and laundry.",
+      "REDUCE CLUTTER: Fabric storage bins make organizing easy and keep your belongings out of sight. Store pillows, blankets, linen, games, and books.",
+      "EASY TO CARRY: Lightweight jute storage bins with reinforced burlap handles allow you to carry your load easier. Wire-rimmed edges add form and stability. Wipes clean.",
+      "KEEP YOUR ITEMS CLEAN AND DIRT OUT: Waterproof plastic liner keeps dirt out and inner items clean and dry. Excellent for closets, playroom, nursery, and groceries in the car.",
+      "EASY ACCESS: Open top keeps your belongings organized and accessible Collapsible baskets allow you to store them easily when not in use. Folds to 2\" height."
+    ],
+    "description": [],
+    "price": null,
+    "store": "OrganizerLogic",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Laundry Baskets"
+    ],
+    "details": {
+      "Product Dimensions": "17\"L x 13\"W x 10\"H",
+      "Brand": "OrganizerLogic",
+      "Color": "Beige Storage",
+      "Material": "Cotton",
+      "Style": "Modern",
+      "Special Feature": "Lightweight,Waterproof",
+      "Shape": "Round",
+      "Package Information": "Basket",
+      "Included Components": "Blankets",
+      "Size": "Large",
+      "Number of Pieces": "1",
+      "Number of Compartments": "1",
+      "Mounting Type": "Floor Mount",
+      "Item Weight": "8.8 ounces",
+      "Manufacturer": "OrganizerLogic",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1470787,
+        "Laundry Baskets": 1207
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B01JNNA8J2",
+    "bought_together": null
+  }
+}

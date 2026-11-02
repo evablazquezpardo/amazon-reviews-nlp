@@ -1,0 +1,47 @@
+{
+  "id": "AGCUONI7ZAZ4SCQWIUQCV7LRU7VQ_B004LF8TSA_1438885338000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Looks and feels cheap and flimsy",
+  "text": "Looks and feels cheap and flimsy. Very cheaply made. The bottom piece is especially rickety.",
+  "asin": "B004LF8TSA",
+  "parent_asin": "B004LF8TSA",
+  "user_id": "AGCUONI7ZAZ4SCQWIUQCV7LRU7VQ",
+  "timestamp": 1438885338000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Home Basics ST01034 Serving Tray, Bamboo",
+    "average_rating": 4.2,
+    "rating_number": 594,
+    "features": [
+      "Bamboo serving tray is perfect for outdoor dining and decorative serving",
+      "Bamboo construction is simplistic and natural",
+      "Includes handles for easy mobility; 2.25-Inch by 11.5-Inch by 17-inch",
+      "Package dimensions : 2.25 inches (H) x 17.0 inches (L) x 11.5 inches (W)"
+    ],
+    "description": [],
+    "price": 18.75,
+    "store": "Home Basics",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware",
+      "Serveware",
+      "Serving Dishes, Trays & Platters",
+      "Serving Trays"
+    ],
+    "details": {
+      "Brand": "Home Basics",
+      "Color": "Bamboo",
+      "Material": "Bamboo",
+      "Product Dimensions": "17\"L x 11.5\"W x 2.5\"H",
+      "Shape": "Rectangular"
+    },
+    "parent_asin": "B004LF8TSA",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "AHIP7ZFRI55JRNAHI6FQRKW72JWA_B0787DD3RX_1568376309053",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not a good product",
+  "text": "Not a good product. Not a good product, they leak and mold",
+  "asin": "B0787DD3RX",
+  "parent_asin": "B0787DD3RX",
+  "user_id": "AHIP7ZFRI55JRNAHI6FQRKW72JWA",
+  "timestamp": 1568376309053,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ontel Arctic Personal Air Cooler, White",
+    "average_rating": 3.1,
+    "rating_number": 8155,
+    "features": [
+      "Personal Space Cooler that Lets You Create Your Own Personal Comfort Zone. NOTE: Kindly refer the user manual before usage of the product.",
+      "Cools, Humidifies, and Purifies for Better Air!",
+      "Easy-Fill Water Tank Lasts Up to 8 Hours! Freon Free, Energy Efficient &",
+      "Compact & Powerful & Ultra-Quiet Operation",
+      "Built-In LED Mood Light – 7 Different Colors with Color-Cycle Option.Once turned on, Arctic Air can cool a 45 sq. ft. area"
+    ],
+    "description": [
+      "Enjoy Cool, Clean Air…Anywhere! Introducing Arctic Air: The powerful, compact personal air cooler that pulls warm air from the room through its evaporative water filter to fill any space with cool, clean comfortable air! Arctic Air cools, humidifies, and purifies for better air! Simply fill with water, plug it into any standard wall outlet or USB port and enjoy! It runs up to 8 hours per fill! Arctic Air is an evaporative air cooler that allows you to create your own personal climate! The whisper-quiet fan and soothing night light make it perfect to use throughout the night for a comfortable sleep! The built-in LED mood light can be set to any of its 7 color option, set to color-cycle mode or turned off with the touch of a button! Running other air conditioners all day long can cost a lot of money and take up so much space! Some of them even have to vent out a window, making it very inconvenient. Arctic Air sleek compact design fits nicely on your desk, nightstand or coffee table – wherever you need it! It’s great for dens, reading nooks, work, dorm rooms, offices, home offices, campers, work spaces, benches, basements, garages and more! It’s lightweight & even convenient for travel! Great for outdoors too! It’s not just safe to use but energy efficient !This personal space air cooler actually cools the air around you, where you need it most, while using the size and power consumption of a small fan!"
+    ],
+    "price": 37.99,
+    "store": "Ontel",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Conditioners"
+    ],
+    "details": {
+      "Brand": "Ontel",
+      "Mounting Type": "Freestanding",
+      "Special Feature": "Filter",
+      "Color": "White",
+      "Controls Type": "Button",
+      "Reservoir Capacity": "500 Milliliters",
+      "Floor Area": "45 Square Feet",
+      "Item Weight": "1.24 Kilograms",
+      "Model Name": "Arctic Air",
+      "Form Factor": "Personal Air Cooler,Window",
+      "Included Components": "USB Wall Adapater & Cord, Arctic Air™, Replaceable Evaporative Cooler, Easy Instruction Guide",
+      "Wattage": "10 watts",
+      "Product Dimensions": "7.95\"D x 7.95\"W x 10\"H",
+      "Manufacturer": "ONTEL PRODUCTS CORP",
+      "Item model number": "AA-MC4",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 660487,
+        "Evaporative Coolers": 19,
+        "Room Air Conditioners": 689
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B0787DD3RX",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "AFZEVJIUV62VQINN7P72BAUSJI7A_B081BB9S85_1646248365096",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Ok",
+  "text": "Ok. Too small",
+  "asin": "B07NC4FCYS",
+  "parent_asin": "B081BB9S85",
+  "user_id": "AFZEVJIUV62VQINN7P72BAUSJI7A",
+  "timestamp": 1646248365096,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rubbermaid Easy Find Lids 7-Cup Food Storage and Organization Container, Racer Red",
+    "average_rating": 4.7,
+    "rating_number": 5337,
+    "features": [
+      "Disclaimer: Only 3C, 5C & 7C Containers contain vented lid",
+      "Built-in vent for splatter-resistant microwaving",
+      "Lids snap together at bases to reduce clutter",
+      "BPA free, microwave safe and dishwasher safe",
+      "Thick, durable container walls for everyday use",
+      "Includes 1 7-cup food storage container and lid",
+      "Includes one 7-cup food storage container and lid"
+    ],
+    "description": [
+      "Easily store food while minimizing clutter around your kitchen using Rubbermaid Food Storage Containers with Easy Find Lids. Featuring a new built-in vent for splatter-resistant microwaving, these meal prep containers are easy to organize and help conserve space in your cabinets. The lids snap to each other and to the bottom of the containers and have a bright red color, helping ensure that they are always easy to find. Constructed from durable, BPA-free plastic, these food containers are built to withstand a wide range of temperatures and are dishwasher, microwave, and freezer safe. Thanks to their clear bases, it's easy to see the contents of any container."
+    ],
+    "price": 6.22,
+    "store": "Rubbermaid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Food Storage",
+      "Food Containers",
+      "Containers"
+    ],
+    "details": {
+      "Manufacturer": "Rubbermaid",
+      "Part Number": "2030330",
+      "Item Weight": "4.6 ounces",
+      "Product Dimensions": "7.06 x 7.06 x 4.69 inches",
+      "Country of Origin": "USA",
+      "Item model number": "2030330",
+      "Is Discontinued By Manufacturer": "No",
+      "Size": "1 Count (Pack of 1)",
+      "Color": "Red",
+      "Style": "7-Cup Container",
+      "Material": "Plastic",
+      "Shape": "Square",
+      "Item Package Quantity": "1",
+      "Number Of Pieces": "2",
+      "Included Components": "(1) 7.0C",
+      "Batteries Included?": "No",
+      "Batteries Required?": "No",
+      "Warranty Description": "Warranty",
+      "Capacity": "1.6 Liters",
+      "Volume": "7 Cups",
+      "Units": "1.0 Count",
+      "Number of Sets": "1",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 3680,
+        "Individual Household Food Containers": 6
+      },
+      "Date First Available": "July 11, 2009",
+      "Brand": "Rubbermaid",
+      "Material Feature": "BPA Free"
+    },
+    "parent_asin": "B081BB9S85",
+    "bought_together": null
+  }
+}

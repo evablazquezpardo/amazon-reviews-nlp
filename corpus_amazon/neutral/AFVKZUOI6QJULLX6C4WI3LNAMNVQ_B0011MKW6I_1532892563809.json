@@ -1,0 +1,64 @@
+{
+  "id": "AFVKZUOI6QJULLX6C4WI3LNAMNVQ_B0011MKW6I_1532892563809",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Won’t repurchase!",
+  "text": "Won’t repurchase!. This works good for a house with a dog that doesn’t shed much. I started using this in between daily vacuuming",
+  "asin": "B0011MKW6I",
+  "parent_asin": "B0011MKW6I",
+  "user_id": "AFVKZUOI6QJULLX6C4WI3LNAMNVQ",
+  "timestamp": 1532892563809,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "iRobot Roomba 510 Vacuuming Robot",
+    "average_rating": 3.7,
+    "rating_number": 60,
+    "features": [
+      "Vacuuming robot picks up dirt and debris with the touch of a button",
+      "Easy-to-empty bagless dustbin; fine-filtration system traps allergens",
+      "Anti-tangle technology; gentle-touch bumper system; built-in cliff sensors",
+      "1 Virtual Wall, extra filter, and more included",
+      "Measures 16-3/4 by 21 by 5 inches; 1-year limited warranty"
+    ],
+    "description": [
+      "With its updated cleaning system and coverage patterns, the Roomba 510 vacuuming robot picks up amazing amounts of dirt and debris with the simple touch of a button. The powerful unit features innovative spinning side brushes that grab dirt and dust from corners and along wall edges, as well as high-speed, counter-rotating brushes that pick up pet hair, cat litter, food crumbs, and other debris from floors. The vacuum sucks up the debris and deposits it into a large, easy-to-empty, bagless dust bin, and its improved filtration system traps dust, pollen, and other allergens inside the unit.",
+      "For added convenience, the vacuum's cleaning head automatically adjusts to transition from wood, tile, and linoleum to carpets and rugs, while improved anti-tangle technology ensures it won't get stuck on cords and rug fringe. If the unit begins to pick up a cord or carpet tassel, it will automatically reverse the direction of its brushes to extract the item. A gentle-touch bumper system senses obstacles so the vacuum automatically slows its approach, gently touches the obstacle, then redirects to continue cleaning under or around the object. Because it cleans under beds, couches, and other hard-to-reach areas, it actually vacuums more of the floor than a standard upright. The vacuum also senses dirtier areas and spends more time cleaning them, and it uses built-in cliff sensors to avoid stairs and other drop-offs. In addition, invisible barriers can be set using the unit's Virtual Wall system (requires two D batteries). To mark off-limit areas, simply place a Virtual Wall at a doorway or other opening and adjust the infrared beam setting to the distance of the opening. The unit automatically detects the beam and will not cross it."
+    ],
+    "price": null,
+    "store": "iRobot",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuums",
+      "Robotic Vacuums"
+    ],
+    "details": {
+      "Brand": "IRobot",
+      "Surface Recommendation": "Walls,Carpets,Floor,Hard Floors",
+      "Special Feature": "Tangle free, Bagless and Extra filter",
+      "Color": "White",
+      "Controller Type": "Button Control",
+      "Filter Type": "Cartridge",
+      "Item Weight": "11 pounds",
+      "Power Source": "Battery Powered",
+      "Are Batteries Included": "No",
+      "Control Method": "Touch",
+      "Compatible Devices": "Amazon Echo",
+      "Form Factor": "Upright",
+      "Product Dimensions": "16 x 17 x 5 inches",
+      "Manufacturer": "iRobot",
+      "Language": "English",
+      "Item model number": "51102",
+      "Is Discontinued By Manufacturer": "No",
+      "Specific instructions for use": "Hardwood, Tile, Linoleum and Carpet",
+      "Warranty Description": "1 year.",
+      "Batteries required": "Yes",
+      "Import": "Made in USA or Imported"
+    },
+    "parent_asin": "B0011MKW6I",
+    "bought_together": null
+  }
+}

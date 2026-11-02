@@ -1,0 +1,60 @@
+{
+  "id": "AFVKZUOI6QJULLX6C4WI3LNAMNVQ_B01KAS7T7I_1531572932144",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Wouldn’t recommend",
+  "text": "Wouldn’t recommend. We returned this product. I had high hopes with a KitchenAid but didn’t work well at all.",
+  "asin": "B01K4NLM72",
+  "parent_asin": "B01KAS7T7I",
+  "user_id": "AFVKZUOI6QJULLX6C4WI3LNAMNVQ",
+  "timestamp": 1531572932144,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KitchenAid KCO253CU 12-Inch Compact Convection Countertop Oven - Contour Silver",
+    "average_rating": 4.3,
+    "rating_number": 522,
+    "features": [
+      "Compact footprint preheats faster and uses less energy than a full-size oven",
+      "Convection cooking produces circulating heat for outstanding results",
+      "2 reversible racks offer the flexibility of 6 height options, so you can cook anything from a whole chicken to multiple sheets of brownies",
+      "4 hour 'stay on' option for warming or slow roasting - automatically shuts off when cycle ends",
+      "Easy to clean, non-stick interior. Dimensions(Inches)-16.7 X 17.7 X 11.3. Weight -20. Knobs: Soft Grip",
+      "There are small amounts of variation in door gap from side to side and this will not be perfectly the same dimension all the time. There is a thickness difference by design from the controls to the door surface, so they will not be flush."
+    ],
+    "description": [
+      "Enjoy fast, fresh dishes with full-size oven performance on your countertop. The KitchenAid Compact Oven boasts convection cooking and 4 pre-set functions, ensuring outstanding results on anything from roasted meats, fish and vegetables, to quiche, pizza, muffins and more."
+    ],
+    "price": null,
+    "store": "KitchenAid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Ovens & Toasters"
+    ],
+    "details": {
+      "Brand": "KitchenAid",
+      "Color": "Contour Silver",
+      "Wattage": "1440 watts",
+      "Material": "Stainless Steel",
+      "Control Type": "Knob",
+      "Included Components": "Countertop Oven, 2 racks",
+      "Item Weight": "17.2 pounds",
+      "Finish Type": "Painted",
+      "Product Dimensions": "16.7 x 17.7 x 11.3 inches",
+      "Manufacturer": "KitchenAid",
+      "Item model number": "KCO253CU",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 325604,
+        "Ovens & Toasters": 1180
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "August 10, 2016"
+    },
+    "parent_asin": "B01KAS7T7I",
+    "bought_together": null
+  }
+}

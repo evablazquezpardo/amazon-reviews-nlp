@@ -1,0 +1,56 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B079TK4NYC_1641665668054",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "As expected",
+  "text": "As expected. As expected",
+  "asin": "B01G6411CY",
+  "parent_asin": "B079TK4NYC",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1641665668054,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mk Collection Twin Size 100% Long Staple Brushed Microfiber Comfortable Pleated Bed-Skirt Solid Navy Blue New",
+    "average_rating": 4.4,
+    "rating_number": 3420,
+    "features": [
+      "100% Microfiber super soft bedskirt",
+      "14\" drop",
+      "solid color",
+      "Easy Care: Machine wash cold, tumble dry low"
+    ],
+    "description": [
+      "Mk Home brings you luxury 100% Brushed Microfiber Bed Skirts at an affordable price! MK Bed Skirts are made from 100% Brushed Microfiber for elegant draping and easy care. Fabric is mercerized for longevity and pre-shrunk for shape retention. It gives your bedroom a sleek, luxuries and stylish look. The 14 inch drop conceals your box spring and bed frame, creating a unified and contemporary look. The mitered corners and side pleats make for a neat and tailored look. Bed skirt are machine washable for quick cleaning. This bed skirt is available in multiple sizes and colors letting you choose the one that can best suits your bedroom's interiors and fits your bed."
+    ],
+    "price": 9.99,
+    "store": "MK Home",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Bed Skirts"
+    ],
+    "details": {
+      "Color": "Navy Blue",
+      "Size": "Twin",
+      "Material": "Microfiber",
+      "Brand": "MK Home",
+      "Pattern": "Solid",
+      "Fabric Type": "Brushed Microfiber",
+      "Drop Length": "14 Inches",
+      "Product Dimensions": "8.9 x 6.42 x 3.31 inches",
+      "Item Weight": "12 ounces",
+      "Manufacturer": "MK Home",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 83161,
+        "Bed Skirts": 71
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 25, 2016"
+    },
+    "parent_asin": "B079TK4NYC",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "AFEMVUNGJXKV5HA463WSDY4I2K7Q_B08KQSNK85_1568326078329",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Only so-so.",
+  "text": "Only so-so.. Constantly have to be resharpened. I wouldn't really call them steak knives.",
+  "asin": "B007XLLLE8",
+  "parent_asin": "B08KQSNK85",
+  "user_id": "AFEMVUNGJXKV5HA463WSDY4I2K7Q",
+  "timestamp": 1568326078329,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Farberware 4 Piece Steak Knives with Plastic Handles, 4.5\", Black",
+    "average_rating": 4.4,
+    "rating_number": 840,
+    "features": [
+      "High carbon stainless steel blades",
+      "Triple riveted handle",
+      "Properly weighted for balance and control",
+      "Hand wash only"
+    ],
+    "description": [
+      "High carbon stainless steel blades.Triple riveted handle.Properly weighted for balance and control.Hand wash only.."
+    ],
+    "price": null,
+    "store": "Farberware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Flatware Sets",
+      "Steak Sets"
+    ],
+    "details": {
+      "Blade Material": "Stainless Steel",
+      "Brand": "Farberware",
+      "Color": "Black",
+      "Handle Material": "Stainless Steel,Plastic",
+      "Blade Edge": "Plain",
+      "Blade Length": "4.5 Inches",
+      "Is Dishwasher Safe": "No",
+      "Number of Pieces": "1",
+      "Product Dimensions": "0.78 x 0.86 x 12.2 inches",
+      "Item Weight": "5.9 ounces",
+      "Manufacturer": "Lifetime Brands Inc",
+      "Item model number": "5075356",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 280123,
+        "Steak Knife Sets": 679
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 26, 2012"
+    },
+    "parent_asin": "B08KQSNK85",
+    "bought_together": null
+  }
+}

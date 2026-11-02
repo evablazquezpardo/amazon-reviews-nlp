@@ -1,0 +1,57 @@
+{
+  "id": "AFJNVGGMMQAIDULOVPTR2MPBEIMQ_B01HSFHGLA_1568236647846",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Awful!",
+  "text": "Awful!. It leaked, the first time we used it!<br /><br />It is impossible to get a soap dispenser at Amazon, that doesn't leak.<br /><br />I think I've solved the problem. I will buy the product at a dollar store!",
+  "asin": "B01HSFHGLA",
+  "parent_asin": "B01HSFHGLA",
+  "user_id": "AFJNVGGMMQAIDULOVPTR2MPBEIMQ",
+  "timestamp": 1568236647846,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Foaming Hand Soap Dispenser (3 pk) Soap Foam Dispenser Durable (8.5 oz) Plastic Soap Dispenser- Refillable and Eco Friendly Pump for use in Bathroom and Kitchen - Parker Eight Clear",
+    "average_rating": 4.5,
+    "rating_number": 2944,
+    "features": [
+      "- EASY TO USE: Primarily used with Castile soap. Enhance your hand-washing time by adding water with liquid soap to the pump dispenser for a nice foam effect experience.",
+      "- LESS WASTE: Instead of throwing away your empty soap containers, you can refill this eco-friendly dispenser with liquid soap and water to reduce plastic waste!",
+      "- NON-TOXIC: Our soap dispensers are made of PET plastic and are completely toxin-free, meaning no harmful chemicals or toxins.",
+      "- PACK OPTIONS: Our soap dispenser bottles come in the options of a 3 and 6 pack in the case that you're looking to provide your family members the ease of finding them in spaces like bathrooms and kitchens.",
+      "- SATISFACTION GUARANTEE: We're confident with our foaming soap dispenser product so if you aren’t happy with your purchase, just send them back to us for a prompt and full refund."
+    ],
+    "description": [],
+    "price": null,
+    "store": "Parker Eight",
+    "categories": [
+      "Home & Kitchen",
+      "Bath",
+      "Bathroom Accessories",
+      "Holders & Dispensers",
+      "Dispensers",
+      "Countertop Soap Dispensers"
+    ],
+    "details": {
+      "Package Dimensions": "7.32 x 6.89 x 3.62 inches",
+      "Item Weight": "6.7 ounces",
+      "Manufacturer": "The Product Hatchery",
+      "Item model number": "8541788189",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 312119,
+        "Bathroom Countertop Soap Dispensers": 789
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 30, 2016",
+      "Color": "Clear",
+      "Material": "Plastic",
+      "Brand": "Parker Eight",
+      "Shape": "Hand",
+      "Number of Sets": "6"
+    },
+    "parent_asin": "B01HSFHGLA",
+    "bought_together": null
+  }
+}

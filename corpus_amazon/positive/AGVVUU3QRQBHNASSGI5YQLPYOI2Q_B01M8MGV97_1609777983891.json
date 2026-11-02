@@ -1,0 +1,63 @@
+{
+  "id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q_B01M8MGV97_1609777983891",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Beautiful colors",
+  "text": "Beautiful colors. Love the colors and seems to be well made.",
+  "asin": "B00I3LRPPG",
+  "parent_asin": "B01M8MGV97",
+  "user_id": "AGVVUU3QRQBHNASSGI5YQLPYOI2Q",
+  "timestamp": 1609777983891,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Levtex Home - Serendipity - Window Panels with Rod Pocket - Two Curtains 84 inch Length - Mandalas - Orange, Turquoise, Green, Red, Citron, Yellow, Blue - 100% Cotton - Lined",
+    "average_rating": 4.5,
+    "rating_number": 242,
+    "features": [
+      "100% Cotton",
+      "LEVTEX HOME SERENDIPITY COLLECTION: The Serendipity curtain two panel set complements the Serendipity bedding collection but can be used to accessorize any window in your home. These window panels feature a vibrant collection of overlapping mandalas in fun colors and will complement so many design choices.",
+      "THE SERENDIPITY DESIGN: One of our most popular collections, Serendipity is inspired by a collection of bohemian mandalas. It is the perfect accessory for any bedroom, family room, living room or den.",
+      "CONVENIENT LUXURY: Made from 100% Cotton, the Serendipity drape panels are easy to care for. Two 84 inch long drape panels included in purchase (55 inches wide).",
+      "COORDINATE YOUR HOME: Create a wonderful space with our coordinated Serendipity Collection. The design is versatile and will match a variety of different looks. You can also freshen your room with other items from the Levtex Home Collection."
+    ],
+    "description": [],
+    "price": 49.99,
+    "store": "Levtex Home",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Quilts & Sets",
+      "Quilt Sets"
+    ],
+    "details": {
+      "Brand": "Levtex Home",
+      "Material": "Cotton",
+      "Product Dimensions": "84\"L x 55\"W",
+      "Special Feature": "lined",
+      "Room Type": "NO",
+      "Style": "Bohemian",
+      "Pattern": "Geometric",
+      "Theme": "Floral",
+      "Top Style": "Rod Pocket",
+      "Size": "Set of 2 - Drape Panels 55x84",
+      "Included Components": "Liner",
+      "Age Range (Description)": "Adult",
+      "Number of Items": "2",
+      "Lining Description": "100% Cotton",
+      "Manufacturer": "Levtex",
+      "Country of Origin": "China",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 837905,
+        "Quilt Sets": 1516,
+        "Decorative Pillows, Inserts & Covers": 12097
+      },
+      "Fabric Type": "100% Cotton",
+      "Refill": "cotton"
+    },
+    "parent_asin": "B01M8MGV97",
+    "bought_together": null
+  }
+}

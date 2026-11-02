@@ -1,0 +1,61 @@
+{
+  "id": "AGCI7FAH4GL5FI65HYLKWTMFZ2CQ_B00563XRYM_1384912453000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "yay",
+  "text": "yay. happily loved by our 1 year old.  she makes funny noises at it and thinks its funny.  kids are amazing.",
+  "asin": "B00563XRYM",
+  "parent_asin": "B00563XRYM",
+  "user_id": "AGCI7FAH4GL5FI65HYLKWTMFZ2CQ",
+  "timestamp": 1384912453000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ikea Patrull Bathtub Mat, Crocodile Green",
+    "average_rating": 4.6,
+    "rating_number": 667,
+    "features": [
+      "Size: 13x35\"",
+      "Designer: Eva Lund green",
+      "Material is rubber",
+      "Hang to dry"
+    ],
+    "description": [
+      "Reduces the risk of your child slipping and getting hurt in the shower or tub. You can keep the mat clean and fresh longer by hanging it up to dry after you've used it. The holes in the mat are perfect for hanging."
+    ],
+    "price": 14.8,
+    "store": "IKEA",
+    "categories": [
+      "Home & Kitchen",
+      "Kids' Home Store",
+      "Kids' Bath",
+      "Kids' Bathroom Accessories",
+      "Kids' Bathtub Accessories"
+    ],
+    "details": {
+      "Material": "BPA Free, Phthalate Free, Latex Free, Lead Free",
+      "Color": "Green",
+      "Size": "1 BathMat",
+      "Brand": "IKEA",
+      "Item Weight": "1 Pounds",
+      "Shape": "Oval",
+      "Product Dimensions": "35\"L x 13\"W",
+      "Manufacturer": "Ikea",
+      "Item model number": "101.381.63",
+      "Best Sellers Rank": {
+        "Baby": 12976,
+        "Kids' Bathtub Accessories": 3,
+        "Baby & Child Care Products": 1386,
+        "Baby Care Products": 2706
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B00563XRYM",
+    "bought_together": null
+  }
+}

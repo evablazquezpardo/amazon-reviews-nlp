@@ -1,0 +1,61 @@
+{
+  "id": "AEOKAIB6OJVB5FRZGLEB3YAK5UBQ_B0BN29NQ24_1527350931478",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. so easy to clean",
+  "asin": "B00KXTHDCQ",
+  "parent_asin": "B0BN29NQ24",
+  "user_id": "AEOKAIB6OJVB5FRZGLEB3YAK5UBQ",
+  "timestamp": 1527350931478,
+  "helpful_vote": 0,
+  "verified_purchase": false,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "GreenPan Lima Hard Anodized Healthy Ceramic Nonstick 8QT Stock Pot with Lid, PFAS-Free, Oven Safe, Gray",
+    "average_rating": 4.6,
+    "rating_number": 2210,
+    "features": [
+      "Our Thermolon healthy ceramic nonstick heats evenly and cleans up easily every time",
+      "Manufactured without the use of PFAS, PFOA, lead, or cadmium so it won’t release toxic fumes, even when overheated",
+      "A hard anodized construction delivers both strength and scratch resistance",
+      "Tempered glass lids (oven safe up to 425°F) let you keep an eye on things without losing steam",
+      "Oven safe stainless steel handles are curved for easy gripping",
+      "Oven and broiler safe up to 600°F",
+      "Hand wash only"
+    ],
+    "description": [
+      "Crafted from tough, scratch-resistant hard anodized aluminum, the Lima Collection features the classics. Our signature healthy ceramic coating is as nonstick as they come (for easy food release and cleanup), all without PFAS, PFOA, lead, or cadmium. Perfect for big braises, seafood boils, and delicious stocks, this 8-quart stockpot and lid gives you plenty of room for everything."
+    ],
+    "price": null,
+    "store": "GreenPan",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Pots & Pans",
+      "Stockpots"
+    ],
+    "details": {
+      "Package Dimensions": "14.88 x 11.69 x 9.65 inches",
+      "Item Weight": "5.88 Pounds",
+      "Manufacturer": "GreenPan",
+      "Item model number": "CC003314-003",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 19394,
+        "Stockpots": 37,
+        "Saucepans": 43
+      },
+      "Date First Available": "August 12, 2021",
+      "Material": "Ceramic, PFAS Free Nonstick, Hard Anodized Aluminum, Stainless Steel Handles",
+      "Finish Type": "Non-Stick",
+      "Brand": "GreenPan",
+      "Color": "Gray",
+      "Capacity": "8 Quarts",
+      "Coating Description": "Ceramic"
+    },
+    "parent_asin": "B0BN29NQ24",
+    "bought_together": null
+  }
+}

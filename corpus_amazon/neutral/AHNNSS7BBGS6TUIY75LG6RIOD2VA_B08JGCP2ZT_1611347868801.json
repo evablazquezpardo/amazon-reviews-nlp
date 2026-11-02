@@ -1,0 +1,53 @@
+{
+  "id": "AHNNSS7BBGS6TUIY75LG6RIOD2VA_B08JGCP2ZT_1611347868801",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Meh...",
+  "text": "Meh.... Cheap looking and breaks easily and some had hooks missing or broken pieces",
+  "asin": "B08JGCP2ZT",
+  "parent_asin": "B08JGCP2ZT",
+  "user_id": "AHNNSS7BBGS6TUIY75LG6RIOD2VA",
+  "timestamp": 1611347868801,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "30ct Christmas Ball Ornaments, 2.36\" Shatterproof Christmas Tree Decorations, Perfect Hanging Ball for Indoor/Outdoor Holiday Wedding Party Decor (Blue-Silver-White)",
+    "average_rating": 4.2,
+    "rating_number": 88,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "ILLUMINEW",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Hanging Ornaments"
+    ],
+    "details": {
+      "Brand": "ILLUMINEW",
+      "Occasion": "Wedding, Christmas",
+      "Material": "Plastic",
+      "Theme": "Halloween,Christmas",
+      "Target Audience": "Adult",
+      "Included Components": "Hook",
+      "Shape": "Spherical",
+      "Mounting Type": "Hanging",
+      "Item Package Quantity": "1",
+      "Unit Count": "30.0 Count",
+      "Scent": "Unscented",
+      "Number of Pieces": "30",
+      "Package Dimensions": "12.13 x 6.26 x 6.22 inches",
+      "Item Weight": "10.2 ounces",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1417988,
+        "Christmas Ball Ornaments": 1026,
+        "Decorative Hanging Ornaments": 17384
+      }
+    },
+    "parent_asin": "B08JGCP2ZT",
+    "bought_together": null
+  }
+}

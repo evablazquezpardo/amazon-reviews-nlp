@@ -1,0 +1,64 @@
+{
+  "id": "AEYAEYTOPFSI52UJR57N5JNFY3RA_B07QNRNXRF_1581815741098",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Unhappy.",
+  "text": "Unhappy.. These are thin and cheap and the color chart is way off",
+  "asin": "B07QMP1C3C",
+  "parent_asin": "B07QNRNXRF",
+  "user_id": "AEYAEYTOPFSI52UJR57N5JNFY3RA",
+  "timestamp": 1581815741098,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Gilbins Cotton/Percale 210 Thread Count Set of 2 Soft Home Bedroom Pillowcases- Grey -Queen",
+    "average_rating": 4.3,
+    "rating_number": 143,
+    "features": [
+      "210-thread count 100% combed cotton percale An excellent everyday luxury, it’s perfect for every bed in your home",
+      "Choose from a fabulous array of colors to refresh your bed and match your decor",
+      "Wrinkle-resistant fabric provides a consistently luxurious look",
+      "Traditional, Original, Soft & Crisp, Breathable Percale Weave Pillowcases",
+      "Pillow sham sizes: Standard Sham (26\" x 20\"), Queen Sham (20” x 30”) King Sham (36\" x 20\")"
+    ],
+    "description": [
+      "Gilbins 210 Thread Count Pillow Case:200 thread Count Material: 80 percent cotton, 20 percent polyester Care: machine wash warm, no bleach; tumble dry low Give your bedding a luxurious look and feel with the Gilbins 210 -Thread Count Pillow Case. The cotton and polyester blend is soft and smooth to the touch. This Gilbins pillow case is of easy care fabric to just wash in the washing machine for added convenience. It comes in a conveniently sized two-pack and is available in multiple colors to help you quickly find the right one to match existing decor"
+    ],
+    "price": 17.95,
+    "store": "Gilbins",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Pillowcases"
+    ],
+    "details": {
+      "Brand": "Gilbins",
+      "Material": "Cotton",
+      "Size": "Queen",
+      "Product Dimensions": "30\"L x 20\"W",
+      "Color": "Grey",
+      "Closure Type": "Pull On",
+      "Product Care Instructions": "Machine Wash",
+      "Style": "Traditional",
+      "Pattern": "Solid",
+      "Number of Items": "2",
+      "Thread Count": "200",
+      "Age Range (Description)": "Adult",
+      "Fabric Type": "Polyester,cotton",
+      "Number of Sets": "1",
+      "Number of Pieces": "2",
+      "Item Weight": "7.4 ounces",
+      "Manufacturer": "GILBIN'S",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1264044,
+        "Bed Pillow Pillowcases": 1901
+      },
+      "Date First Available": "April 15, 2019"
+    },
+    "parent_asin": "B07QNRNXRF",
+    "bought_together": null
+  }
+}

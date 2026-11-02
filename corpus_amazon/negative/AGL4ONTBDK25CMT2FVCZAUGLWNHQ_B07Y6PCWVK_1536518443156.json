@@ -1,0 +1,58 @@
+{
+  "id": "AGL4ONTBDK25CMT2FVCZAUGLWNHQ_B07Y6PCWVK_1536518443156",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "never bought this item",
+  "text": "never bought this item. Never bought this item, so I can't review it but there it was waiting for a review  SORRY",
+  "asin": "B00X4PKY5Y",
+  "parent_asin": "B07Y6PCWVK",
+  "user_id": "AGL4ONTBDK25CMT2FVCZAUGLWNHQ",
+  "timestamp": 1536518443156,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Baking Mat, Round, Large Size, 17 3/4, Yellow",
+    "average_rating": 4.5,
+    "rating_number": 1129,
+    "features": [
+      "Fully sticks to countertop for rolling out dough",
+      "Perfect for rolling out pizza and pastries",
+      "Circles & squares with measurements: Imperial and metric",
+      "Durable and resistant: Up to 450°F (230°C)",
+      "German food grade approved"
+    ],
+    "description": [],
+    "price": 13.99,
+    "store": "BakeitFun",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Baking Tools & Accessories",
+      "Baking Mats"
+    ],
+    "details": {
+      "Material": "Fiberglass, Silicone",
+      "Size": "Large Round",
+      "Color": "Yellow",
+      "Brand": "BakeitFun",
+      "Number of Pieces": "1",
+      "Shape": "Round",
+      "Is Dishwasher Safe": "Yes",
+      "Product Dimensions": "16.5 x 0.07 x 11.6 inches",
+      "Item Weight": "2.89 ounces",
+      "Manufacturer": "BakeitFun",
+      "Item model number": "pastryround1",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 150077,
+        "Baking Mats": 402
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "November 30, 2018"
+    },
+    "parent_asin": "B07Y6PCWVK",
+    "bought_together": null
+  }
+}

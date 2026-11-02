@@ -1,0 +1,39 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B01HXTA1DG_1500570854311",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Beautiful, realistic plants.  Smaller than I expected, but work well.",
+  "asin": "B01HXTA1DG",
+  "parent_asin": "B01HXTA1DG",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1500570854311,
+  "helpful_vote": 2,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Luyue Four Kinds of Green Artificial Succulent Plants Aloe Lotus Agave Pack of 1pc (Style 3)",
+    "average_rating": 3.9,
+    "rating_number": 8,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Luyue",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Plants & Greenery"
+    ],
+    "details": {
+      "Brand": "Luyue",
+      "Plant or Animal Product Type": "Greenery",
+      "Item Weight": "0.22 Pounds",
+      "Item Package Quantity": "1",
+      "Unit Count": "1 Count"
+    },
+    "parent_asin": "B01HXTA1DG",
+    "bought_together": null
+  }
+}

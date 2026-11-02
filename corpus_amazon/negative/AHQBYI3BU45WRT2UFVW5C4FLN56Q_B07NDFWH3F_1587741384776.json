@@ -1,0 +1,57 @@
+{
+  "id": "AHQBYI3BU45WRT2UFVW5C4FLN56Q_B07NDFWH3F_1587741384776",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "It doesn't pick up",
+  "text": "It doesn't pick up. It doesn't pick up it's awful. I wouldn't buy this if it was a dollar.",
+  "asin": "B07J373S2F",
+  "parent_asin": "B07NDFWH3F",
+  "user_id": "AHQBYI3BU45WRT2UFVW5C4FLN56Q",
+  "timestamp": 1587741384776,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bissell Easy Sweep Compact Carpet & Floor Sweeper, 2484A, Teal",
+    "average_rating": 4.1,
+    "rating_number": 12744,
+    "features": [
+      "Multi Surface Cleaning – sweeps hair, dirt and other debris from area rugs, low carpet and hard floors",
+      "Cordless cleaning without the hassle of charging or batteries",
+      "Lightweight and Compact Design",
+      "Lays flat and includes storage loop in handle for hanging",
+      "Dual bottom-empty dirt bins and removable brush roll for easy emptying and maintenance"
+    ],
+    "description": [
+      "The Bissell easy sweep compact is the simple solution to your quick cleaning needs. This manual Sweeper has no motor, making it great for quick and quiet cleaning."
+    ],
+    "price": 20.59,
+    "store": "Bissell",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Sweepers & Accessories"
+    ],
+    "details": {
+      "Product Dimensions": "7.75 x 11 x 42 inches",
+      "Item Weight": "2.57 pounds",
+      "Manufacturer": "BISSELL",
+      "Country of Origin": "China",
+      "Item model number": "2484A",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 7163,
+        "Floor Sweepers & Accessories": 3
+      },
+      "Batteries required": "No",
+      "Brand": "Bissell",
+      "Color": "Teal",
+      "Surface Recommendation": "Surface Type: Area Rugs; Bare Floors; Carpet; Sealed Hard Floors; Low Pile Carpet",
+      "Item Dimensions LxWxH": "7.75 x 11 x 42 inches",
+      "Model Name": "Bissell Easy Sweep Compact Carpet & Floor Sweeper, 2484A",
+      "Style": "Sweeper Only"
+    },
+    "parent_asin": "B07NDFWH3F",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "AHTU4O4QDYDGUXW5ZO7OOYCTSXRA_B07897R4PX_1540691886876",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Get nike instead",
+  "text": "Get nike instead. Not worth the money",
+  "asin": "B074GNZT8L",
+  "parent_asin": "B07897R4PX",
+  "user_id": "AHTU4O4QDYDGUXW5ZO7OOYCTSXRA",
+  "timestamp": 1540691886876,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Under Armour Lunch Box, Check Point",
+    "average_rating": 4.8,
+    "rating_number": 2052,
+    "features": [
+      "Adjustable, molded rubber handle with easy to use side clip",
+      "IsoTec premium closed cell PE foam insulation",
+      "Exterior zippered and slit pockets, and interior mesh pocket for ample storage",
+      "Completely PVC Free; constructed of 420 Denier polyester",
+      "PEVA lining with UA embossed easy-clean liner"
+    ],
+    "description": [
+      "The ultimate sports performance brand, Under Armor, has teamed up with Thermos to bring you the ultimate in durable lunch coolers for the active lifestyle. Each cooler comes with an adjustable, ergonomic plastic molded handle as well as an easy-to-use side clip. Storage is never a problem with multiple pockets - zippered and mesh on the exterior - and one interior mesh pocket. The interior is comprised of a durable PEVA lining and a hard, Under Armor embossed easy-to-clean liner. This strong and sturdy liner is more than just easy to clean, it's also hygienic. Dimensions: 10 inches x 8.25 inches x 4 inches."
+    ],
+    "price": null,
+    "store": "THERMOS",
+    "categories": [],
+    "details": {
+      "Brand": "THERMOS",
+      "Color": "Check Point",
+      "Material": "Polyester",
+      "Package Information": "Box",
+      "Capacity": "3 Cubic Inches",
+      "Item Dimensions LxWxH": "4 x 10 x 8.25 inches",
+      "Item Weight": "0.5 Pounds",
+      "Special Feature": "Insulated",
+      "Included Components": "lunch cooler",
+      "Pattern": "Checkered",
+      "Team Name": "under armour",
+      "Chamber Height": "4 Inches",
+      "Product Dimensions": "4 x 10 x 8.25 inches",
+      "Manufacturer": "Thermos",
+      "Item model number": "K46463",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "June 8, 2016"
+    },
+    "parent_asin": "B07897R4PX",
+    "bought_together": null
+  }
+}

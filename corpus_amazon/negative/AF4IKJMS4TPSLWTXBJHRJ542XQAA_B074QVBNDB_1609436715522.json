@@ -1,0 +1,47 @@
+{
+  "id": "AF4IKJMS4TPSLWTXBJHRJ542XQAA_B074QVBNDB_1609436715522",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Not worth it.",
+  "text": "Not worth it.. Does not work as well as I thought it would. Gets stuck and it very hard to push down. I tried a potato and a tomato.",
+  "asin": "B074QVBNDB",
+  "parent_asin": "B074QVBNDB",
+  "user_id": "AF4IKJMS4TPSLWTXBJHRJ542XQAA",
+  "timestamp": 1609436715522,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "French Fry Cutter for Deep Fryer Air Fryer Potato Fries Cutter Natural Cut French Fry Cutter Rapid Slicer Vegetable Dicer Potato Tool Food Dicer Veggie Dicer Chopper Veg Chopper",
+    "average_rating": 3.0,
+    "rating_number": 167,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Killer's Instinct Outdoors",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Seasoning & Spice Tools",
+      "Choppers & Mincers",
+      "Choppers"
+    ],
+    "details": {
+      "Package Dimensions": "5.67 x 4.06 x 3.46 inches",
+      "Item Weight": "8.2 ounces",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 25, 2017",
+      "Brand": "Killer's Instinct Outdoors",
+      "Material": "Aluminum",
+      "Color": "White",
+      "Product Care Instructions": "Dishwasher Safe",
+      "Blade Material": "Stainless Steel",
+      "Blade Shape": "Square",
+      "Operation Mode": "Manual"
+    },
+    "parent_asin": "B074QVBNDB",
+    "bought_together": null
+  }
+}

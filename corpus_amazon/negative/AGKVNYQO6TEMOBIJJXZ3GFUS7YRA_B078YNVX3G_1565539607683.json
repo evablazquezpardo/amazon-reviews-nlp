@@ -1,0 +1,60 @@
+{
+  "id": "AGKVNYQO6TEMOBIJJXZ3GFUS7YRA_B078YNVX3G_1565539607683",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "description wasn't complete",
+  "text": "description wasn't complete. didn't' cut outside edge. sent back for a refund",
+  "asin": "B078YNVX3G",
+  "parent_asin": "B078YNVX3G",
+  "user_id": "AGKVNYQO6TEMOBIJJXZ3GFUS7YRA",
+  "timestamp": 1565539607683,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "ZYLISS MagiCan Manual Can Opener with Lid Release - Red",
+    "average_rating": 4.3,
+    "rating_number": 892,
+    "features": [
+      "Innovative and functional can opener",
+      "Powerful steel cutting wheel opens cans of all sizes",
+      "Hygienic design prevents lid from falling into food",
+      "Lid-release handles allow for safe disposal of can lids and keep hands clean",
+      "Simply wipe with a damp cloth to clean; 5 year"
+    ],
+    "description": [
+      "The Zyliss MagiCan manual can opener safely and efficiently opens cans of all sizes. Designed to cut around the side of the can, the MagiCan cleanly slices the lid from the can while eliminating sharp edges."
+    ],
+    "price": 11.95,
+    "store": "Zyliss",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Can Openers",
+      "Manual"
+    ],
+    "details": {
+      "Color": "Red",
+      "Material": "Plastic",
+      "Brand": "Zyliss",
+      "Size": "1 EA",
+      "Item Dimensions LxWxH": "2.17 x 3.54 x 8.46 inches",
+      "Item Weight": "3.2 ounces",
+      "Operation Mode": "Manual",
+      "Product Dimensions": "2.17 x 3.54 x 8.46 inches",
+      "Manufacturer": "Zyliss",
+      "Country of Origin": "China",
+      "Item model number": "E930035U",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 42635,
+        "Manual Can Openers": 112
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 11, 2018"
+    },
+    "parent_asin": "B078YNVX3G",
+    "bought_together": null
+  }
+}

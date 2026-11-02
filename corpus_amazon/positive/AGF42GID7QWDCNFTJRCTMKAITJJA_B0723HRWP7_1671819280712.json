@@ -1,0 +1,58 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B0723HRWP7_1671819280712",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "Awesome Product",
+  "text": "Awesome Product. I can now retire those old tooth brushes....these work great in the shower door and sliding glass door",
+  "asin": "B072M2FBZG",
+  "parent_asin": "B0723HRWP7",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1671819280712,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "2pcs Window Track Cleaning Brushes, Hand-held Groove Gap Cleaning Tools Door Track Kitchen Cleaning Brushes Set(Blue)",
+    "average_rating": 4.6,
+    "rating_number": 41,
+    "features": [
+      "Cleans Windows, Sliding Doors, Shower Door Tracks, and Much More",
+      "Designed To Fit Into Window, Sliding Door, Shower Door Tracks To Sweep Dirt Away",
+      "The Brush Sweeps Away Dirt, While The Scraper Dislodges Debris From Tight Corners",
+      "Elevated, Curved Hand;e Has Built-In Finger Grips For a Secure Hold",
+      "The Brush Itself Can Be Cleaned By Hand Washing With Dish Soap"
+    ],
+    "description": [
+      "This 2 in 1 Cleaning Brush Set Goes Where No Sponge Can Fit. Ultra-Thin Brush Effortlessly Fits Into and Cleans Window, Shower, and Sliding Door Tracks, and All The Other Teeny Crevices Where Dust and Dirt Accumulate. The Scraper End Loosens and Removes Caked On Grime and Soap Residue. Curved Handle Has Built-In Finger Grips For a Secure Hold."
+    ],
+    "price": 5.99,
+    "store": "Rienar",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Fruit & Vegetable Tools",
+      "Cleaning Brushes"
+    ],
+    "details": {
+      "Brand": "Rienar",
+      "Color": "Blue",
+      "Handle Material": "Plastic",
+      "Product Dimensions": "7.5\"L x 3.1\"W x 0.5\"H",
+      "Material": "Sponge",
+      "Surface Recommendation": "Door,Doors,Shower,Window,Windows",
+      "Number of Items": "2",
+      "Item Weight": "2.39 ounces",
+      "Manufacturer": "Rienar",
+      "Item model number": "R23-0111",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 2135,
+        "Fruit & Vegetable Cleaning Brushes": 12
+      },
+      "Date First Available": "January 11, 2023"
+    },
+    "parent_asin": "B0723HRWP7",
+    "bought_together": null
+  }
+}

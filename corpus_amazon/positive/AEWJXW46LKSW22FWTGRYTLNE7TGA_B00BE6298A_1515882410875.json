@@ -1,0 +1,56 @@
+{
+  "id": "AEWJXW46LKSW22FWTGRYTLNE7TGA_B00BE6298A_1515882410875",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Very pretty. Lightweight.",
+  "asin": "B00BE6298A",
+  "parent_asin": "B00BE6298A",
+  "user_id": "AEWJXW46LKSW22FWTGRYTLNE7TGA",
+  "timestamp": 1515882410875,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mulberry Glass Moroccan Style Lantern",
+    "average_rating": 4.2,
+    "rating_number": 106,
+    "features": [
+      "50%iron / 50%glass",
+      "Imported",
+      "Package Dimensions: 11.938 L x 23.622 H x 12.954 W (centimeters)",
+      "Country Of Origin: US",
+      "Package weight is 0.8 pounds"
+    ],
+    "description": [
+      "Dark Pink Glass Candle Lantern"
+    ],
+    "price": 25.64,
+    "store": "Accent Plus",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Candles & Holders",
+      "Candleholders",
+      "Decorative Candle Lanterns"
+    ],
+    "details": {
+      "Product Dimensions": "4.5 x 3.5 x 10.5 inches",
+      "Item Weight": "12 ounces",
+      "Manufacturer": "Gallery of Light",
+      "Item model number": "KOEHLER-15221",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 2002480,
+        "Decorative Candle Lanterns": 1523
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Fabric Type": "50%iron / 50%glass",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Import": "Imported"
+    },
+    "parent_asin": "B00BE6298A",
+    "bought_together": null
+  }
+}

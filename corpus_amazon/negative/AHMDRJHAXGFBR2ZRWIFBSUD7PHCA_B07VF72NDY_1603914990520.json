@@ -1,0 +1,46 @@
+{
+  "id": "AHMDRJHAXGFBR2ZRWIFBSUD7PHCA_B07VF72NDY_1603914990520",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "NOT THE SAME COLOR",
+  "text": "NOT THE SAME COLOR. Huge difference in color. Cheaply made, outsourced crud!",
+  "asin": "B07VJJP36H",
+  "parent_asin": "B07VF72NDY",
+  "user_id": "AHMDRJHAXGFBR2ZRWIFBSUD7PHCA",
+  "timestamp": 1603914990520,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "nestl Extra Deep Pocket Fitted Sheet - 4 Piece Sheet Set – Super Deep Pocket - Ultra Deep Pocket Sheets - Deep Fitted Sheets Set - 54 x 75 inches - Extra Deep Pocket Full Size Sheets – Calla Green",
+    "average_rating": 3.9,
+    "rating_number": 7,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Nestl",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Sheets & Pillowcases",
+      "Sheet & Pillowcase Sets"
+    ],
+    "details": {
+      "Package Dimensions": "11.1 x 9.84 x 3.54 inches",
+      "Item Weight": "3.02 pounds",
+      "Item model number": "NB214PC-F-calgrn",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 1919594,
+        "Sheet & Pillowcase Sets": 5709
+      },
+      "Date First Available": "December 20, 2019",
+      "Brand": "Nestl",
+      "Number of Pieces": "4",
+      "Included Components": "Pillowcase, Fitted Sheet",
+      "Unit Count": "1 Count"
+    },
+    "parent_asin": "B07VF72NDY",
+    "bought_together": null
+  }
+}

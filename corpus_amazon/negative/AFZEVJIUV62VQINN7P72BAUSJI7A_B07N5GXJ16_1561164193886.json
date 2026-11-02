@@ -1,0 +1,55 @@
+{
+  "id": "AFZEVJIUV62VQINN7P72BAUSJI7A_B07N5GXJ16_1561164193886",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Broken product",
+  "text": "Broken product. It came broken so that sucked",
+  "asin": "B07N5GFD8M",
+  "parent_asin": "B07N5GXJ16",
+  "user_id": "AFZEVJIUV62VQINN7P72BAUSJI7A",
+  "timestamp": 1561164193886,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "George Foreman 9-Serving Classic Plate Electric Grill and Panini Press, Silver, GR144 (Renewed)",
+    "average_rating": 4.3,
+    "rating_number": 9,
+    "features": [
+      "Family-Sized - Feed the whole family, with leftovers to spare! The 144 square inches of grilling surface lets you make up to nine servings at a time",
+      "George Tough Nonstick Coating - There’s a lot to love about this nonstick coating; it’s durable, easy to clean, and removes the need for butter and oil",
+      "Fat-Removing Slope -The sloped grilling surface helps remove up to 42% of fat for lean, tasty meats, slope removes up to 42% of fat from 1/4lb. 80/20 ground chuck",
+      "Drip Tray - The dishwasher-safe drip tray collects excess fat and grease so you don’t have to.Close the lid and plug cord into outlet. Allow grill to preheat for 5-8 minutes.To disconnect, remove plug from wall outlet",
+      "Ready Indicator Light - Indicator lights on the top of the grill let you know when it’s plugged in and when it’s ready to cook."
+    ],
+    "description": [
+      "This pre-owned or refurbished product has been professionally inspected and tested to work and look like new. How a product becomes part of Amazon Renewed, your destination for pre-owned, refurbished products: A customer buys a new product and returns it or trades it in for a newer or different model. That product is inspected and tested to work and look like new by Amazon-qualified suppliers. Then, the product is sold as an Amazon Renewed product on Amazon. If not satisfied with the purchase, renewed products are eligible for replacement or refund under the Amazon Renewed Guarantee."
+    ],
+    "price": null,
+    "store": "Amazon Renewed",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Small Appliances",
+      "Indoor Grills & Griddles",
+      "Electric Grills"
+    ],
+    "details": {
+      "Special Feature": "Electric",
+      "Color": "Silver",
+      "Material": "Metal",
+      "Brand": "George Foreman",
+      "Included Components": "Drip Tray, Stay-Cool Handle, George Foreman Gr144 144-Square-Inch Nonstick Family-Size Grill",
+      "Style": "Horizontal Storage with Fixed Hinge",
+      "Warranty Type": "90 days limited warranty",
+      "Product Dimensions": "20.75 x 7.75 x 15.12 inches",
+      "Item Weight": "9.38 pounds",
+      "Manufacturer": "Spectrum Brands",
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "January 27, 2019"
+    },
+    "parent_asin": "B07N5GXJ16",
+    "bought_together": null
+  }
+}

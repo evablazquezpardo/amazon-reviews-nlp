@@ -1,0 +1,43 @@
+{
+  "id": "AGEP2CC2QIJU5IHQZXCC7BE5JSDQ_B00015CEDU_1437339553000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Very nice. Excellent quality.",
+  "asin": "B00015CEDU",
+  "parent_asin": "B00015CEDU",
+  "user_id": "AGEP2CC2QIJU5IHQZXCC7BE5JSDQ",
+  "timestamp": 1437339553000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Waterford Eagle Collectible",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+      "Creatively designed with your needs in mind",
+      "Famous WATERFORD Brand",
+      "The perfect gift"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Waterford",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Collectible Figurines"
+    ],
+    "details": {
+      "Package Dimensions": "8.75 x 8.5 x 8 inches",
+      "Item Weight": "3.54 pounds",
+      "Manufacturer": "Waterford",
+      "Is Discontinued By Manufacturer": "No",
+      "Care instructions": "Machine Wash, Hand Wash Only"
+    },
+    "parent_asin": "B00015CEDU",
+    "bought_together": null
+  }
+}

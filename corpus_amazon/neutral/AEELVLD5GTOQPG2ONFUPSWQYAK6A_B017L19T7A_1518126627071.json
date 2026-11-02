@@ -1,0 +1,39 @@
+{
+  "id": "AEELVLD5GTOQPG2ONFUPSWQYAK6A_B017L19T7A_1518126627071",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Three Stars",
+  "text": "Three Stars. it's cheaply made and you can see the frame, but it's big and bright so overall worked for me",
+  "asin": "B017L19T7A",
+  "parent_asin": "B017L19T7A",
+  "user_id": "AEELVLD5GTOQPG2ONFUPSWQYAK6A",
+  "timestamp": 1518126627071,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Wintergreen Lighting 48\" LED Warm White Folding Star Motif",
+    "average_rating": 3.9,
+    "rating_number": 61,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "Wintergreen Lighting",
+    "categories": [
+      "Home & Kitchen",
+      "Seasonal Décor",
+      "Seasonal Lighting",
+      "Indoor String Lights"
+    ],
+    "details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Color": "Warm White",
+      "Brand": "Wintergreen Lighting",
+      "Theme": "Star",
+      "Light Color": "Warm White"
+    },
+    "parent_asin": "B017L19T7A",
+    "bought_together": null
+  }
+}

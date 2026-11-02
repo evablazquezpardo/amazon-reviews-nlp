@@ -1,0 +1,59 @@
+{
+  "id": "AFZEVJIUV62VQINN7P72BAUSJI7A_B071CLFTZT_1554237530635",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Average",
+  "text": "Average. Ok",
+  "asin": "B071CLFTZT",
+  "parent_asin": "B071CLFTZT",
+  "user_id": "AFZEVJIUV62VQINN7P72BAUSJI7A",
+  "timestamp": 1554237530635,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Bon Brasserie 20-Piece Stainless Steel Flatware Silverware Cutlery Set - Red in Petite Size, Include Knife/Fork/Spoon, Dishwasher Safe, Service for 4",
+    "average_rating": 4.1,
+    "rating_number": 299,
+    "features": [
+      "High grade 18/0 stainless steel, 1.5/1.2mm thickness, and matt polished. Finely made with a delightful classic handle, and comfortable to hold",
+      "Set includes 4 dinner knives( 21.2cm long), 4 dinner forks (19cm long), 4 dinner spoons (18.5cm long), 4 salad forks( 16cm long) and 4 teaspoons( 16cm long)",
+      "Dishwasher safe and rust-resistant. Care Instructions:The flatware set is dishwasher safe under a temperature of 60 Celsius (°C). For best results, do not leave the set soaking for a long period of time. Dry promptly after cleaning. Lemon detergent is not recommended as it may cause erosion.",
+      "Presented in a mail box, ideal for daily use, and also a good gift",
+      "10 Year Guarantee"
+    ],
+    "description": [],
+    "price": null,
+    "store": "bon",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Flatware Sets"
+    ],
+    "details": {
+      "Package Dimensions": "9 x 4.9 x 1.8 inches",
+      "Item Weight": "1.25 pounds",
+      "Item model number": "9603 Red",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 410903,
+        "Flatware Sets": 2319
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "April 19, 2017",
+      "Brand": "Bon",
+      "Number of Pieces": "20",
+      "Material": "Stainless Steel",
+      "Color": "Red",
+      "Product Care Instructions": "Dishwasher Safe",
+      "Special Feature": "Rust Resistant",
+      "Finish Type": "Polished",
+      "Is Stain Resistant": "Yes",
+      "Is Dishwasher Safe": "Yes"
+    },
+    "parent_asin": "B071CLFTZT",
+    "bought_together": null
+  }
+}

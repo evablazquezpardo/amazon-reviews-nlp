@@ -1,0 +1,37 @@
+{
+  "id": "AF7W2ZTO4P4TRCN5NZXVHPTU4PPA_B074HFHHPC_1533404536584",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not a very good product",
+  "text": "Not a very good product. I did not like the product because the pad did not form to the baseboard like it should have.  It was hard to handle",
+  "asin": "B074HFHHPC",
+  "parent_asin": "B074HFHHPC",
+  "user_id": "AF7W2ZTO4P4TRCN5NZXVHPTU4PPA",
+  "timestamp": 1533404536584,
+  "helpful_vote": 14,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Baseboard Genie",
+    "average_rating": 3.0,
+    "rating_number": 87,
+    "features": [],
+    "description": [
+      "Baseboard Genie - the easy way to clean your baseboards. Simply walk and guide to use. Use it for wet and dry everyday cleaning. Telescopic handle - use up high, or down low. Plush fibers grab dirt and dust. 180° rotation."
+    ],
+    "price": 16.99,
+    "store": "Tekno",
+    "categories": [],
+    "details": {
+      "Product Dimensions": "22.45 x 2.36 x 4.13 inches",
+      "Item Weight": "9 ounces",
+      "Item model number": "TEK224",
+      "Is Discontinued By Manufacturer": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B074HFHHPC",
+    "bought_together": null
+  }
+}

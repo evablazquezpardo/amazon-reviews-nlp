@@ -1,0 +1,36 @@
+{
+  "id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA_B07TWTMXM4_1613700332154",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Needs to be ironed a lot",
+  "text": "Needs to be ironed a lot. It's not wrinkle free it's easy to wash but lots of ironing ugh",
+  "asin": "B07TWTMXM4",
+  "parent_asin": "B07TWTMXM4",
+  "user_id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA",
+  "timestamp": 1613700332154,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "KEY SPRING Watercolor Flower Pattern Table Runner (12 X 72 inch) for Wedding Table Decor, Bridal Shower, Birthday Party, Housewarming Gift, Catering Events, Cotton & Linen",
+    "average_rating": 4.3,
+    "rating_number": 42,
+    "features": [
+      "Linen"
+    ],
+    "description": [],
+    "price": null,
+    "store": "KEY SPRING",
+    "categories": [],
+    "details": {
+      "Package Dimensions": "12.95 x 4.8 x 2.05 inches",
+      "Item Weight": "11.3 ounces",
+      "Fabric Type": "Linen, Cotton",
+      "Care instructions": "Do Not Bleach",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07TWTMXM4",
+    "bought_together": null
+  }
+}

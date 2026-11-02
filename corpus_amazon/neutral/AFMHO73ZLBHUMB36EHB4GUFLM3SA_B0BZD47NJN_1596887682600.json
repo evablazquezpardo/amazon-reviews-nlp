@@ -1,0 +1,66 @@
+{
+  "id": "AFMHO73ZLBHUMB36EHB4GUFLM3SA_B0BZD47NJN_1596887682600",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "It looks nice",
+  "text": "It looks nice. It was dropped and the packaging was smashed when it arrived but it seems to work okay. It was a gift or I would have never bought GE brand. THey are getting or have a terrible reputation for their appliances not lasting. We shall see.",
+  "asin": "B07D81476Q",
+  "parent_asin": "B0BZD47NJN",
+  "user_id": "AFMHO73ZLBHUMB36EHB4GUFLM3SA",
+  "timestamp": 1596887682600,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "LG 9,500 BTU DUAL Inverter Smart Window Air Conditioner, Cools 450 Sq. Ft., Ultra Quiet Operation, Up to 15% More Energy Savings, ENERGY STAR®, works with LG ThinQ, Amazon Alexa and Hey Google, 115V",
+    "average_rating": 4.4,
+    "rating_number": 1336,
+    "features": [
+      "Ultra Quiet Operation - Revolutionary DUAL Inverter technology gives powerful yet silent performance, operating at sound levels as low as 44dB in sleep mode.",
+      "25% More Enegy Efficient - The DUAL Inverter Compressors are up to 25% more energy efficient than the ENERGY STAR certification requirement, saving you energy and money.",
+      "Smart Phone Control - LG ThinQ App lets you control your air conditioner from anywhere using your smartphone, Google Assistant or Amazon Alexa.",
+      "Multiple Fan Speeds - 4 cooling and fan speeds with Auto Cool allows you to customize your cooling.",
+      "Cools Rooms Up to 450 Sq. Ft. - LW1019IVSM is ideal for cooling medium rooms (15 'X 30')."
+    ],
+    "description": [
+      "The LG Dual Inverter air conditioners are the best in cooling innovation. This ultra quiet unit operates at 44 dB in sleep mode, almost as quiet as a library. In addition, the DUAL Inverter technology allows the unit to operate efficiently saving you as much as 15% on energy costs. Cool your home from anywhere using LG ThinQ technology to control your air conditioner with your phone or use with Amazon Alexa and Hey Google to have control with the sound of your voice. 4 cooling and fan speeds and a 24 hour timer allow you to create a cooling schedule to suit your needs. 4-way air deflection lets the flow of air be directed where it's needed most whether cooling, dehumidifying or just circulating air. If there is a power outage, the auto restart feature will automatically turn your unit back on when power is restored. Other features include an LCD remote control, easy window installation kit, removable (washable) filter and a check filter alert."
+    ],
+    "price": 469.99,
+    "store": "LG",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Conditioners",
+      "Window"
+    ],
+    "details": {
+      "Product Dimensions": "19.6\"D x 24.5\"W x 12.5\"H",
+      "Item Weight": "63 pounds",
+      "Manufacturer": "LG",
+      "Country of Origin": "China",
+      "Item model number": "LW1019IVSM",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 26473,
+        "Window Air Conditioners": 7
+      },
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Warranty Description": "1 year parts and labor",
+      "Batteries required": "Yes",
+      "Included Components": "Air conditioner, manual, warranty, window curtain panels",
+      "Capacity": "4.5 Pints",
+      "Floor Area": "450 Square Feet",
+      "Voltage": "115 Volts",
+      "Noise Level": "58 dB",
+      "Brand": "LG",
+      "Cooling Power": "9500 British Thermal Units",
+      "Special Feature": "Wi-Fi Control",
+      "Energy Star": "1 Star",
+      "Seasonal Energy Efficiency Ratio (SEER)": "13.8",
+      "Color": "White"
+    },
+    "parent_asin": "B0BZD47NJN",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "AGBQJVEPMTXY4XKUXROG27XD5R6Q_B07XSGDWL7_1497800816595",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Stay away from this piece of junk",
+  "text": "Stay away from this piece of junk. Got clogged after a few months. Tried to fix it, but they use some weird screws so I couldn't open it. If this is deliberate to make people get a new coffee maker, I will do it, just not this brand.",
+  "asin": "B01FJPSLZQ",
+  "parent_asin": "B07XSGDWL7",
+  "user_id": "AGBQJVEPMTXY4XKUXROG27XD5R6Q",
+  "timestamp": 1497800816595,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mr. Coffee 12-Cup Programmable Coffee Maker, Bundle with 1 Month Water Filtration",
+    "average_rating": 4.4,
+    "rating_number": 2326,
+    "features": [
+      "Water filtration helps remove up to 97% of chlorine for better tasting coffee",
+      "Delay Brew timer lets you brew ahead of time, so you can wake up to fresh-brewed coffee",
+      "Freshness Timer keeps track of coffee freshness from the time it's brewed",
+      "Brew Strength Selector pumps up a stronger flavor if you like a bolder taste",
+      "2-Hour Shut Off automatically powers coffee maker down so you don't have to"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Mr. Coffee",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Coffee, Tea & Espresso",
+      "Coffee Makers",
+      "Coffee Machines"
+    ],
+    "details": {
+      "Brand": "Mr. Coffee",
+      "Capacity": "12 Cups",
+      "Color": "Stainless",
+      "Special Feature": "Timer, Programmable",
+      "Material": "Plastic"
+    },
+    "parent_asin": "B07XSGDWL7",
+    "bought_together": null
+  }
+}

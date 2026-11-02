@@ -1,0 +1,58 @@
+{
+  "id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q_B08FZZHMS4_1459882037000",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Wow",
+  "text": "Wow. This is so cool",
+  "asin": "B0031M9HJ4",
+  "parent_asin": "B08FZZHMS4",
+  "user_id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q",
+  "timestamp": 1459882037000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "NINESTARS DZT-50-9 Automatic Touchless Infrared Motion Sensor Trash Can, 13 Gal 50L, Stainless Steel Base (Oval, Silver/Black Lid)",
+    "average_rating": 4.4,
+    "rating_number": 13106,
+    "features": [
+      "【High Quality Materials】Water-resistant infrared motion sensor prevents moisture or any accidental spills from damaging the unit. Plus finger-print resistant stainless steel base helps keep the can clean.",
+      "【Advanced Technology】 Delay sensing technology preserves battery life and prevents any unnecessary opening from pets, children, or walking by. Soft closing function for longivity of product life.",
+      "【Touch-free Motion Sensor Lid Clouser】Seal odor in and eliminate cross-contamination of germs. Requires 3 C batteries (not included), Alkaline battery highly recommended for best performance.",
+      "【Ease and Convenient】Removable ring liner holds trash bag sturdy in place and prevents bag from overhanging for a neat and clean appearance. Use any standard trash bags or NINESTARS custom trash bags NSTB-13-30."
+    ],
+    "description": [
+      "This 13 Gal Stainless Steel touchless trash can is designed and engineered by NINESTARS, the world's first legal patent holder. With its sleek oval fingerprint-resistant design, it can be used in almost any place, such as the home, office, kitchen, bedroom, dorm room or a kid's room. This durable trash can uses the most advanced sensor technology which can be found in all Ninestars trash cans. Pass your hand or debris within ten inches or a 130° angle from the infrared sensor and the lid will automatically open. The lid will remain open if debris or hand remains within the range of the infrared sensor. Three seconds after your hand moves away from the lid, it will close automatically. Power lasts up to 6 months in normal daily usage. It includes a ring liner to keep trash bag from public view for a neat and clean appearance. Please note: The older version of this model accepted 4 D batteries but has been since discontinued. This model requires 3 C batteries to perform. (not included)"
+    ],
+    "price": 54.1,
+    "store": "Ninestars",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Trash, Recycling & Compost",
+      "Kitchen Trash Cans"
+    ],
+    "details": {
+      "Product Dimensions": "11.4 x 16.2 x 28.4 inches",
+      "Item Weight": "8.38 pounds",
+      "Manufacturer": "Fuzhou NaShiDa Electronic Co.",
+      "Country of Origin": "China",
+      "Item model number": "DZT-50-9",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 35022,
+        "Kitchen Waste Bins": 136
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Volume": "13 Gallons",
+      "Finish types": "Fingerprint-proof, Stainless steel",
+      "Number of pieces": "1",
+      "Warranty Description": "1-year limited warranty.",
+      "Batteries required": "Yes",
+      "Included Components": "1-Garbage Bag Ring",
+      "Import": "Imported"
+    },
+    "parent_asin": "B08FZZHMS4",
+    "bought_together": null
+  }
+}

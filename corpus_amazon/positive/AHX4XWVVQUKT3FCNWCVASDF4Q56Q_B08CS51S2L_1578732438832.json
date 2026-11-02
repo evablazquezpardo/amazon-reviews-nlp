@@ -1,0 +1,60 @@
+{
+  "id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q_B08CS51S2L_1578732438832",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Love it",
+  "text": "Love it. Perfect",
+  "asin": "B07HYZCBV5",
+  "parent_asin": "B08CS51S2L",
+  "user_id": "AHX4XWVVQUKT3FCNWCVASDF4Q56Q",
+  "timestamp": 1578732438832,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "OXO Good Grips Steady Paper Towel Holder",
+    "average_rating": 4.8,
+    "rating_number": 13799,
+    "features": [
+      "Convenient carrying knob for easy transport",
+      "Smooth rotation for effortless ripping",
+      "One-handed design for quick cleanup",
+      "Stainless steel construction complements any kitchen décor",
+      "Raised lip keeps even jumbo-sized rolls contained",
+      "Weighted non-slip base for extra stability"
+    ],
+    "description": [
+      "The last thing you want when cleaning up a spill to deal with an unwieldy paper towel roll. The OXO Good Grips Steady Paper Towel Holder is engineered for one-handed tearing, so you get precisely the amount you need, no matter the mess. Smooth rotation lets you rip on the run, and the raised lip keeps even jumbo-sized rolls contained. The weighted, non-slip base provides extra stability, while the sleek, stainless steel construction and built-in carrying knob fit in any room in your house."
+    ],
+    "price": 21.99,
+    "store": "OXO",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Paper Towel Holders"
+    ],
+    "details": {
+      "Product Dimensions": "8.1\"L x 7.8\"W",
+      "Item Weight": "1.94 Pounds",
+      "Manufacturer": "OXO",
+      "Country of Origin": "China",
+      "Item model number": "13245000",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 2030,
+        "Paper Towel Holders": 19,
+        "Graters, Peelers & Slicers": 31,
+        "Household Cleaning Brushes": 73
+      },
+      "Date First Available": "October 2, 2018",
+      "Material": "Stainless Steel",
+      "Color": "Gray",
+      "Brand": "OXO",
+      "Mounting Type": "Surface Mount"
+    },
+    "parent_asin": "B08CS51S2L",
+    "bought_together": null
+  }
+}

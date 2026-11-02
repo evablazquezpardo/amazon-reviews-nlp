@@ -1,0 +1,46 @@
+{
+  "id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA_B01I456BUK_1513823951062",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Five Stars",
+  "text": "Five Stars. Same quality product available in stores, a little less expensive and delivery right to the door is convenient.",
+  "asin": "B01I456BUK",
+  "parent_asin": "B01I456BUK",
+  "user_id": "AHZ6XMOLEWA67S3TX7IWEXXGWSOA",
+  "timestamp": 1513823951062,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Ball Regular Mouth Jar Lids 4 pack",
+    "average_rating": 4.6,
+    "rating_number": 4284,
+    "features": [
+      "Regular mouth lids",
+      "Tinplate steel",
+      "Fit all regular mouth glass preserving jars",
+      "Seal in the freshness and enjoy freshly made foods tonight or tomorrow",
+      "Lids are for one-time use only"
+    ],
+    "description": [],
+    "price": 18.47,
+    "store": "Ball",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Cookware",
+      "Canning",
+      "Lids"
+    ],
+    "details": {
+      "Material": "Alloy Steel, Glass",
+      "Color": "Silver",
+      "Brand": "Ball",
+      "Style": "Jar",
+      "Item Dimensions LxWxH": "3 x 1 x 3 inches"
+    },
+    "parent_asin": "B01I456BUK",
+    "bought_together": null
+  }
+}

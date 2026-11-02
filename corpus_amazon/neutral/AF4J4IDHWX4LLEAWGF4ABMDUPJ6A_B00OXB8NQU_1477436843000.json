@@ -1,0 +1,58 @@
+{
+  "id": "AF4J4IDHWX4LLEAWGF4ABMDUPJ6A_B00OXB8NQU_1477436843000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Ok",
+  "text": "Ok. It was larger than expected and a bit more cheaply made.",
+  "asin": "B00OXB8NQU",
+  "parent_asin": "B00OXB8NQU",
+  "user_id": "AF4J4IDHWX4LLEAWGF4ABMDUPJ6A",
+  "timestamp": 1477436843000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Palais Glassware Glass Straw Dispenser with Chrome Base & Cover, 11\" High",
+    "average_rating": 4.5,
+    "rating_number": 325,
+    "features": [
+      "Elegant Crystal clear Glass body with a pull up stainless steel lid and tray",
+      "The construction is of heavy glass in a retro style that is very attractive and functional",
+      "Dimensions: Aprox. 11\"H x 4.5\" Diameter, Great for home or restaurant use",
+      "Lift the lid and the straws will pop up and fan out",
+      "Includes 50 Red and 50 Blue Straws"
+    ],
+    "description": [
+      "Bring back fun memories with this attractive and functional straw dispenser. Just lift the lid and the straws will pop up and fan out inviting you to take one. Try a straw dispenser to keep straws organized and controlled in one place! It is the perfect way to give each customer his or her own untouched straw."
+    ],
+    "price": null,
+    "store": "Palais Glassware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Kitchen Accessories",
+      "Straw Dispensers"
+    ],
+    "details": {
+      "Product Dimensions": "12.5 x 6.9 x 6 inches",
+      "Item Weight": "2.55 pounds",
+      "Manufacturer": "Palais Glassware",
+      "Item model number": "PG-STRD",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 372503,
+        "Drinking Straw Dispensers": 642
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "October 27, 2014",
+      "Material": "Glass",
+      "Size": "One Size",
+      "Brand": "Palais Glassware",
+      "Unit Count": "1.0 Count",
+      "Number of Items": "1"
+    },
+    "parent_asin": "B00OXB8NQU",
+    "bought_together": null
+  }
+}

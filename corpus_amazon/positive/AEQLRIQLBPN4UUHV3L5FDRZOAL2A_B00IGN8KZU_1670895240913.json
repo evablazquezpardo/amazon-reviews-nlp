@@ -1,0 +1,44 @@
+{
+  "id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A_B00IGN8KZU_1670895240913",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 4.0,
+  "title": "heavy mug",
+  "text": "heavy mug. heavy to hold onto.  not brightly decorated.",
+  "asin": "B00IGN8KZU",
+  "parent_asin": "B00IGN8KZU",
+  "user_id": "AEQLRIQLBPN4UUHV3L5FDRZOAL2A",
+  "timestamp": 1670895240913,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": null,
+    "title": "\"Mr. & Mrs.\" \"Hers\" Mug, 4.5\" H",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+      "High quality ceramic",
+      "Measures 4.5\" in heightHolds 14 ounces"
+    ],
+    "description": [],
+    "price": null,
+    "store": "Carson",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Glassware & Drinkware",
+      "Cups, Mugs, & Saucers",
+      "Coffee Cups & Mugs"
+    ],
+    "details": {
+      "Brand": "Carson Home",
+      "Product Care Instructions": "Hand Wash Only",
+      "Unit Count": "1 Count",
+      "Material Ceramic": "",
+      "": "Item Weight 1 Pounds"
+    },
+    "parent_asin": "B00IGN8KZU",
+    "bought_together": null
+  }
+}

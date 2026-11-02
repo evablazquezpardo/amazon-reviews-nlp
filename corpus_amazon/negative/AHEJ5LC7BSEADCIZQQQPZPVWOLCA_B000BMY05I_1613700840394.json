@@ -1,0 +1,60 @@
+{
+  "id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA_B000BMY05I_1613700840394",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Would not buy this one again",
+  "text": "Would not buy this one again. It is easy to clean but it's too small",
+  "asin": "B000BMY05I",
+  "parent_asin": "B000BMY05I",
+  "user_id": "AHEJ5LC7BSEADCIZQQQPZPVWOLCA",
+  "timestamp": 1613700840394,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rubbermaid 6049ARWHT Twin Sink Dish Drainer",
+    "average_rating": 4.5,
+    "rating_number": 1304,
+    "features": [
+      "White dish drainer with detachable silverware cup.",
+      "Holds up to 13 plates and 6 glasses.",
+      "Separate area for cutlery and flatware. Plate holders are angled to separate china for quick drainage.",
+      "12.6\" x 14.1\" x 4.5\""
+    ],
+    "description": [
+      "FG6049ARWHT SM AM DISH DRAINER"
+    ],
+    "price": null,
+    "store": "Rubbermaid",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Storage & Organization",
+      "Racks & Holders",
+      "Dish Racks"
+    ],
+    "details": {
+      "Product Dimensions": "14.1 x 12.6 x 4.5 inches",
+      "Item Weight": "0.9 Pounds",
+      "Manufacturer": "Rubbermaid Inc",
+      "Item model number": "FG6049ARWHT",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 271814,
+        "Dish Racks": 1944
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Assembly required": "No",
+      "Number of pieces": "6",
+      "Batteries required": "No",
+      "Included Components": "Rubbermaid in-Sink Dish Drainer",
+      "Material": "Plastic",
+      "Brand": "Rubbermaid",
+      "Color": "White",
+      "Recommended Uses For Product": "Dish Drainer",
+      "Mounting Type": "Sink"
+    },
+    "parent_asin": "B000BMY05I",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "AGKKAXZPXFYIBA3N53YNJYU2AT3Q_B0876VRKD8_1452533386000",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Is it working????",
+  "text": "Is it working????. It doesn't seem to be really do much of anything.  I don't seem to be breathing any better than I was before I started using it about 2 weeks ago.  So it is probably going to go back.",
+  "asin": "B0000DK35B",
+  "parent_asin": "B0876VRKD8",
+  "user_id": "AGKKAXZPXFYIBA3N53YNJYU2AT3Q",
+  "timestamp": 1452533386000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Holmes Desktop HEPA-Type , 3 Speeds plus Optional Ionizer small Air Purifier, HAP242B-U, Black",
+    "average_rating": 4.6,
+    "rating_number": 5790,
+    "features": [
+      "REMOVES UP TO 99% OF AIRBORNE PARTICLES: The Holmes Desktop HEPA-Type Air Purifier with Optional Ionizer captures particles as small as 2 microns, removing up to 99% of airborne particles and allergens such as pollen, dust, mold, pet dander, and smoke from the air so you can breathe more comfortably..wattage : 45W",
+      "INCLUDES IONIZER: This Holmes air purifier features an optional air ionizer that helps to bind negative ions to airborne smoke, dust, and pollen to form larger particles that are more easily captured, helping to clean air more thoroughly and tackling odors",
+      "70 CADR: Air purifier provides a 70 CADR (Clean Air Delivery Rate)",
+      "CUSTOMIZABLE SETTINGS: 3 speed settings to help you keep your air clean and pure",
+      "SLIM DESIGN, IDEAL FOR SMALL ROOMS: Recommended for rooms up to 109 sq. ft.; can be placed vertically or horizontally anywhere, including a table or desktop.",
+      "DURABLE: 3-year limited warranty"
+    ],
+    "description": [
+      "The Holmes Desktop Air Purifier with HEPA-Type filter captures particles as small as 2 microns and operates quietly to remove up to 99% of airborne particles such as pollen, dust, mold, pet dander, and smoke, providing relief from odor and irritants in the air so you can breathe comfortably. The optional ionizer ensures particles are more easily captured while also tackling odors. The Holmes small desktop air purifier can be placed vertically or horizontally and is designed to fit just about anywhere and effectively treat the air around you."
+    ],
+    "price": 32.99,
+    "store": "HOLMES",
+    "categories": [
+      "Home & Kitchen",
+      "Heating, Cooling & Air Quality",
+      "Air Purifiers",
+      "HEPA Air Purifiers"
+    ],
+    "details": {
+      "Color": "Black",
+      "Brand": "Holmes",
+      "Product Dimensions": "7.2\"D x 14.6\"W x 11.3\"H",
+      "Power Source": "Corded Electric",
+      "Item Weight": "5.7 Pounds",
+      "Control Method": "Touch",
+      "Filter Type": "HEPA",
+      "Floor Area": "109.0",
+      "Specification Met": "ANSI Certified",
+      "Noise Level": "70 dB",
+      "Controller Type": "Button Control",
+      "Manufacturer": "Holmes",
+      "Item model number": "HAP242B-U",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 40944,
+        "HEPA Filter Air Purifiers": 93
+      },
+      "Care instructions": "Hand Wash",
+      "Assembly required": "No",
+      "Number of pieces": "1",
+      "Batteries required": "No",
+      "Included Components": "Air Purifier, Filter"
+    },
+    "parent_asin": "B0876VRKD8",
+    "bought_together": null
+  }
+}

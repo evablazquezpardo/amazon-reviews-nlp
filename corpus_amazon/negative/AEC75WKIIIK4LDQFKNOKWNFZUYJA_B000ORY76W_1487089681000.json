@@ -1,0 +1,50 @@
+{
+  "id": "AEC75WKIIIK4LDQFKNOKWNFZUYJA_B000ORY76W_1487089681000",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "One Star",
+  "text": "One Star. these got returned by post office",
+  "asin": "B000ORY76W",
+  "parent_asin": "B000ORY76W",
+  "user_id": "AEC75WKIIIK4LDQFKNOKWNFZUYJA",
+  "timestamp": 1487089681000,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "StorIt Cover-Ups Food Covers, Box of 20",
+    "average_rating": 4.2,
+    "rating_number": 340,
+    "features": [
+      "Quick and easy way to cover food",
+      "Reuseable",
+      "Microwaveable",
+      "Cover almost anything",
+      "8 Medium - 14 inches, 7 Large - 16.5 inches, 5 small - 8.5 inches"
+    ],
+    "description": [
+      "TO USE: Snap covers into position over your bowls, plates and pans to keep foods protected in the refrigerator, during microwaving and when outdoors."
+    ],
+    "price": null,
+    "store": "StorIt",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Dinnerware & Serveware"
+    ],
+    "details": {
+      "Product Dimensions": "5.39 x 3.5 x 3.39 inches",
+      "Item Weight": "0.01 ounces",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 386894,
+        "Dinnerware & Serveware": 48521
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Batteries required": "No"
+    },
+    "parent_asin": "B000ORY76W",
+    "bought_together": null
+  }
+}

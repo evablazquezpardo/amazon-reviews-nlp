@@ -1,0 +1,60 @@
+{
+  "id": "AFHFZQGNQ6AZXQ65NQFE5HDALXKA_B07144ZFV3_1596466608753",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 2.0,
+  "title": "Not what I expected",
+  "text": "Not what I expected. Doesn’t look at all like the photos.",
+  "asin": "B07144ZFV3",
+  "parent_asin": "B07144ZFV3",
+  "user_id": "AFHFZQGNQ6AZXQ65NQFE5HDALXKA",
+  "timestamp": 1596466608753,
+  "helpful_vote": 3,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "Shindel Vine Leaves, 90.5 Feet Artificial Fake Hanging Vine Plant Leaves Ivy Plant Garland Hanging Used for Garden Wall Decoration Parties Grapevine,12 Strip",
+    "average_rating": 3.9,
+    "rating_number": 564,
+    "features": [
+      "IVY-LIKE DECORATION- Featuring sprawling ivies with vivid leaves. Make your office/bedroom/dorm/living room/kitchen immersed in the natural environment without taking any extra space.",
+      "SPECIFICATION -- Each vine contains 30 pieces of leaves, 12 strands of vines per package , 90.5 Ft. long in total . Create a delightful manmade natural environment.",
+      "EASY TO USE -- These Hanging Vines can be installed easily on the wall. The leaves may have some smell, but it is normal, please place them in a ventilative environment for some time.",
+      "REALISTIC -- Artificial Ivy Plants, Featuring vivid leaves with green hues, lifelike and evergreen.",
+      "WIDE APPLICATION -- Perfecet as your holiday decoration. Suitable for wedding, bedroom, garden, balcony, swing stand, shopping malls, staircase decoration, easy to install and disassemble."
+    ],
+    "description": [],
+    "price": 9.99,
+    "store": "Shindel",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Artificial Plants & Flowers",
+      "Artificial Plants & Greenery"
+    ],
+    "details": {
+      "Brand": "Shindel",
+      "Plant or Animal Product Type": "Ivy",
+      "Color": "Green",
+      "Material": "Silk, Plastic",
+      "Product Dimensions": "10\"D x 11.89\"W x 1.5\"H",
+      "Specific Uses For Product": "Garden,Party,Balcony,Living Room,Office,Parties,Kitchen,Bedroom,Wedding",
+      "Occasion": "Wedding",
+      "Number of Items": "12",
+      "Seasons": "All",
+      "Unit Count": "1 Count",
+      "Item Weight": "6.4 ounces",
+      "Manufacturer": "Shindel",
+      "Country of Origin": "China",
+      "Item model number": "HSHD0023",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 634202,
+        "Artificial Plants & Greenery": 2201
+      },
+      "Is Discontinued By Manufacturer": "No",
+      "Date First Available": "May 9, 2017"
+    },
+    "parent_asin": "B07144ZFV3",
+    "bought_together": null
+  }
+}

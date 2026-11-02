@@ -1,0 +1,57 @@
+{
+  "id": "AHF4MTJVRIWG2GK3JLSBKYQYHGDQ_B08W9XCQ48_1619154677770",
+  "category": "Home_and_Kitchen",
+  "polarity": "negative",
+  "rating": 1.0,
+  "title": "Nope",
+  "text": "Nope. Such a waste of money",
+  "asin": "B08W9XCQ48",
+  "parent_asin": "B08W9XCQ48",
+  "user_id": "AHF4MTJVRIWG2GK3JLSBKYQYHGDQ",
+  "timestamp": 1619154677770,
+  "helpful_vote": 1,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Toys & Games",
+    "title": "Straight Outta My Twenties - 30th Birthday Balloons - Set of 6",
+    "average_rating": 4.7,
+    "rating_number": 193,
+    "features": [
+      "12 in Black Latex Balloons",
+      "Ink color is Metalic Gold",
+      "Sold in a set of 6",
+      "Product ships deflated.",
+      "Straight outta my twenties"
+    ],
+    "description": [
+      "Straight Outta My Twenties Black Latex Balloons. The balloons are sold in a set of 6. The balloons are 12 inch black balloons, with a gold metallic font. Product ships deflated, fill with helium at your local party Store. These are great decorations or backdrops for a 30th Birthday."
+    ],
+    "price": 9.95,
+    "store": "J & B Enterprises",
+    "categories": [
+      "Home & Kitchen",
+      "Event & Party Supplies",
+      "Decorations",
+      "Balloons"
+    ],
+    "details": {
+      "Package Dimensions": "5.2 x 3.2 x 0.8 inches",
+      "Item Weight": "0.81 ounces",
+      "Item model number": "1",
+      "Manufacturer recommended age": "12 years and up",
+      "Manufacturer": "J & B Enterprises",
+      "Occasion": "Birthday",
+      "Color": "Black",
+      "Cartoon Character": "PARTYKIT",
+      "Theme": "30th Birthday",
+      "Material": "Rubber",
+      "Unit Count": "6.0 Count",
+      "Number Theme": "Number 30",
+      "Brand": "J & B Enterprises",
+      "CPSIA Cautionary Statement": "Choking Hazard - Balloon",
+      "Shape": "Number, Round"
+    },
+    "parent_asin": "B08W9XCQ48",
+    "bought_together": null
+  }
+}

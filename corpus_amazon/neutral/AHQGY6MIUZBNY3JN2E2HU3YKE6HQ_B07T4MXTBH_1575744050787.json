@@ -1,0 +1,52 @@
+{
+  "id": "AHQGY6MIUZBNY3JN2E2HU3YKE6HQ_B07T4MXTBH_1575744050787",
+  "category": "Home_and_Kitchen",
+  "polarity": "neutral",
+  "rating": 3.0,
+  "title": "Good product for the price",
+  "text": "Good product for the price. Great for small amount of laundry.",
+  "asin": "B07T4MXTBH",
+  "parent_asin": "B07T4MXTBH",
+  "user_id": "AHQGY6MIUZBNY3JN2E2HU3YKE6HQ",
+  "timestamp": 1575744050787,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "FUNFLOWERS Laundry Hamper Basket Sorter with Handle and Aluminum Frame, 3 Sections Foldable Portable Large Dirty Clothes Basket Organizer for Bathroom Bedroom Home (Black+White+Grey)",
+    "average_rating": 4.1,
+    "rating_number": 1749,
+    "features": [],
+    "description": [],
+    "price": null,
+    "store": "FUNFLOWERS",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization",
+      "Laundry Storage & Organization",
+      "Laundry Hampers"
+    ],
+    "details": {
+      "Brand": "FUNFLOWERS",
+      "Color": "White,Grey",
+      "Special Feature": "Foldable,Portable",
+      "Shape": "Rectangular",
+      "Package Information": "Basket",
+      "Included Components": "handle",
+      "Age Range (Description)": "Adults",
+      "Number of Pieces": "5",
+      "Number of Compartments": "3",
+      "Mounting Type": "Floor Mount",
+      "Item Weight": "2.14 pounds",
+      "Capacity": "110 Liters",
+      "Product Dimensions": "25.5 x 16.5 x 23 inches",
+      "Best Sellers Rank": {
+        "Home & Kitchen": 824789,
+        "Laundry Hampers": 977
+      },
+      "Batteries required": "No"
+    },
+    "parent_asin": "B07T4MXTBH",
+    "bought_together": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "AGF42GID7QWDCNFTJRCTMKAITJJA_B0C3C5FQ2D_1655253938750",
+  "category": "Home_and_Kitchen",
+  "polarity": "positive",
+  "rating": 5.0,
+  "title": "Works Great",
+  "text": "Works Great. I love this...works great and so fun to use.",
+  "asin": "B08D353TSM",
+  "parent_asin": "B0C3C5FQ2D",
+  "user_id": "AGF42GID7QWDCNFTJRCTMKAITJJA",
+  "timestamp": 1655253938750,
+  "helpful_vote": 0,
+  "verified_purchase": true,
+  "product_metadata": {
+    "main_category": "Amazon Home",
+    "title": "WINIRINA Electric Wine Aerator Pourer Electric Smart Decanter，Dispenser Rechargeable with Micro USB Cable",
+    "average_rating": 4.5,
+    "rating_number": 401,
+    "features": [
+      "EASY TO USE AND CLEAN： Place the electric wine aerator firmly into a bottle of wine, simply press the start button and watch as aerated wine is delivered to your wine glass full of enhanced flavors. Press again to stop, and not a splash of wine is dropped!",
+      "IMPROVED AERATION：Increases the oxidation of the tannins in red wine, removing astringency and drawing out the natural flavors without having to wait for the wine to breathe. At up to 5 times faster than a traditional wine aerator.",
+      "QUICK CHARGE AND AERATE MULTIPLE BOTTLES：With its in-built lithiumion battery, that fully recharges within 90 minutes, enough power is provided to fully aerate approximately 35 bottles of wine with a single charge.",
+      "PORTABLE AND SUITABLE TO STANDARD WINE BOTTLES：This wine gadget is fully portable, so be sure to take it when travelling or going to parties!",
+      "AN IDEAL GIFT FOR WINE LOVERS： With its elegant design and exceptional function. Consider it the perfect gift idea for a significant other or even a treat for yourself."
+    ],
+    "description": [],
+    "price": 33.99,
+    "store": "WINIRINA",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Bar & Wine Tools",
+      "Wine Stoppers & Pourers",
+      "Wine Pourers"
+    ],
+    "details": {
+      "Brand": "WINIRINA",
+      "Material": "Plastic",
+      "Color": "White",
+      "Capacity": "750 Milliliters",
+      "Product Dimensions": "6.65\"W x 2.52\"H",
+      "Included Components": "Decanter",
+      "Item Weight": "8.1 ounces",
+      "Batteries": "1 Lithium Ion batteries required. (included)",
+      "Best Sellers Rank": {
+        "Kitchen & Dining": 35141,
+        "Wine Pourers": 75
+      },
+      "Date First Available": "July 16, 2020"
+    },
+    "parent_asin": "B0C3C5FQ2D",
+    "bought_together": null
+  }
+}
